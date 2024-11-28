@@ -57,6 +57,9 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d個の利用可能なデバイス</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d秒</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">%d秒ごと</item>
     </plurals>
@@ -65,9 +68,6 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">%s個のアプリの接続が制限されました</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">%d 秒待ってから再試行してください</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d人が接続済み</item>
@@ -134,12 +134,6 @@
         <item quantity="other">%d 件の新しい通知</item>
         <item quantity="one">%d 件の新しい通知</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%1$sを含む %2$d 個のアプリ</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">1日あたり約 %d 件</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">変更は%d秒後に適用されます</item>
     </plurals>
@@ -148,9 +142,6 @@
     </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d個を選択済み</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">%d 個のアプリを検索</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">%1$dステップでCITに入ります。</item>
@@ -163,6 +154,10 @@
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">バグを報告するまで、あと%1$dステップです。</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d 個のアプリがモバイルデータを無制限に使用可能</item>
+        <item quantity="one">1 個のアプリがモバイルデータを無制限に使用可能</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d個のアプリが通知を表示できません</item>
@@ -244,5 +239,8 @@
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d個のネットワークを共有済み</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d個のデバイスが接続されています</item>
     </plurals>
 </resources>

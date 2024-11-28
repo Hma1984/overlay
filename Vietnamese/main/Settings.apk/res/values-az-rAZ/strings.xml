@@ -60,12 +60,6 @@
     <string name="account_other">Digər</string>
     <string name="account_settings_menu_auto_sync">Məlumat avto sinxronizasyası</string>
     <string name="account_settings_title">Google &amp; hesabları</string>
-    <string name="account_user_avatar">Profil şəkli</string>
-    <string name="account_user_avatar_from_album">Qalereya</string>
-    <string name="account_user_avatar_from_camera">Kamera</string>
-    <string name="account_user_name">Adı</string>
-    <string name="account_user_name_dialog_title">Ad əlavə edin</string>
-    <string name="account_user_title">Şəxsi məlumat</string>
     <string name="acount_data">Hesablar</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activating">Aktivləşdirilir…</string>
@@ -121,12 +115,9 @@
     <string name="agps_roaming_dia">Rouminqdə olarkən A-GPS istifadə etmək mobil internet istifadəsini artıra bilər. Tarifinizin internet istifadəsi limitini aşsanız operatorunuz tərəfindən əlavə ödənişlərə məruz qala bilərsiniz.</string>
     <string name="agps_roaming_dia_title">Rouminqdə olarkən A-GPS istifadə et</string>
     <string name="agps_roaming_summary">Rouminqdə olarkən GPS-ə kömək etmək üçün mobil internet istifadə et</string>
-    <string name="agree_btn">Qəbul et</string>
-    <string name="agree_scanner_app_use">QR kodları skan et və şəkilləri tanı. Bəzi funksiyalar məkana giriş, kameradan istifadə və ya skrinşotlar çəkmək tələb edir.</string>
     <string name="ai_button_title">Mi AI düyməsi</string>
     <string name="ai_button_title_global">AI düyməsi</string>
     <string name="ai_call_assistant">AI zəngləri</string>
-    <string name="ai_services_title">Sİ xidmətləri</string>
     <string name="ai_settings_click_title">Bas</string>
     <string name="ai_settings_double_click_category">AI düyməsinə iki dəfə basın</string>
     <string name="ai_settings_double_click_title">İki dəfə bas</string>
@@ -146,6 +137,8 @@
     <string name="allow_keyguard_summary">Kilid ekranında bildirişlərə icazə verin</string>
     <string name="allow_keyguard_title">Kilid ekranı bildirişləri</string>
     <string name="allow_lights_title">Bildiriş işığı</string>
+    <string name="allow_oaid_used">Virtual Kimlik istifadə edin</string>
+    <string name="allow_oaid_used_desc">MIUI quraşdırılmış tətbiqlərə virtual Kimlik (OAID) verməyəcəkdir. Bəzi şəxsi tövsiyə xüsusiyyətləri buna görə düzgün işləməyə bilər.</string>
     <string name="allow_ongoing_title">Daimi bildirişlər</string>
     <string name="allow_sound_title">Səs</string>
     <string name="allow_vibrate_title">Titrəyiş</string>
@@ -167,8 +160,6 @@
     <string name="android_beam_settings_title">Mi Beam</string>
     <string name="android_beam_tips">İki cihazın bir-birinə toxunduğundan əmin olun və sonra şüalamaq istədiyiniz məzmuna toxunun.</string>
     <string name="android_beam_witch_label">Mi Beam</string>
-    <string name="android_ringtone_silent">Heç biri</string>
-    <string name="android_ringtone_unknown">Naməlum zəng səsi</string>
     <string name="anti_spam">Əngəlli siyahısı</string>
     <string name="aod_and_lock_screen_settings_title">Həmişə açıq ekran &amp; Kilidi ekran</string>
     <string name="aod_close_color_inversion">Bu xüsusiyyət rəng inversiyası ilə işləmir. Əvvəlcə rəng inversiyasını söndürün.</string>
@@ -183,56 +174,6 @@
     <string name="aod_style_description">Ekran söndürüldükdə saat, tarix, vaxt, bildirişlər və digər elementləri göstərin</string>
     <string name="aod_style_title">Üslub</string>
     <string name="aod_to_close">Söndür</string>
-    <string name="aon_gesture_cue_tone_summary">Ovucunuz aşkar edildikdə təsdiqləmə səsini çalın</string>
-    <string name="aon_gesture_cue_tone_title">Təsdiq səsini çalın</string>
-    <string name="aon_gesture_dialog_message">Bu funksiya aktiv olduqda, bu cihaz jestlərinizi aşkar edəcək və təhlil edəcək. Şəxsi məlumatlarınız işlənməyəcək, heç bir məlumat yerli və ya cloud-da saxlanmayacaq.</string>
-    <string name="aon_gesture_dialog_title">Gizlilik sazişi</string>
-    <string name="aon_gesture_double_press_diagram_summary" formatted="false">Kameradan %d%d sm uzaqda barmaqların yuxarı istiqamətdə əlini tut və saxla. Əl ikonu yarananda mediyanı oynatmaq və ya fasilə vermək üçün iki dəfə basmaq hərəkətini et.</string>
-    <string name="aon_gesture_double_press_diagram_title">Ekranın önündə iki dəfə basmaqla hərəkət et</string>
-    <string name="aon_gesture_double_press_summary">Oynadın və oynatmanı dayandırın</string>
-    <string name="aon_gesture_double_press_title">İki dəfə basmaqla hərəkət edin</string>
-    <string name="aon_gesture_down_waving_diagram_summary" formatted="false">Kameradan %d%d sm uzaqda barmaqların yuxarı istiqamətdə əlini tut və saxla. Əl ikonu yarananda əlini aşağı doğru yellə.</string>
-    <string name="aon_gesture_down_waving_diagram_title">Ekranın önündə aşağı doğru yellə</string>
-    <string name="aon_gesture_draw_circle_summary_pad">Planşetə köçürülmüş zənglərə cavab verin və ya bitirin</string>
-    <string name="aon_gesture_draw_circle_summary_phone">Zənglərə cavab verin və bitirin</string>
-    <string name="aon_gesture_draw_circle_title">Bir dairə çəkin</string>
-    <string name="aon_gesture_enable_summary" formatted="false">Əlinizi kameradan %d - %d sm məsafədə tutun və ekranın yuxarısında əl işarəsi göründükdən sonra jestlər edin</string>
-    <string name="aon_gesture_learn_double_press_title">\"İki dəfə basmaqla hərəkət\" jestini öyrənin</string>
-    <string name="aon_gesture_learn_left_right_waving_title">\"Üfüqi yelləmək\" jestini öyrənin</string>
-    <string name="aon_gesture_learn_title">Jestləri öyrən</string>
-    <string name="aon_gesture_learn_up_down_waving_title">\"Şaquli yelləmək\" jestini öyrənin</string>
-    <string name="aon_gesture_learning_dialog_title">Jestləri indi öyrən?</string>
-    <string name="aon_gesture_learning_toast">Jestləri hər zaman burada daha sonra öyrənə bilərsən</string>
-    <string name="aon_gesture_left_right_waving_summary">Oxutma prosesini tənzimləyin və mahnılar arasında keçid edin</string>
-    <string name="aon_gesture_left_right_waving_title">Üfüqi dalğa</string>
-    <string name="aon_gesture_left_waving_diagram_summary" formatted="false">Kameradan %d%d sm uzaqda barmaqların sağa istiqamətdə əlini tut və saxla. Əl ikonu yarananda əlini sola doğru yellə.</string>
-    <string name="aon_gesture_left_waving_diagram_title">Ekranın önündə sola doğru yellə</string>
-    <string name="aon_gesture_right_waving_diagram_summary" formatted="false">Kameradan %d%d sm uzaqda barmaqların sola istiqamətdə əlini tut və saxla. Əl ikonu yarananda əlini sağa doğru yellə.</string>
-    <string name="aon_gesture_right_waving_diagram_title">Ekranın önündə sağa doğru yellə</string>
-    <string name="aon_gesture_settings">Təmassız jestlər</string>
-    <string name="aon_gesture_status_close">Bağlı</string>
-    <string name="aon_gesture_status_not_open">Söndür</string>
-    <string name="aon_gesture_status_open">Açıq</string>
-    <string name="aon_gesture_supported_app_title">Dəstəklənən tətbiqlər</string>
-    <string name="aon_gesture_supported_title">Mövcud jestlər</string>
-    <string name="aon_gesture_up_down_waving_summary">Media səsini tənzimləyin, qısa videolar arasında keçid edin və səhifələri sənədlərə çevirin</string>
-    <string name="aon_gesture_up_down_waving_title">Şaquli dalğa</string>
-    <string name="aon_gesture_up_waving_diagram_summary" formatted="false">Kameradan %d%d sm uzaqda barmaqların aşağı istiqamətdə əlini tut və saxla. Əl ikonu yarananda əlini yuxarı doğru yellə.</string>
-    <string name="aon_gesture_up_waving_diagram_title">Ekranın önündə yuxarı doğru yellə</string>
-    <string name="aon_scanner_default_payment_method_title">Varsayılan ödəniş üsulu</string>
-    <string name="aon_scanner_dialog_message">Tez Skaneri aktivləşdirən zaman skan etdiyiniz QR kodlar Mi AI Skaner ilə paylaşılacaq. Davam etməzdən əvvəl bunu başa düşdüyünüzə və razılaşdığınıza əmin olun. Skan etdiyiniz QR kodlar yerli saxlanmayacaq və ya buluda yüklənməyəcək. Nəzər alın ki, bu funksiyadan istifadə ümumi enerji sərfiyyatını artıra bilər.</string>
-    <string name="aon_scanner_dialog_message_new">Sürətli Skanerdən istifadə etdiyiniz zaman skan etdiyiniz QR kodlar AI Skaner ilə paylaşılacaq. Bu məlumat cihazda saxlanmayacaq və ya buluda yüklənməyəcək. Bu funksiyanı aktivləşdirmək ümumi enerji sərfiyyatını biraz artıra bilər.</string>
-    <string name="aon_scanner_dialog_title">Gizlilik sazişi</string>
-    <string name="aon_scanner_disclaimer_message">Cəld skaner QR kodların sürətli və asan yolla skanını təklif edir. Bu funksiyanı aktiv etdikdə QR kodları sürətli skan ed və birbaşa açılan səhifəyə gedə bilərsən. Skan etməzdən əvvəl, QR kod tərəfindən verilən məzmunu və xidmətləri tam başa düşdüyünüzdən əmin olun. Skan etmək və ya üçüncü tərəf xidməti keçidi ilə davam etmək istədiyinizə qərar verin. Əgər üçüncü tərəf xidmətinə daxil olmağı seçsəniz, istənilən nəticə və hüququ risklər sizin məsuliyyətiniz olacaq. Nəzər alın ki, Xiaomi üçüncü tərəf tərəfindən təklif edilən QR kodu məzmunu, məhsulları və xidmətlər üçün hər hansı ekspres və ya nəzərdə tutulan zəmanət vermir.</string>
-    <string name="aon_scanner_disclaimer_title">İmtina bəyanatı</string>
-    <string name="aon_scanner_download_message">Cəld skaner xidmətlərini təmin etmək üçün Mi AI Skanerdən istifadə edir. Bu o deməkdir ki, skan etdiyiniz QR kodları Mi AI Skaner ilə paylaşılacaq. Quraşdırmaya davam etməzdən əvvəl bunu başa düşdüyünüzə və razılaşdığınıza əmin olun.</string>
-    <string name="aon_scanner_download_message_new">Sürətli skaner xidmətləri AI Scanner tərəfindən təmin edildiyi üçün skan etdiyiniz QR kodları AI Scanner ilə paylaşmalıyıq. Davam etməzdən əvvəl AI Skanerini quraşdırın.</string>
-    <string name="aon_scanner_download_title">Mi AI Skaneri quraşdırın</string>
-    <string name="aon_scanner_download_title_new">AI Skaneri quraşdırın</string>
-    <string name="aon_scanner_settings">Cəld skaner</string>
-    <string name="aon_scanner_status_close">Bağlı</string>
-    <string name="aon_scanner_status_open">Açıq</string>
-    <string name="aon_scanner_summary" formatted="false">Əsas ekranda olarkən cihazını %d sm məsafədə ekran mesajı çıxana qədər QR koda tuşla və skan etmək üçün %d saniyə saxla</string>
     <string name="ap_connect_failed">Qoşula bilmədi</string>
     <string name="ap_connected_battery_level">" | Batareya %1$s"</string>
     <string name="ap_p2p_dialog_message">Cari paylaşılan Wi-Fi bağlantısı artıq istifadə olunur. Şəxsi giriş nöqtənizi açmazdan əvvəl Wi-Fi Direct, Mi Share, yayım və ya digər simsiz ötürmə xidmətlərindən istifadə etmədiyinizə əmin olun.</string>
@@ -243,7 +184,6 @@
     <string name="apn_ppp_number">APN PPP telefon nömrəsi</string>
     <string name="apn_save">Dəyişikliklər yaddaşda saxlanılsın?</string>
     <string name="apn_save_msg">APN dəyişiklikləri yaddaşda saxlanılsın?</string>
-    <string name="apn_settings">APNs</string>
     <string name="app_backup">Yedəklə</string>
     <string name="app_bluetooth_device_blacklist">Bluetooth əngəlli siyahısı</string>
     <string name="app_cache_optimization">Tətbiq keşinin optimallaşdırılması</string>
@@ -305,8 +245,6 @@ Tənzimləmələr indi dəyişdirilsin?"</string>
     <string name="audio_share_cancel">Xeyr, təşəkkürlər</string>
     <string name="audio_share_confirm">Paylaş</string>
     <string name="auracast_scan_not_support">Uyğun qulaqlıqlara qoşulmayıb. Yaxınlıqdakı yayımları tapmaq mümkün deyil.</string>
-    <string name="auracast_share_qrcode_title">QR kodu vasitəsilə şifrəni paylaşın</string>
-    <string name="auracast_source_qrcode_title">QR kodu vasitəsilə paylaşın</string>
     <string name="auto_adjst_effect_summary">Optimal rahatlıq səviyyəsini qorumaq üçün rəng temperaturunu avtomatik olaraq ətraf mühit işığına uyğunlaşdırın</string>
     <string name="auto_adjust_effect_title">Rəng istiliyini avtomatik olaraq tənzimləyin</string>
     <string name="auto_anc_closed">Bağlı</string>
@@ -314,6 +252,15 @@ Tənzimləmələr indi dəyişdirilsin?"</string>
     <string name="auto_anc_five_recover">%d san</string>
     <string name="auto_anc_not_recover">Davam et</string>
     <string name="auto_anc_ten_recover">%d san</string>
+    <string name="auto_clean_description">"Bu xüsusiyyət haqqında
+%3$d. Dinamikinizin toz tərəfindən yüngül şəkildə bloklandığını görsəniz, bu funksiyanı bir və ya iki dəfə işə salın.
+%4$d. Dinamik güclü şəkildə bloklanıbsa, dinamiki aşağı baxaraq cihazınızı silkələyərkən bu funksiyanı %1$d-%2$d dəfə işə salın."</string>
+    <string name="auto_clean_description_pad">"Bu xüsusiyyət haqqında
+- Səs ucaldanınızın toz tərəfindən yüngül şəkildə əngəlləndiyini görsəniz, bu xüsusiyəti bir və ya iki dəfə işə salın.
+- Xüsusiyyət yüngül şəkildə əngəllənibsə, səs ucaldanı üzü aşağı tərəfə tutub cihazınızı %1$d-%2$d dəfə silkələyin."</string>
+    <string name="auto_clean_summary">Səsucaldanı təmizləmək üçün 30-saniyəlik səs oynat</string>
+    <string name="auto_clean_summary_new">Səs ucaldanı təmizləmək üçün %d-saniyəlik səs səsləndirin. Əhəmiyyətli miqdarda kir üçün bu funksiyanı ardıcıl olaraq bir neçə dəfə istifadə edin.</string>
+    <string name="auto_clean_title">Səsucaldanı təmizlə</string>
     <string name="auto_disable_screenbuttons_ask">Söndürmək üçün soruş</string>
     <string name="auto_disable_screenbuttons_auto">Həmişə söndür</string>
     <string name="auto_disable_screenbuttons_cancel">Ləğv et</string>
@@ -342,10 +289,6 @@ Tənzimləmələr indi dəyişdirilsin?"</string>
     <string name="back_button">Geri</string>
     <string name="back_double_tap">İki dəfə geri toxunma</string>
     <string name="back_key">Geri</string>
-    <string name="back_strap_image_text">Müxtəlif səhnələr üçün Bildiriş xatırlatmaları və işıqlandırma effektləri əldə et</string>
-    <string name="back_strap_status_close">Bağlı</string>
-    <string name="back_strap_status_open">Açıq</string>
-    <string name="back_strap_title">Arxa işıq effekti</string>
     <string name="back_tap">Geri toxunma</string>
     <string name="back_triple_tap">Üç dəfə geri toxunma</string>
     <string name="background_blur_enable">Qabaqcıl toxuma</string>
@@ -388,8 +331,8 @@ Yedəkləmə faylları Xiaomi Cloud-da saxlanılır və simsiz əldə edilə bil
     <string name="backup_set_null_pw">Əvvəlcə şifrə daxil edin</string>
     <string name="backup_set_pw_confirm_title">Yeni yedəkləmə şifrəsini təsdiqləyin</string>
     <string name="badge_title">Bildiriş nişanları</string>
-    <string name="band_24G">" (%f GHz bandı)"</string>
-    <string name="band_5G">" (%d GHz bandı)"</string>
+    <string name="band_24G">" (2.4 GHz band)"</string>
+    <string name="band_5G">" (5 GHz band)"</string>
     <string name="batch_delete_saved_network">Seçilmiş şəbəkələr silinsin: %s?</string>
     <string name="batch_delete_saved_networks">Bütün seçilmiş şəbəkələri sil</string>
     <string name="battery_action_wifi">Wi-Fi tənzimləmələri</string>
@@ -419,6 +362,7 @@ Yedəkləmə faylları Xiaomi Cloud-da saxlanılır və simsiz əldə edilə bil
     <string name="battery_info_screen_on">Ekranın açıq qalma müddəti:</string>
     <string name="battery_info_status_charging">Enerji yığır</string>
     <string name="battery_info_status_charging_ac">Adapterlə enerji yığır</string>
+    <string name="battery_info_status_charging_dock">Enerji yığır</string>
     <string name="battery_info_status_charging_usb">USB ilə enerji yığır</string>
     <string name="battery_info_status_charging_wireless">Simsiz enerji yığır</string>
     <string name="battery_info_status_discharging">Enerji yığmır</string>
@@ -470,6 +414,7 @@ Yedəkləmə faylları Xiaomi Cloud-da saxlanılır və simsiz əldə edilə bil
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Balanslaşdırılmış səs və əlaqə keyfiyyəti (%1$dkbps/%2$dkbps)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Bağlantı keyfiyyəti üçün optimallaşdırıldı (%1$dkbps/%2$dkbps)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Ən yaxşı effekt (Adaptiv bit reytinqi)</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Media səsinə qoşuldu</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Media səsi üçün istifadə edilir</string>
     <string name="bluetooth_advanced_titlebar">Qabaqcıl Bluetooth</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" Bluetooth-u açmaq və cihazınızı digər cihazlar üçün %1$d saniyə müddətində görünən etmək istəyir."</string>
@@ -487,7 +432,6 @@ Yedəkləmə faylları Xiaomi Cloud-da saxlanılır və simsiz əldə edilə bil
     <string name="bluetooth_auracast_source_and_assistant_text">Səsi digər cihazlara yayımlayın və yaxınlıqdakı səs yayımları axtarın</string>
     <string name="bluetooth_auracast_source_available_connect">Yaxınlıqdakı yayımlar</string>
     <string name="bluetooth_auracast_source_explain_summary">Yandırıldıqda yaxınlıqdakı insanlar qoşulma kodu ilə cihazınızdan səs qəbul edə bilər</string>
-    <string name="bluetooth_auracast_source_explain_summary_qcom">Bu funksiyadan istifadə etmək üçün hal-hazırda qoşulmuş cihazı ayırın və ya ən azı bir Bluetooth LE Audio cihazı qoşun</string>
     <string name="bluetooth_auracast_source_opend_summary">"Bağlantı kodu: "</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Ləğv et</string>
     <string name="bluetooth_blacklist_remove_device">Əngəldən çıxar</string>
@@ -497,7 +441,7 @@ Yedəkləmə faylları Xiaomi Cloud-da saxlanılır və simsiz əldə edilə bil
     <string name="bluetooth_broadcast_audio_started_toast">Yayımı vaxtında dayandırmağı unutmayın. Səs yayımları batareyanı boşaldır.</string>
     <string name="bluetooth_broadcast_audio_summary">Bluetooth vasitəsilə yaxınlıqdakı cihazlarla səs paylaşın</string>
     <string name="bluetooth_broadcast_code">"Şifrə: "</string>
-    <string name="bluetooth_broadcast_dialog_text">Yayımlar zamanı səs avtomatik olaraq şifrələnəcək. Yalnız səs yayımı dəstəkləyən yaxınlıqdakı cihazlar yayımlarınızı tapa və dinləyə bilər. Bu cihazın dinamikləri və səs yayımı dəstəkləməyən digər qoşulmuş Bluetooth cihazları səssiz qalacaq.</string>
+    <string name="bluetooth_broadcast_dialog_text">Paylaşılan səs şifrələnəcək və uyğun cihazlar üçün əlçatan olacaq. Yayım zamanı səs bu cihazda və qoşulmuş Bluetooth cihazlarında səsləndirilməyəcək.</string>
     <string name="bluetooth_connect_battery_state">%1$s %2$s</string>
     <string name="bluetooth_connect_settings">Əlaqə</string>
     <string name="bluetooth_connect_specific_profiles_title">Qoşul…</string>
@@ -557,12 +501,10 @@ Yedəkləmə faylları Xiaomi Cloud-da saxlanılır və simsiz əldə edilə bil
     <string name="bluetooth_enable_opp_high_speed_summary">Köçürmələr üçün yüksək sürətli Bluetooth P2P protokollarından istifadə edin</string>
     <string name="bluetooth_hd_music_play_summary">Nümunə alma sürətini azaltmadan Bluetooth cihazlarında %d kHz səs oyandın. Bu funksiya aktiv olduqda Dolby effektləri mövcud olmayacaq.</string>
     <string name="bluetooth_hd_music_play_title">%d kHz səs oynat</string>
+    <string name="bluetooth_headset_profile_summary_connected">Telefon səsinə qoşuldu</string>
     <string name="bluetooth_headset_profile_summary_use_for">Telefon səsi üçün istifadə edilir</string>
-    <string name="bluetooth_hearing_aid_left_and_right_connected">Hər iki Eşitmə cihazı %1$s qoşulub</string>
-    <string name="bluetooth_hearing_aid_left_connected">Sol Eşitmə cihazı %1$s qoşulub</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Eşitmə cihazına qoşuldu</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Eşitmə cihazı üçün istifadə edilir</string>
-    <string name="bluetooth_hearing_aid_right_connected">Sağ Eşitmə cihazı %1$s qoşulub</string>
     <string name="bluetooth_hearingaid_left_battery_level">Sağ - %1$s batareya</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Sol eşitmə cihazı cütləşdirilir…</string>
     <string name="bluetooth_hearingaid_right_battery_level">Sağ - %1$s batareya</string>
@@ -593,10 +535,6 @@ Daha əvvəl %2$s cihazına qoşulmadınız."</string>
     <string name="bluetooth_on_time">Vaxtlı Wi-Fi</string>
     <string name="bluetooth_opp_profile_summary_use_for">Fayl köçürməsi üçün istifadə edilir</string>
     <string name="bluetooth_other_settings">Əlavə tənzimləmələr</string>
-    <string name="bluetooth_pair_other_hearing_dialog_positive_button">Cütləşdir</string>
-    <string name="bluetooth_pair_other_hearing_dialog_title">Digər Eşitmə cihazı ilə cütləşdir</string>
-    <string name="bluetooth_pair_other_left_hearing_dialog_message">Sağ Eşitmə cihazı qoşulub. Sol Eşitmə cihazının aktiv olmasından və cütləşməyə hazır olmasından əmin ol.</string>
-    <string name="bluetooth_pair_other_right_hearing_dialog_message">Sol Eşitmə cihazı qoşulub. Sağ Eşitmə cihazının aktiv olmasından və cütləşməyə hazır olmasından əmin ol.</string>
     <string name="bluetooth_paired">Yaddaşda saxlanıldı</string>
     <string name="bluetooth_pairing_add_to_blackfile">Əngəllə</string>
     <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Kontaktlara müraciət etməyə icazə verin</string>
@@ -616,13 +554,15 @@ Daha əvvəl %2$s cihaza qoşulmadınız."</string>
     <string name="bluetooth_preference_found_devices">Mövcud cihazlar</string>
     <string name="bluetooth_preference_paired_devices">Cütləşmiş cihazlar</string>
     <string name="bluetooth_preference_paired_dialog_name_label">Ad</string>
+    <string name="bluetooth_profile_a2dp">Media səsi</string>
+    <string name="bluetooth_profile_headset">Telefon səsi</string>
     <string name="bluetooth_profile_hearing_aid">Eşitmə cihazı</string>
     <string name="bluetooth_profile_le_audio">LE Audio</string>
     <string name="bluetooth_profile_map">Mesajlara müraciət üçün istifadə edilir</string>
+    <string name="bluetooth_profile_pbap">Kontaktlar və zəng tarixçəsi paylaşımı</string>
     <string name="bluetooth_profile_pbap_summary">Kontaktları paylaşmaq üçün istifadə edilir</string>
     <string name="bluetooth_profile_sap">SIM karta müraciət üçün istifadə edilir</string>
     <string name="bluetooth_profile_volume_control">Səsə nəzarət</string>
-    <string name="bluetooth_refresh">Yenilə</string>
     <string name="bluetooth_sap_profile_summary_use_for">SIM müraciəti üçün istifadə edilir</string>
     <string name="bluetooth_scan_for_devices">Cihazları analiz edin</string>
     <string name="bluetooth_search_for_devices">Yenilə</string>
@@ -636,12 +576,13 @@ Gecikmə rejimi"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth səs LHDC kodeki: Oynatma keyfiyyəti</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Bluetooth səs LHDC kodekini seçin:
 Oynatma keyfiyyəti"</string>
+    <string name="bluetooth_show_devices_without_names">Adsız Bluetooth cihazlarını göstər</string>
     <string name="bluetooth_show_received_files">Qəbul edilən fayllar</string>
     <string name="bluetooth_talkback_headphone">Qulaqlıqlar</string>
     <string name="bluetooth_talkback_input_peripheral">Periferik giriş cihazı</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth paylaşma</string>
     <string name="bluetooth_tethering_available_subtext">Bu telefonun internet əlaqəsi Bluetooth vasitəsilə paylaşılır</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Bu telefonun internet bağlantısı Bluetooth vasitəsilə %d cihazı ilə paylaşılır</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Bu telefonun internet əlaqəsi Bluetooth vasitəsilə 1 cihazla paylaşılır</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Bu telefonun internet paylaşımı Bluetooth vasitəsi ilə %1$d cihazla paylaşılır</string>
     <string name="bluetooth_tethering_errored_subtext">Qoşulu deyil</string>
     <string name="bluetooth_tethering_off_subtext">Bu telefonun internet əlaqəsi Bluetooth vasitəsi ilə paylaşıla bilmir</string>
@@ -753,22 +694,6 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="bt_audiorepair_pre_title">Səs kəkələyini düzəldin</string>
     <string name="bt_audiorepair_summary">Qoşulu Bluetooth cihazlarında səs kəkələyini düzəldin</string>
     <string name="bt_audiorepair_working">Səs kəkələyini düzəldin…</string>
-    <string name="bt_connect_help_car">Avtomobil sistemləri</string>
-    <string name="bt_connect_help_car_first">%d. Avtomobil sisteminizdə Bluetooth tənzimləmələrini açın və Bluetooth-u aşkar edilə bilən rejimə qoyun.</string>
-    <string name="bt_connect_help_car_second">%d. Telefonunuzda və ya planşetinizdə Bluetooth-u açın, avtomobilinizin sistemini tapın və sonra cütləşdirin.</string>
-    <string name="bt_connect_help_device">Telefonlar, planşetlər və kompüterlər</string>
-    <string name="bt_connect_help_device_first" formatted="false">%d. Qoşulmaq istədiyiniz cihaz üçün Bluetooth-un açıldığından və onun %d metrdən çox uzaqda olmadığından əmin olun.</string>
-    <string name="bt_connect_help_device_second">%d. iOS cihazları hazırda digər cihazlarla əlaqəni dəstəkləmir.</string>
-    <string name="bt_connect_help_device_third">%d. Kompüterə qoşulduqda, Bluetooth sürücüsünü quraşdırmalı ola bilərsiniz.</string>
-    <string name="bt_connect_help_earphone">Qulaqcıqlar və dinamiklər</string>
-    <string name="bt_connect_help_earphone_first" formatted="false">%d. Dinamikinizin və ya qulaqlıqlarınızın tam doldurulduğuna, Bluetooth vasitəsilə başqa cihaza qoşulmadığına və %d metrdən çox uzaqda olmadığına əmin olun.</string>
-    <string name="bt_connect_help_earphone_second">%d. Onları aşkar etmək üçün indikator yanıb-sönməyə başlayana qədər dinamik və ya qulaqlıqdakı güc düyməsini basıb saxlayın.</string>
-    <string name="bt_connect_help_earphone_third">%d. İndi dinamikinizi və qulaqcıqlarınızı tapıb qoşa bilərsiniz.</string>
-    <string name="bt_connect_help_toast">Cihazınızı tapa bilmirsiniz? Yardıma baxmaq üçün toxunun.</string>
-    <string name="bt_connect_help_wear">Geyinilə bilən cihazlar</string>
-    <string name="bt_connect_help_wear_first">%d. Geyinilə bilən cihazınızın Bluetooth vasitəsilə başqa cihaza qoşulmadığından əmin olun.</string>
-    <string name="bt_connect_help_wear_second">%d. Geyinilə bilən cihazınız üçün xüsusi tətbiqi endirin və quraşdırın.</string>
-    <string name="bt_connect_help_wear_third">%d. Tətbiqi açın və geyinilə bilən cihazınızı əlavə etmək üçün təlimatlara əməl edin.</string>
     <string name="bt_dialog_remember_choice">Təkrar göstərmə</string>
     <string name="bt_dialog_settings">Tənzimləmələr</string>
     <string name="bt_half_close_switch_summary">Bluetooth-u söndürsəniz, o, növbəti gün avtomatik olaraq yenidən açılacaq və cihazlarınız yenidən qoşulacaq</string>
@@ -797,7 +722,6 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="bt_lhdc_open_dialog_title">LHDC xüsusiyyətini aç?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Xüsusiyyətlər</string>
-    <string name="bt_new_connect_help">Bağlantı yardımı</string>
     <string name="bt_plugin_current_version">Mövcud versiya</string>
     <string name="bt_plugin_new_version">Yenilə</string>
     <string name="bt_plugin_preference_button">Yenilə</string>
@@ -837,33 +761,18 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="call_records_name_1">Cavid Cəfərli</string>
     <string name="call_records_name_2">Nəsib Cəfərli</string>
     <string name="call_records_name_3">Cavid Əlizadə</string>
-    <string name="call_records_summary_1">%1$d:%2$d AM | %3$d saniyə</string>
-    <string name="call_records_summary_2">Avqust %1$d | %2$dm %3$ds</string>
-    <string name="call_records_summary_3">Avqust %1$d | %2$dm %3$ds</string>
-    <string name="call_reminder_all">Bütün zənglər</string>
-    <string name="call_reminder_contact">Kontaktlar</string>
-    <string name="call_reminder_favorite_contacts">Sevimli kontaktlar</string>
-    <string name="call_reminder_title">Gələn zəng xatırlatmaları</string>
+    <string name="call_records_summary_1">9:35 GƏ | 26 saniyə</string>
+    <string name="call_records_summary_2">16 Avqust | 1dəq 16san</string>
+    <string name="call_records_summary_3">16 Avqust | 2dəq 24san</string>
     <string name="call_settings_primary_user_only">Birinci sahədə zəng etmə tənzimləmələrini dəyişdirin</string>
     <string name="camera_flash_notification_title">Kamera flaşı</string>
     <string name="camera_front">Ön %s</string>
     <string name="camera_grip_firmware_need_update">Yeniləmə</string>
     <string name="camera_grip_firmware_new_version">Yenilənib</string>
-    <string name="camera_grip_firmware_save_button_know">Başa düşdüm</string>
-    <string name="camera_grip_firmware_save_button_negaitive">İndi yox</string>
-    <string name="camera_grip_firmware_save_button_positive">Yenilə</string>
-    <string name="camera_grip_firmware_save_channel">Kamera tutma bildirişləri</string>
-    <string name="camera_grip_firmware_save_networking_tips">Wi-Fi-a qoşulun və ya mobil trafiki açın və proqram təminatını yenidən güncəlləməyə cəhd edin.</string>
-    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
-    <string name="camera_grip_firmware_save_text">Bu cihazı istifadə etməyə davam etmək üçün proqram təminatını yeniləyin.</string>
-    <string name="camera_grip_firmware_save_title">Professional kamera tutuşu</string>
     <string name="camera_grip_firmware_title_text">Proqram təminatını yeniləyin</string>
     <string name="camera_grip_firmware_update_describe">Yeniləmə prosesi boyunca tutacağı bağlı saxlayın</string>
     <string name="camera_grip_firmware_update_faild">Yenilənə bilmədi</string>
-    <string name="camera_grip_firmware_update_handle_low_battery_notify">Kamera tutacağını çıxarın, bu cihazı doldurun, sonra mikroproqramı yenidən güncəlləməyə cəhd edin</string>
-    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Proqram təminatını yeniləməzdən əvvəl bu cihazı və kamera tutacağını doldurun</string>
     <string name="camera_grip_firmware_update_ongoing">Yenilənir. Tutmağı ayırmayın.</string>
-    <string name="camera_grip_firmware_update_phone_low_battery_notify">Adapteri bu cihaza qoşun və proqram təminatını yenidən yeniləməyə cəhd edin</string>
     <string name="camera_grip_firmware_update_successful">Uğurla yeniləndi</string>
     <string name="camera_key_action_app_title">Tətbiq aç</string>
     <string name="camera_key_action_category_title">Kamera istifadə edilə bilmir</string>
@@ -893,20 +802,15 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="check_find_device_status_failure_confirm">Oldu</string>
     <string name="check_update">Yeniləmələri yoxla</string>
     <string name="checkbox_text">Dəyişdir</string>
-    <string name="checked_app_title">İşıq effektləri aktiv</string>
     <string name="checking_find_device_status">Cihazı tap vəziyyəti yoxlanılır…</string>
     <string name="checking_for_updates">Yeniləmələr yoxlanılır…</string>
     <string name="choose_a_card_to_reset">Sıfırlanacaq SIM kartı seçin</string>
-    <string name="choose_ali_payment">Alipay</string>
     <string name="choose_keyguard_clock_style">Kilid ekranı saat növü</string>
     <string name="choose_keyguard_clock_summary">Bu tənzimləmə, üçüncü tərəf temalar ilə işləmir</string>
     <string name="choose_lock_pattern_header_text">Naxış təyin edin</string>
-    <string name="choose_mi_payment">Mi Pay</string>
-    <string name="choose_nothing_payment">Təyin edilməyib</string>
     <string name="choose_smartcover_type">Qab növü seçin</string>
     <string name="choose_unlock_face_msg">Üz məlumatını qeyd etməzdən əvvəl ekran kilidi təyin edin.</string>
     <string name="choose_unlock_fingerprint_msg">Barmaq izinizi əlavə etməzdən əvvəl ekran kilidi təyin edin.</string>
-    <string name="choose_wechat_payment">WeChat</string>
     <string name="classic_mode_summary">Mavi işığın miqdarını azaltmaq üçün isti rənglərə keçin</string>
     <string name="classic_mode_title">Klassik</string>
     <string name="cleaner">Təmizləyici</string>
@@ -998,8 +902,6 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="complete_parameters">Bütün xüsusiyyətlər</string>
     <string name="complete_parameters_new">Ətraflı məlumat və spesifikasiyalar</string>
     <string name="complete_settings">Ümumi tənzimləmələr</string>
-    <string name="compute_power_sharing">Hesablama dəstəyi</string>
-    <string name="compute_power_sharing_summary">Planşetinizdə AI funksiyalarından istifadə etmək üçün telefonunuzun hesablama gücündən istifadə edin</string>
     <string name="computer_backup_summary">Bir kompüterdən istifadə edərək elementləri yedəkləyin və bərpa edin</string>
     <string name="computer_backup_title">Kompüter</string>
     <string name="confirm_action">Oldu</string>
@@ -1022,7 +924,6 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="confirm_reset_aaid">Oldu</string>
     <string name="connect_mode">Əlaqə növü</string>
     <string name="connect_to_internet">Şəbəkəyə qoşul</string>
-    <string name="connect_to_windows">Windows ilə əlaqələndirmə</string>
     <string name="connected_devices_confirm">Saxla</string>
     <string name="connected_devices_create">Əlavə et</string>
     <string name="connected_devices_dialog_content">Seçilmiş cihazların əlaqəsi kəsiləcək və blok siyahısına əlavə olunacaq.</string>
@@ -1040,11 +941,10 @@ Bu xüsusiyyəti Tənzimləmələr> Bluetooth > Cütləşdirilmiş cihazlar meny
     <string name="convenience_key_category_title">Sistem idarəetməsi</string>
     <string name="conversation_assistant">Konfrans alətləri</string>
     <string name="cool_color">Sərin</string>
-    <string name="copy">Kopyala</string>
     <string name="copyright">Müəllif hüquqları</string>
     <string name="country_name">%s (sistem)</string>
     <string name="credentials_configure_lock_screen_hint">Şəxsiyyət məlumatları yaddaşını istifadə etməzdən əvvəl Kilid ekranı PIN kodu və ya şifrə təyin etməyiniz lazımdır.</string>
-    <string name="credentials_password_too_short">Ən azı %d işarə</string>
+    <string name="credentials_password_too_short">Ən azı 8 simvol</string>
     <string name="credentials_title_verification">Sertifikasiya</string>
     <string name="crisp_text">Yüksək tezliklər hər hərəkətin detallarına aydınlıq gətirir</string>
     <string name="critical_feedback">Kritik geri bildiriş</string>
@@ -1146,7 +1046,7 @@ Bu tənzimləmə cihazın bütün istifadəçilərinə təsir göstərir."</stri
     <string name="default_launcher_set_system_message">Standart başladıcını bərpa etmək üçün Əsas ekran düyməsinə basın</string>
     <string name="default_launcher_title">Varsayılan Başladıcı</string>
     <string name="default_phone_title">Zəng et</string>
-    <string name="default_rule_name">Taymer %d</string>
+    <string name="default_rule_name">Taymer 1</string>
     <string name="default_suppression_title">Varsayılan (Tövsiyə edilən)</string>
     <string name="default_usb_mode">USB əlaqəsi</string>
     <string name="deferred_setup_hintViewTitle">Yoxlanılır…</string>
@@ -1161,26 +1061,20 @@ Bu tənzimləmə cihazın bütün istifadəçilərinə təsir göstərir."</stri
     <string name="deleted_apps">Silinmiş tətbiqlər</string>
     <string name="demo_mode">Demo rejimi</string>
     <string name="demo_mode_summary">Vəziyyət sətrində demo ikonunu göstər</string>
+    <string name="desktop_mode">Masaüstü rejimi</string>
     <string name="detail_app_button">Təqbiq məlumatı</string>
     <string name="detail_question">Detallar</string>
     <string name="detailed_wifi_logging_disabled">Ətraflı Wi-Fi girişi bağlıdır</string>
     <string name="detailed_wifi_logging_enabled">Ətraflı Wi-Fi girişi aktivdir</string>
     <string name="developer_build">Beta</string>
     <string name="development_enable">Tərtibatçı seçimləri</string>
+    <string name="development_settings_title">Tərtibatçı seçimləri</string>
     <string name="device_actionbar_title">Mi 5</string>
     <string name="device_activation_info">Cihazın aktivləşdirilməsi</string>
     <string name="device_available_memory">"Mümkün yaddaş "</string>
     <string name="device_battery">Batareya</string>
     <string name="device_build_id">Versiya nömrəsi</string>
     <string name="device_camera">Kamera</string>
-    <string name="device_class_car_kit">Avtomobil sistemi</string>
-    <string name="device_class_headset">Qulaqlıqlar</string>
-    <string name="device_class_hearing_aid">Eşitmə aparatı</string>
-    <string name="device_class_other">Digər</string>
-    <string name="device_class_setting_summary">Təcrübənizi daha da optimallaşdırmaq üçün cihaz növünü göstərin</string>
-    <string name="device_class_setting_title">Cihaz növü</string>
-    <string name="device_class_speaker">Səs ucaldan</string>
-    <string name="device_class_watch">Saat</string>
     <string name="device_complete_parameters">Bütün xüsusiyyətlər</string>
     <string name="device_cpu">MP</string>
     <string name="device_cpu10_info">On nüvə</string>
@@ -1245,6 +1139,11 @@ Bu tənzimləmə cihazın bütün istifadəçilərinə təsir göstərir."</stri
     <string name="dialog_softbank_esim_wipe_title">eSIM məlumatlarını sil</string>
     <string name="dialog_softbank_esime_context">eSIM aktivləşdirmək üçün bu cihazın internetə qoşulması lazımdır. eSIM aktivləşdirilməsi də buraxılsın?</string>
     <string name="dialog_softbank_esime_title">eSIM aktivləşdirməsini buraxın</string>
+    <string name="dialog_speaker_auto_clean_button">Başa düşdüm</string>
+    <string name="dialog_speaker_auto_clean_content">Təmizləmə 30 saniyə çəkir. Bu səhifəni tərk etməyin. Ən yaxşı effekt üçün səs səviyyəsini maksimallaşdırın.</string>
+    <string name="dialog_speaker_auto_clean_content_new">Siz səs ucaldanı təmizləyəcək səsi oynatmaq üzrəsiniz. Ən yaxşı təsir üçün səsi maksimuma tənzimləyin.</string>
+    <string name="dialog_speaker_auto_clean_title">Diqqət</string>
+    <string name="dialog_speaker_auto_clean_title_new">Səs ucaldanı təmizlə</string>
     <string name="dialog_title_color_calibration">Rəng düzəltmə ön tənzimləmələri</string>
     <string name="dialog_title_hdmi_color_calibration">Rəng düzəltmə ön tənzimləmələri</string>
     <string name="dialog_title_login">Xiaomi Hesabınıza daxil olun</string>
@@ -1269,9 +1168,6 @@ Bu tənzimləmə cihazın bütün istifadəçilərinə təsir göstərir."</stri
     <string name="display_auto_rotate_stay_in_landscape">Mənzərə rejimində kilidlə</string>
     <string name="display_auto_rotate_stay_in_portrait">Portret rejimində kilidlə</string>
     <string name="display_auto_rotate_title">Ekran məzmunlarını döndər</string>
-    <string name="display_notification_icon_0">Yoxdur</string>
-    <string name="display_notification_icon_1">%d ikon</string>
-    <string name="display_notification_icon_3">%d ikon</string>
     <string name="display_prompt_confirm">Başa düşdüm</string>
     <string name="display_settings">Ekran</string>
     <string name="display_settings_new">Ekran &amp; parlaqlıq</string>
@@ -1473,8 +1369,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="encryption_interstitial_no">Xeyr</string>
     <string name="encryption_interstitial_yes">Bəli</string>
     <string name="encryption_progress_summary">Şifrələnir, cihazınızı yenidən başlatmayın.</string>
-    <string name="enhanced_ai_applications">Sİ tətbiq gücləndirməsi</string>
-    <string name="enhanced_ai_applications_summary">Tətbiqləri təkmilləşdirmək və daha ağıllı xidmətlərdən həzz almaq üçün süni intellektdən istifadə edin</string>
     <string name="enrol_fingerprint_data">Barmaq izi əlavə et</string>
     <string name="enterprise_mode">Müəssisə rejimi</string>
     <string name="environmental_speech_recognition">Ətraf mühit səsinin tanınması</string>
@@ -1495,7 +1389,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="error_apn_restrict_string">APN sahəsi %1$s ehtiva edə bilməz</string>
     <string name="error_xcap_not_add">XCAP-dan müraciət nöqtəsi adı növü kimi istifadə edilə bilməz.</string>
     <string name="ethernet_tether_checkbox_text">Ethernet ilə paylaş</string>
-    <string name="ethernet_tethering_subtext">Telefonun şəbəkə bağlantısını Ethernet vasitəsilə paylaşın</string>
     <string name="evening">Günortadan sonra</string>
     <string name="every_day">Hər gün</string>
     <string name="exceptional_case">İstisnalar</string>
@@ -1506,7 +1399,7 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="extension_function_hint">Siz açarları söndürdükdən sonra funksiya qısayolları artıq Tənzimləmələrdə görünməyəcək</string>
     <string name="exterior">Rəng sxemi</string>
     <string name="external_auto_rotate_title">Xarici ekran üçün oriyentasiyanı kilidləyin</string>
-    <string name="external_data_size_label">USB yaddaş</string>
+    <string name="external_data_size_label">SD kart</string>
     <string name="external_ram_dialog_btn_cancel">Daha sonra</string>
     <string name="external_ram_dialog_btn_ok">Yenidən başlat</string>
     <string name="external_ram_dialog_icon_confirm">Başa düşdüm</string>
@@ -1524,9 +1417,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="eye_gaze_summary">Cihaz ekrana baxdığınızı aşkar etdikdə kilidlənməyəcək</string>
     <string name="eye_gaze_summary_fold_device">Xarici ekrana baxdığınızı aşkar etdikdə cihaz kilidlənməyəcək</string>
     <string name="eye_gaze_title">Baxışları aşkarlayın</string>
-    <string name="eye_habit_prompt_summary">Cihazın, gözünü gərginləşdirə bilən şərait aşkarlayan zaman, bildirişlər al</string>
-    <string name="eye_habit_prompt_title">Göz sağlamlığı bildirişləri</string>
-    <string name="eye_paper_protection">Oxuma rejimi tənzimləmələri</string>
     <string name="face_data_apply_for_category_title">Üz məlumatı istifadə edərək kilidi aç</string>
     <string name="face_data_apply_for_keyguard_title">Kilid ekranı</string>
     <string name="face_data_input_camera_fail">Kamera yüklənə bilmədi</string>
@@ -1556,7 +1446,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="face_data_suggesstion_first_cn">Üzlə kilid açma funksiyasından istifadə edə bilməyiniz üçün üz məlutlarınızı toplamalı və sonra bu cihazda yerli olaraq saxlanılacaq. Xüsusiyyəti silmək üçün Tənzimləmələrdə \"Üzlə kilid açma\"nı axtarın və sonra Üzlə kilid açma > Üz məlumatları-nı seçin.</string>
     <string name="face_data_suggesstion_first_cn_highlight">Üzlə kilid açma PIN, şifrə, naxış və ya barmaq izi kilidindən daha az təhlükəsizdir. Cihazınız, şəkilləriniz həmçinin bənzər insanlar və ya obyektlər vasitəsi ilə kilidi açıla bilər.</string>
     <string name="face_data_suggesstion_second">Üzünüzün bütün hissələrinin hər hansı obyekt tərəfindən əhatə olunmadığından və aydın göründüyündən əmin olun. Üzünüz həmçinin yaxşı işıqlandırılmalıdır.</string>
-    <string name="face_enroll_when_slt_on_toast">Tiantong Satellite rabitəsindən istifadə edərkən Üz ilə kiliddən çıxarma üçün üz əlavə etmək mümkün deyil</string>
     <string name="face_password_unlock">Barmaq izləri &amp; ekran kilidi</string>
     <string name="face_password_unlock_new">Barmaq izləri &amp; ekran kilidi</string>
     <string name="face_unlock">Üzlə kilid açma</string>
@@ -1594,7 +1483,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="face_unlock_success_show_message_toast">Bildirişlər Kilid ekranında göstəriləcək</string>
     <string name="face_unlock_success_stay_screen_msg">Üzünüz təsdiqləndikdən sonra Kilid ekranında qalın. Əsas ekranı açmaq üçün yuxarı sürüşdürün.</string>
     <string name="face_unlock_success_stay_screen_title">Kilidi açdıqdan sonra Kilid ekranında qalın</string>
-    <string name="face_unlock_when_slt_on_toast">Tiantong Satellite rabitəsindən istifadə edərkən Üz ilə kiliddən çıxarma funksiyasından istifadə etmək mümkün deyil</string>
     <string name="factory_reset_summary">Formatlaşdırma cihazınızın daxili yaddaşındakı bütün məlumatları silir</string>
     <string name="failed_to_check_find_device_status_content">Cihazı tap vəziyyəti yoxlanıla bilmədi. Bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="failed_to_check_find_device_status_title">Vəziyyət yoxlanıla bilmədi</string>
@@ -1679,10 +1567,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="fiveg_sa_vice_switch_title">İkinci SIM-də SA</string>
     <string name="fiveg_vonr_switch_summary">Zəng təcrübəsini yaxşılaşdırmaq üçün 5G şəbəkə mühitlərində VoNR-dən istifadə edin. Bu xüsusiyyət yalnız sınaq məqsədləri üçün təqdim olunur.</string>
     <string name="fiveg_vonr_switch_title">VoNR tənzimləmələri</string>
-    <string name="fivega_enhanced_network_summary">Test üçün təkmilləşmiş 5G şəbəkə qoşulması</string>
-    <string name="fivega_enhanced_network_title">5G-A şəbəkə seçimləri</string>
-    <string name="fivega_switch_summary">Test üçün təkmilləşmiş 5G şəbəkə qoşulması (operatorunuz tərəfindən təmin edilərsə)</string>
-    <string name="fivega_switch_title">NR CA</string>
     <string name="flash_drive_backup_disable">Əvvəlcə USB sürücüsünə qoşul</string>
     <string name="flash_drive_backup_enable">Elementləri yedəkləmək və bərpa etmək üçün USB sürücüsü istifadə et</string>
     <string name="flash_drive_backup_restore">USB sürücüsü</string>
@@ -1690,7 +1574,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="flash_notifications_description">Bu xüsusiyyət haqqında</string>
     <string name="flash_notifications_note">\"Bildirişlər üçün şüa\" kamera flaşı və ekranından istifadə edərək bildiriş səslərini və zəng melodiyalarını vizuallaşdırır. İşığa qarşı həssassınızsa, bu funksiyadan ehtiyatla istifadə edin.</string>
     <string name="flash_notifications_preview">Önbaxış</string>
-    <string name="flash_notifications_settings_title">Flaş bildirişlər</string>
     <string name="flash_notifications_summary">Bildirişlər gəldikdə və ya cihaz zəng etdikdə ekranda kamera flaşından istifadə edin və ya rəngli şüaları göstərin</string>
     <string name="flash_notifications_title">Bildirişlər üçün şüa</string>
     <string name="flashback_background_start_switch_summary">Tətbiqlər arxa planda işləyərkən avtomatik olaraq əsas məlumatları olan məlumat kartları yaradın</string>
@@ -1779,6 +1662,7 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="font_cta_alert_btn_positive">Qəbul et</string>
     <string name="font_cta_alert_message">Davam etmək üçün Temaların şərtlərini oxuyun və qəbul edin.</string>
     <string name="font_cta_alert_title">Şərtlər və qaydalar</string>
+    <string name="font_scale_percentage">%1$d %%</string>
     <string name="font_setting_weight_toast">Mövcud şrift, şrift qalınlığını tənzimləməyi dəstəkləmir</string>
     <string name="font_settings_jump">Mümkünlük > Ekran ölçüsü</string>
     <string name="font_settings_recommend_title">Mətn ölçüsü kifayət qədər böyük deyil?</string>
@@ -1798,8 +1682,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="footer_description_full_screen_intent">Bu tətbiqə cihaz kilidli olduqda bütün ekranı tutan bildirişləri göstərməyə icazə verin. Tətbiq həyəcan siqnallarını, daxil olan zəngləri və ya digər təcili bildirişləri göstərmək üçün tam ekran bildirişlərindən istifadə edə bilər. Bu tənzimləmə arxa planda işləyərkən yeni pəncərələr açmaq icazəsinə əsaslanır və yalnız bu icazə verildikdə istifadə edilə bilər.</string>
     <string name="forbidden_set_unlock_password_msg">Currently in maintenance mode, password cannot be set or changed.</string>
     <string name="forbidden_switch_apn_string">Seçilən APN tənzimləmələri mövcud şəbəkə növü ilə uyğunlaşmır</string>
-    <string name="force_edit_apn_summary">Bu funksiya açıq olduqda, siz gizli APN-ləri görə və dəyişə biləcəksiniz. Bu xüsusiyyət yalnız sınaq üçündür.</string>
-    <string name="force_edit_apn_title">APN-ni redaktə etməyə məcbur edin</string>
     <string name="force_immersive_compatibility_dont_hide">Gizlətmə</string>
     <string name="force_immersive_compatibility_hide">Gizlət</string>
     <string name="force_immersive_compatibility_hint_message">Əgər ekran düymələrini gizlətməyi seçsəniz bəzi tətbiqlər düzgün işləməyə bilər.</string>
@@ -1819,8 +1701,6 @@ Bu, itirilmiş və ya oğurlanmış cihazlarda məlumatları qorumağa kömək e
     <string name="forget_privacy_password_setting">Xiaomi Hesabı əlavə et</string>
     <string name="forget_privacy_password_summary">Şifrənizi sıfırlamaq üçün Xiaomi Hesabından istifadə edin</string>
     <string name="forget_wifi_message">Cihazınız avtomatik olaraq bu şəbəkəyə qoşulmağı dayandıracaq. Bu şəbəkəyə yenidən qoşulduqda şifrə daxil etməyiniz lazım ola bilər.</string>
-    <string name="format_month_day_style2">d.M</string>
-    <string name="format_month_day_week">EEE, dd.MM</string>
     <string name="found_new_version">Yeniləmə mövcuddur</string>
     <string name="fourhours">2 saat</string>
     <string name="fp_nav_center_back_to_home_title">Əsas ekrana qayıtmaq üçün Əsas ekran düyməsinə toxunun</string>
@@ -1893,23 +1773,19 @@ Bu xüsusiyyət yalnız sistem naviqasiyası jestlərə təyin edildikdə işlə
     <string name="full_screen_intent_title">Tam ekran bildirişləri</string>
     <string name="full_screen_keyboard_optimization">Klaviaturanı təkmilləşdir</string>
     <string name="full_screen_keyboard_settings">Tam ekran klaviatura tənzimləmələri</string>
-    <string name="full_screen_reminder">Xəbərdarlıq</string>
     <string name="full_transparent_smarrcover_title">Şəffaf ön üzlük</string>
     <string name="gadget_toggle_wifi">Wi-Fi tənzimləmələri yenilənir</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Şəxsi şəkilləriniz burada saxlanılır.</string>
     <string name="game_booster">Oyun;Oyunlar;Turbo;Oyun;Oyun rejimi</string>
     <string name="game_booster_title">Game Turbo</string>
-    <string name="gaze_lock_screen_summary">Varlığınız aşkar edildikdə cihaz kilidsiz qalacaq və ekrandan uzaqlaşdığınız zaman kilidlənəcək</string>
-    <string name="gaze_lock_screen_title">Mövcudluğu aşkar edin</string>
     <string name="gd_setting_title">Kənar çubuq</string>
     <string name="general_text">Mətn sahəsi</string>
     <string name="general_time">Vaxt: %1$d:%2$d. Uzun titrəyişlər saatları, qısa titrəyişlər dəqiqələri təmsil edir.Saat və dəqiqə arasında qısa bir fasilə olacaq. Sınaq üçün iki dəfə toxunun.</string>
     <string name="gesture_function_dialog_message">%1$s , \"%2$s\" üçün istifadə edilir. \"%3$s\" ilə dəyişdirilsin?</string>
     <string name="gesture_settings_title">Jest qısayolları</string>
     <string name="gesture_to_split_screen">Jestlər</string>
-    <string name="gesture_wakeup_summary">Siz yalnız \"Klassik\" və ya \"Limitsiz\" temadan istifadə edərkən ekranı söndürmək üçün iki dəfə toxuna bilərsiniz</string>
-    <string name="gesture_wakeup_summary_2">Yalnız \"Klassik\" mövzusundan istifadə edərkən ekranı söndürmək üçün iki dəfə toxuna bilərsiniz</string>
+    <string name="gesture_wakeup_summary">Ekranı yalnız əvvəlcədən quraşdırılmış temalar tətbiq olunduqda söndürmək üçün iki dəfə toxuna bilərsiniz</string>
     <string name="gesture_wakeup_title">Cihaz kilidləndikdə ekranı oyandırmaq və ya söndürmək üçün iki dəfə toxunun</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
@@ -1933,8 +1809,23 @@ Bu xüsusiyyət yalnız sistem naviqasiyası jestlərə təyin edildikdə işlə
     <string name="got_it">Başa düşdüm</string>
     <string name="gps_description">Birdən çox peyk naviqasiya sistemləri (GPS, BeiDou, GLONASS, Galileo) dəstəklənir</string>
     <string name="gps_description_global">Xiaomi cihazları GPS, NavIC, BeiDou, GLONASS və Galileo da daxil olmaqla bir çox naviqasiya sistemi ilə uyğun gəlir.</string>
+    <string name="grant_admin">Bəli, onları admin edin</string>
     <string name="gsm_to_wifi_connect_type_title">GSM-dən Wi-Fi-a</string>
-    <string name="guest_name_category_title">Qonaqlar</string>
+    <string name="guest_exit_button">Qonaq rejimindən çıxılsın</string>
+    <string name="guest_exit_clear_data_button">Sil</string>
+    <string name="guest_exit_dialog_button">Çıxış</string>
+    <string name="guest_exit_dialog_message">Bu, cari qonaq sessiyasından tətbiqləri və məlumatları siləcək</string>
+    <string name="guest_exit_dialog_message_non_ephemeral">Siz cari sessiyadakı fəaliyyəti saxlaya və ya bütün tətbiqləri və məlumatları silə bilərsiniz</string>
+    <string name="guest_exit_dialog_title">Qonaq rejimindən çıxılsın?</string>
+    <string name="guest_exit_dialog_title_non_ephemeral">Qonaq fəaliyyəti yadda saxlansın?</string>
+    <string name="guest_exit_quick_settings_button">Çıxış</string>
+    <string name="guest_exit_save_data_button">Saxla</string>
+    <string name="guest_notification_ephemeral">Çıxış zamanı bütün fəaliyyətlər silinəcək</string>
+    <string name="guest_notification_non_ephemeral">Siz çıxışda fəaliyyətinizi saxlaya və ya silə bilərsiniz</string>
+    <string name="guest_notification_non_ephemeral_non_first_login">Sessiya fəaliyyətini indi silmək üçün sıfırlayın və ya çıxışda fəaliyyəti saxlaya və ya silə bilərsiniz</string>
+    <string name="guest_reset_and_restart_dialog_message">Bu, yeni qonaq sessiyasına başlayacaq və cari sessiyadan bütün tətbiqləri və məlumatları siləcək</string>
+    <string name="guest_reset_and_restart_dialog_title">Qonaq sessiyası sıfırlansın?</string>
+    <string name="guest_reset_button">Qonaq sessiyası sıfırlansın</string>
     <string name="guide_button_text">Başa düşdüm</string>
     <string name="guide_summary_1">Yaxınlıqdakı cihazlara səs yayımlayın</string>
     <string name="guide_summary_2">Başqalarının paylaşdığı yayımlara qulaq asın</string>
@@ -1970,7 +1861,7 @@ Ekran kilidinizi təsdiq edə biləcəyiniz sahədə sağa sürüşdürün."</st
     <string name="gxzw_anim_pulse">Nəbz</string>
     <string name="gxzw_anim_rhythm">Ritm</string>
     <string name="gxzw_anim_star">Ulduz işığı</string>
-    <string name="gxzw_anim_title">Barmaq izi tanıma</string>
+    <string name="gxzw_anim_title">Barmaq izi animasiyası</string>
     <string name="gxzw_aod_show_summary">Barmaq izi işarəsinin görünməsi üçün cihazı qaldırın və ya ekrana toxunun. Bu funksiya sistemin enerji istehlakını artırır, lakin cihazın kilidini daha sürətli açmağa imkan verir.</string>
     <string name="gxzw_aod_show_tittle">Ekran sönülü olduqda barmaq izi ikonununu göstərin</string>
     <string name="gxzw_dialog_message">Ekran qoruyucuları ekranın barmaq izinin tanınmasına mane ola bilər. Ekranın qorunmasına ehtiyacınız varsa, rəsmi Xiaomi filmindən istifadə etməyi məsləhət görürük.</string>
@@ -2074,7 +1965,6 @@ Ekran kilidinizi təsdiq edə biləcəyiniz sahədə sağa sürüşdürün."</st
     <string name="headset_head_tracking_title">Baş hərəkətini izləyin</string>
     <string name="headset_notification_switch_summary">Qulaqlıqlar qoşulduqda Bildiriş kölgə vidjetində vəziyyəti göstərin</string>
     <string name="headset_notification_switch_title">Bildiriş paneli vidjeti</string>
-    <string name="headset_paired_other_device_need_reset">Bu qulaqlıqlar başqa cihazla birləşdirilib. Qoşula bilmək üçün onları sıfırlayın.</string>
     <string name="headset_remove_message">Cütləşmə sonlandırılsın?</string>
     <string name="headset_remove_message_indicate">%1$s Xiaomi Hesabı ilə əlaqəli bütün cihazlardan cütləşdirilməsi sonlandırılacaq.</string>
     <string name="headset_sbc">SBC</string>
@@ -2083,10 +1973,7 @@ Ekran kilidinizi təsdiq edə biləcəyiniz sahədə sağa sürüşdürün."</st
     <string name="headset_silent_upgrade_switch_title">Avtomatik olaraq yenilə</string>
     <string name="headset_spatial_audio">Ölçülü səs</string>
     <string name="headset_unsaved_devices">Digər cihazlarda istifadə olunur</string>
-    <string name="health_use_of_pad">Sağlam cihaz istifadəsi</string>
-    <string name="health_use_of_phone">Sağlam cihaz istifadəsi</string>
     <string name="hearing_aids_category">Eşitmə köməkçi vasitələri</string>
-    <string name="hearing_stream_option">Səs seçimləri</string>
     <string name="height_light_list_text">Vacib elementlərin siyahısı</string>
     <string name="help_and_feedback_title">Kömək və geri bildiriş</string>
     <string name="high_brightness_hint_summary">Ətraf mühit işığı güclü olduqda ekranın yuxarısında kiçik günəş ikonu görünəcək</string>
@@ -2095,8 +1982,6 @@ Ekran kilidinizi təsdiq edə biləcəyiniz sahədə sağa sürüşdürün."</st
     <string name="high_performance_title">Səviyyə testi edirsiniz kimi görünür. Ən yaxşı nəticələr üçün güc idarəetmə menyusundan \"Performans\" rejimini seçin.</string>
     <string name="high_temperature_toast">Cihazınız həddindən artıq qızıb. İndi bu funksiyadan istifadə etmək mümkün deyil.</string>
     <string name="hint_unadjustable_text">Əl ilə tənzimləmək olmur. Rəng istiliyi indi avtomatik olaraq tənzimlənir.</string>
-    <string name="hom_switch_summary">Test üçün 1024QAM yüksək sifariş modulyasiyasından istifadə etmək üçün aktiv et</string>
-    <string name="hom_switch_title">1024QAM</string>
     <string name="home_app">Başladıcı</string>
     <string name="home_key">Əsas ekran</string>
     <string name="home_title">Əsas ekran</string>
@@ -2143,8 +2028,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="http_invoke_app">Veb tətbiqləri</string>
     <string name="http_invoke_app_summary">Tətbiqləri quraşdırmadan daha sürətli açın</string>
     <string name="huanji_history_title">Mi Daşıyıcı köçürmələri</string>
-    <string name="illegal_device_name_modification_notification">Cihazı yenidən adlandır</string>
-    <string name="illegal_hotspot_name_modification_notification">Hotspotunuzu yenidən adlandır</string>
     <string name="ime_security_warning">%1$s şifrələriniz, kredit kartı nömrələri, və digər şəxsi məlumatlarınız da daxil olmaqla yazdığınız hər şeyi qeyd edə bilər.</string>
     <string name="ime_security_warning_global">Giriş üsulları yazdığınız bütün mətnləri, şifrə və kredit kartı nömrələri kimi şəxsi məlumatları da toplaya bilər. %1$s istifadə edilsin?</string>
     <string name="ime_security_warning_title_global">Klaviatura açılır</string>
@@ -2158,8 +2041,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="importance_low">Zəif</string>
     <string name="importance_min">Cüzi</string>
     <string name="importance_title">Vaciblik</string>
-    <string name="impunity_declaration_content">Skanerin kameranızı istifadə etməsi və tətbiqi istifadə edərkən çəkdiyiniz şəkilləri emal etməsi lazımdır. Şəxsi məlumatlarınız olan obyektlərin şəkillərini çəkmək üçün Skaner istifadə etməyin. \"Qəbul et\" seçiminə toxunaraq bizim &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik Siyasəti&lt;/a>&lt;/font> sazişimizi qəbul edir və Skanerə internetə qoşulması üçün icazə verirsiniz.</string>
-    <string name="impunity_declaration_negative_text">Çıx</string>
     <string name="incall_show">Gələn zənglər üçün profil videosu</string>
     <string name="incoming_call_breathing_light_color_title">Zəng işığı rəngi</string>
     <string name="incoming_call_breathing_light_freq_title">Zənglərin yanma tezliyi</string>
@@ -2225,10 +2106,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="interesting_text">Realist toxunma hissləri ekranla qarşılıqlı əlaqənizi daha aydın və ifadəli edir.</string>
     <string name="interesting_title">Həqiqi toxunuş</string>
     <string name="internal_auto_rotate_title">Daxili ekran üçün oriyentasiyanı kilidləyin</string>
-    <string name="international_lyra_account_ap_summary">Yaxınlıqdakı planşetlərə və hesabınıza daxil olan kompüterlərə bu cihazın qaynar nöqtəsinə avtomatik qoşulmağa icazə verin</string>
-    <string name="international_lyra_account_ap_title">Şəbəkə sinxronizasiyası</string>
-    <string name="international_lyra_auto_connect_summary">Yaxınlıqdakı cihaz hesabınıza daxil olduqda və internetə qoşulmaq lazımdırsa, avtomatik olaraq bu cihazın giriş nöqtəsini açın və ona qoşulun</string>
-    <string name="international_lyra_auto_connect_title">Avtomatik olaraq qaynar nöqtəyə qoşulun</string>
     <string name="internet_connectivity_panel_title">İnternet bağlantısı</string>
     <string name="item_system_app">Sistem tətbiqləri</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
@@ -2269,7 +2146,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="keyboard_and_input_methods_category">Klaviatura</string>
     <string name="keyboard_assistance_category">Klaviatura köməyi</string>
     <string name="keyboard_funtion_key">Funksiya düyməsi</string>
-    <string name="keyboard_layout_not_support_hint">Dəstəklənməyən tərtibat</string>
     <string name="keyboard_mouse_touch">Klaviatura, siçan, və trek pad</string>
     <string name="keyboard_select">Ölçünü tənzimlə</string>
     <string name="keyboard_select_summary">Klaviatura ölçüsünü tutuşunuza uyğunlaşdırın</string>
@@ -2309,7 +2185,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="knock_slide_shape">Yumruq ilə dairə çəkin</string>
     <string name="knock_slide_v">Yumruq ilə V çəkin</string>
     <string name="label_mi_stats">Mi analitik</string>
-    <string name="lamp_effect_settings">Effektlər</string>
     <string name="lattice_smartcover_title">Hörgülü ön üzlük</string>
     <string name="launch_ai_shortcut">Mi AI qısayolu</string>
     <string name="launch_alipay_health_code">Alipay sağlıq kodu</string>
@@ -2361,7 +2236,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="led_pulse_summary">Bildirişlər üçün yandır söndür</string>
     <string name="led_settings">LED işığı</string>
     <string name="left_function_key">Sol qısayolu</string>
-    <string name="left_hearing_aid">Sol Eşitmə cihazı</string>
     <string name="left_right_hand_switch">Sol və sağ</string>
     <string name="left_right_hand_switch_summary">Bir toxunuşla klaviaturanın sol və sağ hissələrini dəyişdirin</string>
     <string name="left_shoulder_key">Sol</string>
@@ -2389,10 +2263,6 @@ Xiaomi Cloud-u açın və elementləri oradan bərpa edin."</string>
     <string name="load_esim_info">eSIM məlumatı əldə edilir…</string>
     <string name="load_esim_info_error">eSIM məlumatını yükləmək mümkün olmadı. Bir-iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="loading">Bir saniyə…</string>
-    <string name="loading_eid_error_message">EID məlumatı alına bilmədi, bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
-    <string name="loading_eid_error_ok">Başa düşdüm</string>
-    <string name="loading_eid_error_title">Yüklənə bilmədi</string>
-    <string name="loading_eid_tip">EID məlumatı əldə edilir…</string>
     <string name="local_auto_backup_off">Bağlı</string>
     <string name="local_auto_backup_on">Açıq</string>
     <string name="local_auto_backup_section_title">Avtomatik yedəkləmələr</string>
@@ -2546,13 +2416,11 @@ Birinci sahə PIN-i ilə eyni uzunluqda olmalıdır."</string>
     <string name="login_action">Daxil ol</string>
     <string name="long_press_back_key">Geri düyməsinə uzun basın</string>
     <string name="long_press_buttom_key">Kilid ekranında Əsas ekran düyməsinə uzun basın</string>
-    <string name="long_press_editor_style_summary">Saatı və divar kağızını redaktə etmək üçün Kilid ekranını sıx və saxla</string>
-    <string name="long_press_editor_style_title">Redaktə etmək üçün sıx və saxla</string>
     <string name="long_press_home_key">Əsas ekran düyməsinə uzun basın</string>
     <string name="long_press_menu_key">Menyu düyməsinə uzun basın</string>
     <string name="long_press_menu_key_when_lock">Kilid ekranında Menyu düyməsinə uzun bas</string>
     <string name="long_press_power_key">Güc düyməsinə uzun basın</string>
-    <string name="long_press_power_key_half_of_second">Google Köməkçisini yandırmaq üçün %fs üçün Güc düyməsini basın və basılı saxlayın</string>
+    <string name="long_press_power_key_half_of_second">Google Assistant-ı işə salmaq üçün Güc düyməsinə 0.5san basın və basılı saxlayın</string>
     <string name="long_press_power_key_half_second">%ssan Güc düyməsinə basın və basılı saxlayın</string>
     <string name="long_press_power_key_tips"><Data>Güc düyməsini uzun basmaq&lt;font color=#999999>daha sürətli və daha əlverişlidir&lt;/font></Data></string>
     <string name="long_press_volume_down">Səs səviyyəsini azaltmaq üçün uzun bas</string>
@@ -2607,13 +2475,15 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="mechanical_ime">Mexaniki klaviatura</string>
     <string name="mechanical_ime_hint">Yalnız Xiaomi üçün uyğunlaşdırılmış klaviatura tərəfindən dəstəklənir</string>
     <string name="media_button">Media düyməsi</string>
-    <string name="media_dialog_ok">Başa düşdüm</string>
-    <string name="media_dialog_summary">Bu funksiya işə salındıqda, cihaz dəstəklənən musiqi və videoların ritmi ilə birlikdə titrəyərək daha dolğun, daha immersiv təcrübə verəcək.</string>
-    <string name="media_dialog_title">Media Toxunmalı geri bildirişləri aktiv et</string>
     <string name="media_feedback_enable_title">Ritmlə bərabər titrət</string>
-    <string name="media_haptic">Media toxunmalı geri bildiriş</string>
-    <string name="media_haptic_summary">Musiqinin ritmini izləyən Toxunmalı geri bildiriş al</string>
     <string name="media_output_panel_title">Çıxışı dəyişdirin</string>
+    <string name="media_output_status_device_in_low_power_mode">Burada oynamaq üçün cihazı oyandırın</string>
+    <string name="media_output_status_not_support_downloads">Endirilənlər burada oynadıla bilmir</string>
+    <string name="media_output_status_require_premium">Dəyişdirmək üçün hesabı təkmilləşdirin</string>
+    <string name="media_output_status_track_unsupported">Can’t play this media here</string>
+    <string name="media_output_status_try_after_ad">Reklamdan sonra yenidən cəhd edin</string>
+    <string name="media_output_status_unauthorized">Cihaz oynamaq üçün təsdiqlənməyib</string>
+    <string name="media_output_status_unknown_error">Bu cihazda oynadıla bilmir</string>
     <string name="media_volume_option_title">Media</string>
     <string name="megabyteShort">MB</string>
     <string name="megabyte_per_second">MB/s</string>
@@ -2625,7 +2495,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="menu_check">Təcrübə</string>
     <string name="menu_item_notification_power_text">Batareya optimallaşdırma</string>
     <string name="menu_key">Menyu</string>
-    <string name="menu_new">Yeni APN</string>
     <string name="menu_restore">Sıfırla</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_stats_refresh">Yenilə</string>
@@ -2657,7 +2526,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="miheadset_RightEar">Sağ</string>
     <string name="miheadset_active">Enerjili</string>
     <string name="miheadset_adaptive">Uyğun</string>
-    <string name="miheadset_adaptive_sampling_rate">Adaptiv</string>
     <string name="miheadset_ancClosed">Bağlı</string>
     <string name="miheadset_ancDepth">Dərin</string>
     <string name="miheadset_ancEquilibrium">Tarazlaşdırılmış</string>
@@ -2798,7 +2666,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="miheadset_virtual_surround_summary">Qulaqlıqlarda səs və videoların səsləndirilməsi üçün səs dərinliyini zənginləşdirin. %s kanalın səsi səsləndirildikdə bu funksiya işləməyəcək.</string>
     <string name="miheadset_voice_control_summary">Bu xüsusiyyət açıq olduqda, siz Mi AI-yə səs əmrlərindən istifadə edərək cihazınızı idarə etməyi və ya səsin səsləndirilməsini idarə etməyi söyləyə bilərsiniz</string>
     <string name="miheadset_windnoise">Külək</string>
-    <string name="mild_reminder">Bildiriş</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="mishow_disable_password_setting">Demo rejimində şifrə təyin etmək mümkün deyil</string>
     <string name="miui_accessibility_asr_summary">Səsi kopyala və mətni yaddaşda saxla</string>
@@ -2935,12 +2802,7 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="miui_type_style_summary">Ekran oxuyucusu aktiv olduqda yazmaq üslubu tətbiq edilir</string>
     <string name="miui_type_style_title">Yazma stili</string>
     <string name="miui_updater">Sistem yeniləmə</string>
-    <string name="miui_user_add_user_message">"Bu cihazı digər insanlarla paylaşmaq üçün istifadəçi profilləri əlavə edə bilərsiniz. Siz onları yaratdıqdan sonra onlar öz profillərini qurmalı olacaqlar.
-İstənilən istifadəçi bu cihazda mövcud olan bütün istifadəçi profilləri adından icazələr verə bilər."</string>
-    <string name="miui_user_add_user_title">İstifadəçi profili əlavə edin</string>
     <string name="miui_userguide">İstifadəçi təlimatı</string>
-    <string name="miui_visual_perception_summary">Cihazınızın varlığınızı hiss etməsini və daha rahat kilidləmə və kiliddən çıxarma seçimlərini seçməsini təmin edin</string>
-    <string name="miui_visual_perception_title">Aktiv vizual qavrayış</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
@@ -2951,7 +2813,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_deselect_all_description">Bütün seçimi ləğv et</string>
-    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ləğv et</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -2970,8 +2831,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="mms_privacy_password_role_instruction">Şəxsi kontaktlar ilə danışıqlarınız burada saxlanılır.</string>
     <string name="mode_disable">Bağla</string>
     <string name="mode_enable">Aç</string>
-    <string name="model_management">Modelləri idarə et</string>
-    <string name="model_management_summary">Cihazınıza böyük modelləri endirin, yeniləyin və silin</string>
     <string name="model_name">Model</string>
     <string name="model_number">Cihaz</string>
     <string name="modern_control_center_desc">Bildirişlərə baxmaq üçün soldakı vəziyyət çubuğunu aşağı çəkin. İdarəetmə mərkəzini açmaq üçün sağdakı vəziyyət çubuğunu aşağı çəkin.</string>
@@ -3026,7 +2885,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="more_font_pref_title">Daha çox şrift</string>
     <string name="more_installed_services_title">Daha çox endirilən xidmətlər</string>
     <string name="more_settings_button">Daha çox tənzimləmələr</string>
-    <string name="more_settings_eye_health">Daha çox göz sağlamlığı tənzimləmələri</string>
     <string name="more_volume_settings">Səs tənzimləməsi</string>
     <string name="morning">Səhər</string>
     <string name="move_app_failed_dlg_text">Tətbiq köçürülə bilmədi. %1$s</string>
@@ -3087,7 +2945,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="music_equalizer">Tarazlayıcı</string>
     <string name="music_playback_control_cross_device_flow">Səs oynatmasını cihazlar arasında köçürün</string>
     <string name="music_video_flow_across_device">Cihazlar arasında səs oynatmasına nəzarət edin və köçürün</string>
-    <string name="musical_rhythm_app_title">Ritmik işıq effektləri</string>
     <string name="mute">Səssiz rejim</string>
     <string name="mute_media_sound_summary">Oyunlar, musiqi, videolar və digər tətbiqlər</string>
     <string name="mute_media_sound_title">Səssiz rejimdə medianı susdur</string>
@@ -3095,7 +2952,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="mute_voiceassist_stream">Səs köməkçisini səssizləşdir</string>
     <string name="my_device">Cihazım</string>
     <string name="my_device_disclaimer">Qeyd: Təchizat məlumatı, MP, batareya tutumu, ekran ölçüsü və dəqiqliyi, kamera, Xiaomi laboratoriyaları, dizaynerləri və tədarükçüləri tərəfindən təmin edilir.</string>
-    <string name="name_modification_no_network_notification">Şəbəkəyə qoşulun və yenidən cəhd edin</string>
     <string name="natural_haptic">Təbii toxunuş</string>
     <string name="natural_haptic_summary">Yeni toxunmalı geri bildiriş nümunələri ekranınızda gördüyünüz və toxunduğunuz hər şeyə əlavə bir naxış gətirir.</string>
     <string name="natural_scroll">Təbii sürüşdürmə</string>
@@ -3132,10 +2988,7 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="near_loclscreen_summary">Cihazınıza yaxınlaşdığınız zaman ekran avtomatik olaraq yanacaq. Bildirişlər gizlədiləcək.</string>
     <string name="near_loclscreen_title">Qayıdanda ekranı oyandırın</string>
     <string name="nearby_wifi">Mövcud şəbəkələr</string>
-    <string name="nearby_wifi_refresh">Yenilə</string>
     <string name="need_reboot_now">Yeniləməni quraşdırmaq üçün yenidən başladın.</string>
-    <string name="net_slicing_switch_summary">Sazlama üçün eyni infrastrukturda şəbəkələrin multipleksləməsindən istifadə et (daşıyıcın tərəfindən təmin edilən zaman istifadə etmək mümkün olacaq)</string>
-    <string name="net_slicing_switch_title">5G dilimləmə</string>
     <string name="netcheck_title">Şəbəkəni test et</string>
     <string name="network_acceleration">Şəbəkə sürətləndirilməsi</string>
     <string name="network_alarm">İnternet zənglərini susdurma</string>
@@ -3222,6 +3075,7 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="normal_smartcover_title">Tünd ön üzlük</string>
     <string name="not_connected_to_wifi">Wi-Fi-a qoşulmayıb</string>
     <string name="not_enabled">Bağlı</string>
+    <string name="not_grant_admin">Xeyr, onları admin etməyin</string>
     <string name="notch_and_status_bar_settings">İdarəetmə mərkəzi &amp;amp vəziyyət sətri</string>
     <string name="notch_force_black_desc">Kərtik ətrafındakı sahəni qaraltmaq üçün açın</string>
     <string name="notch_force_black_title">Kərtiyi gizlət</string>
@@ -3244,8 +3098,6 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="notifi_no_channels">Bu tətbiq hələ heç bir bildiriş qəbul etməyib</string>
     <string name="notification_animation_style">Xüsusi effektlər</string>
     <string name="notification_app_permissions">Bildiriş icazələri</string>
-    <string name="notification_app_summary">Digər tətbiqlər</string>
-    <string name="notification_app_title">Bildirişlər</string>
     <string name="notification_breathing_light_color_title">Bildiriş işığı rəngi</string>
     <string name="notification_breathing_light_freq_title">Bildirişlərin yanma tezliyi</string>
     <string name="notification_center">Bildirişlər</string>
@@ -3313,7 +3165,7 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="orange_pom_dialog_title">Operator tənzimləmələri və yeni tətbiqlər</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">Bağlı</string>
-    <string name="otg_new_tip">Bu funksiya Type-C cihazlarına qoşulmağa və onları gücləndirməyə imkan verir. Qoşulmuş qulaqlıqlar, USB disklər və ya digər cihazlar tanınmırsa, OTG keçidini yandırın. %d dəqiqə boş qaldıqdan sonra o, avtomatik olaraq sönəcək.</string>
+    <string name="otg_new_tip">USB istifadə edərək cihazınızı birbaşa digər cihazlara qoşmaq üçün OTG-ni açın. Bu funksiya %d dəqiqəlik hərəkətsizlikdən sonra avtomatik sönəcək.</string>
     <string name="otg_opened">Açıq</string>
     <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB açıqdır, The-Go USB disklərini və portativ klaviaturaların mobil cihazlarınıza qoşulmasına və məlumat mubadiləsi etməsinə icazə verir. 
@@ -3330,15 +3182,10 @@ Bu hərəkəti geri qaytara bilməyəcəksiniz."</string>
     <string name="other_relative">Digər</string>
     <string name="other_settings_sync_settings">Sinxronlaşdırma</string>
     <string name="other_sound_settings_title">Əlavə tənzimləmələr</string>
-    <string name="outdoor_high_temperature_notification">Cihaz həddindən artıq qızıb. Bayır rejimini aktiv etmək mümkün deyil.</string>
-    <string name="outdoor_low_power_notification">Enerjinin azlığına görə Bayır rejimini aktiv etmək mümkün deyil</string>
-    <string name="outdoor_mode">Bayır rejimi</string>
-    <string name="outdoor_mode_summary">Ekran parlaqlığını artırmaq üçün aktiv et. Cihazınız qızacaq və daha çox enerji sərf edəcək.</string>
     <string name="owner_info_settings_title">Kilid ekranı imzası</string>
     <string name="owner_space">Birinci sahə</string>
     <string name="pad_add_fingerprint_finish_message">Əlavə tənzimləmələrə daxil olmağa davam edin.</string>
     <string name="pad_add_fingerprint_message">Barmağınızı Güc düyməsinə qoyun</string>
-    <string name="pad_application_mode_name">Üfüqi tətbiq tərtibatı</string>
     <string name="page_layout_1">Bazar, Avqust 16</string>
     <string name="page_layout_10">Tənzimləmələr</string>
     <string name="page_layout_11">Hava məlumatları</string>
@@ -3455,10 +3302,8 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="phone_call_noise_suppression">Zəng vaxtı səs-küyün qarşısını alma</string>
     <string name="photo_data">Şəkillər və videolar</string>
     <string name="photography_handle_button_function_settings">Tutma düyməsini qurun</string>
-    <string name="photography_handle_charge_protected">Tutuşun doldurulmasından qorunma</string>
-    <string name="photography_handle_charge_protected_summary">Kamera tutacağı qoşulduqda cihaz şarj etməyi dayandıracaq və batareyanı %1$s səviyyəsində saxlayacaq.</string>
-    <string name="photography_handle_charge_state">Kamera tutacaqlarından doldurun</string>
-    <string name="photography_handle_charge_state_summary">Bu cihazı hər dəfə qoşulduqda kamera tutacaqlarından doldurun</string>
+    <string name="photography_handle_charge_protected">Tutuşun doldurulması avtomatik ayrılması</string>
+    <string name="photography_handle_charge_protected_summary">Cihazınız kamera tutacağından istifadə etdiyinizi tanıdıqda, cihaz şarj etməyi dayandıracaq və batareyanı %1$s səviyyəsində saxlayacaq.</string>
     <string name="photography_handle_launch_and_take_photo">Şəkil çək</string>
     <string name="photography_handle_launch_camera">Kameranı aç</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Hərəkəti yerinə yetirmək üçün çəkim düyməsini basıb saxlayın</string>
@@ -3484,15 +3329,17 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="power_autorun_apps_empty">Burada tətbiq yoxdur</string>
     <string name="power_autorun_empty">Kifayət qədər tətbiq yoxdur</string>
     <string name="power_center">Batareya optimallaşdırma</string>
+    <string name="power_charging_future_paused">%1$s - Enerji yığma optimallaşdırılıb</string>
+    <string name="power_charging_limited">%1$s - Enerji yığma optimallaşdırılıb</string>
     <string name="power_checker">Batareya yoxlanışı</string>
     <string name="power_hide_mode_summary">Batareya qənaəti üçün tətbiqlərin arxa plan fəaliyyətlərini idarə edin</string>
     <string name="power_hide_mode_title">Tətbiqlərin batareya istifadəsini idarə et</string>
     <string name="power_key_how_power_force_off">Cihazınızı necə məcburi yenidən başlada bilərsiniz</string>
     <string name="power_key_how_power_force_off_detail">Cihazınız yenilənə qədər Güc düyməsinə basın və basılı saxlayın</string>
     <string name="power_key_how_power_off">Söndürmə səhifəsinə necə gedilir</string>
-    <string name="power_key_how_power_off_detail">%d üçün Güc düyməsinə basın və basılı saxlayın</string>
+    <string name="power_key_how_power_off_detail">Güc düyməsinə 3san basın və basılı saxlayın</string>
     <string name="power_key_how_start">Google köməkçisi necə işə salınır</string>
-    <string name="power_key_how_start_detail">%f üçün Güc düyməsini basın və basılı saxlayın. Danışmaq üçün buraxın.</string>
+    <string name="power_key_how_start_detail">Güc düyməsinə 0.5san basın və basılı saxlayın. Danışmaq üçün buraxın.</string>
     <string name="power_key_start_enjoy">Google Köməkçisini istifadə etməyə başla</string>
     <string name="power_key_start_guide">Tam ekran cihazlarda Güc düyməsini istifadə edərək Google köməkçisi işə salınır</string>
     <string name="power_label">Batareya</string>
@@ -3520,13 +3367,10 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="pref_operational_key">Naviqasiya düymələri</string>
     <string name="pref_show_lunar_calendar_title">Kilid ekranında ənənəvi Çin təqvimini göstər</string>
     <string name="pref_title_update_notification">Trafik haqqında bildirişlər</string>
-    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Ekran kilidlənəndə, Kameranı açmaq və şəkil çəkmək üçün Səsi azaltın iki dəfə üstündən vur</string>
     <string name="pref_volume_launch_camera_summary">Kameranı başlatmaq üçün səs səviyyəsini azaltma düyməsinə iki dəfə basın</string>
     <string name="pref_volume_launch_camera_title">Kameranı başlat</string>
-    <string name="pref_volume_launch_camera_when_lock_screen_summary">Ekran kilidlənəndə, Kameranı açmaq üçün Səsi azaltın iki dəfə üstündən vur</string>
     <string name="pref_volume_wake_summary">Səs səviyyəsi düymələrinə basmaq cihazı oyandırır</string>
     <string name="pref_volume_wake_title">Səs səviyyəsi düymələri ilə oyandır</string>
-    <string name="preference_copied">\"%1$s\" mübadilə buferinə kopyalandı</string>
     <string name="preference_toggle_nfc_dnd_mode_summary">Tanınmamış NFC etiketləri haqqında heç bir bildiriş almayın</string>
     <string name="preferred_app_settings">Varsayılanlar</string>
     <string name="preferred_app_settings_default">Standart</string>
@@ -3643,6 +3487,8 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="private_sms_need_to_unlock">Şifrə daxil edin</string>
     <string name="private_sms_recording_intro_header">Kilidi açma naxışı çəkin</string>
     <string name="private_sms_reset_by_account">Şifrənizi sıfırlamaq üçün Xiaomi Hesabınıza daxil olun.</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Dayandır</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Səs ucaldan təmizlənir…</string>
     <string name="progressbar_title">Təhlükəsizlik problemləri üçün yoxlanılır…</string>
     <string name="provision_activation">Aktiv</string>
     <string name="provision_back">Geri</string>
@@ -3661,8 +3507,6 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="quiet_important_interruptions_mode">Yalnız istisnalara icazə ver</string>
     <string name="quiet_no_interruptions_mode">Bütün bildirişləri susdur</string>
     <string name="quiet_off_mode">Bildirişlərə həmişə icazə ver</string>
-    <string name="r16_power_switch_summary">Sazlama üçün WUS və UAI istifadə et (daşıyıcın tərəfindən təmin edilən zaman istifadə etmək mümkün olacaq)</string>
-    <string name="r16_power_switch_title">Enerjiyə Qənaət</string>
     <string name="radio_controls_summary">Wi-Fi, Bluetooth, Uçuş rejimi, mobil şəbəkələr, &amp; VPN xüsusiyyətlərini idarə et</string>
     <string name="radio_controls_title">Daha çox</string>
     <string name="radio_info_asdiv_switch_label">ASDiv vəziyyəti:</string>
@@ -3736,7 +3580,6 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="rhythmic_mode_enable_summary">Tətbiq növlərinə və günəşin doğuş/qürub vaxtlarına əsasən rəngləri avtomatik tənzimləməklə optimal rahatlığa nail olun</string>
     <string name="rhythmic_mode_enable_title">Velosiped</string>
     <string name="right_function_key">Sağ qısayolu</string>
-    <string name="right_hearing_aid">Sağ Eşitmə cihazı</string>
     <string name="right_shoulder_key">Sağ</string>
     <string name="ring_to_you">Xüsusi zəng səsi</string>
     <string name="ring_to_you_info">Başqa insanları eşitməzdən əvvəl xüsusi bir ton seçin</string>
@@ -3752,19 +3595,14 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="rule_name">Ad</string>
     <string name="runtime_permissions_summary_control_app_access">Tətbiqlərin məlumatlarınıza müraciətini idarə edin</string>
     <string name="safe_install_mode_settings">Təhlükəsiz rejim</string>
-    <string name="same_source_synced">Yayım uğurla əlavə edildi</string>
     <string name="sar">RF Fokuslama Məlumatları</string>
-    <string name="satellite_call_assistant">Zəng tənzimləmələri</string>
-    <string name="satellite_network_title">Peyk zəngi xüsusiyyətləri</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Ş.</string>
     <string name="saturday_shortest">Ş.</string>
     <string name="save_battery_mode">WQHD+ ilə batareyadan qənaət edin</string>
     <string name="save_battery_mode_summary">Enerjiyə qənaət etmək üçün dəqiqliyi avtomatik olaraq dəyişdirin</string>
-    <string name="save_device_name_progress_message">Saxlanılır…</string>
     <string name="saved_wifi">Yaddaşda saxlanmış şəbəkələri idarə et</string>
     <string name="saved_wifi_delete">Sil</string>
-    <string name="scanner_app_name">Skaner</string>
     <string name="scanning_status_text_wifi_off_ble_off">Hər iki Wi-Fi və Bluetooth analizi söndürülmüşdür</string>
     <string name="scanning_status_text_wifi_off_ble_on">Bluetooth analizi açıqdır, Wi-Fi analizi bağlıdır</string>
     <string name="scanning_status_text_wifi_on_ble_off">Wi-Fi analizi açıqdır, Bluetooth analizi bağlıdır</string>
@@ -3780,7 +3618,6 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="screen_dark_mode_select_time_error_summary">Başlanğıc və bitiş vaxtı eyni ola bilməz</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bəzi tətbiqlər qaranlıq rejimdə yanlış göstərilə bilər. Buradakı fərdi tətbiqlər üçün Qaranlıq rejim istifadə etməyi məhdudlaşdıra bilərsiniz.</string>
     <string name="screen_dark_mode_smart_dark_title">Qlobal qaranlıq rejim</string>
-    <string name="screen_dark_mode_time_summary">Ekranı söndürdüyünüz zaman planlaşdırılmış vaxtda cihazınız Qaranlıq rejimə keçəcək</string>
     <string name="screen_dark_mode_time_title">Qaranlıq rejimini planlaşdır</string>
     <string name="screen_effect">Rəng sxemi</string>
     <string name="screen_effect_adapt_color_summary">Rəngləri mövcud işıqlandırmaya görə tənzimlə</string>
@@ -3793,13 +3630,9 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="screen_enhance_engine_ai_open">Şəkilləri təkmilləşdir</string>
     <string name="screen_enhance_engine_ai_pic_summary">"Obyektləri (məsələn, bitkilər, heyvanlar, binalar) müəyyənləşdirin və ekran effektlərini dinamik olaraq tənzimləyin. "</string>
     <string name="screen_enhance_engine_ai_title">AI görüntü təkmilləşdirməsi</string>
-    <string name="screen_enhance_engine_dualDPU_note">Xüsusi çipdən istifadə videonun dəqiqliyini yaxşılaşdırır, kadr tezliyini artırır və HDR-ni optimallaşdırır. Bu, daha canlı, daha hamar bir təcrübə təmin edir.</string>
-    <string name="screen_enhance_engine_dualDPU_summary">Xüsusi bir çip vasitəsilə video keyfiyyətini yüksəldin</string>
-    <string name="screen_enhance_engine_dualDPU_title">İki nüvəli vizual görüntülər</string>
     <string name="screen_enhance_engine_memc_note">Super dəqiqlik açıq olduqda videoları təkmilləşdirmək olmur. Təkmilləşdirilmiş videoları açmaqla super dəqiqliyi söndürəcəksiniz.</string>
     <string name="screen_enhance_engine_memc_note_1">%d.Bu xüsusiyyət enerji istehlakını bir qədər artırır.</string>
     <string name="screen_enhance_engine_memc_note_2">%d.Bu xüsusiyyət yalnız video alət qutusu açıq olduqda işləyir.</string>
-    <string name="screen_enhance_engine_memc_note_3">%d. Bu funksiya Performans rejimi, Batareya qənaəti və ya Ultra batareya qənaətindən istifadə edərkən mövcud deyil.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Məzmunun hamar və keçidlərin canlı görünməsi üçün videolara əlavə çərçivələr əlavə edin. "</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
@@ -3880,17 +3713,6 @@ Bu xidmətdən istifadə etməzdən əvvəl %s-i oxuyun və qəbul edin."</strin
     <string name="screen_paper_mode_update_white_pkg_list_summary">Oxuma rejimini istifadə edən tətbiqlərin siyahısını avtomatik olaraq yenilə</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Avtomatik olaraq yenilə</string>
     <string name="screen_paper_texture">Toxuma</string>
-    <string name="screen_pinning_description">Saxlanmış tətbiqlər digər tətbiqləri aça və şəxsi məlumatlarınıza daxil ola bilər</string>
-    <string name="screen_pinning_dialog_message">"Saxlanmış tətbiqlərin edə biləcəkləri bunlardır:
-
-• Şəxsi məlumatlarınıza daxil olun
-(məsələn, kontaktlar və e-poçtlar)
-• Digər tətbiqləri açın
-
-Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edin."</string>
-    <string name="screen_pinning_summary">Sanclanmış tətbiqlər siz onları bağlayana qədər Sonlarda qalacaq</string>
-    <string name="screen_pinning_title">Tətbiq sancaqlanmasına icazə ver</string>
-    <string name="screen_pinning_unlock_none">Silmək üçün ekran kilidini təsdiqləyin</string>
     <string name="screen_projection">Əks etdir</string>
     <string name="screen_projection_characteristics">Xüsusi xüsusiyyətlər</string>
     <string name="screen_projection_characteristics_off_screen_summary">Cihazınızın ekranı sönülü olduqda əks etdirməyə davam edə bilərsiniz. Bu xüsusiyyət enerji istifadəsini azaldır.</string>
@@ -3909,7 +3731,6 @@ Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edi
     <string name="screen_projection_sample_summary">Sənədlər, oyunlar, şəkillər, və videolar əks etdirilir</string>
     <string name="screen_projection_sample_title">Demolar</string>
     <string name="screen_projection_title">Əks etdir</string>
-    <string name="screen_reader_category_title">Ekran oxuyucu</string>
     <string name="screen_refresh_unavailable_prompt">Yeniləmə sürətinin dəyişdirilməsi yalnız xarici ekran tərəfindən dəstəklənir</string>
     <string name="screen_resolution_dialog_title">Dəqiqliyi dəyişdir</string>
     <string name="screen_resolution_high_format">Yüksək (%1$s)</string>
@@ -3932,12 +3753,12 @@ Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edi
     <string name="screenshot_three_gesture">Ekran görüntüsü çəkmək üçün 3 barmaqla aşağı sürüşdür</string>
     <string name="screenshot_three_gesture_summary">Digər 3 barmaq jestləri söndürüləcək</string>
     <string name="sd_data">SD kartı məlumatları</string>
-    <string name="sd_eject">Paylaşılan yaddaşı ayırın</string>
-    <string name="sd_eject_summary">Daxili USB yaddaşını ayırın</string>
-    <string name="sd_format">USB yaddaşını silin</string>
-    <string name="sd_format_summary">Musiqi və şəkillər kimi daxili USB yaddaşındakı bütün məlumatları silir</string>
-    <string name="sd_insert_summary">Quraşdırma üçün USB yaddaşını daxil edin</string>
-    <string name="sd_mount">USB yaddaşı tax</string>
+    <string name="sd_eject">SD kartı çıxart</string>
+    <string name="sd_eject_summary">SD kartı təhlükəsiz şəkildə ayırmaq üçün onu ayırın</string>
+    <string name="sd_format">SD kart sil</string>
+    <string name="sd_format_summary">SD kartdakı musiqi və şəkillər kimi bütün məlumatları silir</string>
+    <string name="sd_insert_summary">Quraşdırmaq üçün SD kartı daxil edin</string>
+    <string name="sd_mount">SD kartı tax</string>
     <string name="sd_mount_summary" />
     <string name="se_in_ese">İçəri yerləşdirilmiş təhlükəsiz element</string>
     <string name="se_in_ese_desc">İçəri yerləşdirilmiş təhlükəsiz element</string>
@@ -4049,8 +3870,6 @@ Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edi
     <string name="search_ntts_settings_title">TTS;TTS tənzimləmələri</string>
     <string name="search_oldman_mode_entry_name">Sadələşdirilmiş rejim;Yaşlı rejimi;Sadələşdirilmişrejim</string>
     <string name="search_onekey_migrate">Köçürmə;Mi Daşıyıcı;Köhnə telefon;Yeni telefon;Faylları köçür</string>
-    <string name="search_otg_button">qulaqlıqlar;qulaqlıq;qulaqlıqlar;qulaqlıq;qulaqcıqlar;qulaqcıq;qulaqlıq;qulaqcıqlar</string>
-    <string name="search_otg_settings">qulaqlıqlar;qulaqlıq;qulaqlıqlar;qulaqlıq;qulaqcıqlar;qulaqcıq;qulaqlıq;qulaqcıqlar</string>
     <string name="search_other_advanced_settings">Əlavə tənzimləmələr;Daha çox tənzimləmə</string>
     <string name="search_other_settings_sync_settings">Sinxronlaşdırma;Avtomatik;Yalnız Wi-Fi</string>
     <string name="search_owner_info_settings_title">Sahib məlumatı</string>
@@ -4183,14 +4002,12 @@ Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edi
     <string name="security_relative">Təhlükəsizlik</string>
     <string name="security_status">Təhlükəsizlik vəziyyəti</string>
     <string name="security_update">Təhlükəsizlik yeniləməsi</string>
-    <string name="securitycenter_sidebar_box">Yan alət qutusu</string>
     <string name="seek_bar_info">Ölçünü tənzimlə</string>
     <string name="seekbar_text">Sürüşdürücü</string>
     <string name="select_logd_level">Qeyd səviyyəsi seçin</string>
     <string name="select_ssid_type_title">SSID seçin</string>
     <string name="select_time_format_category_title">Vaxt formatı</string>
     <string name="select_time_format_title">Vaxt formatı</string>
-    <string name="selected_app_title">Seçilmiş tətbiqlər</string>
     <string name="send">Göndər</string>
     <string name="sensor_toggle_description">Bütün tətbiqlər və xidmətlər üçün</string>
     <string name="separate_keyboard">Erqonomik klaviatura</string>
@@ -4198,7 +4015,6 @@ Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edi
     <string name="separate_keyboard_summary_pad">Yazmağı daha sürətli və daha rahat etmək üçün klaviaturanızı mərkəzdə bir bölmə ilə ayırın</string>
     <string name="service_manage">Quraşdırma</string>
     <string name="service_stop_description">Tətbiq başladıldı. Dayandırmaq xətalara səbəb ola bilər.</string>
-    <string name="service_support">Dəstək</string>
     <string name="set_jeejen_prompt_message">Sadələşdirilmiş rejim standart başladıcınız olaraq təyin ediləcək. Standart baçladıcını Tənzimləmələr > Sistem tənzimləmələri > Əsas ekran &amp; Sonuncular > Standart başladıcı menyusundan dəyişdirə bilərsiniz.</string>
     <string name="set_jeejen_prompt_title">Dəyişiklikləri təsdiqlə</string>
     <string name="set_screen_paper_mode">Oxuma rejimi</string>
@@ -4293,7 +4109,7 @@ Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edi
     <string name="silent_standard">Səssiz</string>
     <string name="silent_time">Səssiz rejim müddəti</string>
     <string name="silent_total">NE</string>
-    <string name="sim_bad_pin">PIN %1$d-%2$d rəqəmdən ibarət olmalıdır</string>
+    <string name="sim_bad_pin">PIN kodu ən azı 4-8 rəqəm ehtiva etməlidir</string>
     <string name="sim_change_failed_enable_sim_lock">PIN dəyişdirilə bilmədi. İndi SIM kilidi açın.</string>
     <string name="sim_lock_change_not_supported">PIN dəyişdirilə bilmədi. SIM kartınız bu hərəkəti dəstəkləmir.</string>
     <string name="sim_lock_settings">SIM kilidi tənzimləmələri</string>
@@ -4316,17 +4132,15 @@ Bu cihazı başqaları ilə paylaşarkən bu funksiyadan ehtiyatla istifadə edi
 Sonuncuları açmaq üçün iki dəfə toxunun."</string>
     <string name="single_press_AI_button">AI düyməsinə basın</string>
     <string name="size_byte">B</string>
-    <string name="size_compat">Mərkəzlənmiş</string>
     <string name="size_compat1">%1$d:%2$d</string>
     <string name="size_compat2">%1$d:%2$d</string>
     <string name="size_embedded">Paralel pəncərələr</string>
     <string name="size_full">Tam ekran</string>
-    <string name="size_fullscreen">Tam ekran</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">Bildirişlər, musiqi oynadıcı idarəetmələri, və qısayollar Kilid ekranında göstərilməyəcək.</string>
     <string name="skip_step">Burax</string>
@@ -4367,7 +4181,6 @@ Sonuncuları açmaq üçün iki dəfə toxunun."</string>
     <string name="slight_pause">,</string>
     <string name="slot_number">" (Yuva %1$d)"</string>
     <string name="slot_status_title">IMEI məlumatı</string>
-    <string name="small_window_not_support_add_data_toast">Üzən pəncərələrdə məlumatları qeyd etmək mümkün deyil. Tam ekrana keçin və yenidən cəhd edin.</string>
     <string name="smallwindow_smartcover_title">Kiçik pəncərəli ön üzlük</string>
     <string name="smart_dual_sim_title">Ağıllı ikili SIM</string>
     <string name="smart_home_select_smart_device">Ağıllı ev cihazlarını idarə etmək üçün tətbiq</string>
@@ -4386,13 +4199,6 @@ Sonuncuları açmaq üçün iki dəfə toxunun."</string>
     <string name="sms_received_sound_title">Alınan mesaj</string>
     <string name="softbank_apn_lock_toast">APN kilidlidir. Redaktə etmək olmur.</string>
     <string name="solid_text">Möhkəm, güclü jest təcrübəsi yaratmaq üçün aşağı tezlikli toxunma rəyindən və müvafiq vizual keçidlərdən istifadə edir</string>
-    <string name="sort_by_frequency">Tezlik ilə sırala</string>
-    <string name="sort_by_time">Vaxta görə sırala</string>
-    <string name="sos_add_area_code_switch_summary">Tiantong Peyk rabitəsi ilə təcili zəng edərkən ərazi kodunu avtomatik olaraq telefon nömrəsinə əlavə edin</string>
-    <string name="sos_add_area_code_switch_title">Ərazi kodunu avtomatik əlavə edin</string>
-    <string name="sos_area_code_settings_hint">Ərazi kodunu daxil edin</string>
-    <string name="sos_area_code_settings_summary">Fövqəladə hal kontaktınızın telefon nömrəsinin ərazi kodunu əl ilə təyin edin</string>
-    <string name="sos_area_code_settings_title">Ərazi kodunu təyin edin</string>
     <string name="sos_phone_call_privacy_dialog_message">"Təcili kontaktlarınıza zəng etmək və SOS qeydini oynatmaq üçün bu tətbiqə aşağıdakı icazələr lazımdır:
 •Zəng etmək
 Fövqəladə kontaktlarınıza zəng etmək
@@ -4455,6 +4261,7 @@ Xidmətlərimizi istifadə etməzdən əvvəl %s-lərimizi oxuyun və razılaş�
     <string name="sound_stereo_mode_title">Stereo səsi</string>
     <string name="sound_title">Səs</string>
     <string name="sound_vibrate_settings">Səs &amp; titrəyiş</string>
+    <string name="speaker">Səsucaldan</string>
     <string name="speaker_clean">Səsucaldanı təmizlə</string>
     <string name="special_access">Xüsusi icazələr</string>
     <string name="special_preview">Demolar</string>
@@ -4485,8 +4292,8 @@ Xidmətlərimizi istifadə etməzdən əvvəl %s-lərimizi oxuyun və razılaş�
     <string name="status_bar_title">İdarəetmə mərkəzi &amp;amp vəziyyət sətri</string>
     <string name="status_number_sim_softbank">Telefon nömrəsi %1$d</string>
     <string name="status_sim">SIM kart vəziyyəti</string>
-    <string name="status_sim_1">SIM %d</string>
-    <string name="status_sim_2">SIM %d</string>
+    <string name="status_sim_1">SIM 1</string>
+    <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">Baxmaq üçün toxunun</string>
     <string name="status_wifi_mac_address">Wi-Fi MAC ünvanı</string>
     <string name="storage_external_title">Portativ saxlama</string>
@@ -4634,12 +4441,10 @@ Köçürmə ^2 çəkəcək və daxili yaddaşda ^3 boşaldacaq. Bəzi tətbiqlə
     <string name="sunday">Bazar</string>
     <string name="sunday_short">B.</string>
     <string name="sunday_shortest">B.</string>
-    <string name="sunlight_low_power_notification">Batareyanın səviyyəsi və ya temperatur çox aşağı olduqda Günəş işığı rejimini aktiv etmək olmur</string>
+    <string name="sunlight_low_power_notification">Günəş işığı rejimini açmaq mümkün deyil. Batareya çox azdır.</string>
     <string name="sunlight_mode">Günəş işığı rejimi</string>
     <string name="sunlight_mode_boost_summary">Parlaqlıq diapazonunu genişləndirin və parlaq şəraitdə parlaqlığı avtomatik tənzimləyin. Bu xüsusiyyət cihazınızın qızmasına və daha çox enerji sərf etməsinə səbəb olacaq.</string>
     <string name="sunlight_mode_summary">Ekranın çox qaralmasının qarşısını almaq üçün parlaqlığı güclü mühit işığına uyğunlaşdırın</string>
-    <string name="super_voice_assist">Super Mi AI</string>
-    <string name="super_volume_tip">Maksimum səs %s</string>
     <string name="supl_not_set">&lt;Təyin edilməyib></string>
     <string name="sure_sync_now">Elementlər indi sinxronlaşdırılsın?</string>
     <string name="surround_sound_all_desc">Qulaqlıqlar və dinamiklər üçün səsin dərinliyini artırın</string>
@@ -4658,8 +4463,6 @@ Köçürmə ^2 çəkəcək və daxili yaddaşda ^3 boşaldacaq. Bəzi tətbiqlə
     <string name="switch_screen_button_order">Düymələrin yerini dəyişdir</string>
     <string name="switch_screen_button_order_desc">Geri və Menyu düymələrinin yerini dəyişdir</string>
     <string name="switch_select_to_speak_on">Danışmaq üçün seçin</string>
-    <string name="swul_switch_summary">Yuxarı keçid dəyişməsini təkmilləşdir (daşıyıcın tərəfindən təmin edilən zaman istifadə etmək mümkün olacaq)</string>
-    <string name="swul_switch_title">SwUL</string>
     <string name="symbol_fast_input">Xüsusi xarakterlər</string>
     <string name="symbol_fast_input_summary">Xüsusi simvollarla klaviaturada qalmaq və birdən çox simvolu daxil etmək üçün təyin edilmiş düyməyə toxunun</string>
     <string name="symbols_not_allowed_for_password">Şifrə yalnız rəqəm və hərflərdən ibarət ola bilər</string>
@@ -4678,7 +4481,6 @@ Köçürmə ^2 çəkəcək və daxili yaddaşda ^3 boşaldacaq. Bəzi tətbiqlə
     <string name="system_backup_section_title_new">Yerli</string>
     <string name="system_error_info">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="system_haptic_feedback">Toxunmalı geri bildiriş</string>
-    <string name="system_personalize_title">Fərdiləşdirmə</string>
     <string name="system_print_service_help">Çap etmə haqqında</string>
     <string name="system_shortcut_wake">Düymə qısayolları ilə oyandır</string>
     <string name="system_sound_effect_settings">Sistem səsləri</string>
@@ -4779,7 +4581,6 @@ Köçürmə ^2 çəkəcək və daxili yaddaşda ^3 boşaldacaq. Bəzi tətbiqlə
     <string name="timezone_settings">Saat qurşağı</string>
     <string name="tip_remove_data">Fabrik tənzimləmələrinə qayıtmaq bu elementləri cihazınızdan siləcəkdir</string>
     <string name="title_color_calibration">Rəng düzəltmə ön tənzimləmələri</string>
-    <string name="title_device_control">Cihaz idarəetmələri</string>
     <string name="title_font">Şrift</string>
     <string name="title_font2">Şrift &amp; düzülüş</string>
     <string name="title_font_current">Sistem şrifti</string>
@@ -4793,14 +4594,13 @@ Köçürmə ^2 çəkəcək və daxili yaddaşda ^3 boşaldacaq. Bəzi tətbiqlə
     <string name="title_of_auto_launch_manage">Avtobaşlatma</string>
     <string name="title_quick_control_all_devices">Yaxınlıqdakı cihazlar üçün nəzarətləri göstərin</string>
     <string name="title_show_notification_icon">Bildiriş ikonlarını göstər</string>
-    <string name="title_show_notification_icon_count">Göstərilən bildiriş nişanlarının sayı</string>
     <string name="title_smart_device_control">Cihaz idarəetmələrinə əlavə et</string>
     <string name="title_special_features_health_global">Ürək döyüntüsü</string>
     <string name="title_wordless_mode">İkon etiketlərini göstərməyin</string>
-    <string name="title_xiaomi_smart_hub">Xiaomi Smart Hub</string>
     <string name="to_close">Söndür</string>
     <string name="toast_ap_works_wifi_display_disable">Yayımdan əvvəl giriş nöqtəsini söndürün</string>
     <string name="toast_apply_font_fail">Şrift təyin edilə bilmir</string>
+    <string name="toast_disconnect_earphone">Qulaqlıqları ayırın və yenidən cəhd edin</string>
     <string name="toast_lockscreen_glogin_empty_password">Şifrəni daxil edin</string>
     <string name="toast_need_login">Xiaomi Hesabınıza daxil olun</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Wi-Fi şəbəkəsi qurulu olduqda və giriş nöqtəsi açıq olduqda yayım edilə bilmir.</string>
@@ -4859,7 +4659,6 @@ Köçürmə ^2 çəkəcək və daxili yaddaşda ^3 boşaldacaq. Bəzi tətbiqlə
     <string name="twohours">1 saat</string>
     <string name="ucar_screen_projection_title">CarWith</string>
     <string name="unadapt_embedded">Paralel pəncərələr mövcud deyil</string>
-    <string name="unchecked_app_title">İşıq effektləri söndürülüb</string>
     <string name="under_keyguard">Ekranı söndür</string>
     <string name="unimportant">Önəmsiz</string>
     <string name="uninstall_dlg_msg">Silmək əməliyyatı tətbiq məlumatlarının hamısını siləcək.</string>
@@ -5045,18 +4844,15 @@ Yeni bir istifadəçi yaratdıqdan sonra, həmin istifadəçinin quraşdırma pr
 
 Hər hansı bir istifadəçi bütün istifadəçilərin yerinə yenilənmiş tətbiq icazələrini qəbul edə bilər."</string>
     <string name="user_agreement">Xidmət Şərtləri</string>
-    <string name="user_avatar_update_title">Profil şəkli əlavə edin</string>
     <string name="user_dict_settings_empty_text">"Hər hansı lüğətiniz yoxdur
 Söz əlavə etmək üçün toplama işarəsinə toxunun."</string>
     <string name="user_experience_open_url">İstifadəçi Təcrübəsi Proqramı haqqında daha çox məlumat əldə edin</string>
     <string name="user_experience_program">İstifadəçi Təcrübə Proqramı</string>
     <string name="user_experience_program_summary">Xiaomi-yə məhsul və xidmətlərimizi yaxşılaşdırmaq üçün istifadəçi məlumatlarını toplamağa və təhlil etməyə icazə verin. Daha çox məlumat üçün İstifadəçi Təcrübəsi Proqramımızın şərtlər və qaydalarını oxuyun.</string>
     <string name="user_experience_program_title">İstifadəçi Təcrübəsi Proqramına daxil olun</string>
+    <string name="user_grant_admin_message">Adminlərin digər istifadəçilərin olmayan xüsusi imtiyazları var. Admin bütün istifadəçiləri idarə edə, bu cihazı yeniləyə və ya sıfırlaya, tənzimləməri dəyişdirə, quraşdırılmış bütün tətbiqlərə baxa və başqaları üçün admin imtiyazları verə və ya ləğv edə bilər.</string>
+    <string name="user_grant_admin_title">Bu istifadəçi admin edilsin?</string>
     <string name="user_settings_forbidden">Mövcud sahədə idarəçi tənzimləmələri dəyişdirilmir. Birinci sahəyə geri qayıdın.</string>
-    <string name="valid_net_access">Şəbəkəyə giriş etimadnaməsinə baxın</string>
-    <string name="valid_net_ok">OLDU</string>
-    <string name="valid_net_result_fail">Məlumat alına bilmədi, bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
-    <string name="valid_net_result_title">Nəticə</string>
     <string name="vibrate_category_title">Titrəyiş</string>
     <string name="vibrate_in_normal_title">Çalarkən titrət</string>
     <string name="vibrate_in_silent_title">Səssiz rejimdə titrət</string>
@@ -5108,7 +4904,6 @@ Söz əlavə etmək üçün toplama işarəsinə toxunun."</string>
     <string name="visibility_override_title">Kilid ekranında</string>
     <string name="voice_access">Səs idarəetmələri</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_summary">Sənin personal ağıllı köməkçin</string>
     <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Danışıq</string>
     <string name="voice_helper_title">Səsli köməkçi</string>
@@ -5134,8 +4929,6 @@ Söz əlavə etmək üçün toplama işarəsinə toxunun."</string>
     <string name="volume_system_description">Kamera, ekran görüntüləri, düymələr və sistem bildirişləri</string>
     <string name="volume_voice_description">Zəng daxili səs səviyyəsi</string>
     <string name="vonr_switch_title">VoNR istifadə edin</string>
-    <string name="vpn_build_about">Haqqında</string>
-    <string name="vpn_build_version">Versiya %1$s</string>
     <string name="vpn_configure">Konfiqurasiya</string>
     <string name="vpn_create">VPN əlavə et</string>
     <string name="vpn_dns_servers">DNS serverləri</string>
@@ -5376,6 +5169,7 @@ Fərqli bir Wi-Fi şəbəkəsinə qoşulmaq üçün "<b>Geri</b> seçiminə toxu
 digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</string>
     <string name="wifi_share_connect">Qoşul</string>
     <string name="wifi_share_connected_summary">Başqa bir istifadəçi tərəfindən paylaşılan ictimai Wi-Fi şəbəkəsinə qoşuldunuz.</string>
+    <string name="wifi_share_connected_title">MIUI paylaşımlı Wi-Fi</string>
     <string name="wifi_share_current_network">Mövcud şəbəkə</string>
     <string name="wifi_share_know">Başa düşdüm</string>
     <string name="wifi_share_list_empty">Paylaşılan şəbəkə tapılmadı.</string>
@@ -5383,7 +5177,6 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="wifi_share_login_summary">Bu ictimai şəbəkədirsə, onu digər Xiaomi istifadəçiləri ilə paylaşa bilərsiniz.</string>
     <string name="wifi_share_notification_summary">Siz ictimai Wi-Fi şəbəkəsinə qoşulmusunuz.</string>
     <string name="wifi_share_other_network">Digər şəbəkələr</string>
-    <string name="wifi_share_plain_password_text">Şifrə: %s</string>
     <string name="wifi_share_qrcode_finish">Hazırdır</string>
     <string name="wifi_share_qrcode_summary">Paylaşmaq üçün yuxarıdakı QR kodunu analiz edin.</string>
     <string name="wifi_share_qrcode_title">Wi-Fi şəbəkəsini paylaş</string>
@@ -5411,8 +5204,8 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="wifi_tether_configure_ap_kddi_text">Wi-Fi paylaşma quraşdır</string>
     <string name="wifi_tether_configure_ap_text">Portativ giriş nöqtəsi quraşdırılması</string>
     <string name="wifi_tether_configure_subtext">Portativ giriş nöqtəsi: %1$s | %2$s</string>
-    <string name="wifi_tether_enabled_nosecurity_summary">%1$s şifrələnməyib. Hotspotu aktiv etmək cihazın qızmasına və daha çox enerji sərf etməsinə səbəb ola bikər.</string>
-    <string name="wifi_tether_enabled_summary">%1$s hotspotunu aktiv etmək cihazın qızmasına və daha çox enerji sərf etməsinə səbəb ola bilər</string>
+    <string name="wifi_tether_enabled_nosecurity_summary">%1$s şifrələnmədi</string>
+    <string name="wifi_tether_enabled_summary">%1$s</string>
     <string name="wifi_tether_failed_subtext">Portativ giriş nöqtəsi xətası</string>
     <string name="wifi_tether_high_temperature_toast">Cihazınız həddindən artıq qızıb. İndi bu funksiyadan istifadə etmək mümkün deyil.</string>
     <string name="wifi_tether_setting_title">Tənzimləmələr</string>
@@ -5459,11 +5252,8 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="wifi_wps_overlap_error">Başqa bir Wi-Fi sessiyası aşkar edildi. Bir və ya iki dəqiqə gözləyin və yenidən cəhd edin.</string>
     <string name="wifi_wps_setup_title">Wi-Fi Qorumalı Quraşdırma</string>
     <string name="wireless_connected">Qoşuldu</string>
-    <string name="wireless_display">Simsiz ekran</string>
     <string name="wireless_off">Bağlı</string>
     <string name="wireless_on">Açıq</string>
-    <string name="wireless_secondary_display">Simsiz ekran genişləndirilməsi</string>
-    <string name="wireless_secondary_display_description">Planşetinizi yaxınlıqdakı kompüterinin simsiz ekran genişləndirilməsi kimi istifadə edin</string>
     <string name="wlan_scanner_unresizeble">Bölünmüş ekran rejimində Wi-Fi tənzimləmələrini göstərmək olmur</string>
     <string name="wlan_switch_tips">Wi-Fi şəbəkələrinin dəyişdirilməsi</string>
     <string name="wlan_switch_tips_message">Köməkçi və əsas Wi-Fi şəbəkələri arasında keçid edərkən cihazınız müvəqqəti olaraq köməkçi Wi-Fi ilə əlaqəsi kəsiləcək. Hər halda keçsin?</string>
@@ -5477,7 +5267,6 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="wps_category">WPS</string>
     <string name="wps_connect_summary">Yönləndiricinizin WPS-i dəstəklədiyinə və açıldığına əmin olun</string>
     <string name="wps_connect_title">WPS-ə qoşul</string>
-    <string name="xiao_mi_hyperos_ai">Xiaomi HyperAI</string>
     <string name="xiaoai_global_shortcut">Ümumi</string>
     <string name="xiaoai_key_shortcut">Düymələr</string>
     <string name="xiaoai_other_shortcut">Digər üsullar</string>
@@ -5497,7 +5286,7 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="xiaomi_router_available_notif_title">Mi Router mümkündür</string>
     <string name="xiaomi_router_notif_summary">Mi Router mümkün olduğunda mənə bildir</string>
     <string name="xiaomi_router_notif_title">Mi Router bildirişləri</string>
-    <string name="xiaomi_transfer">Xiaomi Share</string>
+    <string name="xiaomi_transfer">Mi Share</string>
     <string name="xspace">İkili tətbiqlər</string>
     <string name="yesterday">Dünən</string>
     <string name="zen_mode_alarm_use">Səslər</string>

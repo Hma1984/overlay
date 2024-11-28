@@ -210,6 +210,7 @@
         <item>Starije od 60 dana</item>
         <item>Starije od 90 dana</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
         <item>Grafika</item>
         <item>Postotak (u ikoni)</item>
@@ -312,20 +313,6 @@
         <item>Optimalizirano za kvalitetu zvuka (900kbps)</item>
         <item>Najbolji napor (Automatska brzina bita)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Koristi odabir sustava (zadano)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Koristi odabir sustava (zadano)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Upotreba preference sustava (zadano)</item>
         <item>SBC</item>
@@ -370,21 +357,16 @@
         <item>Pusti na telefonskom zvučniku</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
+        <item>avrcp15</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6 (zadano)</item>
+        <item>AVRCP 1.5 (zadano)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>Disabled</item>
-        <item>Unicast</item>
-        <item>Unicast and Broadcast</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -410,22 +392,15 @@
         <item>Omogućeno</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Zadrži samo ACL zaglavlja</item>
-        <item>Filtriraj A2DP medijske pakete</item>
-        <item>Filtriraj RFCOMM kanal</item>
+        <item>Ostavite samo ACL zaglavlja</item>
+        <item>Filtrirajte A2DP medijske pakete</item>
+        <item>Filtrirajte RFCOMM kanal</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
         <item>Onemogući</item>
         <item>Ispunite nizom znakova</item>
-        <item>Zadržite samo zaglavlje</item>
-        <item>Uklonite u potpunosti</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>Opširno</item>
-        <item>Otklanjanje pogrešaka</item>
-        <item>Informacije</item>
-        <item>Upozorenje</item>
-        <item>Pogreška</item>
+        <item>Ostavite samo zaglavlje</item>
+        <item>Potpuno ukloniti</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekunda</item>
@@ -451,11 +426,11 @@
         <item>Veoma velika veličina teksta</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Vrlo mala</item>
-        <item>Mala</item>
-        <item>Srednja</item>
-        <item>Velika</item>
-        <item>Vrlo velika</item>
+        <item>Vrlo mali</item>
+        <item>Mali</item>
+        <item>Srednje</item>
+        <item>Veliki</item>
+        <item>Vrlo veliki</item>
     </string-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
@@ -604,12 +579,6 @@
     <string-array name="fluency_mode_summaries">
         <item>Ubrzajte izvedbu uređaja</item>
         <item>Može usporiti izvedbu uređaja</item>
-    </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 inča</item>
@@ -921,7 +890,7 @@ Napomena: Za Ubuntu 8.04!"</item>
         <item>4000 (sigurno)</item>
         <item>4000 (povećanje razlučivosti)</item>
         <item>4000 (poveć. razlučiv., sigurno)</item>
-        <item>720 p, 1080 p (dvostruki zaslon)</item>
+        <item>720 p, 1080 p (dvojni zaslon)</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>Pune boje</item>
@@ -1236,13 +1205,22 @@ Napomena: Za Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>Pametna početna</item>
         <item>Ništa</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>Pametna početna</item>
         <item>Ništa</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Dopusti</item>
@@ -1363,6 +1341,12 @@ Napomena: Za Ubuntu 8.04!"</item>
         <item>Dodir</item>
         <item>Izravni dodir</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Pomaknite lijevo</item>
+        <item>Pomaknite dolje</item>
+        <item>Pomaknite desno</item>
+        <item>Pomaknite gore</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Punjenje</item>
         <item>MTP (protokol za prijenos medija)</item>
@@ -1448,10 +1432,6 @@ Napomena: Za Ubuntu 8.04!"</item>
         <item>Automatsko povezivanje</item>
         <item>Ručno povezivanje</item>
         <item>Uvijek pitaj</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>Pošalji naziv uređaja mreži</item>
-        <item>Nemoj slati naziv uređaja mreži</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Ne</item>

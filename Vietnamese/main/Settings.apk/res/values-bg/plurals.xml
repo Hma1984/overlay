@@ -72,6 +72,10 @@
         <item quantity="other">%d налични устройства</item>
         <item quantity="one">%d налично устройство</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">На всеки %d секунди</item>
         <item quantity="one">На всяка %d секунда</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Ограничено свързване за %s прил</item>
         <item quantity="one">Ограничено свързване за %s прил</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Wait for %d secs and try again</item>
-        <item quantity="one">Wait for %d sec and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d свързани потребителя</item>
@@ -172,14 +172,6 @@
         <item quantity="other">%d нови известия</item>
         <item quantity="one">%d ново известие</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d приложения, включително %1$s</item>
-        <item quantity="one">%2$d приложение, включително %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Около %d елемента на ден</item>
-        <item quantity="one">Около %d елемент на ден</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Промените ще бъдат приложени след %d сек</item>
         <item quantity="one">Промените ще бъдат приложени след %d сек</item>
@@ -191,10 +183,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">Избрани са %d елемента</item>
         <item quantity="one">Избран е %d елемент</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Търси %d приложения</item>
-        <item quantity="one">Търси %d приложение</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Вече сте на %1$d стъпки от това да влезете в CIT.</item>
@@ -211,6 +199,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Вече сте на %1$d стъпки от докладването на грешка.</item>
         <item quantity="one">Вече сте на %1$d стъпка от докладването на грешка.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d приложения могат да използват неограничено количество данни</item>
+        <item quantity="one">1 приложение може да използва неограничено количество данни</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d приложения не могат да показват известия</item>
@@ -319,5 +311,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Споделени са %d мрежи</item>
         <item quantity="one">Споделена е %d мрежа</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d свързани устройства</item>
+        <item quantity="one">%1$d свързано устройство</item>
     </plurals>
 </resources>

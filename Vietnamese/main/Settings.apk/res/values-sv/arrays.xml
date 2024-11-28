@@ -210,6 +210,7 @@
         <item>Äldre än 60 dagar</item>
         <item>Äldre än 90 dagar</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
         <item>Grafisk</item>
         <item>Procent (i ikonen)</item>
@@ -312,20 +313,6 @@
         <item>Optimerad för ljudkvalitet (900 kbps)</item>
         <item>Bästa försök (Automatisk bithastighet)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Använd systemval (standardinställning)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Använd systemval (standardinställning)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Använd Systemets inställning(Standard)</item>
         <item>SBC</item>
@@ -370,21 +357,16 @@
         <item>Spela upp på telefonens högtalare</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
+        <item>avrcp15</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6 (standard)</item>
+        <item>AVRCP 1.5 (standard)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>Inaktiverade</item>
-        <item>Unicast</item>
-        <item>Unicast och utsändning</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -410,22 +392,15 @@
         <item>Aktiverad</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Lämna bara ACL-rubriker</item>
-        <item>Filtrera A2DP-mediepaket</item>
+        <item>Lämna endast ACL-rubrik</item>
+        <item>Filtrera A2DP-mediapaket</item>
         <item>Filtrera RFCOMM-kanal</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>Inaktivera</item>
-        <item>Fyll med en sträng med tecken</item>
-        <item>Lämna bara rubriken</item>
-        <item>Ta bort fullständigt</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>Utförlig</item>
-        <item>Felsök</item>
-        <item>Information</item>
-        <item>Varning</item>
-        <item>Fel</item>
+        <item>Avaktivera</item>
+        <item>Fyll med trådar av tecken</item>
+        <item>Lämna endast rubrik</item>
+        <item>Ta bort helt</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekund</item>
@@ -604,12 +579,6 @@
     <string-array name="fluency_mode_summaries">
         <item>Förbättrar enhetens prestanda</item>
         <item>Kan sakta ner enhetens prestanda</item>
-    </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 tum</item>
@@ -921,7 +890,7 @@ Note: Bara för Ubuntu 8.04!"</item>
         <item>4K (säkert)</item>
         <item>4K (uppskalat)</item>
         <item>4K (uppskalat, säkert)</item>
-        <item>720 p, 1080 p (Dual Screen)</item>
+        <item>720 p, 1080 p (dubbla skärmar)</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>Alla färger</item>
@@ -1236,13 +1205,22 @@ Note: Bara för Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>Smart hem</item>
         <item>Inget</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>Smart hem</item>
         <item>Inget</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Tillåt</item>
@@ -1363,6 +1341,12 @@ Note: Bara för Ubuntu 8.04!"</item>
         <item>Tryck</item>
         <item>Direkttryck</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Flytta till vänster</item>
+        <item>Flytta ner</item>
+        <item>Flytta till höger</item>
+        <item>Flytta upp</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Laddar</item>
         <item>MTP (Media Transfer Protocol)</item>
@@ -1448,10 +1432,6 @@ Note: Bara för Ubuntu 8.04!"</item>
         <item>Anslut automatiskt</item>
         <item>Anslut manuellt</item>
         <item>Fråga alltid</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>Skicka enhetsnamn till nätverk</item>
-        <item>Skicka inte enhetsnamn till nätverk</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Nej</item>

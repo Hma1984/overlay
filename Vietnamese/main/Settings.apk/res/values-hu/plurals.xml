@@ -9,16 +9,16 @@
         <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
-        <item quantity="one">Half an hour ago</item>
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">%d órán belül</item>
         <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
-        <item quantity="one">In half an hour</item>
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Azonnal</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Immediately</item>
-        <item quantity="one">Immediately</item>
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
@@ -72,6 +72,10 @@
         <item quantity="other">%d elérhető készülék</item>
         <item quantity="one">%d elérhető készülék</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Minden %d. másodperc</item>
         <item quantity="one">Minden %d. másodperc</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s alkalmazás kapcsolata korlátozva</item>
         <item quantity="one">%s alkalmazás kapcsolata korlátozva</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Várjon %d mp-et, és próbálja meg újra</item>
-        <item quantity="one">Várjon %d mp-et, és próbálja meg újra</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d felhasználó csatlakozott</item>
@@ -172,14 +172,6 @@
         <item quantity="other">%d új értesítés</item>
         <item quantity="one">%d új értesítés</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d alkalmazás, beleértve: %1$s</item>
-        <item quantity="one">%2$d alkalmazás, beleértve: %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Naponta %d elemről</item>
-        <item quantity="one">Naponta %d elemről</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">A módosítások %d másodperc múlva lesznek alkalmazva</item>
         <item quantity="one">A módosítások %d másodperc múlva lesznek alkalmazva</item>
@@ -191,10 +183,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">%d alkalmazás keresése</item>
-        <item quantity="one">%d alkalmazás keresése</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">%1$d lépésre van a CIT-hardvertesztbe való belépéstől.</item>
@@ -211,6 +199,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">%1$d lépésre van a hibajelentéstől.</item>
         <item quantity="one">%1$d lépésre van a hibajelentéstől.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d alkalmazás rendelkezik korlátlan adathozzáféréssel</item>
+        <item quantity="one">1 alkalmazás rendelkezik korlátlan adathozzáféréssel</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d alkalmazás nem jeleníthet meg értesítéseket</item>
@@ -319,5 +311,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d hálózat megosztva</item>
         <item quantity="one">%d hálózat megosztva</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d készülék csatlakoztatva</item>
+        <item quantity="one">%1$d készülék csatlakoztatva</item>
     </plurals>
 </resources>

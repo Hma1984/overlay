@@ -72,6 +72,10 @@
         <item quantity="other">%d dispositius disponibles</item>
         <item quantity="one">%d dispositiu disponible</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d segons</item>
+        <item quantity="one">%d segon</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Cada %d segons</item>
         <item quantity="one">Cada %d segon</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Connexió limitada per les aplicacions %s</item>
         <item quantity="one">"Connexió limitada per l'aplicació %s"</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Espereu %d segons i torneu-ho a provar</item>
-        <item quantity="one">Espereu %d segon i torneu-ho a provar</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d usuaris connectats</item>
@@ -172,14 +172,6 @@
         <item quantity="other">%d notificacions noves</item>
         <item quantity="one">%d notificació nova</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d aplicacions que inclouen %1$s</item>
-        <item quantity="one">%2$d aplicació que inclou %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Al voltant de %d elements al dia</item>
-        <item quantity="one">Al voltant de %d element al dia</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">"Els canvis s'aplicaran en %d s"</item>
         <item quantity="one">"Els canvis s'aplicaran en %d s"</item>
@@ -191,10 +183,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">"S'han seleccionat %d elements"</item>
         <item quantity="one">"S'ha seleccionat %d element"</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Cerca %d aplicacions</item>
-        <item quantity="one">Cerca %d aplicació</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Sou a %1$d passos d'entrar al CIT."</item>
@@ -211,6 +199,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">"Sou a %1$d passos d'informar d'un error."</item>
         <item quantity="one">"Sou a %1$d pas d'informar d'un error."</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d aplicacions poden utilitzar dades sense restricció</item>
+        <item quantity="one">1 aplicació pot utilitzar dades sense restricció</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d aplicacions no poden mostrar notificacions</item>
@@ -319,5 +311,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">"S'han compartit %d xarxes"</item>
         <item quantity="one">%d xarxa compartida</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositius connectats</item>
+        <item quantity="one">%1$d dispositiu connectat</item>
     </plurals>
 </resources>

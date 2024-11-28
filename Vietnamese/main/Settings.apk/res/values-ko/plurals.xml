@@ -57,6 +57,9 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d개 기기 사용 가능</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d초</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">%d초마다</item>
     </plurals>
@@ -65,9 +68,6 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">%s개 앱의 연결 제한됨</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">%d초 후 다시 시도</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d명의 사람이 연결됨</item>
@@ -134,12 +134,6 @@
         <item quantity="other">새 알림 %d개</item>
         <item quantity="one">새 알림 %d개</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%1$s을(를) 포함하는 %2$d개 앱</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">하루에 약 %d개 항목</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">변경 사항이 %d초 후에 적용됩니다</item>
     </plurals>
@@ -148,9 +142,6 @@
     </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d개 항목 선택됨</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">%d개 앱 검색</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT 입력까지 %1$d단계 남았습니다.</item>
@@ -163,6 +154,10 @@
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">버그 신고까지 %1$d단계 남았습니다.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">앱 %d개에서 무제한 데이터 사용 가능</item>
+        <item quantity="one">앱 1개에서 무제한 데이터 사용 가능</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d개 앱의 알림을 표시하지 않습니다</item>
@@ -244,5 +239,8 @@
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d개 네트워크 공유됨</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d개 기기 연결됨</item>
     </plurals>
 </resources>

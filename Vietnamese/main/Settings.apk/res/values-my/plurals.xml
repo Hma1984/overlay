@@ -20,4 +20,8 @@
         <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
         <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
     </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">အက်ပ် %d ခုက ဒေတာကို အကန့်အသတ်မရှိ သုံးနိုင်သည်</item>
+        <item quantity="one">အက်ပ် ၁ ခုက ဒေတာကို အကန့်အသတ်မရှိ သုံးနိုင်သည်</item>
+    </plurals>
 </resources>

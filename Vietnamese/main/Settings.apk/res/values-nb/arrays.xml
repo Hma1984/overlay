@@ -210,6 +210,7 @@
         <item>Over 60 dager gamle</item>
         <item>Over 90 dager gamle</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
         <item>Grafisk</item>
         <item>Prosent (i ikonet)</item>
@@ -312,20 +313,6 @@
         <item>Optimalisert for lydkvalitet (900 kbps)</item>
         <item>Beste forsøk (automatisk bitfrekvens)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Bruk systemvalg (standard)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Bruk systemvalg (standard)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Bruk systemvalg (Standard)</item>
         <item>SBC</item>
@@ -370,21 +357,16 @@
         <item>Spill av på telefonhøyttaler</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
+        <item>avrcp15</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6 (standard)</item>
+        <item>AVRCP 1.5 (standard)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>Disabled</item>
-        <item>Unicast</item>
-        <item>Unicast and Broadcast</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -410,22 +392,15 @@
         <item>Slått på</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>La bare ACL-hoder være igjen</item>
+        <item>Etterlat bare ACL-headers</item>
         <item>Filtrer A2DP-mediepakker</item>
-        <item>Filtrer RFCOMM-kanalen</item>
+        <item>Filtrer RFCOMM-kanal</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
         <item>Deaktiver</item>
-        <item>Fyll med en streng med tegn</item>
-        <item>La bare hodet være igjen</item>
+        <item>Fyll med streng med tegn</item>
+        <item>Etterlat bare header</item>
         <item>Fjern fullstendig</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>Omfattende</item>
-        <item>Feilsøk</item>
-        <item>Informasjon</item>
-        <item>Advar</item>
-        <item>Feil</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekund</item>
@@ -604,12 +579,6 @@
     <string-array name="fluency_mode_summaries">
         <item>Gjør at enhetens ytelse blir raskere</item>
         <item>Kan føre til at enhetens ytelse blir tregere</item>
-    </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 tommer</item>
@@ -921,7 +890,7 @@ Note: Kun for Ubuntu 8.04!"</item>
         <item>4K (sikker)</item>
         <item>4K (oppskalert)</item>
         <item>4K (oppskalert, sikker)</item>
-        <item>720p, 1080p (Dual Screen)</item>
+        <item>720p, 1080p (dobbel skjerm)</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>Alle farger</item>
@@ -1236,13 +1205,22 @@ Note: Kun for Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>Smarthjem</item>
         <item>Ingen</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>Smarthjem</item>
         <item>Ingen</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Tillat</item>
@@ -1363,6 +1341,12 @@ Note: Kun for Ubuntu 8.04!"</item>
         <item>Berøring</item>
         <item>Direkte berøring</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Flytt mot venstre</item>
+        <item>Flytt ned</item>
+        <item>Flytt mot høyre</item>
+        <item>Flytt opp</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Lader</item>
         <item>MTP (Media Transfer Protocol)</item>
@@ -1448,10 +1432,6 @@ Note: Kun for Ubuntu 8.04!"</item>
         <item>Automatisk tilkobling</item>
         <item>Manuell tilkobling</item>
         <item>Spør hver gang</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>Send enhetsnavn til nettverk</item>
-        <item>Ikke send enhetsnavn til nettverk</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Nei</item>

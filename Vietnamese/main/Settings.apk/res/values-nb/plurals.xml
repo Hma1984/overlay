@@ -72,6 +72,10 @@
         <item quantity="other">%d tilgjengelige enheter</item>
         <item quantity="one">%d tilgjengelig enhet</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Hvert %d sekund</item>
         <item quantity="one">Hvert %d sekund</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Begrenser tilkobling for %s apper</item>
         <item quantity="one">Begrenser tilkobling for %s app</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Wait for %d secs and try again</item>
-        <item quantity="one">Wait for %d sec and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d personer tilkoblet</item>
@@ -172,14 +172,6 @@
         <item quantity="other">%d nye varsler</item>
         <item quantity="one">%d nytt varsel</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d apper, inkludert %1$s</item>
-        <item quantity="one">%2$d app, inkludert %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Omtrent %d elementer pr. dag</item>
-        <item quantity="one">Omtrent %d element pr. dag</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Endringer tas i bruk om %d sek</item>
         <item quantity="one">Endringer tas i bruk om %d sek</item>
@@ -191,10 +183,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d elementer valgt</item>
         <item quantity="one">%d element valgt</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Search %d apper</item>
-        <item quantity="one">Søk i %d app</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Du er %1$d steg unna å gå inn på CIT.</item>
@@ -211,6 +199,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Du er %1$d steg unna å rapportere feil.</item>
         <item quantity="one">Du er %1$d steg unna å rapportere feil.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d apper kan bruke ubegrenset med data</item>
+        <item quantity="one">1 app kan bruke ubegrenset med data</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d apper kan ikke vise varsler</item>
@@ -319,5 +311,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Delte %d nettverk</item>
         <item quantity="one">Delte %d nettverk</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d enheter tilkoblet</item>
+        <item quantity="one">%1$d enhet tilkoblet</item>
     </plurals>
 </resources>

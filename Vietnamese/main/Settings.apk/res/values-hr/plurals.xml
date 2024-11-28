@@ -90,6 +90,11 @@
         <item quantity="one">%d dostupni uređaj</item>
         <item quantity="few">%d dostupna uređaja</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Svakih %d sekundi</item>
         <item quantity="one">Svaku %d sekundu</item>
@@ -104,11 +109,6 @@
         <item quantity="other">Ograničena veza za %s apl</item>
         <item quantity="one">Ograničena veza za %s apl</item>
         <item quantity="few">Ograničena veza za %s apl</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Pričekajte %d sekundi i pokušajte ponovo</item>
-        <item quantity="one">Pričekajte %d sekundu i pokušajte ponovo</item>
-        <item quantity="few">Pričekajte %d sekunde i pokušajte ponovo</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d osoba povezano</item>
@@ -215,16 +215,6 @@
         <item quantity="one">%d nova obavijest</item>
         <item quantity="few">%d nove obavijesti</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d aplikacija, uključujući %1$s</item>
-        <item quantity="one">%2$d aplikacija, uključujući %1$s</item>
-        <item quantity="few">%2$d aplikacije, uključujući %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Oko %d stavki na dan</item>
-        <item quantity="one">Oko %d stavka na dan</item>
-        <item quantity="few">Oko %d stavke na dan</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Promjene će se primijeniti za %d s</item>
         <item quantity="one">Promjene će se primijeniti za %d s</item>
@@ -239,11 +229,6 @@
         <item quantity="other">Odabrano %d stavki</item>
         <item quantity="one">Odabrana %d stavka</item>
         <item quantity="few">Odabrane %d stavke</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Pretraži %d aplikacija</item>
-        <item quantity="one">Pretraži %d aplikaciju</item>
-        <item quantity="few">Pretraži %d aplikacije</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Još %1$d koraka do ulaska u CIT.</item>
@@ -264,6 +249,11 @@
         <item quantity="other">Još %1$d koraka do ulaska u prijavljivanja grešaka.</item>
         <item quantity="one">Još %1$d korak do ulaska u prijavljivanja grešaka</item>
         <item quantity="few">Još %1$d koraka do ulaska u prijavljivanja grešaka.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d aplikacija može upotrebljavati neograničene podatke</item>
+        <item quantity="one">%d aplikacija može upotrebljavati neograničene podatke</item>
+        <item quantity="few">%d aplikacije mogu upotrebljavati neograničene podatke</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d aplikacija ne može prikazivati obavijesti</item>
@@ -399,5 +389,10 @@
         <item quantity="other">Podijeljeno %d mreža</item>
         <item quantity="one">Podijeljena %d mreža</item>
         <item quantity="few">Podijeljene %d mreže</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d uređaja povezano</item>
+        <item quantity="one">%1$d uređaj povezan</item>
+        <item quantity="few">%1$d uređaja povezana</item>
     </plurals>
 </resources>

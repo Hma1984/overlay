@@ -108,6 +108,12 @@
         <item quantity="few">%d dostupné zariadenia</item>
         <item quantity="many">%d dostupného zariadenia</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekúnd</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Každých %d sekúnd</item>
         <item quantity="one">Každú %d sekundu</item>
@@ -125,12 +131,6 @@
         <item quantity="one">Pripojenie obmedzené pre %s aplikáciu</item>
         <item quantity="few">Pripojenie obmedzené pre %s aplikácie</item>
         <item quantity="many">Pripojenie obmedzené pre %s aplikácie</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Počkajte %d sek. a skúste to znova</item>
-        <item quantity="one">Počkajte %d sek. a skúste to znova</item>
-        <item quantity="few">Počkajte %d sek. a skúste to znova</item>
-        <item quantity="many">Počkajte %d sek. a skúste to znova</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">Pripojených %1$d osôb</item>
@@ -258,18 +258,6 @@
         <item quantity="few">%d nové upozornenia</item>
         <item quantity="many">%d new notifications</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d aplikácií vrátane %1$s</item>
-        <item quantity="one">%2$d aplikácia vrátane %1$s</item>
-        <item quantity="few">%2$d aplikácie vrátane %1$s</item>
-        <item quantity="many">%2$d aplikácií vrátane %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Približne %d položiek denne</item>
-        <item quantity="one">Približne %d položka denne</item>
-        <item quantity="few">Približne %d položky denne</item>
-        <item quantity="many">Približne %d položky denne</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Zmeny sa použijú za %d sek.</item>
         <item quantity="one">Zmeny sa použijú za %d sek.</item>
@@ -287,12 +275,6 @@
         <item quantity="one">Vybraná %d položka</item>
         <item quantity="few">Vybrané %d položky</item>
         <item quantity="many">Vybranej %d položky</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Vyhľadať %d aplikácií</item>
-        <item quantity="one">Vyhľadať %d aplikáciu</item>
-        <item quantity="few">Vyhľadať %d aplikácie</item>
-        <item quantity="many">Vyhľadať %d aplikácie</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Ste %1$d krokov od vstupu do CIT.</item>
@@ -317,6 +299,12 @@
         <item quantity="one">Ste %1$d krok od nahlásenia chyby.</item>
         <item quantity="few">Ste %1$d kroky od nahlásenia chyby.</item>
         <item quantity="many">Ste %1$d kroku od nahlásenia chyby.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">Neobmedzené dáta môže používať %d aplikácií</item>
+        <item quantity="one">Neobmedzené dáta môže používať 1 aplikácia</item>
+        <item quantity="few">Neobmedzené dáta môžu používať %d aplikácie</item>
+        <item quantity="many">Neobmedzené dáta môže používať %d aplikácie</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d aplikácií nemôže zobrazovať upozornenia</item>
@@ -479,5 +467,11 @@
         <item quantity="one">Zdieľaná %d sieť</item>
         <item quantity="few">Zdieľané %d siete</item>
         <item quantity="many">Zdieľanej %d siete</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d pripojených zariadení</item>
+        <item quantity="one">%1$d pripojené zariadenie</item>
+        <item quantity="few">%1$d pripojené zariadenia</item>
+        <item quantity="many">%1$d pripojeného zariadenia</item>
     </plurals>
 </resources>

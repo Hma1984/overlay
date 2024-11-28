@@ -72,6 +72,10 @@
         <item quantity="other">%d tillgängliga enheter</item>
         <item quantity="one">%d tillgänglig enhet</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Var %d sekund</item>
         <item quantity="one">Var %d sekund</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Begränsad anslutning för %s appar</item>
         <item quantity="one">Begränsad anslutning för %s app</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Vänta i %d sek och försök igen</item>
-        <item quantity="one">Vänta i %d sek och försök igen</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d användare ansluten</item>
@@ -172,14 +172,6 @@
         <item quantity="other">%d nya aviseringar</item>
         <item quantity="one">%d ny avisering</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d appar, inklusive %1$s</item>
-        <item quantity="one">%2$d app, inklusive %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Cirka %d objekt om dagen</item>
-        <item quantity="one">Cirka %d objekt om dagen</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Förändringar kommer att göras om %d sekunder</item>
         <item quantity="one">Förändringar kommer att genomföras om %d sekund</item>
@@ -191,10 +183,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">Valde %d objekt</item>
         <item quantity="one">Valde %d objekt</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Sök efter %d appar</item>
-        <item quantity="one">Sök efter %d app</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Du är %1$d steg från att gå in i CIT.</item>
@@ -211,6 +199,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Du har %1$d steg kvar från att rapportera bugg.</item>
         <item quantity="one">Du har %1$d steg kvar från att rapportera bugg.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d appar får använda obegränsad data</item>
+        <item quantity="one">1 app får använda obegränsad data</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d appar kan inte visa notifikationer</item>
@@ -319,5 +311,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Delade %d nätverk</item>
         <item quantity="one">Delade %d nätverk</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d enheter anslutna</item>
+        <item quantity="one">%1$d enhet ansluten</item>
     </plurals>
 </resources>

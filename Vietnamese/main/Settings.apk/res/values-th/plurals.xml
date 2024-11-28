@@ -57,6 +57,9 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d อุปกรณ์ที่พบ</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d วินาที</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">ทุก %d วินาที</item>
     </plurals>
@@ -65,9 +68,6 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">จำกัดการเชื่อมต่อสำหรับ %s แอป</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">รอ %d วินาทีแล้วลองอีกครั้ง</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d คนเชื่อมต่ออยู่</item>
@@ -134,12 +134,6 @@
         <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
         <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d แอป รวมถึง %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">เกี่ยวกับ %d รายการต่อวัน</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">การเปลี่ยนแปลงจะมีผลใน %d วินาที</item>
     </plurals>
@@ -148,9 +142,6 @@
     </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">เลือกไว้ %d รายการ</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">ค้นหา %d แอป</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการเข้าสู่ข้อมูลเครื่องโทรศัพท์</item>
@@ -163,6 +154,10 @@
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">ยังเหลืออีก %1$d ขั้นตอนในการส่งรายงานปัญหา</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">ใช้อินเทอร์เน็ตได้ไม่จำกัด %d แอป</item>
+        <item quantity="one">ใช้อินเทอร์เน็ตได้ไม่จำกัด 1 แอป</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d แอปไม่สามารถแจ้งเตือนได้</item>
@@ -244,5 +239,8 @@
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">แชร์แล้ว %d เครือข่าย</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">เชื่อมต่ออุปกรณ์ %1$d แล้ว</item>
     </plurals>
 </resources>

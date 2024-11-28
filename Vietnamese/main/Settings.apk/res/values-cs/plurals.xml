@@ -108,6 +108,12 @@
         <item quantity="few">%d dostupná zařízení</item>
         <item quantity="many">%d dostupného zařízení</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Každých %d sekund</item>
         <item quantity="one">Každou %d sekundu</item>
@@ -125,12 +131,6 @@
         <item quantity="one">Připojení je zakázáno pro %s aplikaci</item>
         <item quantity="few">Připojení je zakázáno pro %s aplikace</item>
         <item quantity="many">Připojení je zakázáno pro %s aplikace</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Počkejte %d s a poté to zkuste znovu</item>
-        <item quantity="one">Počkejte %d s a poté to zkuste znovu</item>
-        <item quantity="few">Počkejte %d s a poté to zkuste znovu</item>
-        <item quantity="many">Počkejte %d s a poté to zkuste znovu</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">Připojeno %1$d lidí</item>
@@ -258,18 +258,6 @@
         <item quantity="few">%d nová oznámení</item>
         <item quantity="many">%d nového oznámení</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d aplikací, včetně %1$s</item>
-        <item quantity="one">%2$d aplikace, včetně %1$s</item>
-        <item quantity="few">%2$d aplikace, včetně %1$s</item>
-        <item quantity="many">%2$d aplikací, včetně %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Okolo %d položek denně</item>
-        <item quantity="one">Okolo %d položky denně</item>
-        <item quantity="few">Okolo %d položek denně</item>
-        <item quantity="many">Okolo %d položek denně</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Změny budou použity za %d s</item>
         <item quantity="one">Změny budou použity za %d s</item>
@@ -287,12 +275,6 @@
         <item quantity="one">Vybrána %d položka</item>
         <item quantity="few">Vybrány %d položky</item>
         <item quantity="many">Vybráno %d položky</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Vyhledat %d aplikací</item>
-        <item quantity="one">Vyhledat %d aplikaci</item>
-        <item quantity="few">Vyhledat %d aplikace</item>
-        <item quantity="many">Vyhledat %d aplikací</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Jste %1$d kroků od vstupu do CIT.</item>
@@ -317,6 +299,12 @@
         <item quantity="one">Jste %1$d krok od nahlášení chyby.</item>
         <item quantity="few">Jste %1$d kroky od nahlášení chyby.</item>
         <item quantity="many">Jste %1$d kroku od nahlášení chyby.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d aplikací může využívat neomezená data</item>
+        <item quantity="one">1 aplikace může využívat neomezená data</item>
+        <item quantity="few">%d aplikace mohou využívat neomezená data</item>
+        <item quantity="many">%d aplikace může využívat neomezená data</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d aplikací nemůže zobrazovat oznámení</item>
@@ -479,5 +467,11 @@
         <item quantity="one">%d sdílená síť</item>
         <item quantity="few">%d sdílené sítě</item>
         <item quantity="many">%d sdílených sítí</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d zařízení připojena</item>
+        <item quantity="one">%1$d zařízení připojeno</item>
+        <item quantity="few">%1$d zařízení připojených</item>
+        <item quantity="many">%1$d zařízení připojených</item>
     </plurals>
 </resources>

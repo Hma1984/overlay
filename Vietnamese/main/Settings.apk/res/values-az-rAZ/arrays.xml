@@ -114,6 +114,17 @@
         <item>" | Aktiv (media)"</item>
         <item>" | Aktiv (telefon)"</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Yalnız ACL başlıqlarını buraxın</item>
+        <item>A2DP media paketlərini filtrlə</item>
+        <item>RFCOMM kanalını filtrlə</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Söndür</item>
+        <item>Simvol sətri ilə doldurun</item>
+        <item>Yalnız başlığı buraxın</item>
+        <item>Tamamilə çıxarın</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 saniyə</item>
         <item>2 saniyə</item>
@@ -676,13 +687,22 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>Ağıllı ev</item>
         <item>Yoxdur</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>Ağıllı ev</item>
         <item>Yoxdur</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>İcazə ver</item>
@@ -762,6 +782,12 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Standart</item>
         <item>Toxun</item>
         <item>Birbaşa toxunma</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Sola hərəkət et</item>
+        <item>Aşağı hərəkət et</item>
+        <item>Sağa hərəkət et</item>
+        <item>Yuxarı hərəkət et</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Qoşulduqda soruş</item>

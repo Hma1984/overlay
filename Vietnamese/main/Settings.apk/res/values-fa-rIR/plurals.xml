@@ -60,6 +60,10 @@
         <item quantity="other">%d دستگاه موجود</item>
         <item quantity="one">%d دستگاه موجود</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">هر %d ثانیه</item>
         <item quantity="one">هر %d ثانیه</item>
@@ -71,10 +75,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">محدود کردن اتصال برای %s برنامه</item>
         <item quantity="one">محدود کردن اتصال برای %s برنامه</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">%d ثانیه صبر کنید و دوباره امتحان کنید</item>
-        <item quantity="one">%d ثانیه صبر کنید و دوباره امتحان کنید</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d نفر وصل شدند</item>
@@ -152,14 +152,6 @@
         <item quantity="other">%d مورد انتخاب شد</item>
         <item quantity="one">%d مورد انتخاب شد</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d برنامه شامل %1$s</item>
-        <item quantity="one">%2$d برنامه شامل %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">درباره %d مورد در روز</item>
-        <item quantity="one">درباره %d مورد در روز</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">تغییرات تا %d ثانیه دیگر به‌کار برده خواهند شد</item>
         <item quantity="one">تغییرات تا %d ثانیه دیگر به‌کار برده خواهند شد</item>
@@ -171,10 +163,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d مورد انتخاب شد</item>
         <item quantity="one">%d مورد انتخاب شد</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">جستجو %d برنامه</item>
-        <item quantity="one">جستجو %d برنامه</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">شما %1$d گام با ورود به CIT فاصله دارید.</item>
@@ -299,5 +287,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d شبکه هم‌رسانی شد</item>
         <item quantity="one">%d شبکه هم‌رسانی شد</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d دستگاه وصل است</item>
+        <item quantity="one">%1$d دستگاه وصل است</item>
     </plurals>
 </resources>

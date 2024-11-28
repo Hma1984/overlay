@@ -60,12 +60,6 @@
     <string name="account_other">אחר</string>
     <string name="account_settings_menu_auto_sync">סנכרון נתונים אוטומטי</string>
     <string name="account_settings_title">גוגל וחשבונות</string>
-    <string name="account_user_avatar">תמונת פרופיל</string>
-    <string name="account_user_avatar_from_album">גלריה</string>
-    <string name="account_user_avatar_from_camera">מצלמה</string>
-    <string name="account_user_name">שם</string>
-    <string name="account_user_name_dialog_title">הוספת שם</string>
-    <string name="account_user_title">מידע אישי</string>
     <string name="acount_data">חשבונות</string>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="activating">מפעיל…</string>
@@ -121,12 +115,9 @@
     <string name="agps_roaming_dia">שימוש ב-A-GPS בזמן נדידה עשוי להגדיל את צריכת הנתונים שלך. חריגה ממגבלת חבילת הגלישה שלך עשויה להיות כרוכה בחיובים נוספים.</string>
     <string name="agps_roaming_dia_title">השתמש ב-A-GPS בעת נדידה</string>
     <string name="agps_roaming_summary">השתמש בנתונים סלולריים על מנת לסייע ל-GPS בעת נדידה</string>
-    <string name="agree_btn">מסכים</string>
-    <string name="agree_scanner_app_use">סריקת קודי QR וזיהוי תמונות. מאפיינים מסוימים זקוקים לגישה למיקום, לשימוש במצלמה או לצילום מסך.</string>
     <string name="ai_button_title">כפתור Mi AI</string>
     <string name="ai_button_title_global">כפתור AI</string>
     <string name="ai_call_assistant">שיחות AI</string>
-    <string name="ai_services_title">שירותי AI</string>
     <string name="ai_settings_click_title">לחץ</string>
     <string name="ai_settings_double_click_category">לחיצה כפולה על כפתור AI</string>
     <string name="ai_settings_double_click_title">לחיצה כפולה</string>
@@ -146,6 +137,8 @@
     <string name="allow_keyguard_summary">לאפשר התראות על מסך הנעילה</string>
     <string name="allow_keyguard_title">התראות מסך נעילה</string>
     <string name="allow_lights_title">נורית התראה</string>
+    <string name="allow_oaid_used">השתמש במזהה וירטואלי</string>
+    <string name="allow_oaid_used_desc">MIUI לא תספק מזהה וירטואלי (OAID) לאפליקציות מותקנות. ייתכן כי תכונות מסוימות המבוססות על המלצות אישיות לא יעבדו עקב כך.</string>
     <string name="allow_ongoing_title">התראות קבועות</string>
     <string name="allow_sound_title">קול</string>
     <string name="allow_vibrate_title">רטט</string>
@@ -167,8 +160,6 @@
     <string name="android_beam_settings_title">Mi Beam</string>
     <string name="android_beam_tips">ודא כי שני המכשירים נוגעים זה בזה, ואז לחץ על התוכן שברצונך להעביר.</string>
     <string name="android_beam_witch_label">Mi Beam</string>
-    <string name="android_ringtone_silent">אין</string>
-    <string name="android_ringtone_unknown">צלצול לא מוכר</string>
     <string name="anti_spam">רשימת החסומים</string>
     <string name="aod_and_lock_screen_settings_title">תצוגה תמידית ומסך נעילה</string>
     <string name="aod_close_color_inversion">האפשרות הזו לא עובדת עם היפוך צבעים. יש לכבות את היפוך הצבעים תחילה.</string>
@@ -183,56 +174,6 @@
     <string name="aod_style_description">הצג שעון, תאריך, שעה, התראות ופריטים אחרים כאשר המסך מכובה</string>
     <string name="aod_style_title">סגנון</string>
     <string name="aod_to_close">כיבוי</string>
-    <string name="aon_gesture_cue_tone_summary">להשמיע צליל אישור בכל זיהוי של כף היד שלך</string>
-    <string name="aon_gesture_cue_tone_title">להשמיע צליל אישור</string>
-    <string name="aon_gesture_dialog_message">כאשר מאפיין זה מופעל, מכשיר זה יזהה וינתח את המחוות שלך. לא יתבצע עיבוד של המידע האישי שלך, והנתונים לא יאוחסנו במכשיר או בענן.</string>
-    <string name="aon_gesture_dialog_title">הצהרת פרטיות</string>
-    <string name="aon_gesture_double_press_diagram_summary" formatted="false">יש למקם את כף היד במרחק %d–%d ס\"מ מהמצלמה, כך שהאצבעות מופנות כלפי מעלה, ואז לעצור. כשיופיע סמל כף היד, בצעו תנועה של לחיצה כפולה כדי לנגן מדיה או להשהות ניגון של מדיה.</string>
-    <string name="aon_gesture_double_press_diagram_title">יש לבצע תנועת לחיצה כפולה מול המסך</string>
-    <string name="aon_gesture_double_press_summary">ניגון והשהיית ניגון</string>
-    <string name="aon_gesture_double_press_title">ביצוע תנועה של לחיצה כפולה</string>
-    <string name="aon_gesture_down_waving_diagram_summary" formatted="false">יש למקם את כף היד במרחק %d–%d ס\"מ מהמצלמה, כך שהאצבעות מופנות כלפי מעלה, ואז לעצור. כשיופיע סמל כף היד, נופפו ביד כלפי מטה.</string>
-    <string name="aon_gesture_down_waving_diagram_title">יש לנופף כלפי מטה מול המסך</string>
-    <string name="aon_gesture_draw_circle_summary_pad">מענה לשיחות או סיום שיחות שהועברו לטאבלט</string>
-    <string name="aon_gesture_draw_circle_summary_phone">מענה לשיחות וסיום שיחות</string>
-    <string name="aon_gesture_draw_circle_title">ציור מעגל</string>
-    <string name="aon_gesture_enable_summary" formatted="false">יש להחזיק את כף היד במרחק של %d to %d ס\"מ מהמצלמה ולבצע את המחוות לאחר הופעת סמל כף היד בחלק העליון של המסך</string>
-    <string name="aon_gesture_learn_double_press_title">ללמוד את המחווה \"תנועת לחיצה כפולה\"</string>
-    <string name="aon_gesture_learn_left_right_waving_title">ללמוד את המחווה \"לנופף בקו אופקי\"</string>
-    <string name="aon_gesture_learn_title">למידת מחוות</string>
-    <string name="aon_gesture_learn_up_down_waving_title">ללמוד את המחווה \"לנופף בקו אנכי\"</string>
-    <string name="aon_gesture_learning_dialog_title">ללמוד את המחוות עכשיו?</string>
-    <string name="aon_gesture_learning_toast">תמיד ניתן ללמוד את המחוות מאוחר יותר</string>
-    <string name="aon_gesture_left_right_waving_summary">כוונון של התקדמות ההשמעה ומעבר בין שירים</string>
-    <string name="aon_gesture_left_right_waving_title">לנופף בקו אופקי</string>
-    <string name="aon_gesture_left_waving_diagram_summary" formatted="false">יש למקם את כף היד במרחק %d–%d ס\"מ מהמצלמה, כך שהאצבעות מופנות ימינה, ואז לעצור. כשיופיע סמל כף היד, נופפו ביד שמאלה.</string>
-    <string name="aon_gesture_left_waving_diagram_title">יש לנופף שמאלה מול המסך</string>
-    <string name="aon_gesture_right_waving_diagram_summary" formatted="false">יש למקם את כף היד במרחק %d–%d ס\"מ מהמצלמה, כך שהאצבעות מופנות שמאלה, ואז לעצור. כשיופיע סמל כף היד, נופפו ביד ימינה.</string>
-    <string name="aon_gesture_right_waving_diagram_title">יש לנופף ימינה מול המסך</string>
-    <string name="aon_gesture_settings">מחוות ללא מגע</string>
-    <string name="aon_gesture_status_close">מושבתת</string>
-    <string name="aon_gesture_status_not_open">מושבת</string>
-    <string name="aon_gesture_status_open">מופעלת</string>
-    <string name="aon_gesture_supported_app_title">יישומים נתמכים</string>
-    <string name="aon_gesture_supported_title">מחוות זמינות</string>
-    <string name="aon_gesture_up_down_waving_summary">כוונון עוצמת המדיה, מעבר בין סרטונים קצרים והעברת דפים במסמכים</string>
-    <string name="aon_gesture_up_down_waving_title">לנופף בקו אנכי</string>
-    <string name="aon_gesture_up_waving_diagram_summary" formatted="false">יש למקם את כף היד במרחק %d–%d ס\"מ מהמצלמה, כך שהאצבעות מופנות כלפי מטה, ואז לעצור. כשיופיע סמל כף היד, נופפו ביד כלפי מעלה.</string>
-    <string name="aon_gesture_up_waving_diagram_title">יש לנופף כלפי מעלה מול המסך</string>
-    <string name="aon_scanner_default_payment_method_title">ברירת המחדל לאמצעי תשלום</string>
-    <string name="aon_scanner_dialog_message">"בהפעלת 'סריקה מהירה', קודי ה-QR שתסרקו ישותפו עם Mi AI Scanner. לפני שתמשיכו, ודאו שאתם מבינים זאת ומסכימים לכך. קודי ה-QR שתסרקו לא יאוחסנו במכשיר ולא יועלו לענן. שימו לב כי שימוש במאפיין זה עשוי להגדיל במעט את צריכת החשמל הכללית."</string>
-    <string name="aon_scanner_dialog_message_new">בשימוש בסורק המהיר, קודי ה-QR שנסרקו ישותפו עם סורק AI. מידע זה לא יאוחסן במכשיר שלכם, ולא יועלה לענן. הפעלת המאפיין הזה תביא לעלייה קלה בצריכת החשמל.</string>
-    <string name="aon_scanner_dialog_title">הצהרת פרטיות</string>
-    <string name="aon_scanner_disclaimer_message">"המאפיין 'סריקה מהירה' מציע דרך מהירה וקלה לסרוק קודי QR. לאחר הפעלת מאפיין זה, ניתן לסרוק קודי QR במהירות ולעבור ישירות לדף הרלוונטי. לפני הסריקה, ודאו שאתם מבינים היטב את התוכן והשירותים המסופקים על-ידי קוד ה-QR. החליטו אם אתם רוצים לסרוק את הקוד או להמשיך לקישור השירות של הצד השלישי. אם תבחרו בגישה לשירות הצד השלישי, כל ההשלכות והסיכונים המשפטיים הם באחריותכם. שימו לב כי Xiaomi אינה נותנת כל אחריות או התחייבות, מפורשת או מרומזת, לתוכן קוד ה-QR, למוצרים ולשירותים שמוצעים על-ידי צדדים שלישיים."</string>
-    <string name="aon_scanner_disclaimer_title">כתב ויתור</string>
-    <string name="aon_scanner_download_message">"המאפיין 'סריקה מהירה' משתמש ב-Mi AI Scanner כדי לספק את שירותיו. משמעות הדבר היא שקודי ה-QR שתסרקו ישותפו עם Mi AI Scanner. לפני שתמשיכו להתקנה, ודאו שאתם מבינים זאת ומסכימים לכך."</string>
-    <string name="aon_scanner_download_message_new">מאחר ששירותי הסורק המהיר מסופקים על-ידי סורק AI, אנו צריכים לשתף את קודי ה-QR שנסרקו עם סורק AI. יש להתקין את סורק AI כדי להמשיך.</string>
-    <string name="aon_scanner_download_title">התקנת Mi AI Scanner</string>
-    <string name="aon_scanner_download_title_new">התקנת סורק AI.</string>
-    <string name="aon_scanner_settings">סריקה מהירה</string>
-    <string name="aon_scanner_status_close">כבוי</string>
-    <string name="aon_scanner_status_open">פעיל</string>
-    <string name="aon_scanner_summary" formatted="false">במסך הבית, כוונו את המכשיר אל קוד QR בטווח של %d ס\"מ עד שתופיע הנחיה, והחזיקו במשך %d שניות כדי לסרוק</string>
     <string name="ap_connect_failed">לא ניתן היה להתחבר</string>
     <string name="ap_connected_battery_level">" | סוללה %1$s"</string>
     <string name="ap_p2p_dialog_message">חיבור ה-Wi-Fi המשותף הנוכחי כבר נמצא בשימוש. ודא שאינך משתמש ב-Wi-Fi Direct, Mi Share, העברה או שירותי העברה אלחוטית אחרים לפני הפעלת הנקודה החמה האישית שלך.</string>
@@ -243,7 +184,6 @@
     <string name="apn_ppp_number">מספר טלפון APN PPP</string>
     <string name="apn_save">לשמור שינויים?</string>
     <string name="apn_save_msg">לשמור שינויים ב-APN?</string>
-    <string name="apn_settings">APNs</string>
     <string name="app_backup">גיבוי</string>
     <string name="app_bluetooth_device_blacklist">התקני Bluetooth חסומים</string>
     <string name="app_cache_optimization">אופטמיזציה של מטמון היישומים</string>
@@ -305,8 +245,6 @@
     <string name="audio_share_cancel">לא, תודה</string>
     <string name="audio_share_confirm">שתף</string>
     <string name="auracast_scan_not_support">לא מחובר לאוזניות תואמות. לא ניתן למצוא שידורים בקרבת מקום.</string>
-    <string name="auracast_share_qrcode_title">שיתוף הסיסמה על-ידי קוד QR</string>
-    <string name="auracast_source_qrcode_title">שיתוף על-ידי קוד QR</string>
     <string name="auto_adjst_effect_summary">התאמה אוטומטית של טמפרטורת הצבע לתאורה על מנת לשמור על רמת נוחות מיטבית בצפייה</string>
     <string name="auto_adjust_effect_title">התאמה אוטומטית של טמפרטורת הצבע</string>
     <string name="auto_anc_closed">כבוי</string>
@@ -314,6 +252,15 @@
     <string name="auto_anc_five_recover">"%d שנ'"</string>
     <string name="auto_anc_not_recover">להשאיר מופעל</string>
     <string name="auto_anc_ten_recover">"%d שנ'"</string>
+    <string name="auto_clean_description">"אודות תכונה זו
+%3$d. הפעל תכונה זו פעם או פעמיים אם אתה מגלה שהרמקול שלך חסום קלות על ידי אבק.
+%4$d. אם הרמקול חסום באופן משמעותי, הפעל תכונה זו %1$d-%2$d פעמים תוך כדי ניעור המכשיר שלך כשהרמקול פונה כלפי מטה."</string>
+    <string name="auto_clean_description_pad">"אודות תכונה זו
+- הפעל תכונה זו פעם או פעמיים אם גילית כי הרמקול שלך נחסם מעט על-ידי אבק. 
+- אם החסימה של הרמקול גדולה, יש להפעיל תכונה זו %1$d-%2$d פעמים תוך כדי טלטול המכשיר כאשר הרמקול פונה כלפי מטה."</string>
+    <string name="auto_clean_summary">נגן כ 30 שניות של שמע על מנת לנקות רשמקול</string>
+    <string name="auto_clean_summary_new">נגן %d שניות של שמע כדי לנקות את הרמקול. השתמש בתכונה זו מספר פעמים ברצף כדי לנקות כמויות משמעותיות של לכלוך.</string>
+    <string name="auto_clean_title">איפוס רמקול</string>
     <string name="auto_disable_screenbuttons_ask">שאל לפני השבתה</string>
     <string name="auto_disable_screenbuttons_auto">השבת תמיד</string>
     <string name="auto_disable_screenbuttons_cancel">ביטול</string>
@@ -342,10 +289,6 @@
     <string name="back_button">חזרה</string>
     <string name="back_double_tap">הקשה אחורית כפולה</string>
     <string name="back_key">חזרה</string>
-    <string name="back_strap_image_text">לקבל תזכורות על התראות ואפקטים של תאורה עבור תרחישים שונים</string>
-    <string name="back_strap_status_close">מושבת</string>
-    <string name="back_strap_status_open">מופעל</string>
-    <string name="back_strap_title">אפקטים של תאורה אחורית</string>
     <string name="back_tap">הקשה אחורית</string>
     <string name="back_triple_tap">3 הקשות אחוריות</string>
     <string name="background_blur_enable">מרקמים מתקדמים</string>
@@ -388,8 +331,8 @@
     <string name="backup_set_null_pw">הזן סיסמה תחילה</string>
     <string name="backup_set_pw_confirm_title">אשר סיסמת גיבוי חדשה</string>
     <string name="badge_title">התרעות תגים</string>
-    <string name="band_24G">" (תדר של %f GHz)"</string>
-    <string name="band_5G">" (תדר של %d GHz)"</string>
+    <string name="band_24G">" (תדר 2.4 ג'יגה-הרץ)"</string>
+    <string name="band_5G">" (תדר 5 ג'יגה-הרץ)"</string>
     <string name="batch_delete_saved_network">למחוק את הרשת שנבחרה: %s?</string>
     <string name="batch_delete_saved_networks">מחק את כל הרשתות שנבחרו</string>
     <string name="battery_action_wifi">הגדרות רשת אלחוטית</string>
@@ -419,6 +362,7 @@
     <string name="battery_info_screen_on">משך פעילות המסך:</string>
     <string name="battery_info_status_charging">טוען</string>
     <string name="battery_info_status_charging_ac">טעינת AC</string>
+    <string name="battery_info_status_charging_dock">בטעינה</string>
     <string name="battery_info_status_charging_usb">טעינת USB</string>
     <string name="battery_info_status_charging_wireless">טעינה אלחוטית</string>
     <string name="battery_info_status_discharging">לא טוען</string>
@@ -470,6 +414,7 @@
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">איכות שמע וחיבור מאוזנת (%1$dkbps/%2$dkbps)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">ממוטב עבור איכות חיבור (%1$dkbps/%2$dkbps)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">האפקט הטוב ביותר (קצב סיביות מסתגל)</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">מחובר לשמע מדיה</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">משמש עבור שמע של מדיה</string>
     <string name="bluetooth_advanced_titlebar">הגדרות Bluetooth מתקדמות</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" רוצה להפעיל את ה-Bluetooth ולהפוך את המכשיר שלך לגלוי עבור מכשירים אחרים למשך %1$d שניות."</string>
@@ -487,7 +432,6 @@
     <string name="bluetooth_auracast_source_and_assistant_text">שידור שמע למכשירים אחרים וחיפוש שידורי שמע בסביבה הקרובה</string>
     <string name="bluetooth_auracast_source_available_connect">שידורים בסביבה הקרובה</string>
     <string name="bluetooth_auracast_source_explain_summary">כשמאפיין זה מופעל, אנשים בסביבה הקרובה יכולים לקבל שמע מהמכשיר שלך באמצעות קוד התחברות</string>
-    <string name="bluetooth_auracast_source_explain_summary_qcom">לשימוש במאפיין זה, יש לנתק את המכשיר המחובר כרגע או לחבר לפחות מכשיר Bluetooth LE Audio אחד</string>
     <string name="bluetooth_auracast_source_opend_summary">"קוד התחברות: "</string>
     <string name="bluetooth_blacklist_cancel_remove_device">ביטול</string>
     <string name="bluetooth_blacklist_remove_device">בטל חסימה</string>
@@ -497,7 +441,7 @@
     <string name="bluetooth_broadcast_audio_started_toast">אל תשכח להפסיק לשדר בזמן. שידורי שמע מרוקנים את הסוללה.</string>
     <string name="bluetooth_broadcast_audio_summary">שתף שמע עם מכשירים בסביבה באמצעות Bluetooth</string>
     <string name="bluetooth_broadcast_code">"סיסמה: "</string>
-    <string name="bluetooth_broadcast_dialog_text">בזמן שידורים שמע יוצפן באופן אוטומטי. רק מכשירים בסביבה הקרובה שתומכים בשידורי שמע יכולים למצוא את השידורים שלך ולהאזין להם. הרמקולים של המכשירים הללו ומכשירי Bluetooth מחוברים אחרים שלא תומכים בשידור רדיו לא ישמיעו קול.</string>
+    <string name="bluetooth_broadcast_dialog_text">שמע שמשותף יוצפן ויהיה זמין למכשירים תואמים. במהלך השידור, לא יושמע צליל במכשיר זה ובמכשירי Bluetooth מחוברים.</string>
     <string name="bluetooth_connect_battery_state">%1$s %2$s</string>
     <string name="bluetooth_connect_settings">חיבור</string>
     <string name="bluetooth_connect_specific_profiles_title">להתחבר אל…</string>
@@ -557,12 +501,10 @@
     <string name="bluetooth_enable_opp_high_speed_summary">השתמש בפרוטוקולי Bluetooth P2P במהירות גבוהה עבור העברות</string>
     <string name="bluetooth_hd_music_play_summary">לנגן שמע באיכות %d kHz במכשירי Bluetooth בלי להפחית את קצב הדגימה. אפקטי Dolby לא יהיו זמינים כשמאפיין זה מופעל.</string>
     <string name="bluetooth_hd_music_play_title">לנגן שמע באיכות %d kHz</string>
+    <string name="bluetooth_headset_profile_summary_connected">מחובר לשמע טלפון</string>
     <string name="bluetooth_headset_profile_summary_use_for">משמש עבור שמע של הטלפון</string>
-    <string name="bluetooth_hearing_aid_left_and_right_connected">שני עזרי השמע מחוברים אל %1$s</string>
-    <string name="bluetooth_hearing_aid_left_connected">עזר השמע השמאלי מחובר אל %1$s</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">מחובר לעזרי שמע</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">משמש עבור עזרי שמע</string>
-    <string name="bluetooth_hearing_aid_right_connected">עזר השמע הימני מחובר אל %1$s</string>
     <string name="bluetooth_hearingaid_left_battery_level">שמאל - %1$s סוללה</string>
     <string name="bluetooth_hearingaid_left_pairing_message">מתבצע צימוד של עזר שמע שמאלי…</string>
     <string name="bluetooth_hearingaid_right_battery_level">ימין - %1$s סוללה</string>
@@ -593,10 +535,6 @@ Hהבעיות האפשריות:
     <string name="bluetooth_on_time">זמן חיבור ל-Wi-Fi</string>
     <string name="bluetooth_opp_profile_summary_use_for">משמש עבור העברת קבצים</string>
     <string name="bluetooth_other_settings">הגדרות נוספות</string>
-    <string name="bluetooth_pair_other_hearing_dialog_positive_button">צימוד</string>
-    <string name="bluetooth_pair_other_hearing_dialog_title">לבצע צימוד לעזר שמע אחר</string>
-    <string name="bluetooth_pair_other_left_hearing_dialog_message">עזר השמע הימני מחובר. יש לוודא שעזר השמע השמאלי מופעל ומוכן לצימוד.</string>
-    <string name="bluetooth_pair_other_right_hearing_dialog_message">עזר השמע השמאלי מחובר. יש לוודא שעזר השמע הימני מופעל ומוכן לצימוד.</string>
     <string name="bluetooth_paired">נשמר</string>
     <string name="bluetooth_pairing_add_to_blackfile">חסום</string>
     <string name="bluetooth_pairing_shares_phonebook_not_support_voice">לאפשר גישה לאנשי הקשר</string>
@@ -616,13 +554,15 @@ Hהבעיות האפשריות:
     <string name="bluetooth_preference_found_devices">מכשירים זמינים</string>
     <string name="bluetooth_preference_paired_devices">התקנים מוצמדים</string>
     <string name="bluetooth_preference_paired_dialog_name_label">שם</string>
+    <string name="bluetooth_profile_a2dp">שמע מדיה</string>
+    <string name="bluetooth_profile_headset">שמע טלפון</string>
     <string name="bluetooth_profile_hearing_aid">עזרי שמע</string>
     <string name="bluetooth_profile_le_audio">LE Audio</string>
     <string name="bluetooth_profile_map">משמש עבור גישה להודעות</string>
+    <string name="bluetooth_profile_pbap">שיתוף אנשי הקשר ויומן השיחות</string>
     <string name="bluetooth_profile_pbap_summary">משמש עבור שיתוף אנשי קשר</string>
     <string name="bluetooth_profile_sap">משמש עבור גישה ל-SIM</string>
     <string name="bluetooth_profile_volume_control">בקרת עוצמת קול</string>
-    <string name="bluetooth_refresh">רענון</string>
     <string name="bluetooth_sap_profile_summary_use_for">משמש עבור גישה ל-SIM</string>
     <string name="bluetooth_scan_for_devices">סריקה לאיתור מכשירים</string>
     <string name="bluetooth_search_for_devices">רענון</string>
@@ -636,12 +576,13 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">מקודד שמע LHDC Bluetooth: איכות השמעה</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"בחירת מקודד LHDC שמע Bluetooth:
 איכות השמעה"</string>
+    <string name="bluetooth_show_devices_without_names">"הצג מכשירי בלוטות' ללא שם"</string>
     <string name="bluetooth_show_received_files">קבצים שהתקבלו</string>
     <string name="bluetooth_talkback_headphone">אוזניות</string>
     <string name="bluetooth_talkback_input_peripheral">מכשיר קלט היקפי</string>
     <string name="bluetooth_tether_checkbox_text">"שיתוף אינטרנט באמצעות בלוטות'"</string>
     <string name="bluetooth_tethering_available_subtext">משתף את חיבור האינטרנט של הטלפון באמצעות Bluetooth</string>
-    <string name="bluetooth_tethering_device_connected_subtext">משתף את חיבור האינטרנט של טלפון זה עם מכשיר %d באמצעות Bluetooth</string>
+    <string name="bluetooth_tethering_device_connected_subtext">משתף את חיבור האינטרנט של הטלפון עם מכשיר אחד באמצעות Bluetooth</string>
     <string name="bluetooth_tethering_devices_connected_subtext">"חיבור הטלפון לאינטרנט משותף עם %1$d מכשירים באמצעות בלוטות'"</string>
     <string name="bluetooth_tethering_errored_subtext">אין שיתוף אינטרנט</string>
     <string name="bluetooth_tethering_off_subtext">לא משתף את חיבור האינטרנט של הטלפון הזה באמצעות Bluetooth</string>
@@ -753,22 +694,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="bt_audiorepair_pre_title">תיקון הפרעות שמע</string>
     <string name="bt_audiorepair_summary">תיקון הפרעות שמע במכשירי Bluetooth מחוברים</string>
     <string name="bt_audiorepair_working">מתקן הפרעת שמע…</string>
-    <string name="bt_connect_help_car">מערכות רכב</string>
-    <string name="bt_connect_help_car_first">%d. פתח את הגדרות ה-Bluetooth במערכת של הרכב שלך והגדר את ה-Bluetooth במצב איתור.</string>
-    <string name="bt_connect_help_car_second">%d. הפעל את ה-Bluetooth בטלפון או בטאבלט, מצא את המערכת של הרכב שלך ולאחר מכן בצע צימוד.</string>
-    <string name="bt_connect_help_device">טלפונים, טאבלטים ומחשבים</string>
-    <string name="bt_connect_help_device_first" formatted="false">%d. ודא שה-Bluetooth של המכשיר שברצונך להתחבר אליו מופעל ושאינו במרחק של יותר מ-%d מטרים ממך.</string>
-    <string name="bt_connect_help_device_second">%d. מכשירי iOS אינם תומכים כעת בקישוריות עם מכשירים אחרים.</string>
-    <string name="bt_connect_help_device_third">%d. בעת חיבור למחשב, ייתכן שתצטרך להתקין מנהל התקן של Bluetooth.</string>
-    <string name="bt_connect_help_earphone">אוזניות ורמקולים</string>
-    <string name="bt_connect_help_earphone_first" formatted="false">%d. ודא שהרמקול או האוזניות שלך טעונים במלואם, אינם מחוברים למכשיר אחר באמצעות Bluetooth, ולא במרחק של יותר מ-%d מטרים ממך.</string>
-    <string name="bt_connect_help_earphone_second">%d. כדי להפוך אותם לגלויים, לחץ והחזק את לחצן ההפעלה ברמקול או באוזניות שלך עד שהמחוון יתחיל להבהב.</string>
-    <string name="bt_connect_help_earphone_third">%d. כעת תוכל למצוא ולצמד את הרמקול והאוזניות שלך.</string>
-    <string name="bt_connect_help_toast">לא מוצא את המכשיר שלך? הקש כדי להציג עזרה.</string>
-    <string name="bt_connect_help_wear">מכשירים לבישים</string>
-    <string name="bt_connect_help_wear_first">%d. ודא שהמכשיר הלביש שלך אינו מחובר למכשיר אחר באמצעות Bluetooth.</string>
-    <string name="bt_connect_help_wear_second">%d. הורד והתקן את היישום הייעודי עבור המכשיר הלביש שלך.</string>
-    <string name="bt_connect_help_wear_third">%d. פתח את היישום ובצע את ההוראות להוספת המכשיר הלביש שלך.</string>
     <string name="bt_dialog_remember_choice">אל תציג שוב</string>
     <string name="bt_dialog_settings">הגדרות</string>
     <string name="bt_half_close_switch_summary">אם תכבה את ה-Bluetooth, הוא יופעל שוב באופן אוטומטי למחרת והמכשירים שלך יתחברו מחדש</string>
@@ -797,7 +722,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="bt_lhdc_open_dialog_title">הפעל את LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">מאפיינים</string>
-    <string name="bt_new_connect_help">עזרה עם חיבור</string>
     <string name="bt_plugin_current_version">גרסה נוכחית</string>
     <string name="bt_plugin_new_version">עדכן</string>
     <string name="bt_plugin_preference_button">עדכן</string>
@@ -837,33 +761,18 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="call_records_name_1">מאיה</string>
     <string name="call_records_name_2">משה</string>
     <string name="call_records_name_3">איתמר</string>
-    <string name="call_records_summary_1">%1$d:%2$d AM | %3$d שניות</string>
-    <string name="call_records_summary_2">אוגוסט %1$d | %2$dדק %3$dשנ</string>
-    <string name="call_records_summary_3">אוגוסט %1$d | %2$dדק %3$dשנ</string>
-    <string name="call_reminder_all">כל השיחות</string>
-    <string name="call_reminder_contact">אנשי קשר</string>
-    <string name="call_reminder_favorite_contacts">אנשי קשר מועדפים</string>
-    <string name="call_reminder_title">תזכורות על שיחות נכנסות</string>
+    <string name="call_records_summary_1">9:35 | 26 שניות</string>
+    <string name="call_records_summary_2">"אוגוסוט 16 | 1 דק' 16ש'"</string>
+    <string name="call_records_summary_3">"אוגוסוט 16| 2דק' 24ש'"</string>
     <string name="call_settings_primary_user_only">"שנה את הגדרות השיחות ב'שטח ראשון'"</string>
     <string name="camera_flash_notification_title">מבזק המצלמה</string>
     <string name="camera_front">קדמי %s</string>
     <string name="camera_grip_firmware_need_update">עדכן</string>
     <string name="camera_grip_firmware_new_version">הכל מעודכן</string>
-    <string name="camera_grip_firmware_save_button_know">הבנתי</string>
-    <string name="camera_grip_firmware_save_button_negaitive">לא עכשיו</string>
-    <string name="camera_grip_firmware_save_button_positive">לעדכן</string>
-    <string name="camera_grip_firmware_save_channel">התראות תופסן מצלמה</string>
-    <string name="camera_grip_firmware_save_networking_tips">נא להתחבר ל-Wi-Fi או להפעיל גלישה סלולרית, ואז לנסות שוב לעדכן את הקושחה.</string>
-    <string name="camera_grip_firmware_save_networking_tips_china">Connect to WLAN or turn on mobile data, and try updating the firmware again.</string>
-    <string name="camera_grip_firmware_save_text">יש לעדכן את הקושחה כדי להמשיך ולהשתמש במכשיר זה.</string>
-    <string name="camera_grip_firmware_save_title">תופסן מקצועי למצלמה</string>
     <string name="camera_grip_firmware_title_text">עדכון קושחה</string>
     <string name="camera_grip_firmware_update_describe">השאר את ידית האחיזה מחוברת בזמן העדכון</string>
     <string name="camera_grip_firmware_update_faild">לא ניתן היה לעדכן</string>
-    <string name="camera_grip_firmware_update_handle_low_battery_notify">יש להסיר את תופסן המצלמה, לטעון את המכשיר ואז לנסות שוב לעדכן את הקושחה</string>
-    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">יש לטעון את המכשיר ואת תופסן המצלמה לפני עדכון הקושחה</string>
     <string name="camera_grip_firmware_update_ongoing">מעדכן. אל תנתק את ידית האחיזה.</string>
-    <string name="camera_grip_firmware_update_phone_low_battery_notify">יש לחבר את המטען למכשיר זה ולנסות שוב לעדכן את הקושחה</string>
     <string name="camera_grip_firmware_update_successful">העדכון בוצע בהצלחה</string>
     <string name="camera_key_action_app_title">פתיחת יישום</string>
     <string name="camera_key_action_category_title">לא ניתן להשתמש במצלמה</string>
@@ -893,20 +802,15 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="check_find_device_status_failure_confirm">אישור</string>
     <string name="check_update">בדוק זמינות עדכונים</string>
     <string name="checkbox_text">מתג</string>
-    <string name="checked_app_title">אפקטים של תאורה מופעלים</string>
     <string name="checking_find_device_status">"בודק את מצב 'איתור המכשיר'…"</string>
     <string name="checking_for_updates">מחפש עדכונים…</string>
     <string name="choose_a_card_to_reset">בחר כרטיס SIM לאיפוס</string>
-    <string name="choose_ali_payment">Alipay</string>
     <string name="choose_keyguard_clock_style">פורמט שעון מסך הנעילה</string>
     <string name="choose_keyguard_clock_summary">הגדרה זו אינה פועלת יחד עם ערכות יישום מצד שלישי</string>
     <string name="choose_lock_pattern_header_text">הגדרת תבנית</string>
-    <string name="choose_mi_payment">Mi Pay</string>
-    <string name="choose_nothing_payment">לא הוגדר</string>
     <string name="choose_smartcover_type">בחר סוג כיסוי</string>
     <string name="choose_unlock_face_msg">הגדר שעון תצוגה לפני שתקליט את נתוני הפנים.</string>
     <string name="choose_unlock_fingerprint_msg">הגדר מסך נעילה לפני הוספת טביעת אצבע.</string>
-    <string name="choose_wechat_payment">WeChat</string>
     <string name="classic_mode_summary">עבור לצבעים חמימים יותר כדי לצמצם את כמות האור הכחול</string>
     <string name="classic_mode_title">קלאסי</string>
     <string name="cleaner">מנקה</string>
@@ -998,8 +902,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="complete_parameters">כל הפרטים</string>
     <string name="complete_parameters_new">פרטים מלאים ומפרט</string>
     <string name="complete_settings">הגדרות כלליות</string>
-    <string name="compute_power_sharing">תמיכת מחשוב</string>
-    <string name="compute_power_sharing_summary">מנפו את עוצמת המחשוב של הטלפון שלכם כדי להשתמש במאפייני AI בטאבלט</string>
     <string name="computer_backup_summary">גיבוי ושחזור פריטים באמצעות מחשב</string>
     <string name="computer_backup_title">מחשב</string>
     <string name="confirm_action">אישור</string>
@@ -1022,7 +924,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="confirm_reset_aaid">אישור</string>
     <string name="connect_mode">סוג החיבור</string>
     <string name="connect_to_internet">התחבר לרשת</string>
-    <string name="connect_to_windows">קישור אל Windows</string>
     <string name="connected_devices_confirm">שמירה</string>
     <string name="connected_devices_create">הוספה</string>
     <string name="connected_devices_dialog_content">המכשירים שנבחרו ינותקו ויתווספו לרשימת החסומים.</string>
@@ -1040,11 +941,10 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="convenience_key_category_title">בקרת המערכת</string>
     <string name="conversation_assistant">כלי ועידה</string>
     <string name="cool_color">קר</string>
-    <string name="copy">העתקה</string>
     <string name="copyright">זכויות יוצרים</string>
     <string name="country_name">%s (מערכת)</string>
     <string name="credentials_configure_lock_screen_hint">עליך להגדיר נעילת מסך באמצעות קוד PIN או סיסמה כדי להשתמש במאפיין של אחסון פרטי התחברות.</string>
-    <string name="credentials_password_too_short">לפחות %d תווים</string>
+    <string name="credentials_password_too_short">הזן 8 תוים לכל הפחות</string>
     <string name="credentials_title_verification">תעודה</string>
     <string name="crisp_text">תדירויות גבוהות מוסיפות בהירות לפרטים של כל פעולה</string>
     <string name="critical_feedback">משוב קריטי</string>
@@ -1146,7 +1046,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="default_launcher_set_system_message">לחץ על לחצן הבית על מנת לשחזר את ברירת המחדל של משגר היישומים</string>
     <string name="default_launcher_title">משגר היישומים ברירת המחדל</string>
     <string name="default_phone_title">חיוג</string>
-    <string name="default_rule_name">טיימר %d</string>
+    <string name="default_rule_name">טיימר 1</string>
     <string name="default_suppression_title">ברירת המחדל (מומלץ)</string>
     <string name="default_usb_mode">חיבור USB</string>
     <string name="deferred_setup_hintViewTitle">בודק…</string>
@@ -1161,26 +1061,20 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="deleted_apps">יישומים שנמחקו</string>
     <string name="demo_mode">מצב דמו</string>
     <string name="demo_mode_summary">הצג אייקון דמו בשורת המצב</string>
+    <string name="desktop_mode">מצב שולחן עבודה</string>
     <string name="detail_app_button">פרטי היישום</string>
     <string name="detail_question">פרטים</string>
     <string name="detailed_wifi_logging_disabled">רישום Wi-Fi מפורט כבוי</string>
     <string name="detailed_wifi_logging_enabled">רישום Wi-Fi מפורט מופעל</string>
     <string name="developer_build">בטא</string>
     <string name="development_enable">אפשרויות מפתח</string>
+    <string name="development_settings_title">אפשרויות מפתח</string>
     <string name="device_actionbar_title">Mi 5</string>
     <string name="device_activation_info">הפעלת מכשיר</string>
     <string name="device_available_memory">"אחסון זמין "</string>
     <string name="device_battery">סוללה </string>
     <string name="device_build_id">מספר גרסה</string>
     <string name="device_camera">מצלמה</string>
-    <string name="device_class_car_kit">מערכת רכב</string>
-    <string name="device_class_headset">אוזניות</string>
-    <string name="device_class_hearing_aid">אביזר שמיעה</string>
-    <string name="device_class_other">אחר</string>
-    <string name="device_class_setting_summary">נא לציין את סוג המכשיר לאופטימיזציה נוספת של חוויית השימוש שלך</string>
-    <string name="device_class_setting_title">סוג המכשיר</string>
-    <string name="device_class_speaker">רמקול</string>
-    <string name="device_class_watch">שעון</string>
     <string name="device_complete_parameters">כל הפרטים</string>
     <string name="device_cpu">CPU</string>
     <string name="device_cpu10_info">עשר ליבות</string>
@@ -1245,6 +1139,11 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dialog_softbank_esim_wipe_title">נקה נתוני eSIM</string>
     <string name="dialog_softbank_esime_context">מכשיר זה צריך להתחבר לאינטרנט כדי שניתן יהיה להפעיל eSIM. לדלג גם על הפעלת eSIM?</string>
     <string name="dialog_softbank_esime_title">דלג על הפעלת eSIM</string>
+    <string name="dialog_speaker_auto_clean_button">הבנתי</string>
+    <string name="dialog_speaker_auto_clean_content">ניקוי עורך כ 30 שניות. אל תעזוב דף זה. הגבר את השמע למקסימום עבור אפקט מקסימלי.</string>
+    <string name="dialog_speaker_auto_clean_content_new">אתה עומד לנגן שמע שינקה את הרמקול. כוונן את עוצמת השמע לרמה הגבוהה ביותר כדי להשיג את התוצאות הטובות ביותר.</string>
+    <string name="dialog_speaker_auto_clean_title">שים לב</string>
+    <string name="dialog_speaker_auto_clean_title_new">נקה רמקול</string>
     <string name="dialog_title_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="dialog_title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="dialog_title_login">התחברות לחשבון Xiaomi שלך</string>
@@ -1269,9 +1168,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="display_auto_rotate_stay_in_landscape">נעל לרוחב</string>
     <string name="display_auto_rotate_stay_in_portrait">נעל לאורך</string>
     <string name="display_auto_rotate_title">סובב את תוכן המסך</string>
-    <string name="display_notification_icon_0">ללא</string>
-    <string name="display_notification_icon_1">סמל אחד (%d)</string>
-    <string name="display_notification_icon_3">%d סמלים</string>
     <string name="display_prompt_confirm">הבנתי</string>
     <string name="display_settings">תצוגה</string>
     <string name="display_settings_new">תצוגה ובהירות</string>
@@ -1473,8 +1369,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="encryption_interstitial_no">לא</string>
     <string name="encryption_interstitial_yes">כן</string>
     <string name="encryption_progress_summary">מצפין, נא לא לאתחל את המכשיר.</string>
-    <string name="enhanced_ai_applications">האצת יישום AI</string>
-    <string name="enhanced_ai_applications_summary">שימוש ב-AI לשדרוג יישומים ולשימוש חכם יותר בשירותים</string>
     <string name="enrol_fingerprint_data">הוסף טביעת אצבע</string>
     <string name="enterprise_mode">מצב ארגוני</string>
     <string name="environmental_speech_recognition">זיהוי קולות מהסביבה</string>
@@ -1495,7 +1389,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="error_apn_restrict_string">שדה ה-APN לא יכול להכיל %1$s</string>
     <string name="error_xcap_not_add">לא ניתן להשתמש ב-XCAP כסוג שם נקודת הגישה.</string>
     <string name="ethernet_tether_checkbox_text">שיתוף באמצעות Ethernet</string>
-    <string name="ethernet_tethering_subtext">שיתוף חיבור האינטרנט של הטלפון דרך Ethernet</string>
     <string name="evening">לפנות ערב</string>
     <string name="every_day">כל יום</string>
     <string name="exceptional_case">חריגים</string>
@@ -1506,7 +1399,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="extension_function_hint">קיצורי דרך לתכונות לא יופיעו עוד בהגדרות לאחר העברת המתג למצב כבוי</string>
     <string name="exterior">תבנית צבעים</string>
     <string name="external_auto_rotate_title">נעילת כיוון למסך החיצוני</string>
-    <string name="external_data_size_label">אחסון USB</string>
+    <string name="external_data_size_label">כרטיס SD</string>
     <string name="external_ram_dialog_btn_cancel">מאוחר יותר</string>
     <string name="external_ram_dialog_btn_ok">אתחול</string>
     <string name="external_ram_dialog_icon_confirm">הבנתי</string>
@@ -1524,9 +1417,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="eye_gaze_summary">המכשיר לא יינעל כשהוא יזהה שהעיניים שלך מופנות למסך</string>
     <string name="eye_gaze_summary_fold_device">המכשיר לא יינעל כאשר יזוהה שהעיניים שלך מופנות למסך החיצוני</string>
     <string name="eye_gaze_title">זיהוי מבט</string>
-    <string name="eye_habit_prompt_summary">לקבל התראות כשהמכשיר מזהה מצבים שעלולים לגרום לעומס על העיניים</string>
-    <string name="eye_habit_prompt_title">התראות על בריאות העיניים</string>
-    <string name="eye_paper_protection">הגדרות מצב קריאה</string>
     <string name="face_data_apply_for_category_title">ביטול נעילה באמצעות נתוני פנים</string>
     <string name="face_data_apply_for_keyguard_title">מסך נעילה</string>
     <string name="face_data_input_camera_fail">לא ניתן היה לטעון את המצלמה</string>
@@ -1556,7 +1446,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="face_data_suggesstion_first_cn">עלינו לאסוף את נתוני הפנים שלך כדי שניתן יהיה להשתמש בביטול נעילה באמצעות פנים. הנתונים יאוחסנו רק במכשיר זה. כדי למחוק אותם יש לחפש \"ביטול נעילה באמצעות פנים\" בהגדרות, ואז לבחור ביטול נעילה באמצעות פנים > נתוני הפנים.</string>
     <string name="face_data_suggesstion_first_cn_highlight">ביטול נעילה באמצעות זיהוי פנים פחות בטוח מאשר שימוש בקוד PIN, סיסמה תבנית או טביעת אצבע. ייתכן שניתן יהיה לבטל את נעילת המכשיר באמצעות תמונה שלך, או אנשים או חפצים עם מראה דומה.</string>
     <string name="face_data_suggesstion_second">ודא כי כל חלקי הפנים שלך נראים לעין ושאינם מכוסים על ידי עצמים כלשהם. כמו כן, על פניך להיות מוארים.</string>
-    <string name="face_enroll_when_slt_on_toast">לא ניתן להוסיף פנים לצורך ביטול נעילה באמצעות פנים בעת שימוש בתקשורת לוויינית של Tiantong</string>
     <string name="face_password_unlock">נתוני פנים ומסך נעילה</string>
     <string name="face_password_unlock_new">נתוני פנים ונעילת מסך</string>
     <string name="face_unlock">פתיחה ע\"י זיהוי פנים</string>
@@ -1594,7 +1483,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="face_unlock_success_show_message_toast">התראות יוצגו כאשר המסך נעול</string>
     <string name="face_unlock_success_stay_screen_msg">השאר על מסך נעילה לאחר שזיהוי הפנים הושלם. החלק מעלה בכדי לפתוח את מסך הבית.</string>
     <string name="face_unlock_success_stay_screen_title">השאר על מסך נעילה לאחר פתיחת נעילה</string>
-    <string name="face_unlock_when_slt_on_toast">לא ניתן להשתמש בביטול נעילה באמצעות פנים בעת שימוש בתקשורת לוויינית של Tiantong</string>
     <string name="factory_reset_summary">אתחול ימחק את כל הנתונים מהאחסון הפנימי של מכשירך.</string>
     <string name="failed_to_check_find_device_status_content">"לא ניתן היה לבדוק את סטטוס 'איתור המכשיר'. המתן דקה או שתיים ונסה שוב."</string>
     <string name="failed_to_check_find_device_status_title">לא ניתן היה לבדוק סטטוס</string>
@@ -1679,10 +1567,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="fiveg_sa_vice_switch_title">SA ב-SIM משני</string>
     <string name="fiveg_vonr_switch_summary">השתמש ב-VoNR בסביבות רשת 5G כדי לשפר את חוויית השיחות. תכונה זו ניתנת למטרות בדיקה בלבד.</string>
     <string name="fiveg_vonr_switch_title">הגדרות VoNR</string>
-    <string name="fivega_enhanced_network_summary">קישוריות רשת 5G מתקדמת לבדיקות</string>
-    <string name="fivega_enhanced_network_title">אפשרויות לרשת 5G-A</string>
-    <string name="fivega_switch_summary">קישוריות רשת 5G מתקדמת לבדיקות (זמינה אם היא מסופקת על-ידי ספק הרשת)</string>
-    <string name="fivega_switch_title">NR CA</string>
     <string name="flash_drive_backup_disable">חבר תחילה את התקן ה-USB</string>
     <string name="flash_drive_backup_enable">השתמש בהתקן USB כדי לגבות או לשחזר פריטים</string>
     <string name="flash_drive_backup_restore">כונן USB</string>
@@ -1690,7 +1574,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="flash_notifications_description">אודות תכונה זו</string>
     <string name="flash_notifications_note">"'אלומת אור עבור התראות' מציגה צלילי התראות וצלצולים באופן חזותי באמצעות מבזק המצלמה והמסך. אם יש לך רגישות לאור, יש להשתמש בתכונה זו בזהירות."</string>
     <string name="flash_notifications_preview">תצוגה מקדימה</string>
-    <string name="flash_notifications_settings_title">התראות הבהוב</string>
     <string name="flash_notifications_summary">השתמש במבזק של המצלמה או הצג אלומות צבע על המסך כאשר מתקבלות הודעות או כשהמכשיר מצלצל</string>
     <string name="flash_notifications_title">אלומת אור עבור התראות</string>
     <string name="flashback_background_start_switch_summary">צור אוטומטית כרטיסי בזק עם מידע חשוב כאשר יישומים פועלים ברקע</string>
@@ -1779,6 +1662,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="font_cta_alert_btn_positive">מסכים</string>
     <string name="font_cta_alert_message">קרא והסכם לתנאים ולהגבלות של ערכות נושא כדי להמשיך.</string>
     <string name="font_cta_alert_title">תנאים והגבלות</string>
+    <string name="font_scale_percentage">%1$d %%</string>
     <string name="font_setting_weight_toast">הגופן הנוכחי אינו תומך בהתאמת משקל הגופן</string>
     <string name="font_settings_jump">נגישות > גודל תצוגה</string>
     <string name="font_settings_recommend_title">הטקסט לא מספיק גדול?</string>
@@ -1798,8 +1682,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="footer_description_full_screen_intent">אפשר ליישום להציג התראות שמוצגות על כל המסך כאשר המכשיר נעול. היישום יכול להשתמש בהתראות במסך מלא כדי להציג שעונים מעוררים, שיחות נכנסות או התראות דחופות אחרות. הגדרה זו מסתמכת על ההרשאה לפתוח חלונות חדשים בעת הפעלה ברקע, וניתן להשתמש בה רק כאשר הרשאה זו מוענקת.</string>
     <string name="forbidden_set_unlock_password_msg">Currently in maintenance mode, password cannot be set or changed.</string>
     <string name="forbidden_switch_apn_string">הגדרות ה-APN שנבחרו אינן תואמות לסוג הרשת הנוכחי</string>
-    <string name="force_edit_apn_summary">כשמאפיין זה מופעל, ניתן לראות ולשנות את כל ה-APN הנסתרים. מאפיין זה מיועד לבדיקה בלבד.</string>
-    <string name="force_edit_apn_title">לכפות עריכת APN</string>
     <string name="force_immersive_compatibility_dont_hide">לא להסתיר</string>
     <string name="force_immersive_compatibility_hide">להסתיר</string>
     <string name="force_immersive_compatibility_hint_message">ייתכן שחלק מהיישומים לא יעבדו כראוי לאחר הסתרת כפתורי המסך.</string>
@@ -1819,8 +1701,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="forget_privacy_password_setting">הוספת חשבון Xiaomi</string>
     <string name="forget_privacy_password_summary">יש להשתמש בחשבון Xiaomi לאיפוס הסיסמה שלך</string>
     <string name="forget_wifi_message">המכשיר שלך לא יתחבר יותר לרשת הזאת באופן אוטומטי. ייתכן שתצטרך להזין את הסיסמה כדי להתחבר לרשת הזאת מחדש.</string>
-    <string name="format_month_day_style2">M/d</string>
-    <string name="format_month_day_week">MMM dd, EEE</string>
     <string name="found_new_version">קיים עדכון זמין</string>
     <string name="fourhours">שעתיים</string>
     <string name="fp_nav_center_back_to_home_title">"הקש על לחצן ה'בית' על מנת לעבור ל'מסך הבית'"</string>
@@ -1893,23 +1773,19 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="full_screen_intent_title">התראות מסך מלא</string>
     <string name="full_screen_keyboard_optimization">מקלדת משופרת</string>
     <string name="full_screen_keyboard_settings">הגדרות מקלדת עבור תצוגת מסך מלא</string>
-    <string name="full_screen_reminder">אזהרה</string>
     <string name="full_transparent_smarrcover_title">מכסה קדמי שקוף</string>
     <string name="gadget_toggle_wifi">מעדכן הגדרות רשת אלחוטית</string>
     <string name="gadget_wifi">רשתות אלחוטיות</string>
     <string name="gallery_privacy_password_role_instruction">התמונות הפרטיות שלך יאוחסנו כאן.</string>
     <string name="game_booster">משחק;משחקים; האצה; משחקיות; מצב משחק</string>
     <string name="game_booster_title">מאיץ המשחקים</string>
-    <string name="gaze_lock_screen_summary">המכשיר יישאר ללא נעילה כשהוא מזהה נוכחות שלך ויינעל לאחר התרחקות שלך מהמסך</string>
-    <string name="gaze_lock_screen_title">זיהוי נוכחות</string>
     <string name="gd_setting_title">סרגל צד</string>
     <string name="general_text">שדה טקסט</string>
     <string name="general_time">השעה: %1$d:%2$d. הרטט הממושך מייצג שעות, הרטט הקצר מייצג דקות. תהיה השהייה קצרה בין השעות והדקות. הקש פעמיים כדי לנסות.</string>
     <string name="gesture_function_dialog_message">%1$s משמש עבור \"%2$s\". להחליף עם \"%3$s\"?</string>
     <string name="gesture_settings_title">קיצורי דרך למחוות</string>
     <string name="gesture_to_split_screen">מחוות</string>
-    <string name="gesture_wakeup_summary">אפשר לכבות את המסך בהקשה כפולה רק כשמשתמשים בערכת הנושא \"קלאסית\" או \"ללא גבולות\".</string>
-    <string name="gesture_wakeup_summary_2">אפשר לכבות את המסך בהקשה כפולה רק כשמשתמשים בערכת הנושא \"קלאסית\".</string>
+    <string name="gesture_wakeup_summary">ניתן להקיש פעמיים כדי לכבות את המסך רק כאשר מוחלות ערכות נושא שהותקנו מראש</string>
     <string name="gesture_wakeup_title">הקש פעמיים כדי להעיר או לכבות את המסך כשהמכשיר נעול</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
@@ -1933,8 +1809,23 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="got_it">הבנתי</string>
     <string name="gps_description">קיימת תמיכה במערכות ניווט לווייני מרובות (GPS, BeiDou, GLONASS, Galileo)</string>
     <string name="gps_description_global">מכשירי Xiaomi תואמים מספר מערכות ניווט, לרבות GPS, NavIC, BeiDou, GLONASS ו-Galileo.</string>
+    <string name="grant_admin">כן, אני רוצה להפוך משתמש זה למנהל</string>
     <string name="gsm_to_wifi_connect_type_title">GSM לרשת אלחוטית</string>
-    <string name="guest_name_category_title">אורחים</string>
+    <string name="guest_exit_button">יציאה ממצב אורח</string>
+    <string name="guest_exit_clear_data_button">מחיקה</string>
+    <string name="guest_exit_dialog_button">יציאה</string>
+    <string name="guest_exit_dialog_message">פעולה זו תמחק יישומים ונתונים מהפעלת האורח הנוכחית</string>
+    <string name="guest_exit_dialog_message_non_ephemeral">ניתן לשמור פעילות מההפעלה הנוכחית או למחוק את כל היישומים והנתונים</string>
+    <string name="guest_exit_dialog_title">לצאת ממצב אורח?</string>
+    <string name="guest_exit_dialog_title_non_ephemeral">לשמור את פעילות האורח?</string>
+    <string name="guest_exit_quick_settings_button">יציאה</string>
+    <string name="guest_exit_save_data_button">שמירה</string>
+    <string name="guest_notification_ephemeral">כל הפעילות תימחק אחרי היציאה</string>
+    <string name="guest_notification_non_ephemeral">ניתן לשמור את הפעילות שלך ביציאה או למחוק אותה</string>
+    <string name="guest_notification_non_ephemeral_non_first_login">אפס כדי למחוק את פעילות ההפעלה כעת, או שתוכל לשמור או למחוק פעילות ביציאה מההפעלה</string>
+    <string name="guest_reset_and_restart_dialog_message">פעולה זו תתחיל הפעלת אורח חדשה ותמחק את כל היישומים והנתונים מההפעלה הנוכחית</string>
+    <string name="guest_reset_and_restart_dialog_title">לאפס את התחברות האורח?</string>
+    <string name="guest_reset_button">לאפס את התחברות האורח</string>
     <string name="guide_button_text">הבנתי</string>
     <string name="guide_summary_1">שידור שמע למכשירים בסביבה</string>
     <string name="guide_summary_2">האזנה לשידורים ששיתפו אנשים אחרים</string>
@@ -1970,7 +1861,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="gxzw_anim_pulse">פולס</string>
     <string name="gxzw_anim_rhythm">מקצב</string>
     <string name="gxzw_anim_star">כוכבית</string>
-    <string name="gxzw_anim_title">זיהוי טביעות אצבע</string>
+    <string name="gxzw_anim_title">אנימצית טביעת האצבע</string>
     <string name="gxzw_aod_show_summary">הרמת המכשיר או הקשה על המסך כדי שתופיע צלמית טביעת האצבע. מאפיין זה מגדיל את צריכת החשמל על-ידי המערכת, אבל מאפשר לבטל את נעילת המכשיר מהר יותר.</string>
     <string name="gxzw_aod_show_tittle">הצג אייקון טביעת אצבע כאשר המסך כבוי</string>
     <string name="gxzw_dialog_message">מגיני מסך עלולים לשבש זיהוי של טביעת אצבע במסך. אם רוצים להגן על המסך, אנו ממליצים להשתמש במגן מסך רשמי של Xiaomi.</string>
@@ -2074,7 +1965,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="headset_head_tracking_title">ניטור תנועות ראש</string>
     <string name="headset_notification_switch_summary">תצוגת סטטוס ביישומון לוח ההתראות כאשר האוזניות מחוברות</string>
     <string name="headset_notification_switch_title">יישומון לוח ההתראות</string>
-    <string name="headset_paired_other_device_need_reset">אוזניות אלה מצומדות למכשיר אחר. אפס אותן כדי שתוכל להתחבר.</string>
     <string name="headset_remove_message">לבטל צימוד למכשיר?</string>
     <string name="headset_remove_message_indicate">יבוטל הצימוד של %1$s לכל מכשירים המקושרים לחשבון Xiaomi זה.</string>
     <string name="headset_sbc">SBC</string>
@@ -2083,10 +1973,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="headset_silent_upgrade_switch_title">עדכון אוטומטי</string>
     <string name="headset_spatial_audio">שמע ממדי</string>
     <string name="headset_unsaved_devices">בשימוש עם התקנים אחרים</string>
-    <string name="health_use_of_pad">שימוש בריא במכשיר</string>
-    <string name="health_use_of_phone">שימוש בריא במכשיר</string>
     <string name="hearing_aids_category">עזרי שמיעה</string>
-    <string name="hearing_stream_option">אפשרויות שמע</string>
     <string name="height_light_list_text">רשימת פריטים חשובים</string>
     <string name="help_and_feedback_title">עזרה משוב</string>
     <string name="high_brightness_hint_summary">כאשר קיים אור חזק מהסביבה, תופיע בחלק העליון של המסך צלמית שמש קטנה</string>
@@ -2095,8 +1982,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="high_performance_title">נראה כי אתה מריץ מבחן ביצועים. הגדר את ניהול האנרגיה כ\"ביצועים\" לתוצאות מירביות.</string>
     <string name="high_temperature_toast">המכשיר התחמם יתר על המידה. לא ניתן להשתמש במאפיין זה כרגע.</string>
     <string name="hint_unadjustable_text">לא ניתן לבצע התאמה ידנית. מעכשיו טמפרטורת הצבע מותאמת באופן אוטומטי.</string>
-    <string name="hom_switch_summary">יש להפעיל לשימוש באפנון מסדר גבוה 1024QAM לבדיקות</string>
-    <string name="hom_switch_title">1024QAM</string>
     <string name="home_app">משגר היישומים</string>
     <string name="home_key">בית</string>
     <string name="home_title">מסך הבית</string>
@@ -2143,8 +2028,6 @@ Xiaomi Cloud
     <string name="http_invoke_app">יישומי רשת</string>
     <string name="http_invoke_app_summary">פתח יישומים מהר יותר מבלי להתקינם</string>
     <string name="huanji_history_title">העברות Mi Mover</string>
-    <string name="illegal_device_name_modification_notification">שינוי שם המכשיר שלך</string>
-    <string name="illegal_hotspot_name_modification_notification">שינוי שם הנקודה החמה</string>
     <string name="ime_security_warning">%1$s עלול לשמור את כל מה שאתה מקליד, כולל סיסמאות, מספרי כרטיסי אשראי, ונתונים אישיים אחרים.</string>
     <string name="ime_security_warning_global">שיטות קלט עשויות להיות מסוגלות לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כמו סיסמה ומספרי כרטיסי אשראי. האם להשתמש ב%1$s?</string>
     <string name="ime_security_warning_title_global">מפעיל את המקלדת</string>
@@ -2158,8 +2041,6 @@ Xiaomi Cloud
     <string name="importance_low">נמוכה</string>
     <string name="importance_min">טריוויאלי</string>
     <string name="importance_title">חשיבות</string>
-    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמת המכשיר שלך ולעבד את התמונות שצולמו באמצעות האפליקציה. אין להשתמש בסורק כדי לצלם תמונות של חפצים המכילים מידע אישי שלך. הקשה על \"הסכמה\" מהווה הסכמתך עם &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">מדיניות הפרטיות&lt;/a>&lt;/font> שלנו, ותאפשר לסורק להתחבר לאינטרנט.</string>
-    <string name="impunity_declaration_negative_text">יציאה</string>
     <string name="incall_show">פרופיל וידאו עבור שיחות נכנסות</string>
     <string name="incoming_call_breathing_light_color_title">צבע נורית השיחה</string>
     <string name="incoming_call_breathing_light_freq_title">תדירות הבהוב עבור שיחות</string>
@@ -2225,10 +2106,6 @@ Xiaomi Cloud
     <string name="interesting_text">תחושות מגע ריאליסטיות הופכות את האינטראקציה עם המסך לברורה ומוחשית יותר.</string>
     <string name="interesting_title">מגע ריאליסטי</string>
     <string name="internal_auto_rotate_title">נעילת כיוון למסך הפנימי</string>
-    <string name="international_lyra_account_ap_summary">אפשר לטאבלטים ולמחשבים שנמצאים בקרבת מקום ומחוברים לחשבון שלך להפעיל ולהתחבר לנקודה החמה של המכשיר הזה באופן אוטומטי</string>
-    <string name="international_lyra_account_ap_title">סנכרון רשת</string>
-    <string name="international_lyra_auto_connect_summary">כאשר מכשיר שנמצא בקרבת מקום מחובר לחשבון שלך וצריך להתחבר לאינטרנט, הפעל והתחבר לנקודה החמה של המכשיר הזה באופן אוטומטי</string>
-    <string name="international_lyra_auto_connect_title">התחבר אוטומטית לנקודה חמה</string>
     <string name="internet_connectivity_panel_title">קישוריות לאינטרנט</string>
     <string name="item_system_app">יישומי מערכת</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
@@ -2269,7 +2146,6 @@ Xiaomi Cloud
     <string name="keyboard_and_input_methods_category">מקלדת</string>
     <string name="keyboard_assistance_category">סיוע למקלדת</string>
     <string name="keyboard_funtion_key">מקש פונקציה</string>
-    <string name="keyboard_layout_not_support_hint">פריסה שאינה נתמכת</string>
     <string name="keyboard_mouse_touch">מקלדת, עכבר וטרקפד</string>
     <string name="keyboard_select">התאמת הגודל</string>
     <string name="keyboard_select_summary">התאמת גודל המקלדת לאחיזה שלך</string>
@@ -2309,7 +2185,6 @@ Xiaomi Cloud
     <string name="knock_slide_shape">צייר מעגל עם מפרק אצבע</string>
     <string name="knock_slide_v">שרטט V עם מפרק אצבע</string>
     <string name="label_mi_stats">ניתוחי Mi</string>
-    <string name="lamp_effect_settings">אפקטים</string>
     <string name="lattice_smartcover_title">מכסה קדמי מסורג</string>
     <string name="launch_ai_shortcut">קיצור דרך ל-Mi AI</string>
     <string name="launch_alipay_health_code">קוד בריאות Alipay</string>
@@ -2361,7 +2236,6 @@ Xiaomi Cloud
     <string name="led_pulse_summary">הבהוב עבור התראות</string>
     <string name="led_settings">נורית LED</string>
     <string name="left_function_key">קיצור שמאלי</string>
-    <string name="left_hearing_aid">עזר שמיעה לאוזן שמאל</string>
     <string name="left_right_hand_switch">שמאל וימין</string>
     <string name="left_right_hand_switch_summary">החלפת המיקום של החלקים השמאלי והימני של המקלדת בהקשה אחת</string>
     <string name="left_shoulder_key">שמאל</string>
@@ -2389,10 +2263,6 @@ Xiaomi Cloud
     <string name="load_esim_info">מייצר נתוני eSIM…</string>
     <string name="load_esim_info_error">לא ניתן היה לטעון את נתוני eSIM. נא להמתין דקה או שתיים ולנסות שוב.</string>
     <string name="loading">רק רגע…</string>
-    <string name="loading_eid_error_message">לא ניתן לקבל את פרטי ה-EID. נא להמתין דקה או שתיים ולנסות שוב.</string>
-    <string name="loading_eid_error_ok">הבנתי</string>
-    <string name="loading_eid_error_title">לא ניתן לטעון</string>
-    <string name="loading_eid_tip">מקבל את נתוני EID…</string>
     <string name="local_auto_backup_off">כבוי</string>
     <string name="local_auto_backup_on">מופעל</string>
     <string name="local_auto_backup_section_title">גיבויים אוטומטיים</string>
@@ -2546,13 +2416,11 @@ Xiaomi Cloud
     <string name="login_action">היכנס</string>
     <string name="long_press_back_key">"לחיצה ארוכה על לחצן ה'חזרה'"</string>
     <string name="long_press_buttom_key">"לחיצה ארוכה על 'בית' ב'מסך הנעילה'"</string>
-    <string name="long_press_editor_style_summary">יש ללחוץ לחיצה ממושכת על מסך נעילה לעריכת השעון והטפט</string>
-    <string name="long_press_editor_style_title">לעריכה יש ללחוץ לחיצה ממושכת</string>
     <string name="long_press_home_key">"לחיצה ארוכה על לחצן ה'בית'"</string>
     <string name="long_press_menu_key">"לחיצה ארוכה על לחצן ה'תפריט'"</string>
     <string name="long_press_menu_key_when_lock">"לחיצה ארוכה על 'תפריט' ב'מסך הנעילה'"</string>
     <string name="long_press_power_key">"לחיצה ארוכה על לחצן ה'הפעלה'"</string>
-    <string name="long_press_power_key_half_of_second">יש ללחוץ על כפתור ההפעלה במשך %fשנ ברצף להפעלת Google Assistant</string>
+    <string name="long_press_power_key_half_of_second">לחץ והחזק את כפתור ההפעלה לחצי שניה על מנת להפעיל את סייע גוגל</string>
     <string name="long_press_power_key_half_second">"לחץ על כפתור ההפעלה במשך %sשנ'"</string>
     <string name="long_press_power_key_tips"><Data>לחיצה ממושכת על כפתור ההפעלה היא&lt;font color=#999999>מהירה ונוחה יותר&lt;/font></Data></string>
     <string name="long_press_volume_down">לחיצה ארוכה על לחצן הנמכת עוצמת השמע</string>
@@ -2607,13 +2475,15 @@ Xiaomi Cloud
     <string name="mechanical_ime">מקלדת מכנית</string>
     <string name="mechanical_ime_hint">נתמך רק על ידי המקלדת המותאמת אישית עבור Xiaomi</string>
     <string name="media_button">לחצן המדיה</string>
-    <string name="media_dialog_ok">הבנתי</string>
-    <string name="media_dialog_summary">כשהמאפיין הזה מופעל, המכשיר ירטור בהתאם לקצב המוזיקה הנתמכת, מה שמעניק חוויה מלאה וסוחפת יותר.</string>
-    <string name="media_dialog_title">להפעיל משוב מישוש למדיה</string>
     <string name="media_feedback_enable_title">רטט לפי הקצב</string>
-    <string name="media_haptic">משוב מישוש למדיה</string>
-    <string name="media_haptic_summary">לקבל משוב מישוש בהתאם לקצב המוזיקה המתנגנת</string>
     <string name="media_output_panel_title">החלפת הפלט</string>
+    <string name="media_output_status_device_in_low_power_mode">להעיר את המכשיר כדי לנגן כאן</string>
+    <string name="media_output_status_not_support_downloads">לא ניתן להפעיל כאן הורדות</string>
+    <string name="media_output_status_require_premium">למעבר יש לשדרג את החשבון</string>
+    <string name="media_output_status_track_unsupported">Can’t play this media here</string>
+    <string name="media_output_status_try_after_ad">נא לנסות שוב אחרי הפרסומת</string>
+    <string name="media_output_status_unauthorized">המכשיר אינו מאושר להפעיל</string>
+    <string name="media_output_status_unknown_error">לא ניתן להפעיל במכשיר זה</string>
     <string name="media_volume_option_title">מדיה</string>
     <string name="megabyteShort">MB</string>
     <string name="megabyte_per_second">"מ\"ב/ש'"</string>
@@ -2625,7 +2495,6 @@ Xiaomi Cloud
     <string name="menu_check">נסיון</string>
     <string name="menu_item_notification_power_text">מיטוב סוללה</string>
     <string name="menu_key">תפריט</string>
-    <string name="menu_new">APN חדש</string>
     <string name="menu_restore">אפס</string>
     <string name="menu_share">שיתוף</string>
     <string name="menu_stats_refresh">רענון</string>
@@ -2657,7 +2526,6 @@ Xiaomi Cloud
     <string name="miheadset_RightEar">ימין</string>
     <string name="miheadset_active">נמרץ</string>
     <string name="miheadset_adaptive">מסתגל</string>
-    <string name="miheadset_adaptive_sampling_rate">אדפטיבי</string>
     <string name="miheadset_ancClosed">מושבת</string>
     <string name="miheadset_ancDepth">עמוק</string>
     <string name="miheadset_ancEquilibrium">מאוזן</string>
@@ -2798,7 +2666,6 @@ Xiaomi Cloud
     <string name="miheadset_virtual_surround_summary">העשר את עומק הצליל בזמן ניגון שמע ווידאו באוזניות. תכונה זו לא תפעל כאשר מושמע שמע בערוץ %s.</string>
     <string name="miheadset_voice_control_summary">כאשר תכונה זו מופעלת, תוכל להשתמש בפקודות קוליות כדי לומר ל-Mi AI לנווט במכשיר שלך או לשלוט בהשמעת שמע</string>
     <string name="miheadset_windnoise">רוח</string>
-    <string name="mild_reminder">התראה</string>
     <string name="mipush_fake_channel_group_name">Mi push</string>
     <string name="mishow_disable_password_setting">לא ניתן להגדיר סיסמאות במצב הדגמה</string>
     <string name="miui_accessibility_asr_summary">תיעתוק שמע ושמירת טקסט</string>
@@ -2935,12 +2802,7 @@ Xiaomi Cloud
     <string name="miui_type_style_summary">סגנון ההקלדה חל כאשר קורא המסך פועל</string>
     <string name="miui_type_style_title">סגנון הקלדה</string>
     <string name="miui_updater">עדכון מערכת</string>
-    <string name="miui_user_add_user_message">"ניתן להוסיף פרופילים של משתמשים כדי לשתף את המכשיר הזה עם אחרים. הם יצטרכו להגדיר את הפרופיל שלהם בעצמם אחרי שיצרתם את הפרופיל.
-כל משתמש יכול לתת הרשאות בשם כל הפרופילים של משתמשים שקיימים במכשיר הזה."</string>
-    <string name="miui_user_add_user_title">הוספת פרופיל משתמש</string>
     <string name="miui_userguide">מדריך המשתמש</string>
-    <string name="miui_visual_perception_summary">זיהוי נוכחותך על-ידי המכשיר ובחירה באפשרויות נעילה וביטול נעילה נוחות יותר</string>
-    <string name="miui_visual_perception_title">תפיסה חזותית פעילה</string>
     <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
@@ -2951,7 +2813,6 @@ Xiaomi Cloud
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
-    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>
@@ -2970,8 +2831,6 @@ Xiaomi Cloud
     <string name="mms_privacy_password_role_instruction">השיחות שלך עם אנשי קשר פרטיים יאוחסנו כאן.</string>
     <string name="mode_disable">כיבוי</string>
     <string name="mode_enable">מופעל</string>
-    <string name="model_management">ניהול דגמים</string>
-    <string name="model_management_summary">הורדה, עדכון ומחיקה של מודלים גדולים במכשיר שלכם</string>
     <string name="model_name">דגם</string>
     <string name="model_number">מכשיר</string>
     <string name="modern_control_center_desc">יש למשוך את שורת המצב למטה לצפייה בהתראות. יש למשוך את שורת המצב למטה מימין לפתיחת מרכז הבקרה.</string>
@@ -3026,7 +2885,6 @@ Xiaomi Cloud
     <string name="more_font_pref_title">גופנים נוספים</string>
     <string name="more_installed_services_title">יותר שירותי הורדות</string>
     <string name="more_settings_button">הגדרות נוספות</string>
-    <string name="more_settings_eye_health">הגדרות נוספות לבריאות העיניים</string>
     <string name="more_volume_settings">כיוונון עוצמת שמע</string>
     <string name="morning">בוקר</string>
     <string name="move_app_failed_dlg_text">לא ניתן להעביר את היישום.%1$s</string>
@@ -3088,7 +2946,6 @@ Xiaomi Cloud
     <string name="music_equalizer">אקולייזר</string>
     <string name="music_playback_control_cross_device_flow">העברת השמעת אודיו בין מכשירים</string>
     <string name="music_video_flow_across_device">בקרת השמעת אודיו והעברת שמע בין מכשירים</string>
-    <string name="musical_rhythm_app_title">אפקטים קצביים של תאורה</string>
     <string name="mute">מצב שקט</string>
     <string name="mute_media_sound_summary">משחקים, מוזיקה, סרטוני וידאו ויישומים אחרים</string>
     <string name="mute_media_sound_title">השתק מדיה במצב שקט</string>
@@ -3096,7 +2953,6 @@ Xiaomi Cloud
     <string name="mute_voiceassist_stream">השתק את העוזר הקולי</string>
     <string name="my_device">המכשיר שלי</string>
     <string name="my_device_disclaimer">שים לב: פרטי החומרה, כולל CPU, קיבולת סוללה, גודל ורזולוצית המסך והמצלמה, ניתנים על ידי המעבדות, המעצבים והספקים של Xiaomi.</string>
-    <string name="name_modification_no_network_notification">נא להתחבר לרשת ולנסות שוב</string>
     <string name="natural_haptic">מגע טבעי</string>
     <string name="natural_haptic_summary">תבניות חדשות של משוב מישושי מוסיפות מימד נוסף לכל הדברים שאותם אפשר לראות ובהם אפשר לגעת על מסך המכשיר.</string>
     <string name="natural_scroll">גלילה טבעית</string>
@@ -3133,10 +2989,7 @@ Xiaomi Cloud
     <string name="near_loclscreen_summary">המסך יואר באופן אוטומטי לאחר שהתקרבת למכשיר שלך. ההתראות יוסתרו.</string>
     <string name="near_loclscreen_title">להעיר את המסך לאחר שחזרת</string>
     <string name="nearby_wifi">רשתות זמינות</string>
-    <string name="nearby_wifi_refresh">רענון</string>
     <string name="need_reboot_now">אתחל את המכשיר להתקנת העדכון.</string>
-    <string name="net_slicing_switch_summary">שימוש בריבוב רשתות על גבי אותה תשתית לניפוי שגיאות (אפשרות זו זמינה כשהיא מסופקת על-ידי ספק הרשת)</string>
-    <string name="net_slicing_switch_title">פריסת 5G (Slicing)</string>
     <string name="netcheck_title">בדיקת רשת</string>
     <string name="network_acceleration">האצת רשת</string>
     <string name="network_alarm">אל תשתיק שיחות אינטרנט</string>
@@ -3223,6 +3076,7 @@ Xiaomi Cloud
     <string name="normal_smartcover_title">מכסה קדמי אטום</string>
     <string name="not_connected_to_wifi">לא מחובר ל-Wi-Fi</string>
     <string name="not_enabled">כבוי</string>
+    <string name="not_grant_admin">לא, אני לא רוצה להפוך את המשתמש למנהל</string>
     <string name="notch_and_status_bar_settings">מרכז הבקרה ושורת המצב</string>
     <string name="notch_force_black_desc">יש להפעיל כדי להחשיך את האזור סביב החריץ</string>
     <string name="notch_force_black_title">להסתיר את החריץ</string>
@@ -3245,8 +3099,6 @@ Xiaomi Cloud
     <string name="notifi_no_channels">עדיין לא הגיעו התראות ליישום זה</string>
     <string name="notification_animation_style">אפקטים מיוחדים</string>
     <string name="notification_app_permissions">הרשאות להתראות</string>
-    <string name="notification_app_summary">יישומים אחרים</string>
-    <string name="notification_app_title">התראות</string>
     <string name="notification_breathing_light_color_title">צבע נורית ההתראות</string>
     <string name="notification_breathing_light_freq_title">תדירות הבהוב עבור התראות</string>
     <string name="notification_center">התראות</string>
@@ -3314,7 +3166,7 @@ Xiaomi Cloud
     <string name="orange_pom_dialog_title">הגדרות ספק רשת ויישומים חדשים</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">כבוי</string>
-    <string name="otg_new_tip">מאפיין זה מאפשר לחבר ולהפעיל מכשירים עם חיבור Type-C. אם המכשיר לא מזהה אוזניות, כונן USB או מכשיר אחר שחובר, יש להפעיל את מתג ה-OTG. הוא ייכבה באופן אוטומטי אחרי %d דקות ללא שימוש.</string>
+    <string name="otg_new_tip">להפעיל את OTG כדי שניתן יהיה לחבר את המכשיר שלך ישירות למכשירים אחרים באמצעות USB. מאפיין זה ייכבה באופן אוטומטי לאחר %d דקות של חוסר פעילות.</string>
     <string name="otg_opened">מופעל</string>
     <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB on-The-Go מאפשר לכוננים ומקלדות ניידים להתחבר למכשיר הנייד ולהחליף נתונים.
@@ -3331,15 +3183,10 @@ Xiaomi Cloud
     <string name="other_relative">אחר</string>
     <string name="other_settings_sync_settings">סנכרון</string>
     <string name="other_sound_settings_title">הגדרות נוספות</string>
-    <string name="outdoor_high_temperature_notification">המכשיר התחמם יתר על המידה. לא ניתן להפעיל מצב חיצוני.</string>
-    <string name="outdoor_low_power_notification">לא ניתן להפעיל מצב חיצוני בגלל סוללה חלשה</string>
-    <string name="outdoor_mode">מצב חיצוני</string>
-    <string name="outdoor_mode_summary">יש להפעיל להעלאת בהירות התצוגה. המכשיר יתחמם ויצרוך יותר חשמל.</string>
     <string name="owner_info_settings_title">"חתימת 'מסך הנעילה'"</string>
     <string name="owner_space">שטח ראשון</string>
     <string name="pad_add_fingerprint_finish_message">המשך לגישה להגדרות נוספות</string>
     <string name="pad_add_fingerprint_message">יש להניח אצבע על כפתור ההפעלה</string>
-    <string name="pad_application_mode_name">פריסת יישום אופקית</string>
     <string name="page_layout_1">ראשון, 16 באוגוסט</string>
     <string name="page_layout_10">הגדרות</string>
     <string name="page_layout_11">מזג אויר</string>
@@ -3456,10 +3303,8 @@ Xiaomi Cloud
     <string name="phone_call_noise_suppression">השתק רעש במהלך שיחות</string>
     <string name="photo_data">תמונות וסרטונים</string>
     <string name="photography_handle_button_function_settings">הגדרת כפתור לתופסן</string>
-    <string name="photography_handle_charge_protected">הגנה בטעינת התופסן</string>
-    <string name="photography_handle_charge_protected_summary">כשתופסן המצלמה מחובר, המכשיר יפסיק את הטעינה וישמור על אחוז טעינת הסוללה של %1$s</string>
-    <string name="photography_handle_charge_state">טעינה מתופסני מצלמה</string>
-    <string name="photography_handle_charge_state_summary">לטעון את המכשיר הזה מתופסני מצלמה כשהם מחוברים</string>
+    <string name="photography_handle_charge_protected">ניתוק אוטומטי של טעינה עם תופסן</string>
+    <string name="photography_handle_charge_protected_summary">כשהמכשיר שלך מזהה שימוש בתופסן מצלמה, המכשיר יפסיק את הטעינה וישמור על רמת הסוללה של %1$s</string>
     <string name="photography_handle_launch_and_take_photo">צילום תמונה</string>
     <string name="photography_handle_launch_camera">פתיחת המצלמה</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">יש ללחוץ לחיצה ממושכת על כפתור התריס כדי לבצע פעולה</string>
@@ -3485,15 +3330,17 @@ Xiaomi Cloud
     <string name="power_autorun_apps_empty">אין כאן יישומים</string>
     <string name="power_autorun_empty">אין יישומים זמינים</string>
     <string name="power_center">אופטימיזציית (ייעול) סוללה</string>
+    <string name="power_charging_future_paused">%1$s - בוצע מיטוב של הטעינה</string>
+    <string name="power_charging_limited">%1$s - בוצע מיטוב של הטעינה</string>
     <string name="power_checker">בודק האנרגיה</string>
     <string name="power_hide_mode_summary">נהל הפעלת יישומים ברקע כדי לחסוך בסוללה</string>
     <string name="power_hide_mode_title">נהל כיצד יישומים ישתמשו בסוללה</string>
     <string name="power_key_how_power_force_off">איך לכפות אתחול על מכשירך</string>
     <string name="power_key_how_power_force_off_detail">לחץ והחזק את את כפתור ההפעלה עד שמכשירך יבצע אתחול</string>
     <string name="power_key_how_power_off">איך לפתוח את מסך הכיבוי</string>
-    <string name="power_key_how_power_off_detail">יש ללחוץ על כפתור ההפעלה במשך %dשנ ברצף</string>
+    <string name="power_key_how_power_off_detail">לחץ והחזק את כפתור ההפעלה למשך 3 שניות</string>
     <string name="power_key_how_start">איך להעיר את סייע גוגל</string>
-    <string name="power_key_how_start_detail">יש ללחוץ על כפתור ההפעלה במשך %fשנ ברצף. יש לשחרר כדי לדבר.</string>
+    <string name="power_key_how_start_detail">לחץ והחזק את כפתור ההפעלה למשך חצי שניה. שחרר ודבר.</string>
     <string name="power_key_start_enjoy">התחל להשתמש ב-Google Assistant</string>
     <string name="power_key_start_guide">הער את מסייע גוגל תוך שימוש בכפתור הפעלה במכשיר עם תצוגה מלאה</string>
     <string name="power_label">הפעלה</string>
@@ -3521,13 +3368,10 @@ Xiaomi Cloud
     <string name="pref_operational_key">לחצני ניווט</string>
     <string name="pref_show_lunar_calendar_title">הצג את לוח השנה הסיני המסורתי במצב נעילת מסך</string>
     <string name="pref_title_update_notification">התראות שימוש בנתונים</string>
-    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">להקיש פעמיים על לחצן הנמכת עוצמת השמע לפתיחת המצלמה וצילום תמונה כשהמסך נעול</string>
     <string name="pref_volume_launch_camera_summary">"לחץ פעמיים על כפתור הנמכת עוצמת השמע על מנת להפעיל את ה'מצלמה'"</string>
     <string name="pref_volume_launch_camera_title">"הפעל את ה'מצלמה'"</string>
-    <string name="pref_volume_launch_camera_when_lock_screen_summary">להקיש על לחצן הנמכת עוצמת השמע לפתיחת המצלמה כשהמסך נעול</string>
     <string name="pref_volume_wake_summary">לחיצה על לחצני עוצמת השמע מעירה את המכשיר</string>
     <string name="pref_volume_wake_title">הער באמצעות לחצני עוצמת השמע</string>
-    <string name="preference_copied">%1$s הועתק ללוח העריכה</string>
     <string name="preference_toggle_nfc_dnd_mode_summary">אל תקבל התראות על תגי NFC לא מזוהים</string>
     <string name="preferred_app_settings">ברירות מחדל</string>
     <string name="preferred_app_settings_default">ברירת מחדל</string>
@@ -3644,6 +3488,8 @@ Xiaomi Cloud
     <string name="private_sms_need_to_unlock">הזן סיסמה</string>
     <string name="private_sms_recording_intro_header">צייר דפוס ביטול נעילה</string>
     <string name="private_sms_reset_by_account">לאיפוס הסיסמה עליך להתחבר לחשבון Xiaomi שלך.</string>
+    <string name="progress_dialog_speaker_auto_clean_button">עצור</string>
+    <string name="progress_dialog_speaker_auto_clean_title">מנקה רמקול…</string>
     <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
@@ -3662,8 +3508,6 @@ Xiaomi Cloud
     <string name="quiet_important_interruptions_mode">אפשר חריגים בלבד</string>
     <string name="quiet_no_interruptions_mode">השתק את כל ההפרעות</string>
     <string name="quiet_off_mode">אפשר הפרעות תמיד</string>
-    <string name="r16_power_switch_summary">להשתמש ב-WUS וב-UAI לניפוי שגיאות (אפשרות זו זמינה כשהיא מסופקת על-ידי ספק הרשת)</string>
-    <string name="r16_power_switch_title">חיסכון באנרגיה</string>
     <string name="radio_controls_summary">ניהול רשתות אלחוטיות, Bluetooth, מצב טיסה, רשתות סלולריות, ו-VPN</string>
     <string name="radio_controls_title">עוד</string>
     <string name="radio_info_asdiv_switch_label">סטטוס ASDiv:</string>
@@ -3737,7 +3581,6 @@ Xiaomi Cloud
     <string name="rhythmic_mode_enable_summary">השג נוחות מיטבית על ידי התאמת צבעים אוטומטית על סמך סוגי יישומים וזמני זריחה/שקיעה</string>
     <string name="rhythmic_mode_enable_title">מחזור</string>
     <string name="right_function_key">קיצור ימני</string>
-    <string name="right_hearing_aid">עזר שמיעה לאוזן ימין</string>
     <string name="right_shoulder_key">ימין</string>
     <string name="ring_to_you">רינגטון מותאם אישית</string>
     <string name="ring_to_you_info">הגדר צליל מותאם אישית שיושמע למתקשרים לפני שתענה</string>
@@ -3753,19 +3596,14 @@ Xiaomi Cloud
     <string name="rule_name">שם</string>
     <string name="runtime_permissions_summary_control_app_access">שליטה בגישת היישומים לנתונים</string>
     <string name="safe_install_mode_settings">מצב בטוח</string>
-    <string name="same_source_synced">השידור נוסף בהצלחה</string>
     <string name="sar">מידע על חשיפה לתדרי רדיו (RF)</string>
-    <string name="satellite_call_assistant">הגדרות שיחה</string>
-    <string name="satellite_network_title">מאפייני שיחת לוויין</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
     <string name="save_battery_mode">חסוך סוללה עם WQHD+</string>
     <string name="save_battery_mode_summary">החלף רזולוציה באופן אוטומטי כדי לחסוך בחשמל</string>
-    <string name="save_device_name_progress_message">שומר…</string>
     <string name="saved_wifi">ניהול רשתות שנשמרו</string>
     <string name="saved_wifi_delete">מחיקה</string>
-    <string name="scanner_app_name">סורק</string>
     <string name="scanning_status_text_wifi_off_ble_off">סריקת Wi-Fi וסריקת Bluetooth כבויות</string>
     <string name="scanning_status_text_wifi_off_ble_on">סריקת Bluetooth מופעלת, סריקת Wi-Fi כבויה</string>
     <string name="scanning_status_text_wifi_on_ble_off">סריקת Wi-Fi מופעלת, סריקת Bluetooth כבויה</string>
@@ -3781,7 +3619,6 @@ Xiaomi Cloud
     <string name="screen_dark_mode_select_time_error_summary">זמן התחלה וסוף אינם יכולים להיות באותו זמן</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">אפליקציות מסוימות עשויות להיות מוצגות שלא כהלכה במצב כהה. ניתן להגביל את השימוש במצב כהה לאפליקציות ספציפיות כאן.</string>
     <string name="screen_dark_mode_smart_dark_title">מצב מוחשך גלובלי</string>
-    <string name="screen_dark_mode_time_summary">המכשיר שלך יעבור למצב מוחשך בסביבות הזמן המתוכנן לאחר כיבוי המסך</string>
     <string name="screen_dark_mode_time_title">תכנן הפעלת מצב כהה</string>
     <string name="screen_effect">מפת הצבעים</string>
     <string name="screen_effect_adapt_color_summary">התאמת הצבעים לפי התאורה הקיימת</string>
@@ -3794,13 +3631,9 @@ Xiaomi Cloud
     <string name="screen_enhance_engine_ai_open">שיפור תמונות</string>
     <string name="screen_enhance_engine_ai_pic_summary">"זיהוי חפצים (למשל, צמחים, בעלי חיים ומבנים) וכוונון דינמי של האפקטים בתצוגה. "</string>
     <string name="screen_enhance_engine_ai_title">שיפור תמונה מבוסס אינטליגנציה מלאכותית</string>
-    <string name="screen_enhance_engine_dualDPU_note">שימוש בשבב ייעודי משפר את רזולוציית הווידאו, מעלה את קצב הפריימים וממטב את ה-HDR. זה מעניק חוויית צפייה עשירה וחלקה יותר.</string>
-    <string name="screen_enhance_engine_dualDPU_summary">שיפור איכות הווידאו באמצעות שבב ייעודי</string>
-    <string name="screen_enhance_engine_dualDPU_title">מרכיבים חזותיים עם ליבה כפולה</string>
     <string name="screen_enhance_engine_memc_note">לא ניתן לשפר סרטונים כאשר רזולוציית העל מופעלת. הפעלת סרטונים משופרים תבטל את רזולוציית העל.</string>
     <string name="screen_enhance_engine_memc_note_1">%d. מאפיין זה מעלה במעט את צריכת החשמל.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. מאפיין זה עובד רק כאשר ארגז כלי הווידאו מופעל.</string>
-    <string name="screen_enhance_engine_memc_note_3">%d. מאפיין זה לא זמין כשמשתמשים במצב ביצועים, במצב החיסכון בסוללה או במצב חיסכון קיצוני בסוללה.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"הוסיפו פריימים נוספים לסרטונים כדי לגרום לתוכן להיות חלק ולהוסיף חיות למעברים. "</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
@@ -3881,17 +3714,6 @@ Xiaomi Cloud
     <string name="screen_paper_mode_update_white_pkg_list_summary">"עדכן את רשימת היישומים אשר עושים שימוש אוטומטי ב'מצב קריאה'"</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">עדכן באופן אוטומטי</string>
     <string name="screen_paper_texture">מרקם</string>
-    <string name="screen_pinning_description">יישומים שהוצמדו יכולים לפתוח יישומים אחרים ולקבל גישה למידע האישי שלך</string>
-    <string name="screen_pinning_dialog_message">"זה מה שיישומים מוצמדים יכולים לעשות:
-
-• לקבל גישה למידע האישי שלך
-(למשל, אנשי הקשר וכתובות הדוא\"ל)
-• לפתוח יישומים אחרים
-
-יש לגלות זהירות בשימוש במאפיין הזה כשמשתפים את המכשיר הזה עם אחרים."</string>
-    <string name="screen_pinning_summary">יישומים שהוצמדו יישארו ביישומים האחרונים עד שההצמדה תבוטל.</string>
-    <string name="screen_pinning_title">לאפשר הצמדת יישומים</string>
-    <string name="screen_pinning_unlock_none">יש לאמת את שיטת נעילת המסך לביטול הצמדה</string>
     <string name="screen_projection">שידור</string>
     <string name="screen_projection_characteristics">תכונות מיוחדות</string>
     <string name="screen_projection_characteristics_off_screen_summary">ניתן להמשיך לשדר גם כשמסך המכשיר כבוי. אפשרות זו מצמצמת את צריכת החשמל.</string>
@@ -3910,7 +3732,6 @@ Xiaomi Cloud
     <string name="screen_projection_sample_summary">משדר מסמכים, משחקים, תמונות וסרטונים</string>
     <string name="screen_projection_sample_title">הדגמות</string>
     <string name="screen_projection_title">שידור</string>
-    <string name="screen_reader_category_title">קורא מסך</string>
     <string name="screen_refresh_unavailable_prompt">שינוי קצב הרענון נתמך רק על ידי המסך החיצוני</string>
     <string name="screen_resolution_dialog_title">החלף רזולוציה</string>
     <string name="screen_resolution_high_format">גבוהה (%1$s)</string>
@@ -3933,12 +3754,12 @@ Xiaomi Cloud
     <string name="screenshot_three_gesture">החלק 3 אצבעות כלפי מטה על מנת לבצע צילום מסך</string>
     <string name="screenshot_three_gesture_summary">מחוות אחרות המתבצעות באמצעות 3 אצבעות יכובו</string>
     <string name="sd_data">נתוני כרטיס SD</string>
-    <string name="sd_eject">לנתק את האחסון המשותף</string>
-    <string name="sd_eject_summary">לנתק את אחסון ה-USB הפנימי</string>
-    <string name="sd_format">למחוק את אחסון ה-USB</string>
-    <string name="sd_format_summary">מוחק את כל הנתונים באחסון ה-USB הפנימי, כמו קובצי מוזיקה ותמונות</string>
-    <string name="sd_insert_summary">נא להכניס התקן אחסון USB לטעינתו</string>
-    <string name="sd_mount">לטעון אחסון USB</string>
+    <string name="sd_eject">בטל טעינת כרטיס SD</string>
+    <string name="sd_eject_summary">לנתק את כרטיס ה-SD, כדי שניתן יהיה להסיר אותו בבטחה</string>
+    <string name="sd_format">למחוק את כרטיס ה-SD</string>
+    <string name="sd_format_summary">מוחק את כל הנתונים בכרטיס ה-SD, כמו קובצי מוזיקה ותמונות</string>
+    <string name="sd_insert_summary">נא להכניס כרטיס SD לטעינתו</string>
+    <string name="sd_mount">טען כרטיס SD</string>
     <string name="sd_mount_summary" />
     <string name="se_in_ese">רכיב מאובטח מובנה</string>
     <string name="se_in_ese_desc">רכיב מאובטח מובנה</string>
@@ -4050,8 +3871,6 @@ Xiaomi Cloud
     <string name="search_ntts_settings_title">TTS;הגדרות TTS</string>
     <string name="search_oldman_mode_entry_name">מצב קל;מצב מבוגרים;מצב קל</string>
     <string name="search_onekey_migrate">העבר;Mi Mover;טלפון ישן;טלפון חדש; העבר קבצים</string>
-    <string name="search_otg_button">אוזניות;אוזניה;אוזניות;אוזניה;אוזניות;אוזניה;אוזניות עם מיקרופון;אוזניות</string>
-    <string name="search_otg_settings">אוזניות;אוזניה;אוזניות;אוזניה;אוזניות;אוזניה;אוזניות עם מיקרופון;אוזניות</string>
     <string name="search_other_advanced_settings">הגדרות נוספות;עוד הגדרות</string>
     <string name="search_other_settings_sync_settings">סנכרון;אוטומטי;רשת אלחוטית בלבד</string>
     <string name="search_owner_info_settings_title">פרטי הבעלים</string>
@@ -4184,14 +4003,12 @@ Xiaomi Cloud
     <string name="security_relative">אבטחה</string>
     <string name="security_status">סטטוס אבטחה</string>
     <string name="security_update">עדכון אבטחה</string>
-    <string name="securitycenter_sidebar_box">ארגז כלים צדדי</string>
     <string name="seek_bar_info">התאם גודל</string>
     <string name="seekbar_text">שקופיות (מחוון)</string>
     <string name="select_logd_level">בחר רמת תיעוד</string>
     <string name="select_ssid_type_title">בחירת SSID</string>
     <string name="select_time_format_category_title">פורמט זמן</string>
     <string name="select_time_format_title">פורמט זמן</string>
-    <string name="selected_app_title">יישומים נבחרים</string>
     <string name="send">שליחה</string>
     <string name="sensor_toggle_description">לכל האפליקציות והשירותים</string>
     <string name="separate_keyboard">מקלדת ארגונומית</string>
@@ -4199,7 +4016,6 @@ Xiaomi Cloud
     <string name="separate_keyboard_summary_pad">הפרדת המקלדת לשני חלקים על ידי מחיצה במרכז כדי להפוך את ההקלדה למהירה ונוחה יותר</string>
     <string name="service_manage">התקנה</string>
     <string name="service_stop_description">היישום החל בהרצת השירות. עצירה עלולה לגרום לשגיאות.</string>
-    <string name="service_support">תמיכה</string>
     <string name="set_jeejen_prompt_message">משגר היישומים מצב קל יוגדר כמשגר ברירת המחדל שלך. באפשרותך לשנות את משגר ברירת המחדל בהגדרות > הגדרות מערכת > מסך הבית ואחרונים > מפעיל ברירת המחדל.</string>
     <string name="set_jeejen_prompt_title">אשר שינויים</string>
     <string name="set_screen_paper_mode">מצב קריאה</string>
@@ -4294,7 +4110,7 @@ Xiaomi Cloud
     <string name="silent_standard">שקט</string>
     <string name="silent_time">"משך הזמן ב'מצב שקט'"</string>
     <string name="silent_total">נא לא להפריע</string>
-    <string name="sim_bad_pin">קוד ה-PIN חייב להכיל לפחות %1$d-%2$d ספרות</string>
+    <string name="sim_bad_pin">קוד PIN חייב לכלול 4 עד 8 ספרות</string>
     <string name="sim_change_failed_enable_sim_lock">לא ניתן היה לשנות את קוד ה-PIN. הפעל את נעילת ה-SIM כעת.</string>
     <string name="sim_lock_change_not_supported">לא ניתן היה לשנות את קוד ה-PIN. כרטיס ה-SIM שלך אינו תומך בפעולה זו.</string>
     <string name="sim_lock_settings">הגדרות נעילת SIM</string>
@@ -4317,12 +4133,10 @@ Xiaomi Cloud
 הקש פעמיים על מנת לפתוח את 'לאחרונה'."</string>
     <string name="single_press_AI_button">לחץ על כפתור AI</string>
     <string name="size_byte">B</string>
-    <string name="size_compat">ממורכז</string>
     <string name="size_compat1">%1$d:%2$d</string>
     <string name="size_compat2">%1$d:%2$d</string>
     <string name="size_embedded">חלונות מקבילים</string>
     <string name="size_full">מסך מלא</string>
-    <string name="size_fullscreen">מסך מלא</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -4368,7 +4182,6 @@ Xiaomi Cloud
     <string name="slight_pause">,</string>
     <string name="slot_number">" (חריץ %1$d)"</string>
     <string name="slot_status_title">פרטי IMEI</string>
-    <string name="small_window_not_support_add_data_toast">לא ניתן לתעד נתונים בחלונות צפים. נא לעבור למסך מלא ולנסות שוב.</string>
     <string name="smallwindow_smartcover_title">כיסוי קדמי בעל חלון קטן</string>
     <string name="smart_dual_sim_title">SIM כפול חכם</string>
     <string name="smart_home_select_smart_device">יישום לניהול מכשירי בית חכם</string>
@@ -4387,13 +4200,6 @@ Xiaomi Cloud
     <string name="sms_received_sound_title">קבלת הודעה</string>
     <string name="softbank_apn_lock_toast">ה-APN נעול. לא ניתן לערוך.</string>
     <string name="solid_text">שימוש במשוב מישוש בתדר נמוך ובמעברים חזותיים מתאימים כדי ליצור חוויית מחוות מוצקה ועוצמתית</string>
-    <string name="sort_by_frequency">מיון לפי תדירות</string>
-    <string name="sort_by_time">מיון לפי זמן</string>
-    <string name="sos_add_area_code_switch_summary">הוספה אוטומטית של הקידומת למספר טלפון בביצוע שיחת חירום באמצעות Tiantong Satellite</string>
-    <string name="sos_add_area_code_switch_title">הוספת קידומת אוטומטית</string>
-    <string name="sos_area_code_settings_hint">נא להזין קידומת</string>
-    <string name="sos_area_code_settings_summary">הגדרה ידנית של קידומת מספר החירום שלך</string>
-    <string name="sos_area_code_settings_title">הגדרת קידומת</string>
     <string name="sos_phone_call_privacy_dialog_message">"כדי להתקשר לאנשי הקשר שלך לשעת חירום ולהשמעת הקלטת SOS אפליקציה זו זקוקה להרשאות הבאות:
 • ביצוע שיחות
 כדי להתקשר לאנשי הקשר שלך לשעת חירום
@@ -4456,6 +4262,7 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="sound_stereo_mode_title">צליל סטריאו</string>
     <string name="sound_title">קול</string>
     <string name="sound_vibrate_settings">צלילים ורטט</string>
+    <string name="speaker">רמקול</string>
     <string name="speaker_clean">איפוס רמקול</string>
     <string name="special_access">הרשאות מיוחדות</string>
     <string name="special_preview">הדגמות</string>
@@ -4486,8 +4293,8 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="status_bar_title">מרכז הבקרה ושורת המצב</string>
     <string name="status_number_sim_softbank">מספר טלפון %1$d</string>
     <string name="status_sim">מצב כרטיס SIM</string>
-    <string name="status_sim_1">SIM %d</string>
-    <string name="status_sim_2">SIM %d</string>
+    <string name="status_sim_1">SIM 1</string>
+    <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">לחץ לצפייה</string>
     <string name="status_wifi_mac_address">כתובת MAC של רשת אלחוטית</string>
     <string name="storage_external_title">אחסון נייד</string>
@@ -4635,12 +4442,10 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
-    <string name="sunlight_low_power_notification">לא ניתן להפעיל את מצב אור השמש כשרמת הסוללה או הטמפרטורה נמוכה מדי</string>
+    <string name="sunlight_low_power_notification">לא ניתן להפעיל את מצב אור שמש. הסוללה חלשה מדי.</string>
     <string name="sunlight_mode">מצב אור שמש</string>
     <string name="sunlight_mode_boost_summary">הגדלת טווח הבהירות וכוונון בהירות אוטומטי במצב של תאורה חזקה. מאפיין זה יגרום למכשיר שלך להתחמם ולצרוך יותר אנרגיה.</string>
     <string name="sunlight_mode_summary">התאמת הבהירות לתאורה חזקה מהסביבה כדי שהמסך לא ייראה כהה מדי</string>
-    <string name="super_voice_assist">Super Mi AI</string>
-    <string name="super_volume_tip">עוצמת קול מקסימלית %s</string>
     <string name="supl_not_set">&lt;לא מוגדר></string>
     <string name="sure_sync_now">לסנכרן פריטים כעת?</string>
     <string name="surround_sound_all_desc">שיפור עומק השמעת הצליל עבור אוזניות ורמקולים</string>
@@ -4659,8 +4464,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="switch_screen_button_order">החלפת לחצנים</string>
     <string name="switch_screen_button_order_desc">החלפת בין הלחצנים \"הקודם\" ו\"תפריט\"</string>
     <string name="switch_select_to_speak_on">בחר בכדי לדבר</string>
-    <string name="swul_switch_summary">שיפור של מיתוג הרחבה (uplink switching, אפשרות זו זמינה כשהיא מסופקת על-ידי ספק הרשת)</string>
-    <string name="swul_switch_title">SwUL</string>
     <string name="symbol_fast_input">תווים מיוחדים</string>
     <string name="symbol_fast_input_summary">הקש על לחצן ייעודי כדי להישאר במקלדת עם תווים מיוחדים ולהזין מספר סמלים בבת אחת</string>
     <string name="symbols_not_allowed_for_password">הסיסמה יכולה להכיל רק ספרות ואותיות</string>
@@ -4679,7 +4482,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="system_backup_section_title_new">מקומי</string>
     <string name="system_error_info">המערכת עסוקה כעת. חכה דקה או שתיים ונסה שוב.</string>
     <string name="system_haptic_feedback">משוב מישושי</string>
-    <string name="system_personalize_title">התאמה אישית</string>
     <string name="system_print_service_help">אודות הדפסה</string>
     <string name="system_shortcut_wake">הער באמצעות לחצני קיצור דרך</string>
     <string name="system_sound_effect_settings">צלילי מערכת</string>
@@ -4780,7 +4582,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="timezone_settings">איזור זמן</string>
     <string name="tip_remove_data">איפוס להגדרות המפעל ימחק את הפריטים האלה ממכשירך</string>
     <string name="title_color_calibration">תיקון צבע קבוע מראש</string>
-    <string name="title_device_control">בקרות המכשיר</string>
     <string name="title_font">גופן</string>
     <string name="title_font2">גופן ופריסה</string>
     <string name="title_font_current">גופן המערכת</string>
@@ -4794,14 +4595,13 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="title_of_auto_launch_manage">הפעלה אוטומטית</string>
     <string name="title_quick_control_all_devices">להציג בקרות עבור מכשירים בסביבה הקרובה</string>
     <string name="title_show_notification_icon">הצג צלמיות של התראות</string>
-    <string name="title_show_notification_icon_count">מספר סמלי ההתראות המוצגים</string>
     <string name="title_smart_device_control">בקרת מכשירים חכמים</string>
     <string name="title_special_features_health_global">קצב הלב</string>
     <string name="title_wordless_mode">לא להציג את תוויות הצלמיות</string>
-    <string name="title_xiaomi_smart_hub">Xiaomi Smart Hub</string>
     <string name="to_close">כיבוי</string>
     <string name="toast_ap_works_wifi_display_disable">השבתת נקודה חמה לפני שידור</string>
     <string name="toast_apply_font_fail">לא ניתן להגדיר גופן</string>
+    <string name="toast_disconnect_earphone">נתק אוזניות ונסה שוב</string>
     <string name="toast_lockscreen_glogin_empty_password">הזן סיסמה</string>
     <string name="toast_need_login">היכנס לחשבון Xiaomi שלך</string>
     <string name="toast_sta_ap_works_wifi_display_disable">לא יכול לשדר כאשר חיבור Wi-Fi ונקודה חמה פועלים.</string>
@@ -4860,7 +4660,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="twohours">שעה 1</string>
     <string name="ucar_screen_projection_title">CarWith</string>
     <string name="unadapt_embedded">חלונות מקבילים אינם זמינים</string>
-    <string name="unchecked_app_title">אפקטים של תאורה מושבתים</string>
     <string name="under_keyguard">כיבוי מסך</string>
     <string name="unimportant">לא חשוב</string>
     <string name="uninstall_dlg_msg">הסרת התקנת היישום תסיר את כל הנתונים שלו.</string>
@@ -5046,18 +4845,15 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
 
 כל משתמש יכול לאשר הרשאות יישום מעודכנות בשם כל המשתמשים."</string>
     <string name="user_agreement">תנאי השירות</string>
-    <string name="user_avatar_update_title">הוספת תמונת פרופיל</string>
     <string name="user_dict_settings_empty_text">"אין ברשותך יומנים
 לחץ על הפלוס להוספת מילים."</string>
     <string name="user_experience_open_url">מידע נוסף על תוכנית חוויית משתמש</string>
     <string name="user_experience_program">תוכנית חוויית המשתמש</string>
     <string name="user_experience_program_summary">אפשר ל-Xiaomi לאסוף ולנתח נתוני משתמש על מנת לשפר את המוצרים והשירותים שלנו. למידע נוסף, קרא את התנאים וההגבלות של תוכנית חוויית המשתמש שלנו.</string>
     <string name="user_experience_program_title">הירשם לתוכנית חוויית המשתמש</string>
+    <string name="user_grant_admin_message">למנהלים יש הרשאות מיוחדות שאין למשתמשים אחרים. מנהל יכול לנהל את כל המשתמשים, לעדכן או לאפס מכשיר זה, לשנות הגדרות, לראות את כל האפליקציות המותקנות ולהעניק או לבטל הרשאות מנהל עבור אחרים.</string>
+    <string name="user_grant_admin_title">לתת למשתמש זה הרשאות מנהל?</string>
     <string name="user_settings_forbidden">"לא ניתן לשנות את הגדרות המנהל בשטח הנוכחי, חזור אל 'שטח ראשון'."</string>
-    <string name="valid_net_access">צפייה בפרטי הגישה לרשת</string>
-    <string name="valid_net_ok">אישור</string>
-    <string name="valid_net_result_fail">לא ניתן היה לקבל פרטים. נא להמתין דקה או שתיים ולנסות שוב.</string>
-    <string name="valid_net_result_title">תוצאה</string>
     <string name="vibrate_category_title">רטט</string>
     <string name="vibrate_in_normal_title">רטט בעת צלצול</string>
     <string name="vibrate_in_silent_title">רטט במצב שקט</string>
@@ -5109,7 +4905,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="visibility_override_title">במסך הנעילה</string>
     <string name="voice_access">בקרות קוליות</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_summary">העוזר החכם האישי שלכם</string>
     <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">דיבור</string>
     <string name="voice_helper_title">אשף הקול</string>
@@ -5135,8 +4930,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="volume_system_description">מצלמה, צילומי מסך, לחצנים והתראות מערכת</string>
     <string name="volume_voice_description">שיחה קולית נכנסת</string>
     <string name="vonr_switch_title">השתמש ב-VoNR</string>
-    <string name="vpn_build_about">אודות</string>
-    <string name="vpn_build_version">גרסה %1$s</string>
     <string name="vpn_configure">תצורה</string>
     <string name="vpn_create">הוספת VPN</string>
     <string name="vpn_dns_servers">שרתי DNS</string>
@@ -5377,6 +5170,7 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
  אתה יכול להשתמש גם ברשתות של משתמשים אחרים."</string>
     <string name="wifi_share_connect">התחבר</string>
     <string name="wifi_share_connected_summary">אתה מחובר לרשת אלחוטית ציבורית ששותפה על ידי משתמש אחר.</string>
+    <string name="wifi_share_connected_title">רשת אלחוטית משותפת של MIUI</string>
     <string name="wifi_share_current_network">רשת נוכחית</string>
     <string name="wifi_share_know">הבנתי</string>
     <string name="wifi_share_list_empty">לא נמצאו רשתות משותפות.</string>
@@ -5384,7 +5178,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="wifi_share_login_summary">אם זאת רשת ציבורית, ניתן לשתף אותה עם משתמשי Xiaomi אחרים.</string>
     <string name="wifi_share_notification_summary">חוברת לרשת Wi-Fi ציבורית.</string>
     <string name="wifi_share_other_network">רשתות אחרות</string>
-    <string name="wifi_share_plain_password_text">סיסמה: %s</string>
     <string name="wifi_share_qrcode_finish">סיים</string>
     <string name="wifi_share_qrcode_summary">על מנת לשתף, סרוק את קוד ה-QR המופיע מעלה.</string>
     <string name="wifi_share_qrcode_title">שתף רשת אלחוטית</string>
@@ -5412,8 +5205,8 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="wifi_tether_configure_ap_kddi_text">הגדר שיתוף אינטרנט באמצעות Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">הגדר נקודה חמה ניידת</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s נייד</string>
-    <string name="wifi_tether_enabled_nosecurity_summary">%1$s אינה מוצפנת. הפעלת הנקודה החמה עלולה לגרום למכשיר להתחמם ולהעלות את צריכת החשמל.</string>
-    <string name="wifi_tether_enabled_summary">הפעלת הנקודה החמה של %1$s עלולה לגרום למכשיר להתחמם ולהעלות את צריכת החשמל</string>
+    <string name="wifi_tether_enabled_nosecurity_summary">%1$s אינה מוצפנת</string>
+    <string name="wifi_tether_enabled_summary">%1$s</string>
     <string name="wifi_tether_failed_subtext">שגיאת נקודה חמה ניידת</string>
     <string name="wifi_tether_high_temperature_toast">המכשיר שלך חם מדי. אין אפשרות להשתמש בתכונה זו כרגע.</string>
     <string name="wifi_tether_setting_title">הגדרות</string>
@@ -5460,11 +5253,8 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="wifi_wps_overlap_error">תהליך רשת אלחוטית נוסף התגלה. המתן דקה או שתיים ונסה שוב.</string>
     <string name="wifi_wps_setup_title">הגדרת רשת אלחוטית מוגנת (WPS)</string>
     <string name="wireless_connected">מחובר</string>
-    <string name="wireless_display">תצוגה אלחוטית</string>
     <string name="wireless_off">כבוי</string>
     <string name="wireless_on">מופעל</string>
-    <string name="wireless_secondary_display">הרחבת תצוגה אלחוטית</string>
-    <string name="wireless_secondary_display_description">להשתמש בטאבלט בתור הרחבת תצוגה אלחוטית עבור מחשב שנמצא בסביבה</string>
     <string name="wlan_scanner_unresizeble">לא ניתן להציג את הגדרות Wi-Fi במצב מסך מפוצל</string>
     <string name="wlan_switch_tips">מעבר בין רשתות Wi-Fi</string>
     <string name="wlan_switch_tips_message">במעבר בין רשת Wi-Fi משנית לרשת העיקרית המכשיר ינותק זמנית מרשת ה-Wi-Fi המשנית. לעבור בכל זאת?</string>
@@ -5478,7 +5268,6 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="wps_category">WPS</string>
     <string name="wps_connect_summary">ודא שהנתב שלך תומך ב-WPS ומופעל</string>
     <string name="wps_connect_title">התחבר ל-WPS</string>
-    <string name="xiao_mi_hyperos_ai">Xiaomi HyperAI</string>
     <string name="xiaoai_global_shortcut">כללי</string>
     <string name="xiaoai_key_shortcut">לחצנים</string>
     <string name="xiaoai_other_shortcut">שיטות אחרות</string>
@@ -5498,7 +5287,7 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="xiaomi_router_available_notif_title">נתב Mi זמין</string>
     <string name="xiaomi_router_notif_summary">הודע לי כאשר קיים נתב Mi זמין</string>
     <string name="xiaomi_router_notif_title">התראות נתב Mi</string>
-    <string name="xiaomi_transfer">Xiaomi Share</string>
+    <string name="xiaomi_transfer">שיתוף Mi</string>
     <string name="xspace">יישומים משוכפלים</string>
     <string name="yesterday">אתמול</string>
     <string name="zen_mode_alarm_use">צלילים</string>

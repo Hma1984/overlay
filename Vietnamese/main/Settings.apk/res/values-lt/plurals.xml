@@ -108,6 +108,12 @@
         <item quantity="few">Pasiekiami %d įrenginiai</item>
         <item quantity="many">Pasiekiama %d įrenginių</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekundžių</item>
+        <item quantity="one">%d sekundė</item>
+        <item quantity="few">%d sekundės</item>
+        <item quantity="many">%d sekundžių</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Kas %d sekundžių</item>
         <item quantity="one">Kas %d sekundę</item>
@@ -125,12 +131,6 @@
         <item quantity="one">Apriboti %s programos ryšį</item>
         <item quantity="few">Apriboti %s programų ryšį</item>
         <item quantity="many">Apriboti %s programų ryšį</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Palaukite %d sek. ir bandykite vėl.</item>
-        <item quantity="one">Palaukite %d sek. ir bandykite vėl.</item>
-        <item quantity="few">Palaukite %d sek. ir bandykite vėl.</item>
-        <item quantity="many">Palaukite %d sek. ir bandykite vėl.</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d prisijungusių asmenų</item>
@@ -258,18 +258,6 @@
         <item quantity="few">%d nauji pranešimai</item>
         <item quantity="many">%d naujo pranešimo</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d programų, įskaitant %1$s</item>
-        <item quantity="one">%2$d programa, įskaitant %1$s</item>
-        <item quantity="few">%2$d programos, įskaitant %1$s</item>
-        <item quantity="many">%2$d programų, įskaitant %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Apie %d elementų per dieną</item>
-        <item quantity="one">Apie %d elementą per dieną</item>
-        <item quantity="few">Apie %d elementus per dieną</item>
-        <item quantity="many">Apie %d elementų per dieną</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Pakeitimai bus pritaikyti po %d sek.</item>
         <item quantity="one">Pakeitimai bus pritaikyti po %d sek.</item>
@@ -287,12 +275,6 @@
         <item quantity="one">Pasirinktas %d elementas</item>
         <item quantity="few">Pasirinkti %d elementai</item>
         <item quantity="many">Pasirinkta %d elementų</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Ieškoti %d programose</item>
-        <item quantity="one">Ieškoti %d programoje</item>
-        <item quantity="few">Ieškoti %d programose</item>
-        <item quantity="many">Ieškoti %d programose</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Jums liko %1$d žingsnių iki įėjimo į CIT.</item>
@@ -317,6 +299,12 @@
         <item quantity="one">Jums liko %1$d žingsnis iki klaidų ataskaitos pateikimo.</item>
         <item quantity="few">Jums liko %1$d žingsniai iki klaidų ataskaitos pateikimo.</item>
         <item quantity="many">Jums liko %1$d žingsnių iki klaidų ataskaitos pateikimo.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d programų gali naudoti neribotus duomenis</item>
+        <item quantity="one">%d programa gali naudoti neribotus duomenis</item>
+        <item quantity="few">%d programos gali naudoti neribotus duomenis</item>
+        <item quantity="many">%d programos gali naudoti neribotus duomenis</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d programų negali rodyti pranešimų</item>
@@ -479,5 +467,11 @@
         <item quantity="one">Bendrinamas %d tinklas</item>
         <item quantity="few">Bendrinami %d tinklai</item>
         <item quantity="many">Bendrinama %d tinklų</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Prijungta įrenginių: %1$d</item>
+        <item quantity="one">Prijungta įrenginių: %1$d</item>
+        <item quantity="few">Prijungta įrenginių: %1$d</item>
+        <item quantity="many">Prijungta įrenginių: %1$d</item>
     </plurals>
 </resources>

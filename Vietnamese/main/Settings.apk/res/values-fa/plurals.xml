@@ -20,4 +20,8 @@
         <item quantity="other">%d اعلان جدید</item>
         <item quantity="one">%d اعلان جدید</item>
     </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d برنامه می‌تواند از داده نامحدود استفاده کند</item>
+        <item quantity="one">%d برنامه می‌تواند از داده نامحدود استفاده کند</item>
+    </plurals>
 </resources>

@@ -210,6 +210,7 @@
         <item>De más de 60 días de antigüedad</item>
         <item>De más de 90 días de antigüedad</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
         <item>Porcentaje (en el icono)</item>
@@ -223,9 +224,9 @@
         <item>Barra de progreso</item>
     </string-array>
     <string-array name="battery_labels">
-        <item>0 %</item>
-        <item>50 %</item>
-        <item>100 %</item>
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>No especificado</item>
@@ -312,20 +313,6 @@
         <item>Optimizado para calidad de audio (900kbps)</item>
         <item>Mejor esfuerzo (Bit rate automático)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usar preferencia del sistema (predeterminado)</item>
-        <item>44,1 kHz</item>
-        <item>48 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usar preferencia del sistema (predeterminado)</item>
-        <item>44,1 kHz</item>
-        <item>48 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Usar preferencia de sistema (Por defecto)</item>
         <item>SBC</item>
@@ -370,21 +357,16 @@
         <item>Reproducir en el altavoz del teléfono</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
+        <item>avrcp15</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6 (predeterminado)</item>
+        <item>AVRCP 1.5 (predeterminado)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>Disabled</item>
-        <item>Unicast</item>
-        <item>Unicast and Broadcast</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -410,22 +392,15 @@
         <item>Habilitado</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Dejar solo los encabezados de LCA</item>
+        <item>Dejar solo los encabezados ACL</item>
         <item>Filtrar paquetes multimedia A2DP</item>
         <item>Filtrar canal RFCOMM</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>Inhabilitar</item>
+        <item>Deshabilitar</item>
         <item>Rellenar con cadena de caracteres</item>
         <item>Dejar solo el encabezado</item>
-        <item>Quitar por completo</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>Detallado</item>
-        <item>Depuración</item>
-        <item>Información</item>
-        <item>Advertencia</item>
-        <item>Error</item>
+        <item>Eliminar totalmente</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -451,8 +426,8 @@
         <item>Tamaño de texto muy grande</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Muy pequeño</item>
-        <item>Pequeño</item>
+        <item>Muy pequeña</item>
+        <item>Pequeña</item>
         <item>Medio</item>
         <item>Grande</item>
         <item>Muy grande</item>
@@ -604,12 +579,6 @@
     <string-array name="fluency_mode_summaries">
         <item>Acelerar el rendimiento del dispositivo</item>
         <item>Podría reducir el rendimiento del dispositivo</item>
-    </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 pulgadas</item>
@@ -1182,11 +1151,11 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
-        <item>64 K/búfer de registro</item>
-        <item>256 K/búfer de registro</item>
-        <item>1 M/búfer de registro</item>
-        <item>4 M/búfer de registro</item>
-        <item>8 MB/búfer de registro</item>
+        <item>64 K/búfer registro</item>
+        <item>256 K/búfer registro</item>
+        <item>1 M/búfer registro</item>
+        <item>4 M/búfer registro</item>
+        <item>8 MB por búfer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivado</item>
@@ -1236,13 +1205,22 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>Hogar inteligente</item>
         <item>Ninguno</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>Hogar inteligente</item>
         <item>Ninguno</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
@@ -1363,6 +1341,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Tacto</item>
         <item>Tacto directo</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mover a la izquierda</item>
+        <item>Mover hacia abajo</item>
+        <item>Mover a la derecha</item>
+        <item>Mover hacia arriba</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carga</item>
         <item>MTP (Media Transfer Protocol)</item>
@@ -1449,16 +1433,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Conectar manualmente</item>
         <item>Preguntar siempre</item>
     </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>Enviar el nombre del dispositivo a la red</item>
-        <item>No enviar el nombre del dispositivo a la red</item>
-    </string-array>
     <string-array name="wifi_hidden_entries">
         <item>No</item>
         <item>Sí</item>
     </string-array>
     <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
+        <item>Protocolo DHCP</item>
         <item>IP estática</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_entries">

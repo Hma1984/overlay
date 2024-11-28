@@ -220,6 +220,17 @@
         <item>" | فعال (رسانه)"</item>
         <item>" | فعال (گوشی)"</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>فقط هدرهای ACL ترک بمانند</item>
+        <item>فیلتر کردن بسته‌های رسانه‌ای A2DP</item>
+        <item>فیلتر کردن کانال RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>غیر فعال</item>
+        <item>پر کردن با رشته‌ای از نویسه‌ها</item>
+        <item>فقط هدر بماند</item>
+        <item>برداشتن کامل</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>۱ ثانیه</item>
         <item>۲ ثانیه</item>
@@ -782,13 +793,22 @@
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>خانه هوشمند</item>
         <item>هیچ کدام</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>خانه هوشمند</item>
         <item>هیچ کدام</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>اجازه دادن</item>
@@ -868,6 +888,12 @@
         <item>استاندارد</item>
         <item>لمس</item>
         <item>لمس مستقیم</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>حرکت به سمت چپ</item>
+        <item>پایین بردن</item>
+        <item>حرکت به سمت راست</item>
+        <item>بالا بردن</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>هنگام اتصال پرسیده شود</item>

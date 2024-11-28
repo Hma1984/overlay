@@ -210,6 +210,7 @@
         <item>60 日以上経過</item>
         <item>90 日以上経過</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
         <item>グラフィック</item>
         <item>パーセンテージ（アイコン内）</item>
@@ -312,20 +313,6 @@
         <item>オーディオ品質に最適化 (900kbps)</item>
         <item>できる限りより良い音質を提供する (自動ビットレート)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>システムの選択（デフォルト）を使用</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>システムの選択（デフォルト）を使用</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>システムの選択を使用 (デフォルト)</item>
         <item>SBC</item>
@@ -370,21 +357,16 @@
         <item>スマートフォンのスピーカーで再生</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
+        <item>avrcp15</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6（デフォルト）</item>
+        <item>AVRCP 1.5（デフォルト）</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>無効</item>
-        <item>ユニキャスト</item>
-        <item>ユニキャストとブロードキャスト</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -413,22 +395,15 @@
         <item>有効 (プロファイルはフィルター処理されます)</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>ACL ヘッダーのみを残す</item>
-        <item>A2DP メディア パケットをフィルタ</item>
-        <item>RFCOMM チャネルをフィルタ</item>
+        <item>ACLヘッダーのみを残す</item>
+        <item>A2DPメディアパケットをフィルタリング</item>
+        <item>RFCOMMチャンネルをフィルタリング</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>無効にする</item>
-        <item>文字列を入力</item>
+        <item>無効</item>
+        <item>文字列で埋める</item>
         <item>ヘッダーのみを残す</item>
         <item>完全に削除</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>詳細</item>
-        <item>デバッグ</item>
-        <item>情報</item>
-        <item>警告</item>
-        <item>エラー</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1秒</item>
@@ -477,7 +452,7 @@
     <string-array name="captioning_typeface_selector_titles">
         <item>デフォルト</item>
         <item>Sans Serif</item>
-        <item>Sans Serif コンデンス</item>
+        <item>Sans Serif Condensed</item>
         <item>Sans Serif 固定幅</item>
         <item>Serif</item>
         <item>Serif 固定幅</item>
@@ -607,12 +582,6 @@
     <string-array name="fluency_mode_summaries">
         <item>デバイスのパフォーマンスを高速化します</item>
         <item>デバイスのパフォーマンスが遅くなる場合があります</item>
-    </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5インチ</item>
@@ -924,7 +893,7 @@
         <item>4K（セキュア）</item>
         <item>4K（アップスケール）</item>
         <item>4K（アップスケール、セキュア）</item>
-        <item>720p、1080p（デュアル スクリーン）</item>
+        <item>720p、1080p（デュアルスクリーン）</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>フルカラー</item>
@@ -1239,13 +1208,22 @@
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>スマートホーム</item>
         <item>なし</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>スマートホーム</item>
         <item>なし</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>許可</item>
@@ -1366,6 +1344,12 @@
         <item>タッチ</item>
         <item>ダイレクトタッチ</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>左に移動</item>
+        <item>下に移動</item>
+        <item>右に移動</item>
+        <item>上に移動</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>充電</item>
         <item>MTP（Media Transfer Protocol）</item>
@@ -1451,10 +1435,6 @@
         <item>自動的に接続する</item>
         <item>手動で接続する</item>
         <item>毎回確認する</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>ネットワークにデバイス名を送信する</item>
-        <item>ネットワークにデバイス名を送信しない</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>いいえ</item>

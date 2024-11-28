@@ -75,6 +75,10 @@
         <item quantity="other">%d dispositivos disponíveis</item>
         <item quantity="one">%d dispositivo disponível</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">A cada %d segundos</item>
         <item quantity="one">A cada %d segundo</item>
@@ -86,10 +90,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Ligação restringida para %s aplicações</item>
         <item quantity="one">Ligação restringida para %s aplicação</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Espere por %d s e tente novamente</item>
-        <item quantity="one">Espere por %d s e tente novamente</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d pessoas ligadas</item>
@@ -175,14 +175,6 @@
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d aplicações incluindo %1$s</item>
-        <item quantity="one">%2$d aplicação incluindo %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Cerca de %d itens por dia</item>
-        <item quantity="one">Cerca de %d item por dia</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">As alterações serão aplicadas em %d seg.</item>
         <item quantity="one">As alterações serão aplicadas em %d seg.</item>
@@ -194,10 +186,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Pesquisar %d aplicações</item>
-        <item quantity="one">Pesquisar %d aplicação</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Você está a %1$d passos de aceder o CIT.</item>
@@ -214,6 +202,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Está a %1$d passos de aceder o relatório de erros.</item>
         <item quantity="one">Está a %1$d passo de aceder o relatório de erros.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d apps podem utilizar dados sem restrições</item>
+        <item quantity="one">1 app pode utilizar dados sem restrições</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d aplicações não podem mostrar notificações</item>
@@ -322,5 +314,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d redes partilhadas</item>
         <item quantity="one">%d rede partilhada</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d aparelhos ligados</item>
+        <item quantity="one">%1$d aparelho ligado</item>
     </plurals>
 </resources>

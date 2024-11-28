@@ -108,6 +108,12 @@
         <item quantity="few">%d даступных прылады</item>
         <item quantity="many">%d даступных прылад</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Кожныя %d секунд</item>
         <item quantity="one">Кожную %d секунду</item>
@@ -125,12 +131,6 @@
         <item quantity="one">Абмежавана злучэнне для %s праграмы</item>
         <item quantity="few">Абмежавана злучэнне для %s праграм</item>
         <item quantity="many">Абмежавана злучэнне для %s праграм</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Паўтарыце спробу праз %d секунд</item>
-        <item quantity="one">Паўтарыце спробу праз %d секунду</item>
-        <item quantity="few">Паўтарыце спробу праз %d секунды</item>
-        <item quantity="many">Паўтарыце спробу праз %d секунд</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d асобаў падлучана</item>
@@ -258,18 +258,6 @@
         <item quantity="few">%d новыя апавяшчэнні</item>
         <item quantity="many">%d новых апавяшчэнняў</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d праграм, у тым ліку %1$s</item>
-        <item quantity="one">%2$d праграма, у тым ліку %1$s</item>
-        <item quantity="few">%2$d праграмы, у тым ліку %1$s</item>
-        <item quantity="many">%2$d праграм, у тым ліку %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">"Прыкладна %d аб'ектаў у дзень"</item>
-        <item quantity="one">"Прыкладна %d аб'ект у дзень"</item>
-        <item quantity="few">"Прыкладна %d аб'екты у дзень"</item>
-        <item quantity="many">"Прыкладна %d аб'ектаў у дзень"</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Змены будуць ужытыя праз %d сек.</item>
         <item quantity="one">Змены будуць ужытыя праз %d сек.</item>
@@ -287,12 +275,6 @@
         <item quantity="one">"Выбраны %d аб'ект"</item>
         <item quantity="few">"Выбраны %d аб'екта"</item>
         <item quantity="many">"Выбраны %d аб'ектаў"</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Шукаць %d праграм</item>
-        <item quantity="one">Шукаць %d праграму</item>
-        <item quantity="few">Шукаць %d праграмы</item>
-        <item quantity="many">Шукаць %d праграм</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Засталося %1$d кроку да адкрыцця Інжынернага меню.</item>
@@ -317,6 +299,12 @@
         <item quantity="one">Застаўся %1$d крок да адпраўкі паведамлення пра памылку.</item>
         <item quantity="few">Засталося %1$d крокі да адпраўкі паведамлення пра памылку.</item>
         <item quantity="many">Засталося %1$d крокаў да адпраўкі паведамлення пра памылку.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d праграмы могуць выкарыстоўваць даныя без абмежаванняў</item>
+        <item quantity="one">%d праграма можа выкарыстоўваць даныя без абмежаванняў</item>
+        <item quantity="few">%d праграмы могуць выкарыстоўваць даныя без абмежаванняў</item>
+        <item quantity="many">%d праграм могуць выкарыстоўваць даныя без абмежаванняў</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d праграм не могуць паказваць апавяшчэнні</item>
@@ -479,5 +467,11 @@
         <item quantity="one">Вы падзяліліся%d сеткай</item>
         <item quantity="few">Вы падзяліліся %d сеткамі</item>
         <item quantity="many">Вы падзяліліся %d сеткі</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Падлучаны %1$d прылад</item>
+        <item quantity="one">Падлучана %1$d прылада</item>
+        <item quantity="few">Падлучаны %1$d прылады</item>
+        <item quantity="many">Падлучаны %1$d прылад</item>
     </plurals>
 </resources>

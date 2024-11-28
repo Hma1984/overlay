@@ -114,6 +114,17 @@
         <item>" | အသက်သွင်းထားသည် (မီဒီယာ)"</item>
         <item>" | အသက်သွင်းထားသည် (ဖုန်း)"</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>ACL ဟက်ဒါများသာ ချန်ထားရန်</item>
+        <item>A2DP မီဒီယာပက်ကက်များကို စစ်ထုတ်ရန်</item>
+        <item>RFCOMM ချန်နယ်ကို စစ်ထုတ်ရန်</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>ပိတ်ရန်</item>
+        <item>အက္ခရာအတန်းလိုက်ဖြည့်ရန်</item>
+        <item>ဟက်ဒါများသာ ချန်ထားရန်</item>
+        <item>အပြည့်အဝဖယ်ရှားရန်</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>၁ စက္ကန့်</item>
         <item>၂ စက္ကန့်</item>
@@ -676,13 +687,22 @@
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>စမတ်အိမ်</item>
         <item>တစ်ခုမျှမရှိပါ</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>စမတ်အိမ်</item>
         <item>တစ်ခုမျှမရှိပါ</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>ခွင့်ပြုသည်</item>
@@ -762,6 +782,12 @@
         <item>စံ</item>
         <item>တို့ထိခြင်း</item>
         <item>တိုက်ရိုက်တို့ထိခြင်း</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>ဘယ်ရွှေ့ရန်</item>
+        <item>အောက်ရွှေ့ရန်</item>
+        <item>ညာရွှေ့ရန်</item>
+        <item>အပေါ်ရွှေ့ရန်</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>ချိတ်ဆက်မှုနှင့် ပတ်သက်၍ မေးပါ</item>

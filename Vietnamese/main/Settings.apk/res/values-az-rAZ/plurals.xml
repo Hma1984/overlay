@@ -60,6 +60,10 @@
         <item quantity="other">%d mövcud cihazlar</item>
         <item quantity="one">%d mövcud cihaz</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d saniyə</item>
+        <item quantity="one">%d saniyə</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Hər %d saniyə</item>
         <item quantity="one">Hər %d saniyə</item>
@@ -71,10 +75,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s tətbiqləri üçün məhdudlaşdırılmış əlaqə</item>
         <item quantity="one">%s tətbiqləri üçün məhdudlaşdırılmış əlaqə</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">%d saniyə gözləyin və yenidən cəhd edin</item>
-        <item quantity="one">%d saniyə gözlə və yenidən cəhd edin</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d şəxs qoşuldu</item>
@@ -152,14 +152,6 @@
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%1$s daxil olmaqla %2$d tətbiq</item>
-        <item quantity="one">%1$s daxil olmaqla%2$d tətbiq</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Gündə %d element</item>
-        <item quantity="one">Gündə %d element</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
         <item quantity="one">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
@@ -171,10 +163,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">%d tətbiq axtar</item>
-        <item quantity="one">%d tətbiq axtar</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Təchizat testlərindən %1$d addım uzaqdasınız.</item>
@@ -299,5 +287,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d paylaşılan şəbəkə</item>
         <item quantity="one">%d paylaşılan şəbəkə</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz qoşuldu</item>
+        <item quantity="one">%1$d cihaz qoşuldu</item>
     </plurals>
 </resources>

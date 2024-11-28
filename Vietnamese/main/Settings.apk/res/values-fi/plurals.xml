@@ -72,6 +72,10 @@
         <item quantity="other">%d laitetta saatavissa</item>
         <item quantity="one">%d laite saatavissa</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Joka %d. sekunti</item>
         <item quantity="one">Joka %d sekunti</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Yhteys rajoitettu %s sovellukselle</item>
         <item quantity="one">Yhteys rajoitettu %s sovellukselle</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Odota %d sekuntia ja yritä uudelleen</item>
-        <item quantity="one">Odota %d sekunti ja yritä uudelleen</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d henkilöä yhdistetty</item>
@@ -172,14 +172,6 @@
         <item quantity="other">%d uutta ilmoitusta</item>
         <item quantity="one">%d uusi ilmoitus</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d sovellusta, mukaan lukien %1$s</item>
-        <item quantity="one">%2$d sovellus, mukaan lukien %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Noin %d kohdetta päivässä</item>
-        <item quantity="one">Noin %d kohde päivässä</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Muutokset otetaan käyttöön %d sek kuluttua</item>
         <item quantity="one">Muutokset otetaan käyttöön %d sek kuluttua</item>
@@ -191,10 +183,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d valittua kohdetta</item>
         <item quantity="one">%d valittu kohde</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Hae %d sovellusta</item>
-        <item quantity="one">Hae %d sovellus</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Olet %1$d askeleen päässä kohteesta CIT.</item>
@@ -211,6 +199,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Olet %1$d askeleen päässä vian ilmoittamisesta.</item>
         <item quantity="one">Olet %1$d askeleen päässä vian ilmoittamisesta.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d sovelluksen datankäyttöä ei rajoiteta</item>
+        <item quantity="one">1 sovelluksen datankäyttöä ei rajoiteta</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d sovellusta ei voi näyttää ilmoituksia</item>
@@ -319,5 +311,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Jaettu %d verkkoa</item>
         <item quantity="one">Jaettu %d verkko</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d laitetta yhdistetty</item>
+        <item quantity="one">%1$d laite yhdistetty</item>
     </plurals>
 </resources>

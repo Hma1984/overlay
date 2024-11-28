@@ -126,7 +126,7 @@
         <item>Јачина звука за приступачност</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>приближна локација</item>
+        <item>оквирна локација</item>
         <item>прецизна локација</item>
         <item>GPS</item>
         <item>вибрација</item>
@@ -210,6 +210,7 @@
         <item>Старије од 60 дана</item>
         <item>Старије од 90 дана</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
         <item>Графички</item>
         <item>Проценат (у икони)</item>
@@ -312,20 +313,6 @@
         <item>Оптимизовано за квалитет звука (900kbps)</item>
         <item>Највећи напор (аутоматски битрејт)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Користи избор система (подразумевано)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Користи избор система (подразумевано)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Користи системске преференце (задато)</item>
         <item>SBC</item>
@@ -370,21 +357,16 @@
         <item>Пусти на звучнику телефона</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
+        <item>avrcp15</item>
         <item>avrcp13</item>
         <item>avrcp14</item>
-        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6 (подразумевано)</item>
+        <item>AVRCP 1.5 (подразумевано)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>Онемогућено</item>
-        <item>Unicast</item>
-        <item>Unicast и Broadcast</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
@@ -410,22 +392,15 @@
         <item>Омогућено</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Задржите само ACL заглавља</item>
-        <item>Филтрирајте A2DP медијске пакете</item>
-        <item>Филтрирајте RFCOMM канал</item>
+        <item>Остави само ACL заглавља</item>
+        <item>Филтрирај A2DP медијске пакете</item>
+        <item>Филтрирај RFCOMM канал</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>Онемогућите</item>
-        <item>Испуните стрингом знакова</item>
-        <item>Задржите само заглавље</item>
-        <item>Уклоните у потпуности</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>Детаљно</item>
-        <item>Отклањање грешака</item>
-        <item>Информације</item>
-        <item>Упозорење</item>
-        <item>Грешка</item>
+        <item>Онемогући</item>
+        <item>Попуни низом знакова</item>
+        <item>Остави само заглавље</item>
+        <item>Потпуно уклони</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 секунда</item>
@@ -440,8 +415,8 @@
         <item>Ниједна</item>
         <item>Контура</item>
         <item>Падајућа сенка</item>
-        <item>Испупчено</item>
-        <item>Удубљено</item>
+        <item>Испупчена</item>
+        <item>Удубљена</item>
     </string-array>
     <string-array name="captioning_font_size_selector_summaries">
         <item>Врло мали текст</item>
@@ -464,11 +439,11 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Подешава апликација</item>
+        <item>Подешава апликација:</item>
         <item>Бело на црном</item>
         <item>Црно на белом</item>
-        <item>Жуто на црном</item>
-        <item>Жуто на плавом</item>
+        <item>Жуто на црно</item>
+        <item>Жуто на плаво</item>
         <item>Прилагођено</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
@@ -604,12 +579,6 @@
     <string-array name="fluency_mode_summaries">
         <item>Убрзава прeформансе уређаја</item>
         <item>Mоже успорити прeформансе уређаја</item>
-    </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5\"</item>
@@ -1236,13 +1205,22 @@
         <item>1</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>@string/mi_smart_hub_entry_title</item>
         <item>Паметни дом</item>
         <item>Ништа</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>Паметни дом</item>
         <item>Ништа</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Дозволи</item>
@@ -1363,6 +1341,12 @@
         <item>Додир</item>
         <item>Директни додир</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Премести лево</item>
+        <item>Премести доле</item>
+        <item>Премести десно</item>
+        <item>Премести горе</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Пуни се</item>
         <item>MTP (протокол за трансфер медија)</item>
@@ -1448,10 +1432,6 @@
         <item>Повежи се аутоматски</item>
         <item>Повежите се ручно</item>
         <item>Увек питај</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>Шаљи назив уређаја мрежи</item>
-        <item>Не шаљи назив уређаја мрежи</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Не</item>

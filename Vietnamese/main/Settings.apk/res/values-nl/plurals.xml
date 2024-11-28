@@ -72,6 +72,10 @@
         <item quantity="other">%d beschikbare apparaten</item>
         <item quantity="one">%d beschikbaar apparaat</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Elke %d seconden</item>
         <item quantity="one">Elke %d seconde</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Beperkte verbinding voor %s apps</item>
         <item quantity="one">Beperkte verbinding voor %s app</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Wacht %d sec en probeer het opnieuw</item>
-        <item quantity="one">Wacht %d sec en probeer het opnieuw</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d personen verbonden</item>
@@ -172,14 +172,6 @@
         <item quantity="other">%d nieuwe meldingen</item>
         <item quantity="one">%d nieuwe melding</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d apps inclusief %1$s</item>
-        <item quantity="one">%2$d app inclusief %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">Ongeveer %d items per dag</item>
-        <item quantity="one">Ongeveer %d item per dag</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Wijzigingen worden toegepast in %d sec</item>
         <item quantity="one">Wijzigingen worden toegepast in %d sec</item>
@@ -191,10 +183,6 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">Geselecteerd %d items</item>
         <item quantity="one">Geselecteerd %d item</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">Zoek %d apps</item>
-        <item quantity="one">Zoek %d app</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">U bent %1$d stappen verwijderd van CIT.</item>
@@ -211,6 +199,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">U bent %1$d stappen verwijderd van het melden van een bug.</item>
         <item quantity="one">U bent %1$d stap verwijderd van het melden van een bug.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d apps kunnen onbeperkt data gebruiken</item>
+        <item quantity="one">1 app kan onbeperkt data gebruiken</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d apps kunnen geen meldingen weergeven</item>
@@ -319,5 +311,9 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d netwerken gedeeld</item>
         <item quantity="one">%d netwerk gedeeld</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d apparaten verbonden</item>
+        <item quantity="one">%1$d apparaat verbonden</item>
     </plurals>
 </resources>

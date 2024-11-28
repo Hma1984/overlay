@@ -144,6 +144,14 @@
         <item quantity="few">%d أجهزة متاحة</item>
         <item quantity="many">%d أجهزة متاحة</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d ثواني</item>
+        <item quantity="zero">%d ثواني</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">%d ثواني</item>
+        <item quantity="few">%d ثواني</item>
+        <item quantity="many">%d ثواني</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">كل %d ثواني</item>
         <item quantity="zero">كل %d ثواني</item>
@@ -167,14 +175,6 @@
         <item quantity="two">تم تقييد الاتصال لـ %s تطبيقات</item>
         <item quantity="few">تم تقييد الاتصال لـ %s تطبيقات</item>
         <item quantity="many">تم تقييد الاتصال لـ %s تطبيق</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Wait for %d secs and try again</item>
-        <item quantity="zero">Wait for %d secs and try again</item>
-        <item quantity="one">Wait for %d sec and try again</item>
-        <item quantity="two">Wait for %d secs and try again</item>
-        <item quantity="few">Wait for %d secs and try again</item>
-        <item quantity="many">Wait for %d secs and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d شخص متصل</item>
@@ -344,22 +344,6 @@
         <item quantity="few">%d إشعارات جديدة</item>
         <item quantity="many">%d إشعارًا جديدًا</item>
     </plurals>
-    <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$d تطبيق يتضمن %1$s</item>
-        <item quantity="zero">%2$d تطبيق يتضمن %1$s</item>
-        <item quantity="one">%2$d تطبيق يتضمن %1$s</item>
-        <item quantity="two">%2$d تطبيقات يتضمن %1$s</item>
-        <item quantity="few">%2$d تطبيقات يتضمن %1$s</item>
-        <item quantity="many">%2$d تطبيق يتضمن %1$s</item>
-    </plurals>
-    <plurals name="notification_frequency_summary">
-        <item quantity="other">حول %d عنصر في اليوم</item>
-        <item quantity="zero">حول %d عنصر في اليوم</item>
-        <item quantity="one">حول %d عنصر في اليوم</item>
-        <item quantity="two">حول %d عناصر في اليوم</item>
-        <item quantity="few">حول %d عناصر في اليوم</item>
-        <item quantity="many">حول %d عنصر في اليوم</item>
-    </plurals>
     <plurals name="nrca_info">
         <item quantity="other">سيتم تعيين التغييرات بعد %d ثانية</item>
         <item quantity="zero">سيتم تعيين التغييرات بعد %d ثانية</item>
@@ -383,14 +367,6 @@
         <item quantity="two">تم تحديد %d عناصر</item>
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
-    </plurals>
-    <plurals name="search_app_hint">
-        <item quantity="other">البحث عن %d تطبيق</item>
-        <item quantity="zero">البحث عن %d تطبيق</item>
-        <item quantity="one">البحث عن %d تطبيق</item>
-        <item quantity="two">البحث عن %d تطبيقات</item>
-        <item quantity="few">البحث عن %d تطبيقات</item>
-        <item quantity="many">البحث عن %d تطبيق</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من إدخال CIT.</item>
@@ -423,6 +399,14 @@
         <item quantity="two">أنت على بعد %1$d خطوات من الإبلاغ عن الخطأ.</item>
         <item quantity="few">أنت على بعد %1$d خطوات من الإبلاغ عن الخطأ.</item>
         <item quantity="many">أنت على بعد %1$d خطوة من الإبلاغ عن الخطأ.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">يمكن لـ %d تطبيق استخدام البيانات بدون قيود.</item>
+        <item quantity="zero">يمكن لـ %d تطبيق استخدام البيانات بدون قيود.</item>
+        <item quantity="one">يمكن لتطبيق واحد استخدام البيانات بدون قيود.</item>
+        <item quantity="two">يمكن لتطبيقين (%d) استخدام البيانات بدون قيود.</item>
+        <item quantity="few">يمكن لـ %d تطبيقات استخدام البيانات بدون قيود.</item>
+        <item quantity="many">يمكن لـ %d تطبيقًا استخدام البيانات بدون قيود.</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d تطبيق لا يمكنه عرض الإشعارات</item>
@@ -639,5 +623,13 @@
         <item quantity="two">مشاركة %d شبكات</item>
         <item quantity="few">مشاركة %d شبكات</item>
         <item quantity="many">مشاركة %d شبكة</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d جهاز متصل</item>
+        <item quantity="zero">%1$d جهاز متصل</item>
+        <item quantity="one">%1$d جهاز متصل</item>
+        <item quantity="two">%1$d ‏أجهزة متصلة</item>
+        <item quantity="few">%1$d ‏أجهزة متصلة</item>
+        <item quantity="many">%1$d جهاز متصل</item>
     </plurals>
 </resources>
