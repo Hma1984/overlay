@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Combinar aplicacions</item>
+        <item>Interconnectivitat/Combina aplicacions</item>
+        <item>Característiques del cotxe</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Interconnectivitat</item>
+        <item>Interconnectivitat/Interconnectivitat</item>
+        <item>"Interconnectivitat de dispositius, serveis d'interconnectivitat de dispositius, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, connexió intel·ligent, Mi Smart Hub, Interconnectivitat, Duo, telèfon Xiaomi, portàtil Xiaomi, Multipantalla, Duet, càsting, combinar aplicacions, handoff, lliurament d'aplicacions, mirall, ecosistema Xiaomi, connexió de dispositius"</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Privacitat</item>
+        <item>Interconnectivitat/Privacitat</item>
+        <item>Privacitat i interconnectivitat, Privacitat</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Interconnectivitat Xiaomi</item>
+        <item>Interconnectivitat/Interconnectivitat de Xiaomi</item>
+        <item>Xiaomi Interconnectivity Services, Xiaomi Interconnectivity</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>"Lliurament d'aplicacions"</item>
+        <item>Interconnectivitat/Aplicacions</item>
+        <item>Transferir aplicacions, traspàs i transferència</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Sincronització de trucades</item>
+        <item>Interconnectivitat/sincronització de trucades</item>
+        <item>Sincronització de trucades, trucades entre dispositius, transferència de trucades, trucades</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Assistència en xarxa</item>
+        <item>Interconnectivitat/Assistència a la xarxa</item>
+        <item>"Assistència a la xarxa, compartició de xarxa, compartició de punts d'accés"</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>"Pantalla d'inici+"</item>
+        <item>"Interconnectivitat/Pantalla d'inici+"</item>
+        <item>"Pantalla d'inici +, Mi Smart Hub, compartició de pantalla"</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Porta-retalls</item>
+        <item>Interconnectivitat/Porta-retalls</item>
+        <item>Porta-retalls</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Notificacions multidispositiu</item>
+        <item>Interconnectivitat/Notificacions</item>
+        <item>Notificacions multidispositiu</item>
+    </string-array>
+</resources>

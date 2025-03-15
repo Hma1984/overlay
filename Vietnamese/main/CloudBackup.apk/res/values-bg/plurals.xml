@@ -44,14 +44,6 @@
         <item quantity="other">%1$s архиви (%2$s)</item>
         <item quantity="one">%1$s архив (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d дни от последното архивиране | Нови данни: %2$s</item>
-        <item quantity="one">%1$d ден от последното архивиране | Нови данни: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d дни от последното архивиране</item>
-        <item quantity="one">%d ден от последното архивиране</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Преди половин час</item>
         <item quantity="one">Преди половин час</item>
@@ -95,5 +87,13 @@
     <plurals name="session_time_remain">
         <item quantity="other">Остават около %s минути</item>
         <item quantity="one">Остава около %s минута</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d дни от последното архивиране | Нови данни: %2$s</item>
+        <item quantity="one">%1$d ден от последното архивиране | Нови данни: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d дни от последното архивиране</item>
+        <item quantity="one">%d ден от последното архивиране</item>
     </plurals>
 </resources>

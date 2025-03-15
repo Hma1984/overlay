@@ -2,7 +2,7 @@
 <resources>
     <string-array name="hmode_app_classify1">
         <item>Personnaliser</item>
-        <item>Économiseur de batterie</item>
+        <item>Économiseur de batterie MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Applications actives</item>

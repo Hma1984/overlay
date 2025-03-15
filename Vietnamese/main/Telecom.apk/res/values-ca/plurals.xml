@@ -64,6 +64,10 @@
         <item quantity="other">%d elements sel·leccionats</item>
         <item quantity="one">%d element sel·leccionat</item>
     </plurals>
+    <plurals name="notification_All_AI_MissedCallTitle">
+        <item quantity="other">Mi AI va respondre %1$d Truca per a tu</item>
+        <item quantity="one">Mi AI va respondre %1$d Truca per tu</item>
+    </plurals>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Trucades perdudes</item>
         <item quantity="one">Trucada perduda</item>

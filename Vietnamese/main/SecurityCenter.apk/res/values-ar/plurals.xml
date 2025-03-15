@@ -412,30 +412,6 @@
         <item quantity="few">%d رسائل</item>
         <item quantity="many">%d رسالة</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="zero">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-        <item quantity="two">%1$s:</item>
-        <item quantity="few">%1$s:</item>
-        <item quantity="many">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="zero">%1$s</item>
-        <item quantity="one">%1$s</item>
-        <item quantity="two">%1$s</item>
-        <item quantity="few">%1$s</item>
-        <item quantity="many">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="zero">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-        <item quantity="two">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="few">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="many">Your Game Turbo membership will expire in %d days.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">ستنتهي عضويتك لمسرع الألعاب بعد %d يوم. جدد عضويتك واستمتع بتجربة ألعاب أسرع.</item>
         <item quantity="zero">ستنتهي عضويتك لمسرع الألعاب بعد %d يوم. جدد عضويتك واستمتع بتجربة ألعاب أسرع.</item>
@@ -500,22 +476,6 @@
         <item quantity="few">تم تسجيل الدخول %d أيام متتالية</item>
         <item quantity="many">تم تسجيل الدخول %d يوم متتالي</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d س</item>
-        <item quantity="zero">%d س</item>
-        <item quantity="one">%d س</item>
-        <item quantity="two">%d س</item>
-        <item quantity="few">%d س</item>
-        <item quantity="many">%d س</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d دق</item>
-        <item quantity="zero">%d دق</item>
-        <item quantity="one">%d دق</item>
-        <item quantity="two">%d دق</item>
-        <item quantity="few">%d دق</item>
-        <item quantity="many">%d دق</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">حسنا (%d ث)</item>
         <item quantity="zero">حسنا (%d ث)</item>
@@ -543,26 +503,6 @@
         <item quantity="many">"ملاحظة:
 · لن تكون ميزة الصور المحسنة متاحة عند تشغيل موفر البطارية أو سخونة جهازك.
 · يعمل معدل الإطار الذكي بشكل أفضل عندما يتم تعيين الألعاب لعرض ما لا يقل عن %d إطار في الثانية."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"ملاحظة:
-· لن تكون ميزة الصور المحسنة متاحة عند تشغيل موفر البطارية أو سخونة جهازك.
-· يعمل تحسين معدل الإطارات بشكل أفضل عندما يتم تعيين الألعاب لعرض ما لا يقل عن %d إطار في الثانية."</item>
-        <item quantity="zero">"ملاحظة:
-· لن تكون ميزة الصور المحسنة متاحة عند تشغيل موفر البطارية أو سخونة جهازك.
-· يعمل تحسين معدل الإطارات بشكل أفضل عندما يتم تعيين الألعاب لعرض ما لا يقل عن %d إطار في الثانية."</item>
-        <item quantity="one">"ملاحظة:
-· لن تكون ميزة الصور المحسنة متاحة عند تشغيل موفر البطارية أو سخونة جهازك.
-· يعمل تحسين معدل الإطارات بشكل أفضل عندما يتم تعيين الألعاب لعرض ما لا يقل عن %d إطار في الثانية."</item>
-        <item quantity="two">"ملاحظة:
-· لن تكون ميزة الصور المحسنة متاحة عند تشغيل موفر البطارية أو سخونة جهازك.
-· يعمل تحسين معدل الإطارات بشكل أفضل عندما يتم تعيين الألعاب لعرض ما لا يقل عن %d إطارات في الثانية."</item>
-        <item quantity="few">"ملاحظة:
-· لن تكون ميزة الصور المحسنة متاحة عند تشغيل موفر البطارية أو سخونة جهازك.
-· يعمل تحسين معدل الإطارات بشكل أفضل عندما يتم تعيين الألعاب لعرض ما لا يقل عن %d إطارات في الثانية."</item>
-        <item quantity="many">"ملاحظة:
-· لن تكون ميزة الصور المحسنة متاحة عند تشغيل موفر البطارية أو سخونة جهازك.
-· يعمل تحسين معدل الإطارات بشكل أفضل عندما يتم تعيين الألعاب لعرض ما لا يقل عن %d إطار في الثانية."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"جرب مغير الصوت الآن
@@ -647,14 +587,6 @@
         <item quantity="two">تقليل سطوع الشاشة تلقائيا بعد %d دقائق من عدم النشاط</item>
         <item quantity="few">تقليل سطوع الشاشة تلقائيا بعد %d دقائق من عدم النشاط</item>
         <item quantity="many">تقليل سطوع الشاشة تلقائيا بعد %d دقائق من عدم النشاط</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="zero">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-        <item quantity="two">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="few">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="many">"Congrats! You've unlocked %s Easter eggs."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -1025,12 +957,12 @@
         <item quantity="many">حذف %d حزم تثبيت</item>
     </plurals>
     <plurals name="notification_link_cleaner_2006">
-        <item quantity="other">حذف %d حزمة تثبيت غير ضرورية</item>
-        <item quantity="zero">حذف %d حزمة تثبيت غير ضرورية</item>
-        <item quantity="one">حذف %d حزمة تثبيت غير ضرورية</item>
-        <item quantity="two">حذف %d حزم تثبيت غير ضرورية</item>
-        <item quantity="few">حذف %d حزم تثبيت غير ضرورية</item>
-        <item quantity="many">حذف %d حزمة تثبيت غير ضرورية</item>
+        <item quantity="other">حذف %d APKs غير ضرورية</item>
+        <item quantity="zero">حذف %d APK غير ضرورية</item>
+        <item quantity="one">حذف %d APK غير ضرورية</item>
+        <item quantity="two">حذف %d APKs غير ضرورية</item>
+        <item quantity="few">حذف %d APKs غير ضرورية</item>
+        <item quantity="many">حذف %d APKs غير ضرورية</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d عنصر ذات استهلاك عالي للطاقة</item>
@@ -1136,14 +1068,6 @@
         <item quantity="few">قد يكون %2$d تطبيقات بما في ذلك %1$s ضار</item>
         <item quantity="many">قد يكون %2$d تطبيق بما في ذلك %1$s ضار</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="zero">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="two">+%d</item>
-        <item quantity="few">+%d</item>
-        <item quantity="many">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">يستنزف %d تطبيق البطارية</item>
         <item quantity="zero">يستنزف %d تطبيق البطارية</item>
@@ -1160,22 +1084,6 @@
         <item quantity="few">" س"</item>
         <item quantity="many">" س"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" دق"</item>
-        <item quantity="zero">" دق"</item>
-        <item quantity="one">" دق"</item>
-        <item quantity="two">" دق"</item>
-        <item quantity="few">" دق"</item>
-        <item quantity="many">" دق"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d يوم</item>
-        <item quantity="zero">%d يوم</item>
-        <item quantity="one">%d يوم</item>
-        <item quantity="two">%d أيام</item>
-        <item quantity="few">%d أيام</item>
-        <item quantity="many">%d يوم</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d عناصر</item>
         <item quantity="zero">%d عناصر</item>
@@ -1191,14 +1099,6 @@
         <item quantity="two">نفدت بطارية جهازك. سيتم الدخول في وضع الإسبات بعد %1$d ثواني.</item>
         <item quantity="few">نفدت بطارية جهازك. سيتم الدخول في وضع الإسبات بعد %1$d ثواني.</item>
         <item quantity="many">نفدت بطارية جهازك. سيتم الدخول في وضع الإسبات بعد %1$d ثانية.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">البطارية ضعيفة. سينتقل جهازك إلى وضع السبات بعد %1$d ثانية. قد ينخفض ​​الأداء وقوة الإشارة قليلاً.</item>
-        <item quantity="zero">البطارية ضعيفة. سينتقل جهازك إلى وضع السبات بعد %1$d ثانية. قد ينخفض ​​الأداء وقوة الإشارة قليلاً.</item>
-        <item quantity="one">البطارية ضعيفة. سينتقل جهازك إلى وضع السبات بعد %1$d ثانية. قد ينخفض ​​الأداء وقوة الإشارة قليلاً.</item>
-        <item quantity="two">البطارية ضعيفة. سينتقل جهازك إلى وضع السبات بعد %1$d ثواني. قد ينخفض ​​الأداء وقوة الإشارة قليلاً.</item>
-        <item quantity="few">البطارية ضعيفة. سينتقل جهازك إلى وضع السبات بعد %1$d ثواني. قد ينخفض ​​الأداء وقوة الإشارة قليلاً.</item>
-        <item quantity="many">البطارية ضعيفة. سينتقل جهازك إلى وضع السبات بعد %1$d ثانية. قد ينخفض ​​الأداء وقوة الإشارة قليلاً.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s يوم</item>
@@ -1328,22 +1228,6 @@
         <item quantity="few">سيتم إيقاف تشغيل الجهاز بعد %d ثواني</item>
         <item quantity="many">سيتم إيقاف تشغيل الجهاز بعد %d ثانية</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s س</item>
-        <item quantity="zero">%s س</item>
-        <item quantity="one">%s س</item>
-        <item quantity="two">%s س</item>
-        <item quantity="few">%s س</item>
-        <item quantity="many">%s س</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s دق</item>
-        <item quantity="zero">%s دق</item>
-        <item quantity="one">%s دق</item>
-        <item quantity="two">%s دق</item>
-        <item quantity="few">%s دق</item>
-        <item quantity="many">%s دق</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">مرة</item>
         <item quantity="zero">مرة</item>
@@ -1351,14 +1235,6 @@
         <item quantity="two">مرات</item>
         <item quantity="few">مرات</item>
         <item quantity="many">مرة</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d مرة</item>
-        <item quantity="zero">%d مرة</item>
-        <item quantity="one">%d مرة</item>
-        <item quantity="two">%d مرات</item>
-        <item quantity="few">%d مرات</item>
-        <item quantity="many">%d مرة</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d عنصر ذات استهلاك عالي للطاقة</item>
@@ -1399,14 +1275,6 @@
         <item quantity="two">"%d س "</item>
         <item quantity="few">"%d س "</item>
         <item quantity="many">"%d س "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d دق "</item>
-        <item quantity="zero">"%d دق "</item>
-        <item quantity="one">"%d دق "</item>
-        <item quantity="two">"%d دق "</item>
-        <item quantity="few">"%d دق "</item>
-        <item quantity="many">"%d دق "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">تحسين استخدام البطارية في %d سيناريو</item>
@@ -1455,22 +1323,6 @@
         <item quantity="two">يمكنك تحسين %d عناصر لتوفير البطارية</item>
         <item quantity="few">يمكنك تحسين %d عناصر لتوفير البطارية</item>
         <item quantity="many">يمكنك تحسين %d عنصر لتوفير البطارية</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="zero">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-        <item quantity="two">%d ℃</item>
-        <item quantity="few">%d ℃</item>
-        <item quantity="many">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d مللي أمبير</item>
-        <item quantity="zero">%d مللي أمبير</item>
-        <item quantity="one">%d مللي أمبير</item>
-        <item quantity="two">%d مللي أمبير</item>
-        <item quantity="few">%d مللي أمبير</item>
-        <item quantity="many">%d مللي أمبير</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">إضافة %d دقيقة</item>
@@ -1840,22 +1692,6 @@
         <item quantity="few">تعديل %1$d أذونات</item>
         <item quantity="many">تعديل %1$d إذن</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
-        <item quantity="zero">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
-        <item quantity="two">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
-        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
-        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
-        <item quantity="zero">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
-        <item quantity="two">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
-        <item quantity="few">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
-        <item quantity="many">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">تحديثات متاحة لـ %d تطبيق.</item>
         <item quantity="zero">تحديث متاح لـ %d تطبيق.</item>
@@ -1871,14 +1707,6 @@
         <item quantity="two">لم تتم مزامنة إحصائيات استخدام البيانات لشركة الاتصالات في %d أيام</item>
         <item quantity="few">لم تتم مزامنة إحصائيات استخدام البيانات لشركة الاتصالات في %d أيام</item>
         <item quantity="many">لم تتم مزامنة إحصائيات استخدام البيانات لشركة الاتصالات في %d يوم</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%d ث)</item>
-        <item quantity="zero">(%d ث)</item>
-        <item quantity="one">(%d ث)</item>
-        <item quantity="two">(%d ث)</item>
-        <item quantity="few">(%d ث)</item>
-        <item quantity="many">(%d ث)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d عنصر آمن</item>
@@ -2005,5 +1833,85 @@
         <item quantity="two">أحصنة طروادة: %d</item>
         <item quantity="few">أحصنة طروادة: %d</item>
         <item quantity="many">حصان طروادة: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d س</item>
+        <item quantity="zero">%d س</item>
+        <item quantity="one">%d س</item>
+        <item quantity="two">%d س</item>
+        <item quantity="few">%d س</item>
+        <item quantity="many">%d س</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d دق</item>
+        <item quantity="zero">%d دق</item>
+        <item quantity="one">%d دق</item>
+        <item quantity="two">%d دق</item>
+        <item quantity="few">%d دق</item>
+        <item quantity="many">%d دق</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" دق"</item>
+        <item quantity="zero">" دق"</item>
+        <item quantity="one">" دق"</item>
+        <item quantity="two">" دق"</item>
+        <item quantity="few">" دق"</item>
+        <item quantity="many">" دق"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s س</item>
+        <item quantity="zero">%s س</item>
+        <item quantity="one">%s س</item>
+        <item quantity="two">%s س</item>
+        <item quantity="few">%s س</item>
+        <item quantity="many">%s س</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s دق</item>
+        <item quantity="zero">%s دق</item>
+        <item quantity="one">%s دق</item>
+        <item quantity="two">%s دق</item>
+        <item quantity="few">%s دق</item>
+        <item quantity="many">%s دق</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
+        <item quantity="zero">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
+        <item quantity="two">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
+        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
+        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تجزئة</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d دق "</item>
+        <item quantity="zero">"%d دق "</item>
+        <item quantity="one">"%d دق "</item>
+        <item quantity="two">"%d دق "</item>
+        <item quantity="few">"%d دق "</item>
+        <item quantity="many">"%d دق "</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d مللي أمبير</item>
+        <item quantity="zero">%d مللي أمبير</item>
+        <item quantity="one">%d مللي أمبير</item>
+        <item quantity="two">%d مللي أمبير</item>
+        <item quantity="few">%d مللي أمبير</item>
+        <item quantity="many">%d مللي أمبير</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
+        <item quantity="zero">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
+        <item quantity="two">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
+        <item quantity="few">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
+        <item quantity="many">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ج.ب</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%d ث)</item>
+        <item quantity="zero">(%d ث)</item>
+        <item quantity="one">(%d ث)</item>
+        <item quantity="two">(%d ث)</item>
+        <item quantity="few">(%d ث)</item>
+        <item quantity="many">(%d ث)</item>
     </plurals>
 </resources>

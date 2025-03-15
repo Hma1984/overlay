@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Упутство</item>
-        <item>Сваких %d минута</item>
-        <item>Сваког сата</item>
-        <item>Свака %d часа</item>
-        <item>Сваких %d часова</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Ништа</item>
+        <item>Исламски календар</item>
+        <item>Индијски национани календар</item>
+        <item>Викрамски календар</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Водолија</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Ован</item>
+        <item>20.01. - 18.02.</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Рак</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Јарац</item>
+        <item>22.06. - 22.07.</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Само овај догађај</item>
         <item>Сви догађаји у серији</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Само овај пут</item>
-        <item>Искључи подсетник са понављањем</item>
+        <item>Искључи једном</item>
+        <item>Увек искључено</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Напред</item>
         <item>Назад</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>У време догађаја</item>
+        <item>5 минута раније</item>
+        <item>15 минута раније</item>
+        <item>30 минута раније</item>
+        <item>1 час раније</item>
+        <item>4 часа раније</item>
+        <item>1 дан раније</item>
+        <item>2 дана раније</item>
+        <item>1 седмица раније</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Само овај догађај</item>
@@ -43,56 +47,40 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Близанци</item>
+        <item>21.05. - 21.06.</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>Лав</item>
+        <item>23.07. - 22.08.</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Вага</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Ништа</item>
-        <item>Традиционални кинески календар</item>
-        <item>Исламски календар</item>
-        <item>Хебрејски календар</item>
-        <item>Јапански календар</item>
-        <item>Персијски календар</item>
-        <item>Индијски календар</item>
-        <item>Будистички календар</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Јануар</item>
-        <item>Фебруар</item>
-        <item>Март</item>
-        <item>Април</item>
-        <item>Мај</item>
-        <item>Јун</item>
-        <item>Јул</item>
-        <item>Август</item>
-        <item>Септембар</item>
-        <item>Октобар</item>
-        <item>Новембар</item>
-        <item>Децембар</item>
+        <item>23.09. - 23.10.</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Само овај пут</item>
-        <item>Подеси подсетник са понављањем</item>
+        <item>Укључи једном</item>
+        <item>Увек укључено</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Недеља</item>
+        <item>Понедељак</item>
+        <item>Уторак</item>
+        <item>Среда</item>
+        <item>Четвртак</item>
+        <item>Петак</item>
+        <item>Субота</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Рибе</item>
+        <item>19.02. - 20.03.</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Иск</item>
         <item>За све догађаје</item>
         <item>За временски осетљиве догађаје</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Увек</item>
@@ -232,25 +220,22 @@
         <item>Можда</item>
         <item>Не</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Не одговарај</item>
-        <item>Прихвати</item>
-        <item>Одлучи касније</item>
-        <item>Одбиj</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Стрелац</item>
+        <item>23.11. - 21.12.</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Шкорпија</item>
+        <item>24.10. - 22.11.</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Бик</item>
+        <item>20.04. - 20.05.</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Маршалска Острва</item>
         <item>Мидвеј</item>
         <item>Хаваји</item>
@@ -270,7 +255,7 @@
         <item>Атлантско време (Барбадос)</item>
         <item>Атлантско време (Канада)</item>
         <item>Манаус</item>
-        <item>Сантјаго</item>
+        <item>Сантијаго</item>
         <item>Њуфаундленд</item>
         <item>Бразилијa</item>
         <item>Буенос Ајрес</item>
@@ -280,19 +265,16 @@
         <item>Азори</item>
         <item>Зеленортска Острва</item>
         <item>Казабланка</item>
-        <item>Лондон</item>
-        <item>Даблин</item>
-        <item>Амстердам</item>
-        <item>Берлин</item>
+        <item>Лондон, Даблин</item>
+        <item>Амстердам, Берлин</item>
         <item>Београд</item>
         <item>Брисел</item>
         <item>Сарајево</item>
         <item>Виндхук</item>
         <item>Западноафричко време</item>
-        <item>Аман</item>
-        <item>Атина</item>
-        <item>Истанбул</item>
-        <item>Бејрут</item>
+        <item>Аман, Јордан</item>
+        <item>Атина, Истанбул</item>
+        <item>Беирут, Ливан</item>
         <item>Каиро</item>
         <item>Хелсинки</item>
         <item>Јерусалим</item>
@@ -308,7 +290,7 @@
         <item>Јереван</item>
         <item>Дубаи</item>
         <item>Кабул</item>
-        <item>Карачи</item>
+        <item>Исламабад, Карачи</item>
         <item>Уралск</item>
         <item>Јекатеринбург</item>
         <item>Колката</item>
@@ -319,7 +301,6 @@
         <item>Краснојарск</item>
         <item>Бангкок</item>
         <item>Пекинг</item>
-        <item>Чонгћинг</item>
         <item>Хонг Конг</item>
         <item>Макао</item>
         <item>Сингапур</item>
@@ -328,14 +309,13 @@
         <item>Перт</item>
         <item>Тајпеј</item>
         <item>Сеул</item>
-        <item>Токио</item>
+        <item>Токио, Осака</item>
         <item>Yакутск</item>
         <item>Аделејд</item>
         <item>Дарвин</item>
         <item>Бризбејн</item>
         <item>Хобарт</item>
-        <item>Сиднеј</item>
-        <item>Канбера</item>
+        <item>Сyднеј, Канбера</item>
         <item>Владивосток</item>
         <item>Гуам</item>
         <item>Магадан</item>
@@ -346,6 +326,35 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Девица</item>
+        <item>23.08. - 22.09.</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Ведро</item>
+        <item>Облачно</item>
+        <item>Тмурно</item>
+        <item>Магла</item>
+        <item>Јака олуја</item>
+        <item>Олуја</item>
+        <item>Слабија олуја</item>
+        <item>Олуја с грмљавином</item>
+        <item>Пљусак</item>
+        <item>Јака киша</item>
+        <item>Киша</item>
+        <item>Слаба киша</item>
+        <item>Снег са кишом</item>
+        <item>Снежна олуја</item>
+        <item>Велике снежне падавине</item>
+        <item>Мећава</item>
+        <item>Снег</item>
+        <item>Слаб снег</item>
+        <item>Јака пешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Прашина</item>
+        <item>Слаба пешчана олуја</item>
+        <item>Град</item>
+        <item>Лебдећа прашина</item>
+        <item>Сумаглица</item>
+        <item>Ледена киша</item>
     </string-array>
     <string-array name="week_header_name">
         <item>НЕД</item>
@@ -361,12 +370,22 @@
         <item>Бела позадина</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>С</item>
+        <item>Н</item>
         <item>П</item>
         <item>У</item>
-        <item>C</item>
+        <item>С</item>
         <item>Ч</item>
         <item>П</item>
         <item>С</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Ован</item>
+        <item>21.03. - 19.04.</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Јарац</item>
+        <item>22.12. - 19.01.</item>
     </string-array>
 </resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>O máis baixo</item>
+        <item>Baixo</item>
+        <item>Normal</item>
+        <item>Alto</item>
+        <item>O máis alto</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Equilibrado</item>
+        <item>Alta calidade</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Baixa</item>
+        <item>Normal</item>
+        <item>Alta</item>
+        <item>Máxima</item>
+        <item>Predefinida</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Alta velocidade</item>
+        <item>Equilibrado</item>
+        <item>Alta calidade</item>
+    </string-array>
+</resources>

@@ -84,20 +84,11 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d분 전</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">철회 (%d초)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">%d개 그룹 채팅 초대를 수신했습니다.</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s명</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%2$s의 검색 결과 %1$s\"개</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d초</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s개 메시지 전송됨</item>

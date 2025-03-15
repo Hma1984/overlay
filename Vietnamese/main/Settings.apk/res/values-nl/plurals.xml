@@ -72,6 +72,10 @@
         <item quantity="other">%d beschikbare apparaten</item>
         <item quantity="one">%d beschikbaar apparaat</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Elke %d seconden</item>
         <item quantity="one">Elke %d seconde</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Beperkte verbinding voor %s apps</item>
         <item quantity="one">Beperkte verbinding voor %s app</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Wacht %d sec en probeer het opnieuw</item>
-        <item quantity="one">Wacht %d sec en probeer het opnieuw</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d personen verbonden</item>
@@ -148,10 +148,6 @@
         <item quantity="other">Wacht %d seconden en probeer het opnieuw.</item>
         <item quantity="one">Wacht %d seconde en probeer het opnieuw.</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s, %2$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Hoogstens %d processen</item>
         <item quantity="one">Hoogstens %d proces</item>
@@ -200,6 +196,10 @@
         <item quantity="other">U bent %1$d stappen verwijderd van het melden van een bug.</item>
         <item quantity="one">U bent %1$d stap verwijderd van het melden van een bug.</item>
     </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d apps kunnen onbeperkt data gebruiken</item>
+        <item quantity="one">1 app kan onbeperkt data gebruiken</item>
+    </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d apps kunnen geen meldingen weergeven</item>
         <item quantity="one">%d app kan geen meldingen weergeven</item>
@@ -211,10 +211,6 @@
     <plurals name="string_after_int_minute">
         <item quantity="other">Na %d minuten</item>
         <item quantity="one">Na %d minuut</item>
-    </plurals>
-    <plurals name="string_bits_per_sample">
-        <item quantity="other">%d bits/sample</item>
-        <item quantity="one">%d bit/sample</item>
     </plurals>
     <plurals name="string_int_hour">
         <item quantity="other">%d uren</item>
@@ -248,21 +244,9 @@
         <item quantity="other">%d meldingen ontvangen</item>
         <item quantity="one">%d melding ontvangen</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d uren</item>
-        <item quantity="one">%d uur</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d uren</item>
         <item quantity="one">%d uur</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">" uren"</item>
-        <item quantity="one">" uur"</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" min."</item>
@@ -292,14 +276,6 @@
         <item quantity="other">Weekdagen: %d minuten</item>
         <item quantity="one">Weekdagen: %d minuut</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" uren"</item>
-        <item quantity="one">" uur"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">"%d risico's gevonden"</item>
         <item quantity="one">%d risico gevonden</item>
@@ -307,5 +283,29 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d netwerken gedeeld</item>
         <item quantity="one">%d netwerk gedeeld</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d apparaten verbonden</item>
+        <item quantity="one">%1$d apparaat verbonden</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d uren</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" uren"</item>
+        <item quantity="one">" uur"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" uren"</item>
+        <item quantity="one">" uur"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
     </plurals>
 </resources>

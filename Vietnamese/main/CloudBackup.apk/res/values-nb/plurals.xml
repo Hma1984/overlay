@@ -44,14 +44,6 @@
         <item quantity="other">%1$s sikkerhetskopier (%2$s)</item>
         <item quantity="one">%1$s sikkerhetskopi (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d dager siden siste sikkerhetskopiering | Nye data: %2$s</item>
-        <item quantity="one">%1$d dag siden siste sikkerhetskopiering | Nye data: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d dager siden siste sikkerhetskopiering</item>
-        <item quantity="one">%d dager siden forrige sikkerhetskopiering</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">En halvtime siden</item>
         <item quantity="one">En halvtime siden</item>
@@ -95,5 +87,13 @@
     <plurals name="session_time_remain">
         <item quantity="other">Omtrent %s min igjen</item>
         <item quantity="one">Omtrent %s min igjen</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dager siden siste sikkerhetskopiering | Nye data: %2$s</item>
+        <item quantity="one">%1$d dag siden siste sikkerhetskopiering | Nye data: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d dager siden siste sikkerhetskopiering</item>
+        <item quantity="one">%d dager siden forrige sikkerhetskopiering</item>
     </plurals>
 </resources>

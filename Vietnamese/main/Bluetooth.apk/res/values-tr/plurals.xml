@@ -64,6 +64,14 @@
         <item quantity="other">%d öge seçildi</item>
         <item quantity="one">%d öge seçildi</item>
     </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">%1$d başarılı, %2$s</item>
+        <item quantity="one">%1$d başarılı, %2$s</item>
+    </plurals>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d başarısız.</item>
+        <item quantity="one">%1$d başarısız.</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>

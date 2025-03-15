@@ -112,25 +112,13 @@
         <item quantity="other">%d minuter sedan</item>
         <item quantity="one">1 minut sedan</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Dra tillbaka (%d sek)</item>
-        <item quantity="one">Dra tillbaka (%d sek)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Du fick %d gruppchattinbjudan</item>
         <item quantity="one">Du fick %d gruppchattinbjudan</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s personer</item>
-        <item quantity="one">%1$s person</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultat för \"%2$s\"</item>
         <item quantity="one">%1$s resultat för \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d sekunder</item>
-        <item quantity="one">%d sekund</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Skickat %1$s meddelanden</item>

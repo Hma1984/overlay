@@ -196,18 +196,6 @@
         <item quantity="other">%d پیام</item>
         <item quantity="one">%d پیام</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">عضویت افزاینده سرعت بازی شما تا %d روز دیگر به پایان می‌رسد. برای بهره‌مندی از بازی یک‌پارچه عضویت خود را تمدید کنید.</item>
         <item quantity="one">عضویت افزاینده سرعت بازی شما تا %d روز دیگر به پایان می‌رسد. برای بهره‌مندی از بازی یک‌پارچه عضویت خود را تمدید کنید.</item>
@@ -240,14 +228,6 @@
         <item quantity="other">%d بار پشت سر هم اعلام ورود شد</item>
         <item quantity="one">%d بار اعلام ورود شد</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d ساعت</item>
-        <item quantity="one">%d ساعت</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d دقیقه</item>
-        <item quantity="one">%d دقیقه</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">متوجه‌ام (%dثانیه)</item>
         <item quantity="one">متوجه‌ام (%dثانیه)</item>
@@ -259,14 +239,6 @@
         <item quantity="one">"توجه:
 ·هنگام روشن بودن بهینه‌ساز باتری و یا داغ شدن دستگاه، نمایش‌های بهینه شده در دسترس نخواهند بود.
 نرخ فریم هوشمند بهترین نتایج را هنگامی که بازی شما روی نمایش حداقل %d فریم بر ثانیه تنظیم شده باشد نمایش خواهد داد."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"توجه:
-· وقتی بهینه‌ساز باتری روشن است یا دستگاه شما بیش از حد گرم شده است، نمایش بهینه در دسترس نخواهند بود.
-· زمانی که بازی شما حداقل %d فریم در ثانیه را نمایش دهد، نرخ فریم بهبودو یافته بهترین نتایج را نشان می‌دهد."</item>
-        <item quantity="one">"توجه:
-· وقتی بهینه‌ساز باتری روشن است یا دستگاه شما بیش از حد گرم شده است، نمایش بهینه در دسترس نخواهند بود.
-· زمانی که بازی شما حداقل %d فریم در ثانیه را نمایش دهد، نرخ فریم بهبودو یافته بهترین نتایج را نشان می‌دهد."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"اکنون تغییر دهنده صدا را امتحان کنید
@@ -307,10 +279,6 @@
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">پس از %d دقیقه کار نکردن، روشنایی نمایشگر به صورت خودکار کاهش یافت تا در مصرف برق صرفه‌جویی شود</item>
         <item quantity="one">پس از %d دقیقه کار نکردن، روشنایی نمایشگر به صورت خودکار کاهش یافت تا در مصرف برق صرفه‌جویی شود</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
@@ -548,10 +516,6 @@
         <item quantity="other">%2$d برنامه شامل %1$s ممکن است مخرب باشند</item>
         <item quantity="one">%2$d برنامه شامل %1$s ممکن است مخرب باشد</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d برنامه درحال خالی کردن باتری هستند</item>
         <item quantity="one">%d برنامه درحال خالی کردن باتری است</item>
@@ -560,14 +524,6 @@
         <item quantity="other">" ساعت"</item>
         <item quantity="one">" ساعت"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" دقیقه"</item>
-        <item quantity="one">" دقیقه"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d روز</item>
-        <item quantity="one">%d روز</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d مورد</item>
         <item quantity="one">%d مورد</item>
@@ -575,10 +531,6 @@
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">باتری دستگاه شما خالی شده است. تا %1$d ثانیه دیگر وارد حالت خواب زمستانی می‌شود.</item>
         <item quantity="one">باتری دستگاه شما خالی شده است. تا %1$d ثانیه دیگر وارد حالت خواب زمستانی می‌شود.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">باتری کم است. دستگاه شما در %1$d ثانیه به حالت خواب زمستانی می‌رود. ممکن است عملکرد و قدرت سیگنال اندکی کاهش یابد.</item>
-        <item quantity="one">باتری کم است. دستگاه شما در %1$d ثانیه به حالت خواب زمستانی می‌رود. ممکن است عملکرد و قدرت سیگنال اندکی کاهش یابد.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s روز</item>
@@ -644,21 +596,9 @@
         <item quantity="other">دستگاه شما %d ثانیه دیگر خاموش خواهد شد</item>
         <item quantity="one">دستگاه شما %d ثانیه دیگر خاموش خواهد شد</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s ساعت</item>
-        <item quantity="one">%s ساعت</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s دقیقه</item>
-        <item quantity="one">%s دقیقه</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">زمان</item>
         <item quantity="one">زمان</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d بار</item>
-        <item quantity="one">%d بار</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d مورد با مصرف برق بالا</item>
@@ -679,10 +619,6 @@
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ساعت "</item>
         <item quantity="one">"%d ساعت "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d دقیقه "</item>
-        <item quantity="one">"%d دقیقه "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">بهینه‌سازی مصرف باتری در %d موقعیت</item>
@@ -707,14 +643,6 @@
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">می‌توانید برای ذخیره باتری %d مورد را بهینه‌سازی کنید</item>
         <item quantity="one">می‌توانید برای ذخیره باتری %d مورد را بهینه‌سازی کنید.</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">℃ %d</item>
-        <item quantity="one">℃ %d</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d میلی‌آمپر ساعت</item>
-        <item quantity="one">%d میلی‌آمپر ساعت</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">افزودن %d دقیقه</item>
@@ -900,14 +828,6 @@
         <item quantity="other">درحال ویرایش %1$d مجوز</item>
         <item quantity="one">درحال ویرایش %1$d مجوز</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تکه</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تکه</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> گیگابایت</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> گیگابایت</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">به‌روزرسانی برای %d برنامه در دسترس است.</item>
         <item quantity="one">به‌روزرسانی برای %d برنامه در دسترس است.</item>
@@ -915,10 +835,6 @@
     <plurals name="summary_flow_verify">
         <item quantity="other">آمار مصرف اینترنت همراه شرکت مخابرات طی %d روز همگام‌سازی نشده است</item>
         <item quantity="one">آمار مصرف اینترنت همراه شرکت مخابرات طی %d روز همگام‌سازی نشده است</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%d ثانیه)</item>
-        <item quantity="one">(%d ثانیه)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d مورد ایمن است</item>
@@ -981,5 +897,49 @@
     <plurals name="white_list_trojan_header">
         <item quantity="other">تروجان‌ها: %d</item>
         <item quantity="one">تروجان: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" دقیقه"</item>
+        <item quantity="one">" دقیقه"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تکه</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تکه</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d دقیقه "</item>
+        <item quantity="one">"%d دقیقه "</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">℃ %d</item>
+        <item quantity="one">℃ %d</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d میلی‌آمپر ساعت</item>
+        <item quantity="one">%d میلی‌آمپر ساعت</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> گیگابایت</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> گیگابایت</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%d ثانیه)</item>
+        <item quantity="one">(%d ثانیه)</item>
     </plurals>
 </resources>

@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aqi_detail_title">
-        <item>Buena</item>
-        <item>Aceptable</item>
-        <item>Moderada</item>
+        <item>Bueno</item>
+        <item>Justo</item>
+        <item>Moderado</item>
         <item>Insalubre</item>
-        <item>Severa</item>
-        <item>Nociva</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+        <item>Sábado</item>
+        <item>Peligroso</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
@@ -34,23 +18,30 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
-        <item>Aceptable</item>
-        <item>Moderada</item>
-        <item>Insalubre</item>
-        <item>Severa</item>
-        <item>Nociva</item>
+        <item>Justo</item>
+        <item>Moderado</item>
+        <item>Poco saludable</item>
+        <item>Sábado</item>
+        <item>Peligroso</item>
         <item>Excede el índice</item>
     </string-array>
+    <string-array name="breeze">
+        <item>&lt;Forzar 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
     <string-array name="hot_city">
-        <item>Pekín</item>
-        <item>Shanghái</item>
+        <item>Beijing</item>
+        <item>Shanghai</item>
         <item>Hong Kong</item>
-        <item>Taipéi</item>
-        <item>Yakarta</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
         <item>Delhi</item>
         <item>Bombay</item>
         <item>Moscú</item>
-        <item>Chennai</item>
+        <item>Madrás</item>
         <item>Estambul</item>
         <item>Río de Janeiro</item>
         <item>Singapur</item>
@@ -70,21 +61,30 @@
         <item>Moderado</item>
         <item>Bajo</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excelente</item>
+        <item>Bueno</item>
+        <item>Ligero contaminado</item>
+        <item>Moderadamente contaminado</item>
+        <item>Pesadamente contaminado</item>
+        <item>Severamente contaminado</item>
+        <item>Más allá del índice</item>
+    </string-array>
     <string-array name="realtime_humidity_status">
-        <item>Seco</item>
-        <item>Agradable</item>
+        <item>Seca</item>
+        <item>Confortable</item>
         <item>Húmedo</item>
     </string-array>
     <string-array name="realtime_pressure_status">
         <item>Alta</item>
-        <item>Moderada</item>
+        <item>Moderado</item>
         <item>Baja</item>
     </string-array>
     <string-array name="realtime_temperature_status">
         <item>Frío</item>
-        <item>Fresco</item>
-        <item>Agradable</item>
-        <item>Cálido</item>
+        <item>Herramienta</item>
+        <item>Confortable</item>
+        <item>Calentar</item>
         <item>Calor</item>
     </string-array>
     <string-array name="realtime_uv_level">
@@ -92,42 +92,35 @@
         <item>Moderado</item>
         <item>Fuerte</item>
         <item>Muy fuerte</item>
-        <item>Severo</item>
-    </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
+        <item>Sábado</item>
     </string-array>
     <string-array name="weather_type">
         <item>Despejado</item>
         <item>Nublado</item>
         <item>Cubierto</item>
-        <item>Bruma</item>
-        <item>Tormenta fuerte</item>
+        <item>Neblina</item>
+        <item>Lluvia torrencial</item>
+        <item>Chaparrón</item>
         <item>Aguacero</item>
-        <item>Tormenta</item>
         <item>Tormenta eléctrica</item>
-        <item>Chubascos</item>
-        <item>Lluvia intensa</item>
+        <item>Mostrar</item>
+        <item>Lluvia pesada</item>
         <item>Lluvia moderada</item>
         <item>Lluvia ligera</item>
         <item>Aguanieve</item>
         <item>Ventisca</item>
-        <item>Chubascos con nieve</item>
+        <item>Chubascos de nieve</item>
         <item>Nieve intensa</item>
         <item>Nieve moderada</item>
         <item>Nieve ligera</item>
-        <item>Tormenta de arena fuerte</item>
+        <item>Fuerte tormenta de arena</item>
         <item>Tormenta de arena</item>
         <item>Tormenta de arena ligera</item>
         <item>Tormenta de polvo</item>
         <item>Granizo</item>
         <item>Polvo</item>
         <item>Neblina</item>
-        <item>Lluvia helada</item>
+        <item>Aguanieve</item>
         <item></item>
     </string-array>
     <string-array name="wind_direction">

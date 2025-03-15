@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connection_home">
+        <item>Interconnectivity</item>
+        <item>Interconnectivity/Interconnectivity</item>
+        <item>Device interconnectivity, Device interconnectivity services, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, smart connection, Xiaomi Smart Hub, Interconnectivity, Duo, Xiaomi phone, Xiaomi laptop, Multiscreen, Duet, casting, combine apps, handoff, App handoff, Mirror, Xiaomi Ecosystem, device connection</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Network assistance</item>
+        <item>Interconnectivity/Network assistance</item>
+        <item>Network assistance, tethering, hotspot sharing, Wireless tethering</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Home screen+</item>
+        <item>Interconnectivity/Home screen+</item>
+        <item>Home screen+, Xiaomi Smart Hub, screen sharing</item>
+    </string-array>
+</resources>

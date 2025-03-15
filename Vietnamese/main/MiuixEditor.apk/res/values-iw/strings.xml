@@ -7,5 +7,4 @@
     <string name="call_notification_incoming_text">שיחה נכנסת</string>
     <string name="call_notification_ongoing_text">שיחה פעילה</string>
     <string name="call_notification_screening_text">סינון שיחה נכנסת</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

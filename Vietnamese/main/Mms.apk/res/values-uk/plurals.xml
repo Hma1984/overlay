@@ -168,35 +168,17 @@
         <item quantity="few">%d хв тому</item>
         <item quantity="many">%d хв тому</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Відкликати (%d сек)</item>
-        <item quantity="one">Відкликати (%d сек)</item>
-        <item quantity="few">Відкликати (%d сек)</item>
-        <item quantity="many">Відкликати (%d сек)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Ви отримали %d запрошень до групового чату</item>
         <item quantity="one">Ви отримали %d запрошення до групового чату</item>
         <item quantity="few">Ви отримали %d запрошення до групового чату</item>
         <item quantity="many">Ви отримали %d запрошень до групового чату</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s отримувачей</item>
-        <item quantity="one">%1$s отримувач</item>
-        <item quantity="few">%1$s отримувача</item>
-        <item quantity="many">%1$s отримувачей</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">Результатів для \"%2$s\": %1$s</item>
         <item quantity="one">Результатів для \"%2$s\": %1$s</item>
         <item quantity="few">Результатів для \"%2$s\": %1$s</item>
         <item quantity="many">Результатів для \"%2$s\": %1$s</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d сек</item>
-        <item quantity="one">%d сек</item>
-        <item quantity="few">%d сек</item>
-        <item quantity="many">%d сек</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Відправлено повідомлень: %1$s</item>

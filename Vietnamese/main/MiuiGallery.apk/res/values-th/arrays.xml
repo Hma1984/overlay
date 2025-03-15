@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities_title">
+        <item>วันพิเศษ</item>
+        <item>วันที่ต้องจดจำ</item>
+        <item>ช่วงเวลาที่มีชีวิตชีวา</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>ความงดงามของฤดูใบไม้ร่วง</item>
+        <item>ฤดูใบไม้ร่วงที่สดใส</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>เด็กชาย</item>
+        <item>เด็กหญิง</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>สำรองรูปภาพ</item>
+        <item>ซิงค์รูปภาพกับคลาวด์</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>งานสังสรรค์ของเรา</item>
+        <item>รายล้อมด้วยผองเพื่อน</item>
+        <item>ไม่ได้เจอกันนานเลยนะ</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>สิ่งที่คุณชื่นชอบ</item>
+        <item>ผู้ร่วมจิตวิญญาณ</item>
+        <item>ช่วงเวลาที่สดใสของชีวิต</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>เติบโตต่อเนื่อง</item>
+        <item>น่ารักขึ้นเรื่อยๆ</item>
+        <item>นักสำรวจตัวน้อย</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>เพลิดเพลินกับอาหารกลางวันของคุณ!</item>
+        <item>อีกคำไหม?</item>
+        <item>ทานให้อร่อย!</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>วันสำคัญ</item>
+        <item>ไปตามทางเดิน!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>ถึงเวลาเล่น</item>
+        <item>วันหยุดของเด็กๆ</item>
+        <item>เจ้าตัวน้อย</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>วันหยุดสุดสัปดาห์ของฉัน</item>
+        <item>บิตของชีวิต</item>
+        <item>ความทรงจำสุดสัปดาห์</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>เพื่อนใหม่และเพื่อนเก่า</item>
+        <item>ปีที่แล้วได้อยู่ร่วมกัน</item>
+    </string-array>
+    <string-array name="month">
+        <item>มกราคม</item>
+        <item>กุมภาพันธ์</item>
+        <item>มีนาคม</item>
+        <item>เมษายน</item>
+        <item>พฤษภาคม</item>
+        <item>มิถุนายน</item>
+        <item>กรกฎาคม</item>
+        <item>สิงหาคม</item>
+        <item>กันยายน</item>
+        <item>ตุลาคม</item>
+        <item>พฤศจิกายน</item>
+        <item>ธันวาคม</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>บิดา</item>
+        <item>มารดา</item>
+        <item>ปู่</item>
+        <item>ย่า</item>
+        <item>ตา</item>
+        <item>ยาย</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>ด้วยกัน</item>
+        <item>เวลาที่ดี</item>
+        <item>ในเวลาเดียวกัน</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>ชาย</item>
+        <item>หญิง</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>อยู่ร่วมกัน</item>
+        <item>ความผูกพันและความสัมพันธ์</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>ฉัน</item>
+        <item>ลูก</item>
+        <item>ครอบครัว</item>
+        <item>เพื่อนร่วมงาน</item>
+        <item>เพื่อนร่วมชั้น</item>
+        <item>เพื่อน</item>
+        <item>ไม่ได้จัดกลุ่ม</item>
+    </string-array>
+    <string-array name="season">
+        <item>ฤดูใบไม้ผลิ</item>
+        <item>ฤดูร้อน</item>
+        <item>ฤดูใบไม้ร่วง</item>
+        <item>ฤดูหนาว</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>พ่อ</item>
+        <item>แม่</item>
+        <item>ปู่</item>
+        <item>ย่า</item>
+        <item>ตา</item>
+        <item>ยาย</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>ก้าวไปข้างหน้า</item>
+        <item>เต็มไปด้วยพลัง</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>ฤดูใบไม้ผลิบานสะพรั่ง</item>
+        <item>ฤดูใบไม้ผลิอยู่ในอากาศ</item>
+        <item>สวัสดีฤดูใบไม้ผลิ!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>หน้าร้อนนิดหน่อย</item>
+        <item>ที่ที่ฤดูร้อนไม่สิ้นสุด</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>พวกเขาเติบโตอย่างรวดเร็ว</item>
+        <item>รูปภาพของเด็กๆ</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>วันฤดูหนาว</item>
+        <item>ดินแดนมหัศจรรย์ฤดูหนาว</item>
+    </string-array>
+</resources>

@@ -114,6 +114,17 @@
         <item>" | အသက်သွင်းထားသည် (မီဒီယာ)"</item>
         <item>" | အသက်သွင်းထားသည် (ဖုန်း)"</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>ACL ဟက်ဒါများသာ ချန်ထားရန်</item>
+        <item>A2DP မီဒီယာပက်ကက်များကို စစ်ထုတ်ရန်</item>
+        <item>RFCOMM ချန်နယ်ကို စစ်ထုတ်ရန်</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>ပိတ်ရန်</item>
+        <item>အက္ခရာအတန်းလိုက်ဖြည့်ရန်</item>
+        <item>ဟက်ဒါများသာ ချန်ထားရန်</item>
+        <item>အပြည့်အဝဖယ်ရှားရန်</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>၁ စက္ကန့်</item>
         <item>၂ စက္ကန့်</item>
@@ -135,15 +146,6 @@
         <item>PIN</item>
         <item>စကားဝှက်</item>
     </string-array>
-    <array name="click_bottom">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom08</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="common_password_business_names">
         <item>သော့ခတ် မျက်နှာပြင်</item>
         <item>ကိုယ်ရေးကိုယ်တာ စကားဝှက်</item>
@@ -155,10 +157,6 @@
     <string-array name="connect_mode_entries">
         <item>လိုက်ဖက်မှုရှိသော</item>
         <item>အရှိန်မြင့်သော</item>
-    </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>အမှောင်</item>
@@ -205,24 +203,6 @@
         <item>အလယ်အလတ်</item>
         <item>အပြင်း</item>
     </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>input_method_selector_show_automatically_title</item>
-        <item>input_method_selector_always_show_title</item>
-        <item>input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
-    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>မျက်နှာပြင်ကို မနှိုးရန်</item>
         <item>မျက်နှာပြင်ကို နှိုးရန်</item>
@@ -255,22 +235,6 @@
         <item>၅ မိနစ်နောက်</item>
         <item>ဘယ်တော့မှ</item>
     </string-array>
-    <array name="long_press">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="long_press_volume_down_action">
         <item>မရှိ</item>
         <item>အမြန်ရိုက်ချက်မုဒ် (ဓာတ်ပုံ)</item>
@@ -299,14 +263,6 @@
         <item>ခရမ်း</item>
         <item>ခရမ်းပြာ</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>XS</item>
-        <item>ဆိုဒ်သေး</item>
-        <item>ဆိုဒ်လတ်</item>
-        <item>ဆိုဒ်ကြီး</item>
-        <item>XL</item>
-        <item>XXL</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>ဝင်းဒိုး XP နှင့် ၎င်းမတိုင်မီ</item>
         <item>ဝင်းဒိုး Vista နှင့် ၎င်းနောက်ပိုင်း</item>
@@ -314,8 +270,8 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>msd_pc_system_install_finish_summary_xp</item>
-        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>ကွန်ပျူတာသို့ ချိတ်ဆက်သောအခါ ကြီးမားသော USB သိုလှောင်ခန်းအား အလိုအလျောက် ဖွင့်ပါမည်။</item>
         <item></item>
     </string-array>
@@ -334,16 +290,8 @@
         <item>"စက်ကို ဖြုတ်မည်- fusermount -u /media/mtp
 သတိ- Ubuntu 8.04 အတွက်သာ!"</item>
     </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>msd_install_retry_reinstall_mac</item>
-        <item>msd_install_retry_connect</item>
-        <item>msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>msd_install_retry_connect</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_xp">
-        <item>msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_connect</item>
         <item>Mi PC Suite အား ပြန်ထည့်သွင်းပါ</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
@@ -373,58 +321,6 @@
         <item>ရှာရန်</item>
         <item>ဆက်တင်များ</item>
     </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-    </string-array>
     <string-array name="paper_color_values">
         <item>အရောင်ပြည့်များ</item>
         <item>အရောင်ဖျော့များ</item>
@@ -439,97 +335,6 @@
         <item>မိုက်-ဆားကစ်တစ်ခုတည်း ဆူညံသံထိန်းချုပ်ခြင်း</item>
         <item>မိုက်-ဆားကစ်နှစ်ခု ဆူညံသံထိန်းချုပ်ခြင်း</item>
     </string-array>
-    <array name="power_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_long_press">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick03</item>
-        <item>powerclick02</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>စွမ်းဆောင်ရည်</item>
         <item>ဟန်ချက်ညီညီ</item>
@@ -588,16 +393,6 @@
         <item>အားမြှင့်ထားသည်</item>
         <item>စံအရောင်</item>
     </string-array>
-    <string-array name="screen_resolution_format">
-        <item>screen_resolution_ultrahigh_format</item>
-        <item>screen_resolution_high_format</item>
-        <item>screen_resolution_normal_format</item>
-    </string-array>
-    <string-array name="screen_resolution_text">
-        <item>2K</item>
-        <item>1080p</item>
-        <item>720p</item>
-    </string-array>
     <string-array name="screen_saturation_title">
         <item>တောက်ပသော</item>
         <item>ပုံမှန်</item>
@@ -611,37 +406,12 @@
         <item>၁၀ မိနစ်</item>
         <item>ဘယ်တော့မှ</item>
     </string-array>
-    <string-array name="screen_zoom_level">
-        <item>XS</item>
-        <item>S</item>
-        <item>L</item>
-    </string-array>
-    <string-array name="silent_entries">
-        <item>standard</item>
-        <item>total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>အမြဲတမ်း</item>
         <item>မိနစ် ၃၀</item>
         <item>၁ နာရီ</item>
         <item>၂ နာရီ</item>
         <item>၈ နာရီ</item>
-    </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
-        <item>စမတ်အိမ်</item>
-        <item>တစ်ခုမျှမရှိပါ</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>စမတ်အိမ်</item>
@@ -660,31 +430,6 @@
         <item>ပြတ်သားသည်</item>
         <item>ခိုင်မာသည်</item>
     </string-array>
-    <array name="three_drop">
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop02</item>
-        <item>threedrop03</item>
-        <item>threedrop04</item>
-        <item>threedrop05</item>
-        <item>threedrop06</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-    </array>
     <string-array name="time_format_entries">
         <item>၁၂ နာရီ ပုံစံ ညနေ ၁း၀၀</item>
         <item>၂၄ နာရီ ပုံစံ ၁၃း၀၀</item>
@@ -694,11 +439,6 @@
         <item>ပိတ်မည်</item>
         <item>ပုံမှန်</item>
         <item>အလွန်အကဲ</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"မိုဘိုင်းဒေတာ သုံးစွဲမှု "</item>
@@ -726,6 +466,12 @@
         <item>တို့ထိခြင်း</item>
         <item>တိုက်ရိုက်တို့ထိခြင်း</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>ဘယ်ရွှေ့ရန်</item>
+        <item>အောက်ရွှေ့ရန်</item>
+        <item>ညာရွှေ့ရန်</item>
+        <item>အပေါ်ရွှေ့ရန်</item>
+    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>ချိတ်ဆက်မှုနှင့် ပတ်သက်၍ မေးပါ</item>
         <item>အားသွင်းရန်သာ</item>
@@ -736,16 +482,6 @@
         <item>အဆက်အသွယ်များသာ</item>
         <item>ကြယ်ပြထားသော အဆက်အသွယ်များသာ</item>
         <item>မရှိ</item>
-    </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="wapi_psk_type">
-        <item>wapi_psk_type_ascii</item>
-        <item>wapi_psk_type_hex</item>
     </string-array>
     <string-array name="wfd_status">
         <item>လုပ်ငန်းကဏ္ဍကို စတင်နေသည်…</item>
@@ -766,18 +502,6 @@
         <item>ရာခိုင်နှုန်း (သင်္ကေတဖြင့်)</item>
         <item>ရာခိုင်နှုန်း (အသိပေးချက်ရှိတ်ရှိ သင်္ကေတဘေးတွင်)</item>
     </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>wifi_ap_choose_2G</item>
-        <item>wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>wifi_ap_ssid_off</item>
-        <item>wifi_ap_ssid_on</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>အလိုအလျောက် ချိတ်ဆက်ပါ</item>
         <item>ကိုယ်တိုင် ချိတ်ဆက်ပါ</item>
@@ -795,14 +519,16 @@
         <item>ကျပန်း MAC ကို သုံးပါ</item>
         <item>စက် MAC သုံးပါ</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wep</item>
-        <item>wifi_security_psk_generic</item>
-        <item>wifi_security_eap</item>
-    </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>အလိုအလျောက် ချိတ်ဆက်ပါ</item>
         <item>ကိုယ်တိုင် ချိတ်ဆက်ပါ</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>XS</item>
+        <item>ဆိုဒ်သေး</item>
+        <item>ဆိုဒ်လတ်</item>
+        <item>ဆိုဒ်ကြီး</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
 </resources>

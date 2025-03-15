@@ -9,16 +9,16 @@
         <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
-        <item quantity="one">Half an hour ago</item>
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">%d órán belül</item>
         <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
-        <item quantity="one">In half an hour</item>
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Azonnal</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Immediately</item>
-        <item quantity="one">Immediately</item>
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
@@ -204,18 +204,6 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%d üzenet</item>
         <item quantity="one">%d üzenet</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">A Game Turbo tagsága %d nap múlva lejár. Újítsa meg és élvezze a zavartalan játékot.</item>
         <item quantity="one">A Game Turbo tagsága %d nap múlva lejár. Újítsa meg és élvezze a zavartalan játékot.</item>
@@ -248,14 +236,6 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%d napja folyamatosan bejelentkezve</item>
         <item quantity="one">%d alkalommal bejelentkezve</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d óra</item>
-        <item quantity="one">%d óra</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d perc</item>
-        <item quantity="one">%d perc</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Rendben (%dmp)</item>
         <item quantity="one">Rendben (%dmp)</item>
@@ -267,14 +247,6 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="one">"Megjegyzés:
  A javított képi megjelenítés nem lesz elérhető, ha az energiatakarékos üzemmód be van kapcsolva, vagy ha a készülék túlmelegszik.
  Az intelligens képkockasebesség akkor mutatja a legjobb eredményt, ha a játék legalább %d képkocka/másodperc megjelenítésére van beállítva."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Megjegyzés:
- A javított látvány nem lesz elérhető, ha az akkumulátorkímélő be van kapcsolva, vagy ha a készülék túlmelegszik.
- A megnövelt képkockasebesség akkor mutatja a legjobb eredményt, ha a játék legalább %d képkocka/másodperc megjelenítésére van beállítva."</item>
-        <item quantity="one">"Megjegyzés:
- A javított látvány nem lesz elérhető, ha az akkumulátorkímélő be van kapcsolva, vagy ha a készülék túlmelegszik.
- A megnövelt képkockasebesség akkor mutatja a legjobb eredményt, ha a játék legalább %d képkocka/másodperc megjelenítésére van beállítva."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Próbálja ki a Voice changer-t (Hangcserélőt) most,
@@ -315,10 +287,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">A képernyő fényerejének automatikus csökkentése az energiatakarékosság érdekében %d perc inaktivitás után</item>
         <item quantity="one">A képernyő fényerejének automatikus csökkentése az energiatakarékosság érdekében %d perc inaktivitás után</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
@@ -560,10 +528,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">%2$d alkalmazás %1$s funkcióval lehet, hogy kártékony alkalmazás</item>
         <item quantity="one">%2$d alkalmazás %1$s funkcióval lehet, hogy kártékony alkalmazás</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d alkalmazás fogyasztja nagyon az akkumulátort</item>
         <item quantity="one">%d alkalmazás fogyasztja nagyon az akkumulátort</item>
@@ -572,14 +536,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">" ó"</item>
         <item quantity="one">" ó"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" p"</item>
-        <item quantity="one">" p"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-napos</item>
-        <item quantity="one">%d-napos</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>
@@ -587,10 +543,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">A készülék akkumulátora lemerült. Hibernálás módba lépés %1$d másodperc múlva.</item>
         <item quantity="one">A készülék akkumulátora lemerült. Hibernálás módba lépés %1$d másodperc múlva.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Alacsony akkumulátor-töltöttség. A készülék %1$d másodperc múlva Hibernálás módba vált. A teljesítmény és a jelerősség kissé csökkenhet.</item>
-        <item quantity="one">Alacsony akkumulátor-töltöttség. A készülék %1$d másodperc múlva Hibernálás módba vált. A teljesítmény és a jelerősség kissé csökkenhet.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s nap</item>
@@ -656,21 +608,9 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">Az eszköz %d másodperc múlva kikapcsol</item>
         <item quantity="one">Az eszköz %d másodperc múlva kikapcsol</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s óra</item>
-        <item quantity="one">%s óra</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s perc</item>
-        <item quantity="one">%s perc</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">alkalommal</item>
         <item quantity="one">alkalommal</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d alkalommal</item>
-        <item quantity="one">%d alkalommal</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d magas energiafogyasztású elem</item>
@@ -691,10 +631,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d óra "</item>
         <item quantity="one">"%d óra "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d perc "</item>
-        <item quantity="one">"%d perc "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Az akkumulátor használatának optimalizálása %d helyzetben</item>
@@ -719,14 +655,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">%d elemet lehet optimalizálni az akkumulátor kímélése érdekében</item>
         <item quantity="one">%d elemet lehet optimalizálni az akkumulátor kímélése érdekében</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d perc hozzáadása</item>
@@ -912,14 +840,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">%1$d engedély szerkesztése</item>
         <item quantity="one">%1$d engedély szerkesztése</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> töredék</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> töredék</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Frissítés érhető el %d alkalmazáshoz.</item>
         <item quantity="one">Frissítés érhető el %d alkalmazáshoz.</item>
@@ -927,10 +847,6 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="summary_flow_verify">
         <item quantity="other">Az adatforgalmi kimutatás %d napja nem volt szinkronizálva a szolgáltatóval</item>
         <item quantity="one">Az adatforgalmi kimutatás %d napja nem volt szinkronizálva a szolgáltatóval</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%dmp)</item>
-        <item quantity="one">(%dmp)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elem biztonságos</item>
@@ -993,5 +909,37 @@ Tartson szünetet!"</item>
     <plurals name="white_list_trojan_header">
         <item quantity="other">%d trójai</item>
         <item quantity="one">%d trójai</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" p"</item>
+        <item quantity="one">" p"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">%s óra</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">%s perc</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> töredék</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> töredék</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d perc "</item>
+        <item quantity="one">"%d perc "</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dmp)</item>
+        <item quantity="one">(%dmp)</item>
     </plurals>
 </resources>

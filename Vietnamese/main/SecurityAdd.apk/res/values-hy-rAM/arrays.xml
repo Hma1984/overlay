@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Ցածրագույն</item>
+        <item>Ցածր</item>
+        <item>Կանոնավոր</item>
+        <item>Բարձր</item>
+        <item>Ամենաբարձր</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Հավասարակշռված</item>
+        <item>Բարձր որակ</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Ցածր</item>
+        <item>Ստանդարտ</item>
+        <item>Բարձր</item>
+        <item>Ամենաբարձր</item>
+        <item>Լռելյայն</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Բարձր արագություն</item>
+        <item>Հավասարակշռված</item>
+        <item>Բարձր որակ</item>
+    </string-array>
+</resources>

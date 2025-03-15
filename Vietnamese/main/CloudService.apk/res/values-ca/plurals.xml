@@ -5,15 +5,15 @@
         <item quantity="one">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Fa %d hores</item>
-        <item quantity="one">Fa %d hora</item>
+        <item quantity="other">fa %d hores</item>
+        <item quantity="one">fa %d hores</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fa mitja hora</item>
         <item quantity="one">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">En %d hores</item>
+        <item quantity="other">En %d hora</item>
         <item quantity="one">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
@@ -25,7 +25,7 @@
         <item quantity="one">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d mins</item>
+        <item quantity="other">En %d minuts</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,11 +33,11 @@
         <item quantity="one">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa %d minut</item>
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa %d min</item>
     </plurals>
     <plurals name="cloud_storage_full_upgrade_text">
-        <item quantity="other">"Emmagatzematge insuficient. No s'han pogut sincronitzar %d fotos."</item>
+        <item quantity="other">"Emmagatzematge insuficient. No s'ha pogut sincronitzar %d Fotos."</item>
         <item quantity="one">"Emmagatzematge insuficient. No s'ha pogut sincronitzar %d foto."</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
@@ -96,10 +96,6 @@
         <item quantity="other">%d WLAN networks</item>
         <item quantity="one">%d WLAN network</item>
     </plurals>
-    <plurals name="e2ee_device_verification_num">
-        <item quantity="other">%s dispositius no verificats</item>
-        <item quantity="one">%s dispositiu no verificat</item>
-    </plurals>
     <plurals name="error_retry_hour">
         <item quantity="other">%s hores</item>
         <item quantity="one">%s hora</item>
@@ -117,8 +113,8 @@
         <item quantity="one">"Proveu-ho de nou d'aquí %d segon"</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_red_title">
-        <item quantity="other">"No s'han pogut sincronitzar &lt;font color=#F22424>%s elements&lt;/font>"</item>
-        <item quantity="one">"No s'ha pogut sincronitzar &lt;font color=#F22424>%s element&lt;/font>"</item>
+        <item quantity="other">"No s'ha pogut sincronitzar &lt;font color=#F22424>%s Elements&lt;/font>"</item>
+        <item quantity="one">"No s'ha pogut sincronitzar &lt;font color=#F22424>%s ítem&lt;/font>"</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">"No s'han pogut sincronitzar %s elements"</item>
@@ -160,10 +156,6 @@
         <item quantity="other">Ara mateix</item>
         <item quantity="one">Ara mateix</item>
     </plurals>
-    <plurals name="local_lockscreen_error_hint_retry">
-        <item quantity="other">Massa intents. Proveu-ho de nou en %s segons.</item>
-        <item quantity="one">Massa intents. Proveu-ho de nou en %s segon.</item>
-    </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Reprendre la sincronització en %d minuts</item>
         <item quantity="one">Reprendre la sincronització en %d minut</item>
@@ -173,16 +165,12 @@
         <item quantity="one">%d element sel·leccionat</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
-        <item quantity="other">"L'emmagatzematge està ple. No s'ha pogut sincronitzar &lt;font color=#F22424>%d aplicacions&lt;/font>."</item>
-        <item quantity="one">"L'emmagatzematge està ple. No s'ha pogut sincronitzar &lt;font color=#F22424>%d aplicació&lt;/font>."</item>
+        <item quantity="other">"L'emmagatzematge està ple. No s'han pogut sincronitzar les aplicacions &lt;font color=#F22424>%d&lt;/font>."</item>
+        <item quantity="one">"L'emmagatzematge està ple. No s'ha pogut sincronitzar l'aplicació &lt;font color=#F22424>%d&lt;/font>."</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
-    </plurals>
-    <plurals name="other_lockscreen_error_hint_retry">
-        <item quantity="other">Massa intents. Proveu-ho de nou en %d dies.</item>
-        <item quantity="one">Massa intents. Proveu-ho de nou en %d dia.</item>
     </plurals>
     <plurals name="provision_sync_items_status_off_title">
         <item quantity="other">La sincronització no està activada per a %s elements</item>
@@ -207,13 +195,5 @@
     <plurals name="time_format_hour">
         <item quantity="other">%1$s hores</item>
         <item quantity="one">%1$s hora</item>
-    </plurals>
-    <plurals name="time_format_min">
-        <item quantity="other">%1$s mins</item>
-        <item quantity="one">%1$s min</item>
-    </plurals>
-    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
-        <item quantity="other">Envia un codi nou (%ss)</item>
-        <item quantity="one">Envia un codi nou (%ss)</item>
     </plurals>
 </resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact_unfavorite_toast">Removed from favourites</string>
+    <string name="fail_reason_could_not_initialize_exporter">"Couldn't initialise export: %s"</string>
+    <string name="favorites_list_empty">No favourites</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="importing_vcard_canceled_title">Importing %s cancelled</string>
+    <string name="list_filter_customize">Customise</string>
+    <string name="menu_addStar">Favourite</string>
+    <string name="menu_new_favorite_action_bar">Add to favourites</string>
+    <string name="menu_removeStar">Unfavourite</string>
+    <string name="option_not_star">Remove from favourites</string>
+    <string name="preference_contacts_more">Organise contacts</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="scan_merge">\"Searching for duplicate contacts…\"</string>
+    <string name="simContacts_airplaneMode">To import contacts from SIM card, turn off Aeroplane mode</string>
+    <string name="starred_contacts">Favourites</string>
+    <string name="strequentList">Favourites</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"Debbie Smith\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"Jeff Max\"</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+</resources>

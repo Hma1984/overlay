@@ -13,8 +13,8 @@
         <item quantity="one">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">%d saat içində</item>
-        <item quantity="one">%d saat daxilində</item>
+        <item quantity="other">%d saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat ərzində</item>
@@ -25,32 +25,32 @@
         <item quantity="one">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq içində</item>
-        <item quantity="one">%d dəq içində</item>
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Qutuda düyməni %1$d saniyə basıb saxlayın</item>
-        <item quantity="one">Qutuda düyməni %1$d saniyə basıb saxlayın</item>
+        <item quantity="other">Qutudakı düyməni %1$d saniyə basılı tutun</item>
+        <item quantity="one">Qutudakı düyməni %1$d saniyə basılı tutun</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Qulaqlıqlarda toxunma həssas bölgəsini %1$d saniyə basıb saxlayın</item>
-        <item quantity="one">Qulaqlıqlarda toxunma həssas bölgəsini %1$d saniyə basıb saxlayın</item>
+        <item quantity="other">Qulaqlıqdakı toxunuşa həssas istənilən bölgəni %1$d saniyə basılı tutun</item>
+        <item quantity="one">Qulaqlıqdakı toxunuşa həssas istənilən bölgəni %1$d saniyə basılı tutun</item>
     </plurals>
     <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Sıfırlamaq üçün %1$d san basın və basılı saxlayın</item>
-        <item quantity="one">Sıfırlamaq üçün %1$d san basın və basılı saxlayın</item>
+        <item quantity="other">Sıfırlamaq üçün %1$d san basılı tutun</item>
+        <item quantity="one">Sıfırlamaq üçün %1$d san basılı tutun</item>
     </plurals>
     <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Cihaz söndürüldükdə düyməni %1$s s saniyə basıb saxlayın</item>
-        <item quantity="one">Cihaz söndürüldükdə düyməni %1$s s saniyə basıb saxlayın</item>
+        <item quantity="other">Cihaz sönülü ikən düyməni %1$s saniyə basılı tutun</item>
+        <item quantity="one">Cihaz sönülü ikən düyməni %1$s saniyə basılı tutun</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat əvvəl</item>
@@ -73,8 +73,8 @@
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>

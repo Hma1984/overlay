@@ -66,18 +66,6 @@
         <item quantity="few">%1$s atsarginės kopijos (%2$s)</item>
         <item quantity="many">%1$s atsarginių kopijų (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d dienų nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
-        <item quantity="one">%1$d diena nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
-        <item quantity="few">%1$d dienos nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
-        <item quantity="many">%1$d dienų nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d dienų nuo paskutinės atsarginės kopijos</item>
-        <item quantity="one">%d diena nuo paskutinės atsarginės kopijos</item>
-        <item quantity="few">%d dienos nuo paskutinės atsarginės kopijos</item>
-        <item quantity="many">%d dienų nuo paskutinės atsarginės kopijos</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prieš pusvalandį</item>
         <item quantity="one">Prieš pusvalandį</item>
@@ -143,5 +131,17 @@
         <item quantity="one">Liko apie %s min.</item>
         <item quantity="few">Liko apie %s min.</item>
         <item quantity="many">Liko apie %s min.</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dienų nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
+        <item quantity="one">%1$d diena nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
+        <item quantity="few">%1$d dienos nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
+        <item quantity="many">%1$d dienų nuo paskutinės atsarginės kopijos | Naujų duomenų: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d dienų nuo paskutinės atsarginės kopijos</item>
+        <item quantity="one">%d diena nuo paskutinės atsarginės kopijos</item>
+        <item quantity="few">%d dienos nuo paskutinės atsarginės kopijos</item>
+        <item quantity="many">%d dienų nuo paskutinės atsarginės kopijos</item>
     </plurals>
 </resources>

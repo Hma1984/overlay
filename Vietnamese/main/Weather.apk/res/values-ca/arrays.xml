@@ -1,45 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aqi_detail_title">
-        <item>Bona</item>
-        <item>Acceptable</item>
-        <item>Moderada</item>
+        <item>Bo</item>
+        <item>Fira</item>
+        <item>Moderat</item>
         <item>Insalubre</item>
-        <item>Severa</item>
-        <item>Nociva</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+        <item>Sever</item>
+        <item>Perillós</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>IQA: %1$s</item>
-        <item>IQA: %1$s</item>
-        <item>IQA: %1$s</item>
-        <item>IQA: %1$s</item>
-        <item>IQA: %1$s</item>
-        <item>IQA: %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
     </string-array>
     <string-array name="aqi_value">
-        <item>Bona</item>
-        <item>Acceptable</item>
-        <item>Moderada</item>
-        <item>Insalubre</item>
-        <item>Severa</item>
-        <item>Nociva</item>
+        <item>Bo</item>
+        <item>Fira</item>
+        <item>Moderat</item>
+        <item>Poc sa</item>
+        <item>Sever</item>
+        <item>Perillós</item>
         <item>"Més enllà de l'índex"</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Força 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
     </string-array>
     <string-array name="hot_city">
         <item>Pequín</item>
@@ -66,63 +57,65 @@
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="minute_rain_array">
-        <item>Forta</item>
+        <item>Intensa</item>
         <item>Moderada</item>
         <item>Lleugera</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excel·lent</item>
+        <item>Bo</item>
+        <item>Lleugerament contaminat</item>
+        <item>Moderadament contaminat</item>
+        <item>Molt contaminat</item>
+        <item>Molt contaminat</item>
+        <item>"Més enllà de l'índex"</item>
+    </string-array>
     <string-array name="realtime_humidity_status">
         <item>Sec</item>
-        <item>Agradable</item>
+        <item>Còmode</item>
         <item>Humit</item>
     </string-array>
     <string-array name="realtime_pressure_status">
-        <item>Alta</item>
-        <item>Moderada</item>
-        <item>Baixa</item>
+        <item>Alt</item>
+        <item>Moderar</item>
+        <item>Baix</item>
     </string-array>
     <string-array name="realtime_temperature_status">
         <item>Fred</item>
         <item>Fresc</item>
-        <item>Agradable</item>
+        <item>Còmode</item>
         <item>Càlid</item>
         <item>Calent</item>
     </string-array>
     <string-array name="realtime_uv_level">
-        <item>Feble</item>
-        <item>Moderat</item>
-        <item>Forta</item>
-        <item>Molt forta</item>
+        <item>Dèbil</item>
+        <item>Moderar</item>
+        <item>Fort</item>
+        <item>Molt fort</item>
         <item>Greu</item>
-    </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>Serè</item>
         <item>Ennuvolat</item>
         <item>Cobert</item>
-        <item>Boirina</item>
+        <item>Boira</item>
         <item>Temporal fort</item>
         <item>Aiguat</item>
         <item>Temporal</item>
         <item>Tempesta</item>
-        <item>Ruixat</item>
-        <item>Aiguat</item>
+        <item>Xàfecs</item>
+        <item>Pluja intensa</item>
         <item>Pluja moderada</item>
         <item>Pluja feble</item>
-        <item>Aiguaneu</item>
+        <item>Nevis</item>
         <item>Torb</item>
-        <item>Nevada</item>
+        <item>Ruixats de neu</item>
         <item>Neu forta</item>
         <item>Neu moderada</item>
-        <item>Neu feble</item>
+        <item>Nevada lleugera</item>
         <item>Temporal fort de sorra</item>
-        <item>Temporal de sorra</item>
-        <item>Temporal feble de sorra</item>
+        <item>Tempesta de sorra</item>
+        <item>Tempesta de sorra lleugera</item>
         <item>Tempesta de pols</item>
         <item>Pedra</item>
         <item>Pols</item>
@@ -131,8 +124,8 @@
         <item></item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Nort</item>
-        <item>Nordest</item>
+        <item>Nord</item>
+        <item>Nord-est</item>
         <item>Est</item>
         <item>Sud-est</item>
         <item>Sud</item>
@@ -152,16 +145,22 @@
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Escala de Beaufort</item>
-        <item>Kilòmetres per hora (km/h)</item>
+        <item>Quilòmetres per hora (km/h)</item>
         <item>Metres per segon (m/s)</item>
         <item>Milles per hora (mph)</item>
         <item>Nus (kn)</item>
     </string-array>
+    <string-array name="wind_unit_no_translate">
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>Mph</item>
+        <item>Kn</item>
+    </string-array>
     <string-array name="wind_unit_replace">
         <item>Força %1$s</item>
         <item>%1$skm/h</item>
-        <item>%1$s m/s</item>
+        <item>%1$sm/s</item>
         <item>%1$smph</item>
-        <item>%1$s kn</item>
+        <item>%1$skn</item>
     </string-array>
 </resources>

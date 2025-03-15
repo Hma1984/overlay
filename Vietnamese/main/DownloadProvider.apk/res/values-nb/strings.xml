@@ -10,11 +10,9 @@
     <string name="download_queued">I kø</string>
     <string name="download_remaining">%s gjenstår</string>
     <string name="download_running">Laster ned</string>
-    <string name="download_running_percent">Laster ned %s</string>
     <string name="download_unknown_title">&lt;Uten navn></string>
     <string name="notif_title_file_size">%1$d totalt</string>
     <string name="notif_title_single_downloading">Laster ned %1$s</string>
-    <string name="notification_dld_msg">Administrer apper som lastes ned</string>
     <string name="notification_download_complete">Nedlasting vellykket.</string>
     <string name="notification_download_failed">Kunne ikke laste ned elementer.</string>
     <string name="notification_need_wifi_for_size">Nedlastingsstørrelse krever Wi-Fi.</string>

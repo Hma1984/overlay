@@ -66,18 +66,6 @@
         <item quantity="few">Резервних копій: %1$s (%2$s)</item>
         <item quantity="many">Резервних копій: %1$s (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">Остання копія: %1$d днів назад | Нові дані: %2$s</item>
-        <item quantity="one">Остання копія: %1$d день назад | Нові дані: %2$s</item>
-        <item quantity="few">Остання копія: %1$d дні назад | Нові дані: %2$s</item>
-        <item quantity="many">Остання копія: %1$d днів назад | Нові дані: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">Остання копія була створена %d днів назад</item>
-        <item quantity="one">Остання копія була створена %d день назад</item>
-        <item quantity="few">Остання копія була створена %d дні назад</item>
-        <item quantity="many">Остання копія була створена %d днів назад</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>
@@ -143,5 +131,17 @@
         <item quantity="one">Залишилося приблизно %s хв</item>
         <item quantity="few">Залишилося приблизно %s хв</item>
         <item quantity="many">Залишилося приблизно %s хв</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">Остання копія: %1$d днів назад | Нові дані: %2$s</item>
+        <item quantity="one">Остання копія: %1$d день назад | Нові дані: %2$s</item>
+        <item quantity="few">Остання копія: %1$d дні назад | Нові дані: %2$s</item>
+        <item quantity="many">Остання копія: %1$d днів назад | Нові дані: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">Остання копія була створена %d днів назад</item>
+        <item quantity="one">Остання копія була створена %d день назад</item>
+        <item quantity="few">Остання копія була створена %d дні назад</item>
+        <item quantity="many">Остання копія була створена %d днів назад</item>
     </plurals>
 </resources>

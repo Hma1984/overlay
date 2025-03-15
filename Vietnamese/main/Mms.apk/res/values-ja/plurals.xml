@@ -84,20 +84,11 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d分前</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">撤回 (%d秒)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">%d件のグループチャットへの招待を受信しました</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s人</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">\"%2$s\"に対する%1$s結果</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d秒</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s件のメッセージを送信しました</item>

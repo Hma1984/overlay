@@ -526,7 +526,7 @@ Cách thức chia sẻ dữ liệu có thể thay đổi tuỳ theo phiên bản
     <string name="permission_history_category_yesterday">Hôm qua</string>
     <string name="permission_history_title">Nhật ký quyền</string>
     <string name="permission_rationale_data_sharing_device_manufacturer_message">Nhà phát triển đã cung cấp cho nhà sản xuất thiết bị này thông tin về cách thức ứng dụng này chia sẻ dữ liệu. Nhà phát triển có thể cập nhật thông tin này theo thời gian.</string>
-    <string name="permission_rationale_data_sharing_source_message">Nhà phát triển đã cung cấp thông tin cho <annotation id="link"><annotation example="App Store" id="install_source">%1$s</annotation></annotation> về cách thức ứng dụng này chia sẻ dữ liệu. Nhà phát triển có thể cập nhật thông tin này theo thời gian.</string>
+    <string name="permission_rationale_data_sharing_source_message">Nhà phát triển đã cung cấp thông tin cho <annotation id="link">%1$s</annotation> về cách thức ứng dụng này chia sẻ dữ liệu. Nhà phát triển có thể cập nhật thông tin này theo thời gian.</string>
     <string name="permission_rationale_data_sharing_source_title">Nguồn cung cấp thông tin về cách thức chia sẻ dữ liệu</string>
     <string name="permission_rationale_data_sharing_varies_message">Cách thức xử lý dữ liệu có thể thay đổi tuỳ theo phiên bản ứng dụng, cách sử dụng, khu vực và độ tuổi của bạn. <annotation id="link">Tìm hiểu thêm về chế độ chia sẻ dữ liệu</annotation></string>
     <string name="permission_rationale_data_sharing_varies_message_without_link">Cách thức xử lý dữ liệu có thể thay đổi tuỳ theo phiên bản ứng dụng, cách sử dụng, khu vực và độ tuổi của bạn.</string>

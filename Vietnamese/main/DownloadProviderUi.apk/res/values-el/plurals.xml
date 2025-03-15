@@ -37,7 +37,7 @@
         <item quantity="one">%d λεπ πριν</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Διαγραφή %d εργασιών;</item>
+        <item quantity="other">Διαγραφή %d εργασίας;</item>
         <item quantity="one">Διαγραφή %d εργασίας;</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
@@ -48,13 +48,9 @@
         <item quantity="other">%1$d ημέρες</item>
         <item quantity="one">%1$d ημέρα</item>
     </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d ώ</item>
-        <item quantity="one">%1$d ώ</item>
-    </plurals>
     <plurals name="durationMinutes">
-        <item quantity="other">%1$d λεπ</item>
-        <item quantity="one">%1$d λεπ</item>
+        <item quantity="other">σε %1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
     </plurals>
     <plurals name="durationSeconds">
         <item quantity="other">%1$d δευ</item>
@@ -92,12 +88,8 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="other">%s αντικείμενα</item>
-        <item quantity="one">%s αντικείμενο</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">Εμφάνιση %1$d ακόμη</item>
-        <item quantity="one">Εμφάνιση %1$d ακόμη</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
     </plurals>
 </resources>

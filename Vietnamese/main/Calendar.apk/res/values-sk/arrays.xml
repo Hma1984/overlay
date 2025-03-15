@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Manuálne</item>
-        <item>Každých %d minút</item>
-        <item>Každú hodinu</item>
-        <item>Každé %d hodiny</item>
-        <item>Každých %d hodín</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Žiadne</item>
+        <item>Moslimský kalendár</item>
+        <item>Národný kalendár Indie</item>
+        <item>Vikram calendar</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Vodnár</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Baran</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Rak</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Kozorožec</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Iba táto udalosť</item>
         <item>Všetky udalosti v rade</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Len tento krát</item>
-        <item>Vypnúť opakujúcu sa pripomienku</item>
+        <item>Vypnúť raz</item>
+        <item>Vždy vypnuté</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Dopredu</item>
         <item>Dozadu</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>V čase udalosti</item>
+        <item>5 minút pred</item>
+        <item>15 minút pred</item>
+        <item>30 minút pred</item>
+        <item>1 hodinu pred</item>
+        <item>4 hodiny pred</item>
+        <item>1 deň pred</item>
+        <item>2 dni pred</item>
+        <item>1 týždeň pred</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Iba táto udalosť</item>
@@ -43,56 +47,40 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Blíženci</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>Lev</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Váhy</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Žiadne</item>
-        <item>Tradičný čínsky kalendár</item>
-        <item>Moslimský kalendár</item>
-        <item>Židovský kalendár</item>
-        <item>Japonský kalendár</item>
-        <item>Perzský kalendár</item>
-        <item>Indický kalendár</item>
-        <item>Budhistický kalendár</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Január</item>
-        <item>Február</item>
-        <item>Marec</item>
-        <item>Apríl</item>
-        <item>Máj</item>
-        <item>Jún</item>
-        <item>Júl</item>
-        <item>August</item>
-        <item>September</item>
-        <item>Október</item>
-        <item>November</item>
-        <item>December</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Len tento krát</item>
-        <item>Nastaviť opakujúcu sa pripomienku</item>
+        <item>Povoliť raz</item>
+        <item>Vždy zapnuté</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Ryby</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Vyp.</item>
         <item>Pre všetky udalosti</item>
         <item>Pre časovo citlivé udalosti</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Vždy</item>
@@ -144,18 +132,18 @@
         <item>Odpočítavanie</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Máj</item>
-        <item>Jún</item>
-        <item>Júl</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dec</item>
+        <item>jan</item>
+        <item>feb</item>
+        <item>mar</item>
+        <item>apr</item>
+        <item>máj</item>
+        <item>jún</item>
+        <item>júl</item>
+        <item>aug</item>
+        <item>sep</item>
+        <item>okt</item>
+        <item>nov</item>
+        <item>dec</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>prvý</item>
@@ -176,7 +164,7 @@
         <item>štv</item>
         <item>pia</item>
         <item>sob</item>
-        <item>Ned</item>
+        <item>Neď</item>
     </string-array>
     <string-array name="repeat_countdown">
         <item>Nikdy</item>
@@ -232,25 +220,22 @@
         <item>Možno</item>
         <item>Nie</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Neodpovedať</item>
-        <item>Prijať</item>
-        <item>Neskôr</item>
-        <item>Odmietnuť</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Strelec</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Škorpión</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Býk</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Marshallove ostrovy</item>
         <item>Midwayské ostrovy</item>
         <item>Havaj</item>
@@ -258,7 +243,7 @@
         <item>Pacifický čas</item>
         <item>Tijuana</item>
         <item>Arizona</item>
-        <item>Chihuahua\u0009</item>
+        <item>Chihuahua</item>
         <item>Čas. pásmo Mountain Time</item>
         <item>Centrálna Amerika</item>
         <item>Centrálny čas</item>
@@ -280,19 +265,16 @@
         <item>Azory</item>
         <item>Kapverdy</item>
         <item>Casablanca</item>
-        <item>Londýn</item>
-        <item>Dublin</item>
-        <item>Amsterdam</item>
-        <item>Berlín</item>
+        <item>Londýn, Dublin</item>
+        <item>Amsterdam, Berlín</item>
         <item>Belehrad</item>
         <item>Brusel</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
         <item>Západoafrický čas</item>
-        <item>Ammán</item>
-        <item>Atény</item>
-        <item>Istanbul</item>
-        <item>Bejrút</item>
+        <item>Ammán, Jordánsko</item>
+        <item>Atény, Istanbul</item>
+        <item>Bejrút, Libanon</item>
         <item>Káhira</item>
         <item>Helsinki</item>
         <item>Jeruzalem</item>
@@ -308,7 +290,7 @@
         <item>Jerevan</item>
         <item>Dubaj</item>
         <item>Kábul</item>
-        <item>Karáčí</item>
+        <item>Islamabád, Karáči</item>
         <item>Ural</item>
         <item>Jekaterinburg</item>
         <item>Kalkata</item>
@@ -319,23 +301,21 @@
         <item>Krasnojarsk</item>
         <item>Bangkok</item>
         <item>Peking</item>
-        <item>Chongqing</item>
-        <item>Hongkong</item>
-        <item>Macau</item>
+        <item>Hong Kong</item>
+        <item>Makao</item>
         <item>Singapur</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Tchaj-pej</item>
         <item>Soul</item>
-        <item>Tokyo</item>
+        <item>Tokio</item>
         <item>Jakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sydney</item>
-        <item>Canberra</item>
+        <item>Sydney, Canberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>
@@ -346,6 +326,35 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Panna</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zamračené</item>
+        <item>Hmla</item>
+        <item>Silná búrka</item>
+        <item>Búrka</item>
+        <item>Slabá búrka</item>
+        <item>Búrka s bleskami</item>
+        <item>Prehánky</item>
+        <item>Silný dážď</item>
+        <item>Dážď</item>
+        <item>Slabý dážď</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Snehové prehánky</item>
+        <item>Silné sneženie</item>
+        <item>Sneženie</item>
+        <item>Slabé sneženie</item>
+        <item>Silná piesočná búrka</item>
+        <item>Piesočná búrka</item>
+        <item>Prach</item>
+        <item>Slabá piesočná búrka</item>
+        <item>Krupobitie</item>
+        <item>Prašno</item>
+        <item>Hmla</item>
+        <item>Mrznúci dážď</item>
     </string-array>
     <string-array name="week_header_name">
         <item>NEĎ</item>
@@ -368,5 +377,15 @@
         <item>Š</item>
         <item>P</item>
         <item>S</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Baran</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Kozorožec</item>
+        <item>22/12 - 19/1</item>
     </string-array>
 </resources>

@@ -7,7 +7,6 @@
     <string name="debug_dump_email_body">Vedhæftet er min kontaktdatabase med alle mine kontaktoplysninger. Håndter forsigtigt.</string>
     <string name="debug_dump_email_sender_picker">Vælg et program for at sende din fil</string>
     <string name="debug_dump_email_subject">Kontaktdatabase vedhæftet</string>
-    <string name="debug_dump_start_button">Start</string>
     <string name="debug_dump_title">Kopier kontaktdatabase</string>
     <string name="default_directory">Kontakter</string>
     <string name="local_invisible_directory">Andet</string>

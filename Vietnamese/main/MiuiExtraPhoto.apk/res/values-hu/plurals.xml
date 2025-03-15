@@ -68,12 +68,4 @@
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">%1$d elem összesen</item>
-        <item quantity="one">%1$d elem összesen</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">%1$d elem kiválasztva</item>
-        <item quantity="one">%1$d elem kiválasztva</item>
-    </plurals>
 </resources>

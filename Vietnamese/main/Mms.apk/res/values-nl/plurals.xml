@@ -112,25 +112,13 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Intrekken (%d s)</item>
-        <item quantity="one">Intrekken (%d s)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">U hebt %d uitnodigingen voor groepschats ontvangen</item>
         <item quantity="one">U hebt %d uitnodiging voor een groepschat ontvangen</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s mensen</item>
-        <item quantity="one">%1$s persoon</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultaten voor \"%2$s\"</item>
         <item quantity="one">%1$s resultaat voor \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d seconden</item>
-        <item quantity="one">%d seconde</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s verzonden berichten</item>

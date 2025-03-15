@@ -85,14 +85,4 @@
         <item quantity="one">Пре 1 мин.</item>
         <item quantity="few">Пре %d минута</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">Укупно %1$d ставки</item>
-        <item quantity="one">Укупно %1$d ставка</item>
-        <item quantity="few">Укупно %1$d ставке</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">Изабрано је %1$d ставки</item>
-        <item quantity="one">Изабрана је %1$d ставка</item>
-        <item quantity="few">Изабране су %1$d ставке</item>
-    </plurals>
 </resources>

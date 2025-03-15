@@ -112,25 +112,13 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Ανάκληση (%dδ)</item>
-        <item quantity="one">Ανάκληση (%dδ)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Έχετε λάβει %d προσκλήσεις για ομαδικές συνομιλίες</item>
         <item quantity="one">Έχετε λάβει %d πρόσκληση για ομαδική συνομιλία</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s άτομα</item>
-        <item quantity="one">%1$s άτομο</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s αποτελέσματα για \"%2$s\"</item>
         <item quantity="one">%1$s αποτέλεσμα για \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d δευτερόλεπτα</item>
-        <item quantity="one">%d δευτερόλεπτο</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Στάλθηκαν %1$s μήνυματα</item>

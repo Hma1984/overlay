@@ -154,12 +154,6 @@
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d件のメッセージ</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">ゲームターボのメンバーシップの有効期限はあと%d日です。</item>
     </plurals>
@@ -187,12 +181,6 @@
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d日連続で登録しました</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d時間</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d分</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">了解 (%d秒)</item>
     </plurals>
@@ -200,11 +188,6 @@
         <item quantity="other">"注：
 · バッテリーセーバーがオンの場合、またはデバイスが発熱している場合は、強化されたビジュアルを利用できません。
 · スマートフレームレートは、ゲームが1秒あたり少なくとも%dフレームを表示するように設定されている場合に最適な結果を示します。"</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"注：
-· バッテリーセーバーがオンの場合、またはデバイスが発熱している場合は、強化されたビジュアルを利用できません。
-· 強化されたフレームレートは、ゲームが1秒あたり少なくとも%dフレームを表示するように設定されている場合に最適な結果を示します。"</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"今すぐボイスチェンジャーを試して
@@ -419,29 +402,17 @@
     <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
         <item quantity="other">%1$sを含む%2$d個のアプリが悪意のあるアプリである可能性があります</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d個のアプリがバッテリーを消費しています</item>
     </plurals>
     <plurals name="pc_battery_history_hour">
         <item quantity="other">時間</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">分</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d日間</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d個</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">デバイスはバッテリー切れです。%1$d秒後に休止モードを起動します。</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">バッテリー残量が少なくなっています。デバイスは %1$d 秒後に休止モードに切り替わります。パフォーマンスと信号強度が若干低下する可能性があります。</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s 日</item>
@@ -491,17 +462,8 @@
     <plurals name="power_20s_shutdown">
         <item quantity="other">%d秒後に電源がオフになります</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s時間</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s分</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">回</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d回</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">消費電力の高い %d 項目</item>
@@ -517,9 +479,6 @@
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d 時間 "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d 分 "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">%d件のシナリオでバッテリー使用量を最適化できます</item>
@@ -538,12 +497,6 @@
     </plurals>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">%d項目を最適化するとバッテリーを節約できます</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d分延長する</item>
@@ -683,20 +636,11 @@
     <plurals name="storage_compact_warning">
         <item quantity="other">%1$d件の権限を編集中</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>個のフラグメント</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">%d個のアプリのアップデートが利用可能です。</item>
     </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">通信事業者のデータ使用状況の統計を%d日間同期していません</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%d秒)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d項目が安全です</item>
@@ -743,5 +687,47 @@
     </plurals>
     <plurals name="white_list_trojan_header">
         <item quantity="other">トロイの木馬: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d時間</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d分</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">分</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s時間</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s分</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>個のフラグメント</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d 分 "</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%d秒)</item>
     </plurals>
 </resources>

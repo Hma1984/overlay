@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (domyślny)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Skanuję…</item>
+        <item>Łączę…</item>
+        <item>Uwierzytelniam…</item>
+        <item>Uzyskuję adres IP…</item>
+        <item>Połączono</item>
+        <item>Zawieszono</item>
+        <item>Rozłączam…</item>
+        <item>Odłączono</item>
+        <item>Niepowodzenie</item>
+        <item>Zablokowano</item>
+        <item>Tymczasowe unikanie połączenia o niskiej jakości</item>
+    </string-array>
+</resources>

@@ -88,22 +88,6 @@
         <item quantity="few">%1$s نسخ احتياطية (%2$s)</item>
         <item quantity="many">%1$s نسخة احتياطية (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
-        <item quantity="zero">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
-        <item quantity="one">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
-        <item quantity="two">%1$d أيام لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
-        <item quantity="few">%1$d أيام لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
-        <item quantity="many">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d يوم لآخر نسخ احتياطي</item>
-        <item quantity="zero">%d يوم لآخر نسخ احتياطي</item>
-        <item quantity="one">%d يوم لآخر نسخ احتياطي</item>
-        <item quantity="two">%d أيام لآخر نسخ احتياطي</item>
-        <item quantity="few">%d أيام لآخر نسخ احتياطي</item>
-        <item quantity="many">%d يوم لآخر نسخ احتياطي</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -191,5 +175,21 @@
         <item quantity="two">%s دقائق متبقية</item>
         <item quantity="few">%s دقائق متبقية</item>
         <item quantity="many">%s دقيقة متبقية</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
+        <item quantity="zero">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
+        <item quantity="one">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
+        <item quantity="two">%1$d أيام لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
+        <item quantity="few">%1$d أيام لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
+        <item quantity="many">%1$d يوم لآخر نسخ احتياطي | البيانات الجديدة: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d يوم لآخر نسخ احتياطي</item>
+        <item quantity="zero">%d يوم لآخر نسخ احتياطي</item>
+        <item quantity="one">%d يوم لآخر نسخ احتياطي</item>
+        <item quantity="two">%d أيام لآخر نسخ احتياطي</item>
+        <item quantity="few">%d أيام لآخر نسخ احتياطي</item>
+        <item quantity="many">%d يوم لآخر نسخ احتياطي</item>
     </plurals>
 </resources>

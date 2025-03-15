@@ -112,25 +112,13 @@
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Visszavonás (%ds)</item>
-        <item quantity="one">Visszavonás (%ds)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">%d meghívás érkezett csoportos csevegésre</item>
         <item quantity="one">%d meghívás érkezett csoportos csevegésre</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s személy</item>
-        <item quantity="one">%1$s személy</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s találat a következőre: \"%2$s\"</item>
         <item quantity="one">%1$s találat a következőre: \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d másodperc</item>
-        <item quantity="one">%d másodperc</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s üzenet elküldve</item>

@@ -72,6 +72,10 @@
         <item quantity="other">%d διαθέσιμες συσκευές</item>
         <item quantity="one">%d διαθέσιμη συσκευή</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Κάθε %d δευτερόλεπτα</item>
         <item quantity="one">Κάθε %d δευτερόλεπτο</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Έγινε περιορισμός σύνδεσης για %s εφαρμογές</item>
         <item quantity="one">Έγινε περιορισμός σύνδεσης για %s εφαρμογή</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Περιμένετε %d δευ και δοκιμάστε ξανά</item>
-        <item quantity="one">Περιμένετε %d δευ και δοκιμάστε ξανά</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d άτομα συνδέθηκαν</item>
@@ -148,10 +148,6 @@
         <item quantity="other">Περιμένετε %d δευτερόλεπτα και προσπαθήστε ξανά.</item>
         <item quantity="one">Περιμένετε %d δευτερόλεπτο και προσπαθήστε ξανά.</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s, %2$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">%d διαδικασίες το πολύ</item>
         <item quantity="one">%d διαδικασία το πολύ</item>
@@ -199,6 +195,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Είστε %1$d βήματα μακριά από την υποβολή αναφοράς σφάλματος.</item>
         <item quantity="one">Είστε %1$d βήμα μακριά από την υποβολή αναφοράς σφάλματος.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d εφαρμογές μπορούν να χρησιμοποιούν απεριόριστα δεδομένα</item>
+        <item quantity="one">1 εφαρμογή μπορεί να χρησιμοποιεί απεριόριστα δεδομένα</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d εφαρμογές δεν έχουν δυνατότητα προβολής ειδοποιήσεων</item>
@@ -248,21 +248,9 @@
         <item quantity="other">Έγινε λήψη %d ειδοποιήσεων</item>
         <item quantity="one">Έγινε λήψη %d ειδοποίησης</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d ώρες</item>
-        <item quantity="one">%d ώρα</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d ώρες</item>
         <item quantity="one">%d ώρα</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">" ώρες"</item>
-        <item quantity="one">" ώρα"</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d λεπ</item>
-        <item quantity="one">%d λεπ</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" λεπ"</item>
@@ -292,14 +280,6 @@
         <item quantity="other">Καθημερινές: %d λεπτά</item>
         <item quantity="one">Καθημερινές: %d λεπτό</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" ώρες"</item>
-        <item quantity="one">" ώρα"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" λεπ"</item>
-        <item quantity="one">" λεπ"</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d κίνδυνοι βρέθηκαν</item>
         <item quantity="one">%d κίνδυνος βρέθηκε</item>
@@ -307,5 +287,29 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Έγινε κοινοποίηση %d δικτύων</item>
         <item quantity="one">Έγινε κοινοποίηση %d δικτύου</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
+        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" ώρες"</item>
+        <item quantity="one">" ώρα"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d λεπ</item>
+        <item quantity="one">%d λεπ</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" ώρες"</item>
+        <item quantity="one">" ώρα"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" λεπ"</item>
+        <item quantity="one">" λεπ"</item>
     </plurals>
 </resources>

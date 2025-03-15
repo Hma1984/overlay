@@ -224,14 +224,6 @@
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">سحب (%d ث)</item>
-        <item quantity="zero">سحب (%d ث)</item>
-        <item quantity="one">سحب (%d ث)</item>
-        <item quantity="two">سحب (%d ث)</item>
-        <item quantity="few">سحب (%d ث)</item>
-        <item quantity="many">سحب (%d ث)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">لقد تلقيت %d دعوة لدردشة جماعية</item>
         <item quantity="zero">لقد تلقيت %d دعوة لدردشة جماعية</item>
@@ -240,14 +232,6 @@
         <item quantity="few">لقد تلقيت %d دعوات لدردشة جماعية</item>
         <item quantity="many">لقد تلقيت %d دعوة لدردشة جماعية</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s أشخاص</item>
-        <item quantity="zero">%1$s أشخاص</item>
-        <item quantity="one">%1$s أشخاص</item>
-        <item quantity="two">%1$s شخص</item>
-        <item quantity="few">%1$s شخص</item>
-        <item quantity="many">%1$s أشخاص</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s نتيجة لـ \"%2$s\"</item>
         <item quantity="zero">%1$s نتيجة لـ \"%2$s\"</item>
@@ -255,14 +239,6 @@
         <item quantity="two">%1$s نتائج لـ \"%2$s\"</item>
         <item quantity="few">%1$s نتائج لـ \"%2$s\"</item>
         <item quantity="many">%1$s نتيجة لـ \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d ثانية</item>
-        <item quantity="zero">%d ثانية</item>
-        <item quantity="one">%d ثانية</item>
-        <item quantity="two">%d ثواني</item>
-        <item quantity="few">%d ثواني</item>
-        <item quantity="many">%d ثانية</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">تم إرسال %1$s رسالة</item>

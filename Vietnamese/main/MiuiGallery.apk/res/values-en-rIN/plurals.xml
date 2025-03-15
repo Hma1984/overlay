@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d items)</item>
+        <item quantity="one">(%d items)</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d items</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">%1$d photos</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">Optimised %d photos</item>
+        <item quantity="one">Optimised %d photo</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Optimised %d photos</item>
+        <item quantity="one">Optimised %d photo</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Optimised %d videos</item>
+        <item quantity="one">Optimised %d video</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d photos haven't been optimised. Stop now?"</item>
+        <item quantity="one">"%d photo hasn't been optimised. Stop now?"</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d items left to optimise</item>
+        <item quantity="one">%d item left to optimise</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d items</item>
+    </plurals>
+</resources>

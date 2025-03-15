@@ -33,12 +33,6 @@
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">အရန်သိမ်းခြင်း %1$s ခု (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">နောက်ဆုံးအရန်သိမ်းခြင်း %1$d ရက် ကြာပါပြီ | ဒေတာအသစ် - %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">နောက်ဆုံးအရန်သိမ်းခြင်း %d ရက် ကြာပါပြီ</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
     </plurals>
@@ -71,5 +65,11 @@
     </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">%s မိနစ်ခန့် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">နောက်ဆုံးအရန်သိမ်းခြင်း %1$d ရက် ကြာပါပြီ | ဒေတာအသစ် - %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">နောက်ဆုံးအရန်သိမ်းခြင်း %d ရက် ကြာပါပြီ</item>
     </plurals>
 </resources>

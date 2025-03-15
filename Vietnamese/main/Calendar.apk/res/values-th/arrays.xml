@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>ตั้งค่าเอง</item>
-        <item>ทุก %d นาที</item>
-        <item>ทุกชั่วโมง</item>
-        <item>ทุก %d ชั่วโมง</item>
-        <item>ทุก %d ชั่วโมง</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>ไม่มี</item>
+        <item>ปฏิทินอิสลาม</item>
+        <item>ปฏิทินแห่งชาติของอินเดีย</item>
+        <item>ปฏิทินวิกรม</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>ราศีกุมภ์</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>ราศีเมษ</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>ราศีกรกฎ</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>ราศีมกร</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>เฉพาะกำหนดการนี้</item>
         <item>กำหนดการทั้งหมดในซีรีส์</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>สำหรับครั้งนี้เท่านั้น</item>
-        <item>ปิดการเตือนซ้ำ</item>
+        <item>ปิดใช้งานครั้งเดียว</item>
+        <item>ปิดเสมอ</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>ไปข้างหน้า</item>
         <item>ย้อนหลัง</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>เวลากำหนดการ</item>
+        <item>ก่อน 5 นาที</item>
+        <item>ก่อน 15 นาที</item>
+        <item>ก่อน 30 นาที</item>
+        <item>ก่อน 1 ชั่วโมง</item>
+        <item>ก่อน 4 ชั่วโมง</item>
+        <item>ก่อน 1 วัน</item>
+        <item>ก่อน 2 วัน</item>
+        <item>ก่อน 1 สัปดาห์</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>เฉพาะกำหนดการนี้</item>
@@ -43,56 +47,40 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>ราศีเมถุน</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>ราศีสิงห์</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>ราศีตุล</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>ไม่มี</item>
-        <item>ปฏิทินจีนดั้งเดิม</item>
-        <item>ปฏิทินอิสลาม</item>
-        <item>ปฏิทินฮีบรู</item>
-        <item>ปฏิทินญี่ปุ่น</item>
-        <item>ปฏิทินเปอร์เซีย</item>
-        <item>ปฏิทินอินเดีย</item>
-        <item>ปฏิทินพุทธ</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>มกราคม</item>
-        <item>กุมภาพันธ์</item>
-        <item>มีนาคม</item>
-        <item>เมษายน</item>
-        <item>พฤษภาคม</item>
-        <item>มิถุนายน</item>
-        <item>กรกฎาคม</item>
-        <item>สิงหาคม</item>
-        <item>กันยายน</item>
-        <item>ตุลาคม</item>
-        <item>พฤศจิกายน</item>
-        <item>ธันวาคม</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>สำหรับครั้งนี้เท่านั้น</item>
-        <item>ตั้งเตือนซ้ำ</item>
+        <item>เปิดใช้งานครั้งเดียว</item>
+        <item>เปิดใช้เสมอ</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>วันอาทิตย์</item>
+        <item>วันจันทร์</item>
+        <item>วันอังคาร</item>
+        <item>วันพุธ</item>
+        <item>วันพฤหัสบดี</item>
+        <item>วันศุกร์</item>
+        <item>วันเสาร์</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>ราศีมีน</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>ปิด</item>
         <item>สำหรับทุกกำหนดการ</item>
         <item>สำหรับกำหนดการที่มีเวลา</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>เสมอ</item>
@@ -144,18 +132,18 @@
         <item>จำนวนครั้ง</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>ม.ค.</item>
-        <item>ก.พ.</item>
-        <item>มี.ค.</item>
-        <item>เม.ย.</item>
-        <item>พ.ค.</item>
-        <item>มิ.ย.</item>
-        <item>ก.ค.</item>
-        <item>ส.ค.</item>
-        <item>ก.ย.</item>
-        <item>ต.ค.</item>
-        <item>พ.ย.</item>
-        <item>ธ.ค.</item>
+        <item>มกรา</item>
+        <item>กุมภา</item>
+        <item>มีนา</item>
+        <item>เมษา</item>
+        <item>พฤษภา</item>
+        <item>มิถุนา</item>
+        <item>กรกฎา</item>
+        <item>สิงหา</item>
+        <item>กันยา</item>
+        <item>ตุลา</item>
+        <item>พฤศจิกา</item>
+        <item>ธันวา</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>แรก</item>
@@ -232,25 +220,22 @@
         <item>อาจจะ</item>
         <item>ไม่</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>ไม่ตอบสนอง</item>
-        <item>ยอมรับ</item>
-        <item>ตัดสินใจในภายหลัง</item>
-        <item>ปฏิเสธ</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>ราศีธนู</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>ราศีพิจิก</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>ราศีพฤษภ</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>หมู่เกาะมาร์แชลล์</item>
         <item>เกาะมิดเวย์</item>
         <item>รัฐฮาวาย</item>
@@ -278,21 +263,18 @@
         <item>มอนเตวิเดโอ</item>
         <item>ไมด์-แอตแลนติก</item>
         <item>อะโซร์ส</item>
-        <item>เคปเวิร์ด</item>
+        <item>กาบูเวร์ดี</item>
         <item>กาซาบล็องกา</item>
-        <item>ลอนดอน</item>
-        <item>ดับลิน</item>
-        <item>อัมสเตอร์ดัม</item>
-        <item>เบอร์ลิน</item>
+        <item>ลอนดอน ดับลิน</item>
+        <item>อัมสเตอร์ดัม เบอร์ลิน</item>
         <item>เบลเกรด</item>
         <item>บรัสเซลส์</item>
         <item>ซาราเยโว</item>
         <item>วินด์ฮุก</item>
         <item>โซนเวลาแอฟริกาตะวันตก (WAT)</item>
-        <item>อัมมาน</item>
-        <item>เอเธนส์</item>
-        <item>อิสตันบูล</item>
-        <item>เบรุต</item>
+        <item>อัมมาน จอร์แดน</item>
+        <item>เอเธนส์ อิสตันบูล</item>
+        <item>เบรุต เลบานอน</item>
         <item>ไคโร</item>
         <item>เฮลซิงกิ</item>
         <item>เยลูซาเลม</item>
@@ -308,7 +290,7 @@
         <item>เยเรวาน</item>
         <item>ดูไบ</item>
         <item>คาบูล</item>
-        <item>การาจี</item>
+        <item>อิสลามาบาด การาจี</item>
         <item>ออรัล อัค โซล</item>
         <item>เยคาเตรินบุร์ก</item>
         <item>โกลกาตา</item>
@@ -319,7 +301,6 @@
         <item>ครัสโนยาสค์</item>
         <item>กรุงเทพ</item>
         <item>ปักกิ่ง</item>
-        <item>ฉงชิ่ง</item>
         <item>ฮ่องกง</item>
         <item>มาเก๊า</item>
         <item>สิงค์โปร์</item>
@@ -328,14 +309,13 @@
         <item>เพิร์ธ</item>
         <item>ไทเป</item>
         <item>โซล</item>
-        <item>โตเกียว</item>
+        <item>โตเกียว โอซาก้า</item>
         <item>โซล</item>
         <item>แอดิเลด</item>
         <item>ดาร์วิน</item>
         <item>บริสเบน</item>
         <item>ดาร์วิน</item>
-        <item>ซิดนีย์</item>
-        <item>แคนเบอร์รา</item>
+        <item>ซิดนีย์ แคนเบอร์รา</item>
         <item>วลาดีวอสตอค</item>
         <item>กวม</item>
         <item>มากาดาน</item>
@@ -346,6 +326,35 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>ราศีกันย์</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>แจ่มใส</item>
+        <item>มีเมฆมาก</item>
+        <item>มืดครึ้ม</item>
+        <item>หมอก</item>
+        <item>พายุหนัก</item>
+        <item>พายุ</item>
+        <item>พายุฟ้าคะนอง</item>
+        <item>ฝนฟ้าคะนอง</item>
+        <item>ฝนตก</item>
+        <item>ฝนตกหนัก</item>
+        <item>ฝนตก</item>
+        <item>ฝนเล็กน้อย</item>
+        <item>ฝนและหิมะ</item>
+        <item>พายุหิมะ</item>
+        <item>หิมะตก</item>
+        <item>หิมะตกหนัก</item>
+        <item>หิมะตก</item>
+        <item>หิมะตกเล็กน้อย</item>
+        <item>พายุทรายรุนแรง</item>
+        <item>พายุทราย</item>
+        <item>ฝุ่นละออง</item>
+        <item>พายุทรายเล็กน้อย</item>
+        <item>ลูกเห็บตก</item>
+        <item>ทัศนวิสัยต่ำ</item>
+        <item>มีเมฆหมอก</item>
+        <item>ฝนเยือกแข็ง</item>
     </string-array>
     <string-array name="week_header_name">
         <item>อา.</item>
@@ -361,12 +370,22 @@
         <item>พื้นหลังสีขาว</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>อา.</item>
-        <item>จ.</item>
-        <item>อ.</item>
-        <item>พ.</item>
-        <item>พฤ.</item>
-        <item>ศ.</item>
-        <item>ส.</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>ราศีเมษ</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>ราศีมกร</item>
+        <item>22/12 - 19/1</item>
     </string-array>
 </resources>

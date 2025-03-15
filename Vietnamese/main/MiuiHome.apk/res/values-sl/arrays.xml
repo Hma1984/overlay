@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animation_rate_entries">
+        <item>Sproščeno</item>
+        <item>Uravnoteženo</item>
+        <item>Hitro</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Ozadja</item>
+        <item>Pripomočki</item>
+        <item>Nastavitve</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Privzeto</item>
+        <item>Modro</item>
+        <item>Zeleno</item>
+        <item>Škrlatno</item>
+        <item>Rjavo</item>
+    </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Izključeno</item>
+        <item>Kjerkoli</item>
+        <item>Na pripomočku</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Drsanje</item>
+        <item>Navzkrižno bledenje</item>
+        <item>Padec</item>
+        <item>Stran</item>
+        <item>Kaskada</item>
+        <item>Zavrti</item>
+        <item>Kocka</item>
+    </string-array>
+</resources>

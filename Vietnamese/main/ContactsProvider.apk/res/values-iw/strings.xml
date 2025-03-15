@@ -11,7 +11,6 @@
     <string name="default_directory">אנשי קשר</string>
     <string name="local_invisible_directory">אחר</string>
     <string name="provider_label">אנשי קשר</string>
-    <string name="sharedUserLabel">Android Core Apps</string>
     <string name="upgrade_out_of_memory_notification_text">גע כדי לבצע את השדרוג.</string>
     <string name="upgrade_out_of_memory_notification_ticker">שדרוג אנשי הקשר מחייב זיכרון נוסף.</string>
     <string name="upgrade_out_of_memory_notification_title">משדרג את האחסון של אנשי קשר</string>

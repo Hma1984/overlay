@@ -64,6 +64,14 @@
         <item quantity="other">%d αντικείμενα επιλέχθηκαν</item>
         <item quantity="one">%d αντικείμενο επιλέχθηκε</item>
     </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">%1$d επιτυχή, %2$s</item>
+        <item quantity="one">%1$d επιτυχές, %2$s</item>
+    </plurals>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d ανεπιτυχή.</item>
+        <item quantity="one">%1$d ανεπιτυχές.</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>

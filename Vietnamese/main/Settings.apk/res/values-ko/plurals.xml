@@ -57,6 +57,9 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d개 기기 사용 가능</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d초</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">%d초마다</item>
     </plurals>
@@ -65,9 +68,6 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">%s개 앱의 연결 제한됨</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">%d초 후 다시 시도</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d명의 사람이 연결됨</item>
@@ -114,10 +114,6 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d초 후 다시 시도해 주십시오.</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s, %2$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">최대 %d개 프로세스</item>
     </plurals>
@@ -155,6 +151,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">버그 신고까지 %1$d단계 남았습니다.</item>
     </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">앱 %d개에서 무제한 데이터 사용 가능</item>
+        <item quantity="one">앱 1개에서 무제한 데이터 사용 가능</item>
+    </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d개 앱의 알림을 표시하지 않습니다</item>
     </plurals>
@@ -191,17 +191,8 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">%d개 알림 수신됨</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d시간</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d시간</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">" 시간"</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d분</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" 분"</item>
@@ -224,16 +215,28 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">평일: %d분</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" 시간"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" 분"</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d개 위험 발견됨</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d개 네트워크 공유됨</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d개 기기 연결됨</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d시간</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" 시간"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" 시간"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" 분"</item>
     </plurals>
 </resources>

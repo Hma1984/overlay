@@ -13,8 +13,8 @@
         <item quantity="one">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">%d saat içində</item>
-        <item quantity="one">%d saat daxilində</item>
+        <item quantity="other">%d saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat ərzində</item>
@@ -25,12 +25,12 @@
         <item quantity="one">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq içində</item>
-        <item quantity="one">%d dəq içində</item>
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
@@ -49,8 +49,8 @@
         <item quantity="one">%d nömrə</item>
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d nömrə silinəcəkdir.</item>
-        <item quantity="one">%d nömrə silinəcəkdir.</item>
+        <item quantity="other">%d nömrə silinəcək.</item>
+        <item quantity="one">%d nömrə silinəcək.</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%s gün</item>
@@ -81,8 +81,8 @@
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>

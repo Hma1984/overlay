@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_gamut">Colour gamut</string>
+    <string name="exo_controls_fastforward_description">Fast-forward</string>
+    <string name="exo_track_role_alternate">Alternative</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="hsv_space_color">HSV colour space</string>
+    <string name="p3_color_region_summary">Display all screen content in P3 colour gamut</string>
+    <string name="personality_hint_ringtone">Personalised sounds</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="primary_color_region_summary">Identify colour gamut automatically through colour calibration</string>
+    <string name="rgb_space_color">RGB colour space</string>
+    <string name="scarlet_macaw_info">Macaws are long-tailed, often colourful, New World parrots.</string>
+    <string name="screen_original_gamut_summary">Display all screen content in the widest colour gamut possible</string>
+    <string name="srgb_color_region_summary">Display all screen content in sRGB colour gamut</string>
+    <string name="touch_description">Optimised buttons and shortcuts will help you avoid accidental touch</string>
+    <string name="usage_focus_focus_premission_second_summary">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorisation in the Settings."</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorisation in Screen time > Settings > Turn off Screen time."</string>
+    <string name="usage_home_premission_second_summary_new">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorisation in Screen time > Settings > Turn off Screen time. If you have more questions about privacy, you can contact us at privacy@xiaomi.com."</string>
+    <string name="usage_state_accurate_date">dd MMMM yyyy</string>
+    <string name="usage_state_date">d MMM</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+</resources>

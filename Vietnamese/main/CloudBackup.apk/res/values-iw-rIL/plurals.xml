@@ -66,18 +66,6 @@
         <item quantity="two">%1$s גיבויים, גודל: %2$s</item>
         <item quantity="many">%1$s גיבויים, גודל:%2$s</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d ימים מהגיבוי האחרון | נתונים חדשים: %2$s</item>
-        <item quantity="one">יום %1$d מהגיבוי האחרון | נתונים חדשים: %2$s</item>
-        <item quantity="two">%1$d ימים מהגיבוי האחרון | נתונים חדשים: %2$s</item>
-        <item quantity="many">%1$d ימים מהגיבוי האחרון | נתונים חדשים: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d ימים מהגיבוי האחרון.</item>
-        <item quantity="one">יום %d מהגיבוי האחרון.</item>
-        <item quantity="two">%d ימים מהגיבוי האחרון.</item>
-        <item quantity="many">%d ימים מהגיבוי האחרון.</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>
@@ -143,5 +131,17 @@
         <item quantity="one">נותרה בערך דקה %s</item>
         <item quantity="two">נותרו בערך %s דקות</item>
         <item quantity="many">נותרו בערך %s דקות</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d ימים מהגיבוי האחרון | נתונים חדשים: %2$s</item>
+        <item quantity="one">יום %1$d מהגיבוי האחרון | נתונים חדשים: %2$s</item>
+        <item quantity="two">%1$d ימים מהגיבוי האחרון | נתונים חדשים: %2$s</item>
+        <item quantity="many">%1$d ימים מהגיבוי האחרון | נתונים חדשים: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d ימים מהגיבוי האחרון.</item>
+        <item quantity="one">יום %d מהגיבוי האחרון.</item>
+        <item quantity="two">%d ימים מהגיבוי האחרון.</item>
+        <item quantity="many">%d ימים מהגיבוי האחרון.</item>
     </plurals>
 </resources>

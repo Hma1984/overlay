@@ -13,8 +13,8 @@
         <item quantity="one">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">%d saat içində</item>
-        <item quantity="one">%d saat daxilində</item>
+        <item quantity="other">%d saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat ərzində</item>
@@ -25,20 +25,28 @@
         <item quantity="one">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq içində</item>
-        <item quantity="one">%d dəq içində</item>
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">Bu cihazdakı %1$d tətbiq, 32 bitdən 64 bit arxitekturaya güncəllənə bilər. Performansı artırmaq bu tətbiqləri güncəlləyin.</item>
+        <item quantity="one">Bu cihazdakı %1$d tətbiq, 32 bitdən 64 bit arxitekturaya güncəllənə bilər. Performansı artırmaq bu tətbiqi güncəlləyin.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">%1$d tətbiq üçün 64 bit versiya əlçatandır</item>
+        <item quantity="one">%1$d tətbiq üçün 64 bit versiya əlçatandır</item>
+    </plurals>
     <plurals name="apple_install_install_immediately">
-        <item quantity="other">%d tətbiqlər quraşdır</item>
-        <item quantity="one">%dtətbiq quraşdır</item>
+        <item quantity="other">%d tətbiqi quraşdır</item>
+        <item quantity="one">%d tətbiqi quraşdır</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d elementlər</item>
@@ -81,8 +89,8 @@
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d dəqiqə</item>
@@ -123,5 +131,9 @@
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d dəqiqə</item>
         <item quantity="one">%d dəqiqə</item>
+    </plurals>
+    <plurals name="transfer_failed_summary">
+        <item quantity="other">%d element köçürülə bilmədi</item>
+        <item quantity="one">%d element köçürülə bilmədi</item>
     </plurals>
 </resources>

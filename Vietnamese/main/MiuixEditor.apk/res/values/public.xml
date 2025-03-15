@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="string" name="add_frequent_phrases" id="0x7f020000" />
+    <public type="string" name="call" id="0x7f020001" />
+    <public type="string" name="call_notification_answer_action" id="0x7f020002" />
+    <public type="string" name="call_notification_answer_video_action" id="0x7f020003" />
+    <public type="string" name="call_notification_decline_action" id="0x7f020004" />
+    <public type="string" name="call_notification_hang_up_action" id="0x7f020005" />
+    <public type="string" name="call_notification_incoming_text" id="0x7f020006" />
+    <public type="string" name="call_notification_ongoing_text" id="0x7f020007" />
+    <public type="string" name="call_notification_screening_text" id="0x7f020008" />
+    <public type="string" name="edit_frequent_phrases" id="0x7f020009" />
+    <public type="string" name="floating_toolbar_close_overflow_description" id="0x7f02000a" />
+    <public type="string" name="floating_toolbar_open_overflow_description" id="0x7f02000b" />
+    <public type="string" name="frequent_phrases" id="0x7f02000c" />
+    <public type="string" name="google_call" id="0x7f02000d" />
+    <public type="string" name="google_email" id="0x7f02000e" />
+    <public type="string" name="google_map" id="0x7f02000f" />
+    <public type="string" name="google_open" id="0x7f020010" />
+    <public type="string" name="google_translate" id="0x7f020011" />
+    <public type="string" name="open" id="0x7f020012" />
+    <public type="string" name="query" id="0x7f020013" />
+    <public type="string" name="select" id="0x7f020014" />
+    <public type="string" name="translate" id="0x7f020015" />
+    <public type="string" name="translation_more" id="0x7f020016" />
+    <public type="string" name="translation_query_error" id="0x7f020017" />
+    <public type="string" name="translation_query_error_network" id="0x7f020018" />
+    <public type="string" name="license_strings" id="0x7f020019" />
+    <public type="string" name="app_name" id="0x7f02001a" />
+    <public type="string" name="status_bar_notification_info_overflow" id="0x7f02001b" />
+</resources>

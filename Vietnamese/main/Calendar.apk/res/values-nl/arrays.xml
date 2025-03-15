@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Handmatig</item>
-        <item>Elke %d minuten</item>
-        <item>Elk uur</item>
-        <item>Elke %d uur</item>
-        <item>Elke %d uur</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Geen</item>
+        <item>Islamitische kalender</item>
+        <item>Nationale Kalender van India</item>
+        <item>Vikram-kalender</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Waterman</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Ram</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Kreeft</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Steenbok</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Alleen deze gebeurtenis</item>
         <item>Alle gebeurtenissen in de serie</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Alleen voor deze tijd</item>
-        <item>Herhaalde herinnering uitschakelen</item>
+        <item>Een keer uitschakelen</item>
+        <item>Altijd uit</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Verder</item>
         <item>Terug</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Op de tijd van het evenement</item>
+        <item>5 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>30 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>4 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Alleen deze gebeurtenis</item>
@@ -43,56 +47,40 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Tweelingen</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>Leeuw</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Weegschaal</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Geen</item>
-        <item>Traditionele Chinese kalender</item>
-        <item>Islamitische kalender</item>
-        <item>Hebreeuwse kalender</item>
-        <item>Japanse kalender</item>
-        <item>Perzische kalender</item>
-        <item>Indiase kalender</item>
-        <item>Boeddhistische kalender</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Januari</item>
-        <item>Februari</item>
-        <item>Maart</item>
-        <item>April</item>
-        <item>Mei</item>
-        <item>Juni</item>
-        <item>Juli</item>
-        <item>Augustus</item>
-        <item>September</item>
-        <item>Oktober</item>
-        <item>November</item>
-        <item>December</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Alleen voor deze tijd</item>
-        <item>Herhaalde herinnering instellen</item>
+        <item>Een keer inschakelen</item>
+        <item>Altijd aan</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Zondag</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrijdag</item>
+        <item>Zaterdag</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Vissen</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Uit</item>
         <item>Voor alle evenementen</item>
         <item>Voor tijdgevoelige gebeurtenissen</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Altijd</item>
@@ -232,25 +220,22 @@
         <item>Misschien</item>
         <item>Nee</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Reageer niet</item>
-        <item>Accepteren</item>
-        <item>Beslis later</item>
-        <item>Weigeren</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Boogschutter</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Schorpioen</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Stier</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Marshalleilanden</item>
         <item>Midway-eilanden</item>
         <item>Hawaii</item>
@@ -280,19 +265,16 @@
         <item>Azoren</item>
         <item>Kaapverdië</item>
         <item>Casablanca</item>
-        <item>Londen</item>
-        <item>Dublin</item>
-        <item>Amsterdam</item>
-        <item>Berlijn</item>
+        <item>Londen, Dublin</item>
+        <item>Amsterdam, Berlijn</item>
         <item>Belgrado</item>
         <item>Brussel</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
         <item>West-Afrikaanse tijd</item>
-        <item>Amman</item>
-        <item>Athene</item>
-        <item>Istanboel</item>
-        <item>Beiroet</item>
+        <item>Amman, Jordanië</item>
+        <item>Athene, Istanbul</item>
+        <item>Beiroet, Libanon</item>
         <item>Caïro</item>
         <item>Helsinki</item>
         <item>Jeruzalem</item>
@@ -303,12 +285,12 @@
         <item>Koeweit</item>
         <item>Nairobi</item>
         <item>Teheran</item>
-        <item>Bakoe</item>
+        <item>Baku</item>
         <item>Tbilisi</item>
         <item>Jerevan</item>
         <item>Dubai</item>
         <item>Kaboel</item>
-        <item>Karachi</item>
+        <item>Islamabad, Karachi</item>
         <item>Oeralsk</item>
         <item>Jekaterinenburg</item>
         <item>Calcutta</item>
@@ -319,23 +301,21 @@
         <item>Krasnojarsk</item>
         <item>Bangkok</item>
         <item>Peking</item>
-        <item>Chongqing</item>
-        <item>Hongkong</item>
-        <item>Macau</item>
+        <item>Hong Kong</item>
+        <item>Macao</item>
         <item>Singapore</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Taipei</item>
-        <item>Seoel</item>
-        <item>Tokio</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sydney</item>
-        <item>Canberra</item>
+        <item>Sydney, Canberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>
@@ -346,6 +326,35 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Maagd</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Helder</item>
+        <item>Bewolkt</item>
+        <item>Zwaar bewolkt</item>
+        <item>Mist</item>
+        <item>Zware storm</item>
+        <item>Storm</item>
+        <item>Lichte storm</item>
+        <item>Onweersbui</item>
+        <item>Regenbui</item>
+        <item>Zware regen</item>
+        <item>Regen</item>
+        <item>Lichte regen</item>
+        <item>Regen en sneeuw</item>
+        <item>Sneeuwstorm</item>
+        <item>Sneeuwbuien</item>
+        <item>Zware sneeuwval</item>
+        <item>Sneeuw</item>
+        <item>Lichte sneeuw</item>
+        <item>Sterke zandstorm</item>
+        <item>Zandstorm</item>
+        <item>Smog</item>
+        <item>Lichte zandstorm</item>
+        <item>Hagel</item>
+        <item>Zwevend stof</item>
+        <item>Nevel</item>
+        <item>IJzel</item>
     </string-array>
     <string-array name="week_header_name">
         <item>ZO</item>
@@ -368,5 +377,15 @@
         <item>D</item>
         <item>V</item>
         <item>Z</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Ram</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Steenbok</item>
+        <item>22/12 - 19/1</item>
     </string-array>
 </resources>

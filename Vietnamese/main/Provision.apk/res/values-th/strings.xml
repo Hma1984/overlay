@@ -8,15 +8,9 @@
     <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
     <string name="abc_capital_off">ปิด</string>
     <string name="abc_capital_on">เปิด</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">ลบ</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">เมนู+</string>
     <string name="abc_search_hint">ค้นหา…</string>
     <string name="abc_searchview_description_clear">ล้างคำค้นหา</string>
@@ -33,8 +27,6 @@
     <string name="activate_esim_tips">ไม่สามารถเปิดใช้งานได้ ลองอีกครั้ง</string>
     <string name="activating_esim_tips">กำลังเปิดใช้งาน…</string>
     <string name="address_dialing_introduction">คุณสามารถใช้แอปนี้เพื่อโทรออก ดูประวัติการโทร และจัดการรายชื่อติดต่อ</string>
-    <string name="after_sales_support">After-sales support</string>
-    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">บ่าย</string>
     <string name="agree">ตกลง</string>
     <string name="agree_and_next">ยอมรับ</string>
@@ -52,8 +44,6 @@
     <string name="ai_button_single_press_desc">กดปุ่ม AI เพื่อดูปุ่มลัด Mi AI</string>
     <string name="ai_button_title">ปุ่ม AI</string>
     <string name="album_introduction">คุณสามารถใช้แอปนี้เพื่อจัดการ แก้ไข และตกแต่งรูปภาพและวิดีโอได้</string>
-    <string name="am">AM</string>
-    <string name="app_battery_usage">"For checking individual apps' battery usage"</string>
     <string name="app_name">บทบัญญัติ</string>
     <string name="application_package_introduction">ตัวติดตั้งแพ็คเกจใช้สำหรับติดตั้งแอปของบริษัทอื่น รวมถึงบริการสแกนก่อนการติดตั้งและบริการแนะนำแอปหลังการติดตั้ง</string>
     <string name="application_permissions">การอนุญาตแอป</string>
@@ -61,7 +51,6 @@
     <string name="back">ย้อนกลับ</string>
     <string name="backup_introduction">คุณสามารถใช้แอปนี้เพื่อสำรองและกู้คืนรายการในอุปกรณ์ของคุณ</string>
     <string name="bluetooth_introduction">ระบบใช้บลูทูธสำหรับการสื่อสารแบบไร้สาย เพื่อให้สามารถทำงานได้ตามปกติ บลูทูธจำเป็นต้องได้รับการอนุญาตดังต่อไปนี้:</string>
-    <string name="bluetooth_usage_desc">Initial setup allows you to set your basic preferences for this device. To set up your device successfully, Bluetooth system services will use the following permissions:</string>
     <string name="boot_video_replay">เล่นอีกครั้ง</string>
     <string name="boot_video_skip">ข้าม</string>
     <string name="calculator_introduction">คุณสามารถใช้แอปนี้ในการคำนวณ แปลงหน่วย และสกุลเงิน และประเมินการชำระเงินกู้ของคุณ</string>
@@ -74,9 +63,7 @@
     <string name="carousel_setting">ตั้งค่าหน้าจอล็อคของคุณ</string>
     <string name="carousel_setting_sub">ภาพพื้นหลังรายวัน จะแสดงเรื่องราวใหม่ๆ ทุกครั้งที่คุณปลดล็อกอุปกรณ์</string>
     <string name="carrier_introduction_china">เพื่อให้บริการที่ดีกว่าแก่คุณ กระบวนการทำงานบนอุปกรณ์ของคุณ (รวมถึง SystemHelper, RegService และบริการของผู้ให้บริการ) อาจส่งข้อมูลที่เกี่ยวข้องกับอุปกรณ์และซิมการ์ดของคุณเป็นระยะ (รวมถึง IMEI, IMSI, MSISDN, MEID, ICCID, ที่อยู่ MAC, เวอร์ชันระบบ, เวอร์ชัน Android, รุ่นอุปกรณ์ และข้อกำหนดฮาร์ดแวร์พื้นฐาน) และข้อมูลตำแหน่งโดยประมาณ (รวมถึงภูมิภาค พิกัด ตัวระบุพื้นที่ และ ID สถานีฐาน) ไปยังผู้ให้บริการผ่าน WLAN เครือข่ายข้อมูลมือถือหรือ SMS ฟรี ผู้ให้บริการสัญญาว่าจะวิเคราะห์ข้อมูลที่เกี่ยวข้องเพื่อปรับปรุงคุณภาพการบริการหรือเพื่อให้บริการหรือเทคโนโลยีที่กำหนดเองเท่านั้นและจะไม่เปิดเผยข้อมูลที่เกี่ยวข้องกับบุคคลที่สามในรูปแบบใดๆ ที่ระบุตัวตนของคุณ ข้อความของผู้ให้บริการเฉพาะจะชัดเจนกว่า ปรึกษาผู้ให้บริการของคุณเกี่ยวกับค่าใช้จ่ายในการใช้บริการนี้</string>
-    <string name="carrier_introduction_china_rothko">เพื่อปรับปรุงคุณภาพบริการที่มอบให้คุณ โปรแกรมที่ทำงานบนอุปกรณ์นี้ (รวมถึง SystemHelper, RegService และบริการของผู้ให้บริการ) อาจส่งข้อมูลเกี่ยวกับอุปกรณ์นี้หรือซิมการ์ดของคุณ (รวมถึง IMEI, IMSI, MSISDN, MEID, ICCID, ที่อยู่ MAC, เวอร์ชันระบบ, เวอร์ชัน Android, รุ่นอุปกรณ์, การกำหนดค่าฮาร์ดแวร์พื้นฐาน และหมายเลขโทรศัพท์) รวมถึงตำแหน่งโดยประมาณของคุณ (รวมถึงภูมิภาค, พิกัด, ตัวระบุพื้นที่ใกล้เคียง และ ID สถานีฐาน) ไปยังผู้ให้บริการของคุณผ่าน WLAN, เครือข่ายมือถือ หรือ SMS เมื่อทำการโทร DCService จะเชื่อมต่อกับเครือข่าย ผู้ให้บริการมือถือรับประกันว่าข้อมูลนี้จะใช้เพื่อการวิเคราะห์ ปรับปรุงคุณภาพบริการ หรือให้บริการหรือเทคโนโลยีที่ปรับแต่งเองเท่านั้น และจะไม่เปิดเผยข้อมูลนี้กับใครก็ตามในลักษณะที่อาจระบุตัวตนของคุณได้ ดูรายละเอียดได้จากคำชี้แจงที่เกี่ยวข้องจากผู้ให้บริการของคุณ คุณสามารถสอบถามเกี่ยวกับค่าบริการที่เกี่ยวข้องทั้งหมดได้โดยตรงจากผู้ให้บริการของคุณ</string>
     <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to the &lt;a href=%1$s>Mi Smart Hub Privacy Policy&lt;/a >.&lt;/Data>"</string>
-    <string name="check_box_label_new"><Data>คุณสามารถใช้ Xiaomi Interconnectivity เพื่อควบคุมและถ่ายโอนข้อมูลระหว่างอุปกรณ์ได้ โปรดยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a > ของ Xiaomi Interconnectivity ก่อนใช้งานฟีเจอร์ต่างๆ ของแอป แอปนี้จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ตและต้องได้รับอนุญาตดังต่อไปนี้:</Data></string>
     <string name="clearable_edittext_clear_description">ล้าง</string>
     <string name="clock_introduction">คุณสามารถใช้แอปนี้เพื่อดูเวลา รวมถึงใช้ ตัวจับเวลา นาฬิกาโลก นาฬิกาจับเวลา ตั้งนาฬิกาปลุก และอื่นๆ</string>
     <string name="close">ปิด</string>
@@ -98,16 +85,11 @@
     <string name="cookies_title">เนื้อหาส่วนบุคคลและคุ้กกี้</string>
     <string name="copy">คัดลอก</string>
     <string name="data_traffic_enable_dialog_title">หากคุณไม่ได้เชื่อมต่อกับ Wi-Fi ในตอนนี้ อุปกรณ์ของคุณจะใช้ข้อมูลมือถือ การใช้ข้อมูลมือถืออาจสร้างค่าธรรมเนียมผู้ให้บริการเพิ่มเติม</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">ปฏิทินจีนโบราณ</string>
     <string name="date_time_picker_dialog_title">ตั้งค่าวันและเวลา</string>
-    <string name="desc_extra_fingerprint" />
-    <string name="desc_extra_international_fingerprint" />
+    <string name="default_font">ค่าเริ่มต้น</string>
     <string name="desc_fingerprint">ใช้ลายนิ้วมือของคุณในการปลดล็อกเครื่อง ชำระเงินผ่าน Mi Pay หรือใช้เพื่อเข้าสู่ระบบของแอปหรือบริการต่างๆ</string>
     <string name="desc_international_fingerprint">ใช้ลายนิ้วมือของคุณในการปลดล็อกเครื่อง ลงชื่อเข้าสู่แอปหรือบริการต่างๆ</string>
-    <string name="device_information_usage_desc">บริการนี้ช่วยให้คุณดูข้อมูลอุปกรณ์ เชื่อมต่ออุปกรณ์ของคุณกับเครือข่าย และตั้งค่าคุณสมบัติต่างๆ</string>
     <string name="diagnose_report">ส่งข้อมูลการวินิจฉัยเพื่อค้นหาและวิเคราะห์ปัญหาของระบบและปรับปรุงประสบการณ์ผู้ใช้ ข้อมูลดังกล่าวอาจรวมถึงข้อมูลส่วนบุคคล (เช่น IP ที่ตั้ง ฯลฯ)</string>
     <string name="disageement_abnormal_download">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้บริการนี้ได้</string>
     <string name="disagree">ยกเลิก</string>
@@ -124,100 +106,43 @@
     <string name="disagreement_location_service_abnormal">หากคุณไม่ยินยอมให้อนุญาต คุณจะไม่สามารถใช้บริการตำแหน่งได้ คุณสามารถเปิดหรือปิดบริการตำแหน่งเมื่อใดก็ได้ใน การตั้งค่า > ปกป้องความเป็นส่วนตัว</string>
     <string name="disagreement_mi_account_abnormal">หากคุณไม่ยินยอมให้อนุญาต คุณจะไม่สามารถใช้บริการบัญชี Mi ได้ คุณสามารถเปิดหรือปิดบริการบัญชี Mi ได้ทุกเมื่อใน การตั้งค่า > บัญชี Mi</string>
     <string name="disagreement_service_not_working_properly">หากคุณไม่ยินยอมให้อนุญาต คุณจะใช้แอปนี้ไม่ได้</string>
-    <string name="disagreement_service_not_working_properly_settings">หากคุณไม่ตกลงที่จะให้สิทธิ์เหล่านี้ บริการนี้จะไม่สามารถทำงานได้ตามปกติ</string>
     <string name="disagreement_service_not_working_properly_with_media_storage">หากคุณเลือกที่จะไม่ให้สิทธิ์เหล่านี้ บริการจะไม่สามารถทำงานได้ตามปกติ</string>
     <string name="disagreement_terminate_bluetooth">หากคุณไม่ต้องการให้การอนุญาตเหล่านี้ คุณจะไม่สามารถใช้บลูทูธได้ คุณสามารถเปิดและปิดบลูทูธ และเพิ่มอุปกรณ์บลูทูธได้ในการตั้งค่า > บลูทูธ</string>
     <string name="disagreement_terminate_miuidaemon">เราจะใช้สิทธิ์เฉพาะเมื่อคุณเริ่มถ่ายโอนข้อมูลจากอุปกรณ์ของคุณเมื่อหน้าจอเสียหาย หากคุณไม่ยินยอมให้อนุญาต คุณจะใช้แอปนี้ไม่ได้</string>
     <string name="disagreement_terminate_service">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัปโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะถอนการติดตั้ง ลงชื่อออก หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
     <string name="download_introduction">การดาวน์โหลดเป็นแอปที่ Xunlei ให้บริการสำหรับการดาวน์โหลดและจัดการเนื้อหาที่ดาวน์โหลด (รวมถึงเนื้อหาใน App Store, วิดีโอ, การอัปเดตระบบ, ธีม และเนื้อหาเบราว์เซอร์) สำหรับผู้ใช้อุปกรณ์ Xiaomi</string>
     <string name="early_morning">เช้า</string>
-    <string name="empty" />
     <string name="enable_accessibility_canceled">ยกเลิกสิ่งอำนวยความสะดวกแล้ว</string>
     <string name="enable_accessibility_dialog_message">แตะสองนิ้วบนหน้าจอค้างไว้ 10 วิ เพื่อเปิด TalkBack, TalkBack ให้การตอบรับด้วยเสียงสำหรับผู้ที่มีความบกพร่องทางสายตา ถ้าคุณเปิดใช้งานโดยไม่ได้ตั้งใจให้แตะปุ่มยกเลิกแล้วแตะสองครั้งที่หน้าจอ</string>
     <string name="enable_accessibility_dialog_negative_btn">ยกเลิก</string>
     <string name="enable_accessibility_dialog_positive_btn">ตกลง</string>
-    <string name="enable_or_disable_bluetooth">Turning Bluetooth on and off</string>
     <string name="eras_ad">หลังคริสตกาล</string>
     <string name="eras_bc">ก่อนคริสตกาล</string>
     <string name="evening">บ่าย</string>
     <string name="expand_button_title">ขั้นสูง</string>
     <string name="fast_application_introduction">เฟรมเวิร์กบริการแอปด่วนเป็นเฟรมเวิร์กบริการพื้นฐานที่รองรับการแจกจ่ายและการทำงานของแอปด่วน</string>
-    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'น.'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"h 'น.'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
-    <string name="fmt_time_minute">"m'นาที'"</string>
-    <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
-    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วิ'"</string>
-    <string name="fmt_time_second">"s'วิ'"</string>
-    <string name="fmt_time_second_millis">"s.S'วิ'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">ค่าเริ่มต้นขนาดข้อความ</string>
     <string name="font_hint_normal">เพิ่มขนาดข้อความ</string>
     <string name="font_settings_sub_title">เลือกฟอนต์ระบบ</string>
     <string name="font_settings_title">การตั้งค่าฟอนต์</string>
-    <string name="font_size_title">ขนาดอักษร</string>
-    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
-    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">บอดี้</string>
     <string name="font_use_case_title_example">หัวเรื่อง</string>
     <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
-    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
-For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">วันศุกร์</string>
     <string name="friday_short">ศุกร์</string>
     <string name="friday_shortest">ศุกร์</string>
     <string name="game_introduction">ปลั๊กอินเกมส์อนุญาตให้คุณ ลงชื่อเข้าใช้ สร้างคำสั่งซื้อ ชำระเงินให้เสร็จสมบูรณ์ ใช้คูปอง และเข้าร่วมกิจกรรมโปรโมชั่น</string>
-    <string name="get_imei_information">Access IMEI</string>
-    <string name="get_imei_information_settings">เข้าถึงตัวระบุเฉพาะของอุปกรณ์ (IMEI)</string>
-    <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">คลาสสิค</string>
     <string name="home_settings_poco_launcher">ลิ้นชักแอป</string>
     <string name="home_settings_title">เลือกชุดเรียกใช้ระบบเริ่มต้น</string>
-    <string name="image_brain_configuration_service">บริการกำหนดค่า Xiaomi Imaging Engine</string>
     <string name="ime_privacy_policy">นโยบายความเป็นส่วนตัวสำหรับแป้นพิมพ์ที่เลือก</string>
     <string name="ime_privacy_policy_no_network">ไม่พบการเชื่อมต่อเครือข่าย กรุณาอ่านนโยบายความเป็นส่วนตัวของแป้นพิมพ์นี้ได้จาก %s</string>
     <string name="ims_introduction">บริการ IMS มีความสามารถในการสื่อสารขั้นพื้นฐาน และใช้สำหรับการโทรด้วยเสียงและวิดีโอความละเอียดสูง</string>
@@ -227,24 +152,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="interconnection_communication_introduction">บริการสื่อสารทางอินเทอร์เน็ตของ Xiaomi ช่วยให้คุณค้นพบ เชื่อมต่อ และสื่อสารกับอุปกรณ์ Xiaomi อื่นๆ</string>
     <string name="interconnection_service_global_item_title">การเชื่อมต่อโครงข่าย Xiaomi</string>
     <string name="interconnection_service_global_label">&lt;Data>การเชื่อมต่อระหว่าง Xiaomi ช่วยให้อุปกรณ์ของคุณโต้ตอบกันแบบไร้สาย การสลับสวิตช์นี้แสดงว่าคุณยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a >.&lt;/Data> ของ การเชื่อมต่อโครงข่าย Xiaomi</string>
-    <string name="interconnection_service_permission1">เปิดและปิดบลูทูธ</string>
-    <string name="interconnection_service_permission10">สำหรับการค้นหาอุปกรณ์ใกล้เคียง</string>
-    <string name="interconnection_service_permission11">ถ่ายโอนข้อมูลระหว่างอุปกรณ์</string>
-    <string name="interconnection_service_permission12">สำหรับการถ่ายโอนข้อมูลระหว่างอุปกรณ์ที่เชื่อมต่อ</string>
-    <string name="interconnection_service_permission13">เข้าถึงเนื้อหาหน้าจอ</string>
-    <string name="interconnection_service_permission14">สำหรับการเข้าถึงเนื้อหาหน้าจอในระหว่างการบันทึกหรือการแคสต์ รวมถึงข้อมูลที่ละเอียดอ่อนเช่น เสียง รหัสผ่าน รหัสผ่านการชำระเงิน รูปภาพ ข้อความ ฯลฯ</string>
-    <string name="interconnection_service_permission15">เข้าถึงประวัติการโทร</string>
-    <string name="interconnection_service_permission16">สำหรับการโอนสายระหว่างอุปกรณ์ระหว่างการสะท้อนหน้าจอ</string>
-    <string name="interconnection_service_permission17">เข้าถึงรายการแอปที่ติดตั้ง</string>
-    <string name="interconnection_service_permission18">สำหรับการเข้าถึงรายการแอปที่ติดตั้งบนอุปกรณ์พกพาและการสะท้อนหน้าจอบนคอมพิวเตอร์</string>
-    <string name="interconnection_service_permission2">สำหรับการเชื่อมต่อและถ่ายโอนข้อมูลระหว่างสองอุปกรณ์</string>
-    <string name="interconnection_service_permission3">เปิดและปิด WLAN</string>
-    <string name="interconnection_service_permission4">สำหรับการถ่ายโอนข้อมูลระหว่างอุปกรณ์สองเครื่องผ่าน WLAN</string>
-    <string name="interconnection_service_permission5">บันทึกเสียง</string>
-    <string name="interconnection_service_permission6">สำหรับบันทึกเสียงอุปกรณ์เมื่อแคสต์และมิเรอร์</string>
-    <string name="interconnection_service_permission7">เข้าถึงและแก้ไขรูปภาพและไฟล์บนอุปกรณ์ของคุณ</string>
-    <string name="interconnection_service_permission8">สำหรับการแคสต์และถ่ายโอนเนื้อหาจากอุปกรณ์นี้</string>
-    <string name="interconnection_service_permission9">เข้าถึงตัวระบุอุปกรณ์</string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -318,9 +225,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
-    <string name="interconnection_service_summary_china_new">%1$s คุณสมบัติการเชื่อมต่อระหว่างกันของ Xiaomi ที่มีในอุปกรณ์ของคุณอาจแตกต่างกันไปเนื่องจากความแตกต่างของเวอร์ชันระบบและรุ่นอุปกรณ์ โปรดดูข้อมูลเพิ่มเติมได้จากเว็บไซต์อย่างเป็นทางการของเรา (%2$s)</string>
     <string name="interconnection_service_summary_global">คุณสมบัติการเชื่อมต่อโครงข่าย Xiaomi อาจแตกต่างกันไปขึ้นอยู่กับรุ่นอุปกรณ์และเวอร์ชันของระบบ เยี่ยมชมเว็บไซต์อย่างเป็นทางการของระบบเพื่อเรียนรู้เพิ่มเติม</string>
-    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">หากอุปกรณ์ของคุณหายไป คุณจะไม่สามารถป้องกันไม่ให้ผู้อื่นใช้งานและเข้าถึงข้อมูลของคุณได้เว้นแต่คุณจะตั้งค่าล็อกหน้าจอไว้ ยืนยันข้าม?</string>
     <string name="item_facerecognition">ปลดล็อกด้วยใบหน้า</string>
     <string name="item_fingerprint">ลายนิ้วมือ</string>
@@ -328,28 +233,13 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="item_lock_screen_password_only">ล็อกหน้าจอ</string>
     <string name="item_return">ตั้ง</string>
     <string name="item_skip">ข้าม</string>
-    <string name="kind_tip_details_inner_details">หลีกเลี่ยงการกดหน้าจอด้วยวัตถุมีคม (ปลายปากกา เล็บ ฯลฯ) ขณะที่คุณกำลังใช้หรือพกพาอุปกรณ์ของคุณ ก่อนพับอุปกรณ์ ตรวจสอบให้แน่ใจว่าหน้าจอด้านในไม่มีวัตถุแข็ง เช่น การ์ด เหรียญ หรือกุญแจ.</string>
-    <string name="kind_tip_details_inner_title">อย่ากดหน้าจอด้านในด้วยวัตถุมีคมหรือแข็ง</string>
-    <string name="kind_tip_details_pocket_details">พับอุปกรณ์ของคุณทุกครั้งที่ไม่ได้ใช้งาน หลีกเลี่ยงการสัมผัสตะแกรงด้านในกับวัตถุมีคมและแข็งในกระเป๋าหรือกระเป๋าเสื้อของคุณ</string>
-    <string name="kind_tip_details_pocket_title">อย่าวางอุปกรณ์ที่กางออกลงในกระเป๋าหรือกระเป๋าเสื้อของคุณโดยตรง</string>
-    <string name="kind_tip_details_protective_details_cn">หน้าจอด้านในของอุปกรณ์นี้ถูกปกคลุมด้วยฟิล์มป้องกันพิเศษ ซึ่งการเปลี่ยนต้องใช้อุปกรณ์ระดับมืออาชีพ อย่าถอดหรือเปลี่ยนแผ่นป้องกันหน้าจอด้านในด้วยตัวเอง เนื่องจากความเสียหายที่เกิดขึ้นกับหน้าจอด้านในจะส่งผลต่อการรับประกัน หากคุณต้องการเปลี่ยนแผ่นกันรอยหน้าจอ โปรดติดต่อฝ่ายบริการหลังการขายของ Xiaomi</string>
-    <string name="kind_tip_details_protective_details_global">หน้าจอด้านในของอุปกรณ์นี้ถูกปกคลุมด้วยฟิล์มป้องกันพิเศษ การถอดหรือเปลี่ยนฟิล์มอาจทำให้หน้าจอด้านในเสียหายได้</string>
-    <string name="kind_tip_details_protective_title">อย่าถอดตัวป้องกันหน้าจอด้านในออกด้วยตัวเอง</string>
-    <string name="kind_tip_subtitle">อุปกรณ์นี้มีหน้าจอแบบพับได้ เพื่อหลีกเลี่ยงความเสียหายและตรวจสอบให้แน่ใจว่าหน้าจอทำงานได้ตามปกติ ให้ปฏิบัติตามข้อควรระวังต่อไปนี้ระหว่างการใช้งาน</string>
-    <string name="kind_tip_title">โปรดทราบ</string>
-    <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">การแชร์ข้อมูลตำแหน่งกับหน่วยงานกู้ภัยฉุกเฉิน</string>
     <string name="language_picker_other_languages_title">ภาษาเพิ่มเติม</string>
     <string name="language_settings">เลือกภาษา</string>
-    <string name="layout_size_huge">XL</string>
-    <string name="layout_size_large">ใหญ่</string>
-    <string name="layout_size_normal">ปกติ</string>
     <string name="locale_picker_other_locale_title">พื้นที่อื่นๆ</string>
     <string name="locale_picker_title">เลือกพื้นที่ของคุณ</string>
-    <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">ตามกฎหมายผู้ให้บริการโทรศัพท์มือถือสามารถรับข้อมูลตำแหน่งของอุปกรณ์มือถือเพื่อให้สอดคล้องกับข้อกำหนดของหน่วยงานกู้ภัยฉุกเฉิน (แผนกดับเพลิงและตำรวจ) ซึ่งดำเนินการเพื่อความปลอดภัยและการช่วยเหลือฉุกเฉิน</string>
     <string name="location_introduction">บริการตำแหน่งให้บริการตามตำแหน่งที่หลากหลายตามข้อมูลตำแหน่งของคุณ</string>
-    <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">หน่วยงานกู้ภัยฉุกเฉินสามารถขอรับตำแหน่งปัจจุบันของคุณได้เมื่อมีการร้องขอ</string>
     <string name="lockscreen_introduction">ภาพพื้นหลังรายวันช่วยให้คุณได้รับภาพพื้นหลังใหม่ส่งมอบไปยังหน้าจอล็อคของคุณทุกวัน</string>
     <string name="media_storage_devices">อุปกรณ์จัดเก็บข้อมูลมีเดีย</string>
@@ -359,10 +249,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="midnight">กลางคืน</string>
     <string name="mint_keyboard_oobe_checkbox">ฉันได้อ่านและเห็นด้วยกับนโยบายความเป็นส่วนตัว แป้นพิมพ์ Mint</string>
     <string name="mint_keyboard_oobe_terms">นโยบายความเป็นส่วนตัวของ แป้นพิมพ์ Mint</string>
-    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">คุณไม่ได้เชื่อมกับต่ออินเตอร์เน็ต กรุณาอ่านนโยบายความเป็นส่วนตัวได้ที่ %s</string>
-    <string name="miui_provision">Initial setup</string>
-    <string name="miui_settings">การตั้งค่า</string>
     <string name="miui_terms_no_network">คุณไม่ได้เชื่อมกับต่ออินเตอร์เน็ต กรุณาอ่านข้อตกลงและข้อตกลงการใช้งานได้ที่ %s</string>
     <string name="miuix_access_state_desc">ที่เลือกไว้</string>
     <string name="miuix_appcompat_action_mode_deselect_all">ไม่เลือกทั้งหมด</string>
@@ -374,7 +261,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="miuix_appcompat_delete_description">ลบ</string>
     <string name="miuix_appcompat_deselect_all">ไม่เลือกทั้งหมด</string>
     <string name="miuix_appcompat_deselect_all_description">ไม่เลือกทั้งหมด</string>
-    <string name="miuix_appcompat_edit">แก้ไข</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ยกเลิก </string>
     <string name="miuix_appcompat_search_input_description">ค้นหา</string>
     <string name="miuix_appcompat_select_all">เลือกทั้งหมด</string>
@@ -449,7 +335,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="noon">เที่ยงวัน</string>
     <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="note_introduction">แอปนี้ให้คุณ สร้าง ดู และแก้ไขบันทึกย่อ</string>
-    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">การตั้งค่าพื้นฐาน</string>
     <string name="other_settings_ad_dialog_agree">เปิดใช้งาน</string>
     <string name="other_settings_ad_dialog_content">เมื่อปิดคำแนะนำโฆษณาในแบบของคุณ คุณจะยังคงเห็นโฆษณาในปริมาณเท่าเดิมเหมือนตอนที่คุณลักษณะนี้เปิดอยู่ อย่างไรก็ตามโฆษณาจะไม่เกี่ยวข้องอีกต่อไปเนื่องจากจะไม่อิงตามความชอบส่วนบุคคลของคุณ</string>
@@ -458,10 +343,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="other_settings_ad_disable_summary">เปิดใช้งานเพื่อปรับแต่งโฆษณา</string>
     <string name="other_settings_ad_enable">โฆษณาส่วนบุคคล</string>
     <string name="other_settings_ad_enable_summary">ปรับแต่งโฆษณาตามความสนใจของคุณ</string>
-    <string name="other_settings_alarm_assistance">Emergency location</string>
-    <string name="other_settings_alarm_assistance_privacy">Privacy Policy</string>
-    <string name="other_settings_alarm_assistance_summary">"You can send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, or 122. Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature."</string>
-    <string name="other_settings_alarm_assistance_user">User Agreement</string>
     <string name="other_settings_auto_update">อัปเดตระบบอัตโนมัติ</string>
     <string name="other_settings_auto_update_summary">ระบบจะเลือกเวลาที่ดีที่สุดในการดาวน์โหลดและติดตั้งการอัปเดต อุปกรณ์ของคุณจะถูกรีบูตโดยอัตโนมัติเพื่อใช้การเปลี่ยนแปลง</string>
     <string name="other_settings_auto_update_summary_v1">อนุญาตให้ระบบเลือกเวลาที่ดีที่สุดในการดาวน์โหลดและติดตั้งการอัปเดต อุปกรณ์ของคุณจะถูกรีบูตโดยอัตโนมัติเพื่อใช้การเปลี่ยนแปลง</string>
@@ -480,13 +361,12 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="other_settings_upload_debug_log_detail">"ช่วยปรับปรุงประสบการณ์ของคุณด้วยการส่งข้อมูลการวินิจฉัยอุปกรณ์และการใช้งานแอปไปยัง Xiaomi โดยอัตโนมัติ ซึ่งจะช่วยปรับปรุงอายุการใช้งานแบตเตอรี่ระบบและความเสถียรของแอปและอื่นๆ
 ข้อมูลที่คุณจะส่งจะมีข้อมูลทั่วไปเกี่ยวกับอุปกรณ์ของคุณและวิธีการใช้งาน (เช่น ระดับแบตเตอรี่ กิจกรรมของระบบและแอป และข้อผิดพลาด) ข้อมูลจะถูกใช้เพื่อปรับปรุงอุปกรณ์ Xiaomi
 การปิดคุณสมบัตินี้จะไม่ส่งผลต่อความสามารถของอุปกรณ์ในการส่งข้อมูลที่จำเป็นสำหรับบริการที่จำเป็น เช่น การอัปเดตระบบและความปลอดภัย
-คุณสามารถควบคุมคุณลักษณะนี้ได้จากการตั้งค่า > ลายนิ้วมือ ข้อมูลใบหน้า และล็อกหน้าจอ > ความเป็นส่วนตัว > การใช้งานและการวินิจฉัย"</string>
+คุณสามารถควบคุมคุณลักษณะนี้ได้จากการตั้งค่า > รหัสผ่าน &amp; ความปลอดภัย > ความเป็นส่วนตัว > การใช้งานและการวินิจฉัย"</string>
     <string name="other_settings_upload_debug_log_summary">ช่วยปรับปรุงประสบการณ์ของคุณโดยส่งข้อมูลการวินิจฉัย อุปกรณ์ และการใช้งานแอปไปยัง Xiaomi โดยอัตโนมัติ ซึ่งจะช่วยปรับปรุงอายุการใช้งานแบตเตอรี่ ระบบและความเสถียรของแอป และอื่นๆ</string>
     <string name="other_settings_upload_debug_log_title">ส่งข้อมูลการใช้งานและการวินิจฉัย</string>
     <string name="other_settings_user_experience">โปรแกรมประสบการณ์ผู้ใช้</string>
     <string name="other_settings_user_experience_summary">ช่วยพัฒนาสินค้าและบริการของเรา​ด้วยการแชร์สถิติการใช้และการวิเคราะห์ของคุณกับเรา</string>
     <string name="other_settings_user_experience_summary_index">เรียกดูรายละเอียด</string>
-    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">เข้าถึงปฏิทิน</string>
     <string name="permission_access_calendar_fast_application_summary">เพื่อให้แอปด่วนเข้าถึงปฏิทินได้;</string>
     <string name="permission_account">เข้าถึงบัญชีผ่านอุปกรณ์ของคุณ</string>
@@ -518,10 +398,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="permission_direct_call">โทรออก</string>
     <string name="permission_direct_call_introduction">สำหรับเพิ่มรายการไปยังรายการบล็อก</string>
     <string name="permission_download_introduction">สำหรับแคชรายการที่ดาวน์โหลดและบันทึกไว้ในอุปกรณ์ของคุณ</string>
-    <string name="permission_enable_disable_bluetooth_summary">For finding devices nearby in order to connect and transfer data</string>
     <string name="permission_fast_pairing">เพื่อให้สามารถค้นหาอุปกรณ์ที่อยู่ใกล้เคียงได้ Mi Link จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้:</string>
-    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
-    <string name="permission_get_imei_information_summary_settings">สำหรับแสดงข้อมูลอุปกรณ์และสเปก</string>
     <string name="permission_imei_service">สำหรับการเข้าถึง IMEI เพื่อให้บริการที่เกี่ยวข้องกับอุปกรณ์ของคุณ</string>
     <string name="permission_interaction_introduction">สำหรับการบันทึกรูปภาพและวิดีโอบนอุปกรณ์</string>
     <string name="permission_location">เข้าถึงข้อมูลตำแหน่งพิกัด:</string>
@@ -554,11 +431,9 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="permission_read_call_records">แก้ไขประวัติการโทร</string>
     <string name="permission_read_call_records_introduction">สำหรับการเพิ่มรายการในประวัติการโทรและการลบสายที่ถูกบล็อก</string>
     <string name="permission_read_contacts">การเข้าถึงรายชื่อผู้ติดต่อ</string>
-    <string name="permission_read_contacts_introduction">For verifying your identity</string>
     <string name="permission_read_device_store">เข้าถึงที่เก็บข้อมูลอุปกรณ์</string>
     <string name="permission_read_device_store_summary">สำหรับการเข้าถึงไฟล์ต้นทางที่ดาวน์โหลดและไฟล์การกำหนดค่าต้นทาง;</string>
     <string name="permission_read_message">เข้าถึงข้อความ</string>
-    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">สำหรับการเข้าถึงบันทึกย่อและไฟล์แนบ</string>
     <string name="permission_read_send_message">ส่งและรับ SMS</string>
     <string name="permission_read_send_message_fast_application_summary">สำหรับการอนุญาตให้แอปด่วนส่งและรับ SMS;</string>
@@ -601,14 +476,11 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="permission_write_device_store_summary">สำหรับการแคชไฟล์การกำหนดค่าต้นทางที่ดาวน์โหลด</string>
     <string name="permission_xunlei_introduction">สำหรับการลงชื่อเข้าใช้และจัดการบัญชีระบบเพื่อให้บริการ Xunlei</string>
     <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
-    <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(รวมถึงนโยบายความเป็นส่วนตัวและข้อตกลงการใช้งานของ POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">นโยบายความเป็นส่วนตัวของ POCO launcher</string>
     <string name="poco_launcher_user_agreement">ข้อตกลงการใช้งานของ POCO Launcher</string>
     <string name="position_header">การแชร์ข้อมูลตำแหน่ง</string>
     <string name="position_subheading">ข้อมูลตำแหน่งพิกัด</string>
-    <string name="power_and_performance">Battery and performance</string>
-    <string name="power_and_performance_introduction">This service provides basic battery management, usage statistics, power saving features, and more.</string>
     <string name="pref_title_data_slot">ซิมที่ใช้งานข้อมูลเป็นหลัก</string>
     <string name="pref_title_voice_slot">ซิมที่ใช้โทรออกเป็นหลัก</string>
     <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
@@ -620,16 +492,12 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="privacy_provision_title">ความเป็นส่วนตัว</string>
     <string name="privacy_refuse">ไม่เห็นด้วย</string>
     <string name="privacy_title">ข้อกำหนดและนโยบายความเป็นส่วนตัว</string>
-    <string name="prompt_fingerprint">การป้องกันข้อมูลขั้นสูงเปิดใช้งานสำหรับบัญชีของคุณแล้ว ตั้งค่าการล็อกหน้าจอสำหรับอุปกรณ์นี้</string>
     <string name="protect_persoanl_info_statement">เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมายข้อบังคับและนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง</string>
     <string name="provision_back">ย้อนกลับ</string>
-    <string name="provision_complete_text">ดำเนินการต่อ</string>
     <string name="provision_inputmethod_policy_description">&lt;Data>ดู &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a > ของแป้นพิมพ์ที่คุณเลือก&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">นโยบายความเป็นส่วนตัว</string>
     <string name="provision_next">ถัดไป</string>
     <string name="provision_skip_underline">ข้าม</string>
-    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
-    <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">แนะนำ</string>
     <string name="recorder_introduction">คุณสามารถใช้แอปนี้เพื่อบันทึกเสียงและสำรองข้อมูลการบันทึกไปยังคลาวด์</string>
     <string name="refuse_cookie">ปฏิเสธคุกกี้</string>
@@ -638,18 +506,10 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
 \u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
     <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
-    <string name="require_device_information_statement">เพื่อให้สามารถให้บริการขั้นพื้นฐานได้ จำเป็นต้องได้รับการอนุญาตดังต่อไปนี้:</string>
     <string name="require_miuidaemon_authority_statement">ในการอนุญาตให้เราให้บริการนี้แก่คุณ คุณต้องให้สิทธิ์ต่อไปนี้เพื่อให้เรารวบรวมข้อมูลส่วนบุคคลของคุณ:</string>
     <string name="require_network_and_authority_statement">เพื่อให้สามารถทำงานได้ตามปกติ บริการนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้:</string>
     <string name="require_network_authority_statement">เพื่อให้สามารถทำงานได้ตามปกติ บริการนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้:</string>
     <string name="require_network_authority_statement_dual">เพื่อให้สามารถทำงานได้ตามปกติ บริการนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ตและต้องได้รับการอนุญาตดังต่อไปนี้:</string>
-    <string name="require_telephone_imei">อ่าน IMEI และ IMSI</string>
-    <string name="require_telephone_imei_summary">สำหรับการเข้าถึง IMEI</string>
-    <string name="require_telephone_location">เข้าถึงตำแหน่ง</string>
-    <string name="require_telephone_location_summary">สำหรับการเข้าถึงตำแหน่งโดยประมาณและให้บริการการเพิ่มประสิทธิภาพเครือข่ายตามตำแหน่ง</string>
-    <string name="require_telephone_statement">เพื่อให้สามารถให้บริการขั้นพื้นฐานได้ จำเป็นต้องได้รับการอนุญาตดังต่อไปนี้:</string>
-    <string name="sample_text_summary">Xiaomi สร้างผลิตภัณฑ์อันน่าทึ่งอย่างไม่หยุดยั้งในราคาที่เอื้อมถึงได้ เพื่อให้ทุกคนในโลกใบนี้ได้ใช้ชีวิตที่ดียิ่งขึ้นผ่านเทคโนโลยีที่ล้ำสมัย</string>
-    <string name="sample_text_title">ข้อความตัวอย่าง:</string>
     <string name="saturday">วันเสาร์</string>
     <string name="saturday_short">เสาร์</string>
     <string name="saturday_shortest">เสาร์</string>
@@ -657,7 +517,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="search_menu_title">ค้นหา</string>
     <string name="security_introduction">คุณสามารถใช้แอปนี้เพื่อ ล้างขยะบนอุปกรณ์ของคุณ ค้นหาและต่อต้านไวรัส เพิ่มประสิทธิภาพการเล่นเกม ประหยัดแบตเตอรี่ จัดการแอพ สิทธิ์การใช้งาน และอื่นๆ อีกมากมาย</string>
     <string name="security_mobile_account_introduction">สำหรับการลงชื่อเข้าใช้และจัดการบัญชีระบบ</string>
-    <string name="select_font_modele_tips">คุณสามารถเลือกฟอนต์ใหม่ได้เสมอในธีม</string>
+    <string name="select_font_modele_tips">คุณสามารถเลือกแบบอักษรใหม่ในธีมได้เสมอ</string>
     <string name="send">ส่ง</string>
     <string name="service_agreement">ฉันได้อ่านแล้วและยอมรับข้อตกลงและเงื่อนไข</string>
     <string name="service_company_adjust_content">ข้อตกลงการใช้งานบริการเครือข่าย Xunlei</string>
@@ -665,13 +525,11 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="service_interconnection_communication">บริการสื่อสารทางอินเทอร์เน็ตของ Xiaomi</string>
     <string name="service_location_share_policy">&lt;Data>อ่านและยอมรับ&lt;a href=%1$s>คำชี้แจงความเป็นส่วนตัวของบริการตำแหน่ง&lt;/a > ก่อนที่คุณจะดำเนินการต่อ&lt;/Data></string>
     <string name="service_mi_account">บัญชี Mi</string>
-    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">รายชื่อผู้ติดต่อและโทรศัพท์</string>
     <string name="service_name_album">คลังภาพ</string>
     <string name="service_name_application_package">ตัวติดตั้งแพ็คเกจ</string>
     <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">ข้อมูลสำรอง</string>
-    <string name="service_name_bluetooth">บลูทูธ</string>
     <string name="service_name_calculator">เครื่องคิดเลข</string>
     <string name="service_name_camera">กล้อง</string>
     <string name="service_name_carrier">คำชี้แจงบริการของผู้ให้บริการ</string>
@@ -680,16 +538,13 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="service_name_content_center">ศูนย์เนื้อหา</string>
     <string name="service_name_download">ดาวน์โหลด</string>
     <string name="service_name_fast_application">Framework แอปด่วน</string>
-    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">ปลั๊กอินเกมส์</string>
     <string name="service_name_google_service">คำชี้แจงบริการ Google</string>
     <string name="service_name_ims">บริการ IMS</string>
     <string name="service_name_location">การระบุตำแหน่งพิกัด</string>
     <string name="service_name_lockscreen">ภาพพื้นหลังรายวัน</string>
     <string name="service_name_message">ข้อความ</string>
-    <string name="service_name_note">บันทึกย่อ</string>
     <string name="service_name_phone_service">电话服务</string>
-    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">บันทึกเสียง</string>
     <string name="service_name_screen_recording">บันทึกหน้าจอ</string>
     <string name="service_name_security">ความปลอดภัย</string>
@@ -699,12 +554,10 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="service_policy_adjust_content">นโยบายความเป็นส่วนตัว Xunlei</string>
     <string name="service_policy_download">&lt;Data>อ่านและยอมรับ&lt;a href=%1$s>นโยบายความเป็นส่วนตัวของ Xunlei&lt;/a > และ &lt;a href=%1$s>ข้อตกลงการใช้งานบริการเครือข่าย Xunlei&lt;/a > ก่อนดำเนินการต่อ&lt;/Data></string>
     <string name="service_privacy_index">นโยบายความเป็นส่วนตัว</string>
-    <string name="service_security_over_r">&lt;Data>อ่านและยอมรับ &lt;a href=%1$s>นโยบายความเป็นส่วนตัว&lt;/a> ของเรา&lt;br/>&lt;br/>ตามมาตรฐาน Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> การอนุญาตเพียงครั้งเดียวจะถูกถอนออกภายในระยะเวลาที่กำหนด (ประมาณ &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>) หลังจากแอปที่เกี่ยวข้องหยุดทำงาน หากคุณเปิดแอปในช่วงเวลาสั้นๆ นี้การอนุญาตจะถูกเพิกถอนเมื่อนั้น&lt;/Data></string>
     <string name="service_sim_activation">การเปิดใช้งานซิมการ์ด</string>
     <string name="servicestate_title">คำชี้แจงบริการพื้นฐาน</string>
     <string name="setting_locale">การตั้งค่าพื้นที่…</string>
     <string name="shut_down">ปิดเครื่อง</string>
-    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">กำลังตรวจหาซิมการ์ด…</string>
     <string name="sim_card_detecting_check">ไม่พบซิมการ์ด ตรวจสอบให้แน่ใจว่าซิมการ์ดถูกติดตั้งอย่างเหมาะสม และตรวจสอบว่ามียอดเงินคงเหลืออยู่</string>
     <string name="sim_card_detecting_confirm_turn_on_network">อนุญาตให้เชื่อมต่อกับเครือข่ายข้อมูลมือถือหรือไม่? หากคุณทำเช่นนั้นซิมการ์ดที่คุณใส่จะใช้เพื่อเชื่อมต่อกับเครือข่ายข้อมูลมือถือ</string>
@@ -714,9 +567,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="sim_card_detection_info_sb">"ใส่ซิมการ์ดก่อนดำเนินการต่อ ค้นหาอุปกรณ์ และฟังก์ชันที่เกี่ยวข้องกับการซิงค์จะใช้งานไม่ได้อย่างสมบูรณ์หากคุณสร้างบัญชีโดยไม่มีซิมการ์ด อุปกรณ์นี้รองรับ eSIM "</string>
     <string name="sim_card_detection_info_sb_esim">แตะเพื่อเปิดใช้งาน eSIM</string>
     <string name="sim_card_detection_mobile_not_available">ซิมการ์ดไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
-    <string name="sim_card_detection_sb_esim">Activate eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">ยังไม่เปิดใช้งาน</string>
-    <string name="sim_card_do_not_select_dial_card">Select SIM card when dialing</string>
     <string name="sim_dectection_next">ทำต่อ</string>
     <string name="sim_redetection">ตรวจสอบอีกครั้ง</string>
     <string name="sim_scard_detecting_check_mobile_not_available">ซิมการ์ดของคุณไม่สามารถเชื่อมต่อกับเครือข่ายผู้ให้บริการที่ถูกต้อง ตรวจสอบให้แน่ใจว่าคุณมียอดเงินคงเหลือเพียงพอและลองเชื่อมต่ออีกครั้ง</string>
@@ -726,45 +577,27 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="skip_gesture_guide_dialog_title">ท่าทางสัมผัสแบบเต็มหน้าจอ</string>
     <string name="skip_underline">ข้ามขั้นตอนนี้</string>
     <string name="start_up_slogan">แค่คุณโดยเฉพาะ</string>
-    <string name="startup_page_text_hint">กางออกเพื่อเปิดใช้งานอุปกรณ์</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="study_full_screen_gesture_text">เรียนรู้ท่าทางการนำทาง</string>
-    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="summary_not_set">ไม่ตั้งค่า</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="sunday_short">อาทิตย์</string>
     <string name="sunday_shortest">อาทิตย์</string>
     <string name="system_navigation_mode">โหมดการนำทางของระบบ</string>
-    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
-    <string name="system_update_title">System updates</string>
     <string name="systemdesktop_introduction">ปลั๊กอินบริการหน้าจอหลักมีคุณลักษณะพื้นฐาน เช่น หน้าจอหลัก UI ของระบบ และภาพหน้าจอ</string>
     <string name="term_condition_detail">รับภาพที่น่าทึ่งและเรื่องราวที่น่าตื่นเต้นส่งถึงหน้าจอล็อคของคุณทุกวัน ฟีเจอร์นี้จะไม่ใช้ข้อมูลของคุณเพื่อการปรับเปลี่ยนในแบบของคุณโดยไม่ได้รับความยินยอมจากคุณ อ่านและยอมรับ&lt;a href =%1$s>นโยบายความเป็นส่วนตัว&lt;/a>และ&lt;a href =%2$s>ข้อตกลงการใช้งาน&lt;/a>ของผู้ให้บริการเนื้อหาบุคคลที่สามก่อนที่จะใช้คุณลักษณะนี้</string>
-    <string name="terms_and_statement_title">ข้อกำหนดและเงื่อนไข</string>
-    <string name="terms_of_label_period">". "</string>
-    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">ข้อตกลงและเงื่อนไข</string>
-    <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">Mi สโตร์</string>
     <string name="terms_of_use_label_RMS">ตัวจัดการการอนุญาต</string>
     <string name="terms_of_use_label_ai_assistant">ตัวช่วย AI</string>
     <string name="terms_of_use_label_app_vault">App vault</string>
     <string name="terms_of_use_label_back">บริการสำรองข้อมูล</string>
-    <string name="terms_of_use_label_ble">Fused location provider</string>
-    <string name="terms_of_use_label_cloud">Xiaomi คลาวด์</string>
     <string name="terms_of_use_label_communication_service">บริการสื่อสารทางอินเทอร์เน็ตของ Xiaomi</string>
-    <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
     <string name="terms_of_use_label_finddevice">ค้นหาอุปกรณ์</string>
     <string name="terms_of_use_label_game">เกม</string>
     <string name="terms_of_use_label_home">หน้าจอหลัก</string>
     <string name="terms_of_use_label_htmlViewer">ตัวเรียกดู HTML</string>
-    <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
-    <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">มุมมองแนวนอน</string>
-    <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">บัญชี Mi</string>
-    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
-    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">การตั้งค่า OS AI</string>
     <string name="terms_of_use_label_package">ตัวติดตั้งแพ็คเกจ</string>
     <string name="terms_of_use_label_parallel_windows">หน้าต่างคู่ขนาน</string>
@@ -772,7 +605,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="terms_of_use_label_power_detection">ตัวตรวจจับพลังงาน</string>
     <string name="terms_of_use_label_power_performance">แบตเตอรี่และประสิทธิภาพ</string>
     <string name="terms_of_use_label_quickapp">แอปด่วน</string>
-    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">แอปพลิเคชันองค์ประกอบที่ปลอดภัย</string>
     <string name="terms_of_use_label_simcard">บริการเปิดใช้งานซิม</string>
     <string name="terms_of_use_label_smart_service">บริการอัจฉริยะ</string>
@@ -780,13 +612,9 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">บริการลงทะเบียนด้วยตนเอง</string>
     <string name="terms_of_use_label_translation">บริการแปลภาษา</string>
-    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">บริการอัปเดตระบบ (ตรวจสอบการอัปเดตออนไลน์และแจ้งเกี่ยวกับเวอร์ชันใหม่)</string>
     <string name="terms_of_use_label_use_location_and_network_global">ก่อนใช้ระบบ คุณต้องอ่านและยอมรับข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของเรา เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมาย ระเบียบข้อบังคับ และนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง เมื่อเปิดใช้งานอุปกรณ์ของคุณ บริการต่อไปนี้จะเชื่อมต่อกับเครือข่ายและเข้าถึงตำแหน่งของคุณ:</string>
-    <string name="terms_of_use_label_use_network_china">ก่อนใช้ระบบ โปรดอ่านและยอมรับ&lt;a href=\"%1$s\">ข้อตกลงการใช้งาน&lt;/a> และ &lt;a href=\"%2$s\">นโยบายความเป็นส่วนตัว&lt;/a> ของเรา เราจะปกป้องข้อมูลส่วนบุคคลของคุณตามกฎหมาย ข้อบังคับ และนโยบายความเป็นส่วนตัวที่เกี่ยวข้อง</string>
-    <string name="terms_of_use_label_use_network_china_append">เมื่อเปิดใช้งานอุปกรณ์ของคุณแล้ว บริการต่อไปนี้จะเชื่อมต่อกับเครือข่าย:</string>
     <string name="terms_of_use_label_wallpaper">ภาพพื้นหลัง</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
@@ -796,9 +624,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="terms_of_use_lable_default_input_method_mint">"
 
 คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ แป้นพิมพ์ Mint ก่อนที่จะใช้คุณลักษณะนี้"</string>
-    <string name="terms_of_use_lable_gms">Google Play services</string>
-    <string name="terms_of_use_lable_smart_cards">Smart cards</string>
-    <string name="terms_of_use_lable_vsimcore">MConnService</string>
     <string name="terms_of_use_lable_xmsf">กรอบการให้บริการของ Xiaomi</string>
     <string name="terms_privacy_policy_input_method_facemoji">นโยบายความเป็นส่วนตัว Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">นโยบายความเป็นส่วนตัว Kika</string>
@@ -808,7 +633,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="the_armed_forces_day">วันกองทัพจีน</string>
     <string name="the_armys_day">วัน PLA</string>
     <string name="the_childrens_day">วันเด็ก</string>
-    <string name="the_chinese_youth_day">วันเยาวชน</string>
     <string name="the_christmas_day">คริสมาสต์</string>
     <string name="the_double_ninth_festival">เทศกาลเก้าคู่</string>
     <string name="the_dragon_boat_festival">เทศกาลแข่งเรือมังกร</string>
@@ -846,8 +670,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="thursday_short">พฤหัส</string>
     <string name="thursday_shortest">พฤหัส</string>
     <string name="time_picker_dialog_title">ตั้งเวลา</string>
-    <string name="time_picker_label_hour">ชม.</string>
-    <string name="time_picker_label_minute">น.</string>
     <string name="title_fingerprint">ตั้งการล็อกหน้าจอ</string>
     <string name="title_set_fingerprint">ล็อกหน้าจอ</string>
     <string name="today">วันนี้</string>
@@ -874,8 +696,24 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="wednesday_shortest">พุธ</string>
     <string name="welcome">ยินดีต้อนรับ</string>
     <string name="withdraw_consent">หากคุณเพิกถอนความยินยอม บริการ ภาพพื้นหลังรายวัน จะถูกปิดใช้งาน</string>
-    <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
-    <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">เมื่อวาน</string>
     <string name="zone_picker_title">เลือกเขตเวลา</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="service_name_note">บันทึกย่อ</string>
+    <string name="the_chinese_youth_day">วันเยาวชน</string>
+    <string name="time_picker_label_hour">ชม.</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
+    <string name="fmt_time_millis">"S'มิลลิวิ'"</string>
+    <string name="fmt_time_minute">"m'นาที'"</string>
+    <string name="fmt_time_minute_second">"m'นาที' s'วิ'"</string>
+    <string name="fmt_time_minute_second_millis">"m'นาที' s.S'วิ'"</string>
+    <string name="fmt_time_second">"s'วิ'"</string>
+    <string name="fmt_time_second_millis">"s.S'วิ'"</string>
+    <string name="time_picker_label_minute">น.</string>
+    <string name="terms_of_use_label_cloud">Xiaomi คลาวด์</string>
+    <string name="service_name_bluetooth">บลูทูธ</string>
 </resources>

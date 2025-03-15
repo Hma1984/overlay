@@ -44,14 +44,6 @@
         <item quantity="other">%d apps toegevoegd</item>
         <item quantity="one">%d app toegevoegd</item>
     </plurals>
-    <plurals name="app_behavior_dashboard_title_desc">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
-    </plurals>
-    <plurals name="app_behavior_dashboard_total_usage_item">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">Toegestaan %3$d keer tussen %1$s en %2$s</item>
         <item quantity="one">Toegestaan %3$d keer tussen %1$s en %2$s</item>
@@ -204,14 +196,6 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">%d berichten</item>
         <item quantity="one">%d bericht</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">Uw Game Turbo-lidmaatschap verloopt over %d dagen.</item>
         <item quantity="one">Uw Game Turbo-lidmaatschap verloopt over %d dag.</item>
@@ -248,14 +232,6 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">%d dagen op rij ingecheckt</item>
         <item quantity="one">%d tijd ingecheckt</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d uren</item>
-        <item quantity="one">%d uur</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Begrepen (%d s)</item>
         <item quantity="one">Begrepen (%d s)</item>
@@ -267,14 +243,6 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="one">"Opmerking:
 ·Verbeterde visuele effecten zijn niet beschikbaar als Batterijbesparing is ingeschakeld of als uw apparaat oververhit is.
 ·Slimme framesnelheid levert de beste resultaten op als uw game is ingesteld om minimaal %d frame per seconde weer te geven."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Opmerking:
-· Verbeterde visuele effecten zijn niet beschikbaar als Batterijbesparing is ingeschakeld of als uw apparaat oververhit is.
-· Verbeterde framesnelheid levert de beste resultaten op als uw game is ingesteld om minimaal %d frames per seconde weer te geven."</item>
-        <item quantity="one">"Opmerking:
-· Verbeterde visuele effecten zijn niet beschikbaar als Batterijbesparing is ingeschakeld of als uw apparaat oververhit is.
-· Verbeterde framesnelheid levert de beste resultaten op als uw game is ingesteld om minimaal %d frame per seconde weer te geven."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Probeer Stemvervormer nu
@@ -315,10 +283,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">Verlaag automatisch de schermhelderheid om energie te besparen na %d minuten inactiviteit</item>
         <item quantity="one">Verlaag automatisch de schermhelderheid om energie te besparen na %d minuut inactiviteit</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
@@ -363,10 +327,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
     <plurals name="hints_handle_item_text_virus_number">
         <item quantity="other">%d trojaanse paarden</item>
         <item quantity="one">%d trojaans paard</item>
-    </plurals>
-    <plurals name="hints_permission_apps_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
         <item quantity="other">%d apps kunnen geen dataroaming gebruiken</item>
@@ -528,10 +488,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">%d apps vergrendeld</item>
         <item quantity="one">%d app vergrendeld</item>
     </plurals>
-    <plurals name="number_masked">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="number_masked_text">
         <item quantity="other">%d meldingen waren verborgen</item>
         <item quantity="one">%d melding was verborgen</item>
@@ -552,17 +508,9 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">%d vergrendelde apps</item>
         <item quantity="one">%d vergrendelde app</item>
     </plurals>
-    <plurals name="om_running_apps_num">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
         <item quantity="other">%2$d apps waaronder %1$s zijn mogelijk schadelijk</item>
         <item quantity="one">%2$d app waaronder %1$s is mogelijk schadelijk</item>
-    </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d apps verbruiken veel batterij</item>
@@ -572,25 +520,9 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">" uren"</item>
         <item quantity="one">" uur"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d dag</item>
-        <item quantity="one">%d dag</item>
-    </plurals>
-    <plurals name="pc_can_be_optimize_numbers">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
-    </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">De batterij van uw apparaat is leeg. Slaapstand ingaan in %1$d seconden.</item>
         <item quantity="one">De batterij van uw apparaat is leeg. Slaapstand ingaan in %1$d seconde.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Lage batterij. Uw apparaat schakelt over naar Slaapstand in %1$d seconden. Prestatie en signaalsterkte kunnen lichtjes afnemen.</item>
-        <item quantity="one">Lage batterij. Uw apparaat schakelt over naar Slaapstand in %1$d seconde. Prestatie en signaalsterkte kunnen lichtjes afnemen.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dagen</item>
@@ -656,21 +588,9 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">Uw apparaat wordt over %d sec uitgeschakeld</item>
         <item quantity="one">Uw apparaat wordt over %d sec uitgeschakeld</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s uren</item>
-        <item quantity="one">%s uur</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s min.</item>
-        <item quantity="one">%s min.</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">keren</item>
         <item quantity="one">keer</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d keer</item>
-        <item quantity="one">%d keer</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d items met een hoog stroomverbruik</item>
@@ -691,10 +611,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d uur "</item>
         <item quantity="one">"%d uur "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min. "</item>
-        <item quantity="one">"%d min. "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">"Optimaliseer batterijgebruik in %d scenario's"</item>
@@ -720,21 +636,9 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">U kunt %d items optimaliseren om de batterij te sparen</item>
         <item quantity="one">U kunt %d item optimaliseren om de batterij te sparen</item>
     </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d℃</item>
-        <item quantity="one">%d℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
-    </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d minuten toevoegen</item>
         <item quantity="one">%d minuut toevoegen</item>
-    </plurals>
-    <plurals name="power_center_menu_text">
-        <item quantity="other">items</item>
-        <item quantity="one">item</item>
     </plurals>
     <plurals name="power_center_unoffical_battery_dialog_negative">
         <item quantity="other">Annuleren (%d s)</item>
@@ -799,10 +703,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s keren</item>
         <item quantity="one">%s keer</item>
-    </plurals>
-    <plurals name="privacy_risk_app_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">%d hoog risico toestemmingen verleend</item>
@@ -896,10 +796,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">%s apps zijn beschermd</item>
         <item quantity="one">%s app is beschermd</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
-    </plurals>
     <plurals name="st_show_num_keyword">
         <item quantity="other">%d trefwoorden</item>
         <item quantity="one">%d trefwoord</item>
@@ -912,14 +808,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">%1$d toestemmingen bewerken</item>
         <item quantity="one">%1$d toestemming bewerken</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmenten</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Updates beschikbaar voor %d apps.</item>
         <item quantity="one">Update beschikbaar voor %d app.</item>
@@ -927,10 +815,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
     <plurals name="summary_flow_verify">
         <item quantity="other">Statistieken van datagebruik van je provider zijn %d dagen niet gesynchroniseerd</item>
         <item quantity="one">Statistieken van datagebruik van je provider zijn %d dag niet gesynchroniseerd</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%ds)</item>
-        <item quantity="one">(%ds)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items veilig</item>
@@ -964,10 +848,6 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">Voer %s cijfers in</item>
         <item quantity="one">Voer %s cijfer in</item>
     </plurals>
-    <plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="videobox_settings_timing_bubble">
         <item quantity="other">"U kijkt al %d uur naar video's.
 Neem een pauze!"</item>
@@ -982,10 +862,6 @@ Neem een pauze!"</item>
         <item quantity="other">%d geselecteerde apps wissen?</item>
         <item quantity="one">%d geselecteerde app wissen?</item>
     </plurals>
-    <plurals name="wakepath_allow_start_app_count">
-        <item quantity="other">%s apps</item>
-        <item quantity="one">%s app</item>
-    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Gevaarlijke apps: %d</item>
         <item quantity="one">Gevaarlijke app: %d</item>
@@ -993,5 +869,37 @@ Neem een pauze!"</item>
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojaans paarden: %d</item>
         <item quantity="one">Trojaans paard: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d uren</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s uren</item>
+        <item quantity="one">%s uur</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmenten</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min. "</item>
+        <item quantity="one">"%d min. "</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d℃</item>
+        <item quantity="one">%d℃</item>
     </plurals>
 </resources>

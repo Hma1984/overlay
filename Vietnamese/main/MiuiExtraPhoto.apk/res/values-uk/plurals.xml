@@ -102,16 +102,4 @@
         <item quantity="few">%d хв тому</item>
         <item quantity="many">%d хв тому</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">"Всього об'єктів: %1$d"</item>
-        <item quantity="one">"Всього об'єктів: %1$d"</item>
-        <item quantity="few">"Всього об'єктів: %1$d"</item>
-        <item quantity="many">"Всього об'єктів: %1$d"</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">"Вибрано об'єктів: %1$d"</item>
-        <item quantity="one">"Вибрано об'єктів: %1$d"</item>
-        <item quantity="few">"Вибрано об'єктів: %1$d"</item>
-        <item quantity="many">"Вибрано об'єктів: %1$d"</item>
-    </plurals>
 </resources>

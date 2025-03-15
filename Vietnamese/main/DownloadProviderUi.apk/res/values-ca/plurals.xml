@@ -5,16 +5,16 @@
         <item quantity="one">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Fa %d hores</item>
-        <item quantity="one">Fa %d hora</item>
+        <item quantity="other">%d Fa una hora</item>
+        <item quantity="one">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fa mitja hora</item>
         <item quantity="one">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">En %d hores</item>
-        <item quantity="one">En %d hora</item>
+        <item quantity="other">Dins %d hora</item>
+        <item quantity="one">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">En mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d mins</item>
-        <item quantity="one">En %d min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Ara mateix</item>
         <item quantity="one">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa %d minut</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Vols eliminar %d tasques?</item>
@@ -48,17 +48,13 @@
         <item quantity="other">%1$d dies</item>
         <item quantity="one">%1$d dia</item>
     </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d hores</item>
-        <item quantity="one">%1$d hora</item>
-    </plurals>
     <plurals name="durationMinutes">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="durationSeconds">
-        <item quantity="other">%1$d s</item>
-        <item quantity="one">%1$d s</item>
+        <item quantity="other">%1$d seg</item>
+        <item quantity="one">%1$d seg</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fa mitja hora</item>
@@ -93,11 +89,7 @@
         <item quantity="one">Fa 1 minut</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%s elements</item>
-        <item quantity="one">%s element</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">Mostra %1$d més</item>
-        <item quantity="one">Mostra %1$d més</item>
+        <item quantity="other">%1$d Elements</item>
+        <item quantity="one">%1$d ítem</item>
     </plurals>
 </resources>

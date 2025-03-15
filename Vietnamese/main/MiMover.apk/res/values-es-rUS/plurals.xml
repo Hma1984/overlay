@@ -5,15 +5,15 @@
         <item quantity="one">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d horas atrás</item>
-        <item quantity="one">%d hora atrás</item>
+        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Hace media hora</item>
         <item quantity="one">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
         <item quantity="one">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
@@ -25,16 +25,24 @@
         <item quantity="one">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d min</item>
+        <item quantity="other">En %d minutos</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Ahora mismo</item>
-        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+        <item quantity="one">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
-        <item quantity="one">%d min atrás</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minutos</item>
+    </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d aplicaciones en este dispositivo se pueden actualizar desde la arquitectura de 32 bits a la de 64 bits. Actualice estas aplicaciones para mejorar su rendimiento.</item>
+        <item quantity="one">%1$d en este dispositivo se puede actualizar desde la arquitectura de 32 bits a la de 64 bits. Actualice esta aplicación para mejorar su rendimiento.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">Versiones de 64 bits para %1$d aplicaciones están disponibles</item>
+        <item quantity="one">Una versión de 64 bits para la aplicación %1$d está disponible</item>
     </plurals>
     <plurals name="apple_install_install_immediately">
         <item quantity="other">Instalar %d aplicaciones</item>
@@ -61,8 +69,8 @@
         <item quantity="one">%1$d hora</item>
     </plurals>
     <plurals name="icloud_importing_title_count_desc">
-        <item quantity="other">%d elementos importados</item>
-        <item quantity="one">%d elemento importado</item>
+        <item quantity="other">Se importaron %d elementos</item>
+        <item quantity="one">Se importó %d elemento</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">En 1 hora</item>
@@ -81,8 +89,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Ahora mismo</item>
-        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+        <item quantity="one">Justo ahora</item>
     </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d minutos</item>
@@ -97,20 +105,20 @@
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d elementos importados. "</item>
-        <item quantity="one">"%d elemento importado. "</item>
+        <item quantity="other">"Se importó %d elemento. "</item>
+        <item quantity="one">"Se importó %d elemento. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">Importar %d elementos de nuevo.</item>
-        <item quantity="one">Importar %d elemento de nuevo.</item>
+        <item quantity="one">Importar %d elementos de nuevo.</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">%d elementos importados y restaurados</item>
-        <item quantity="one">%d elemento importado y restaurado</item>
+        <item quantity="other">Se importaron y restauraron %d elementos</item>
+        <item quantity="one">Se importó y restauró %d elemento</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">%d elementos restaurados</item>
-        <item quantity="one">%d elemento restaurado</item>
+        <item quantity="other">Se restauraron %d elementos</item>
+        <item quantity="one">Se restauró %d elemento</item>
     </plurals>
     <plurals name="select_item_summary">
         <item quantity="other">%1$s | %2$d elementos</item>
@@ -123,5 +131,9 @@
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="transfer_failed_summary">
+        <item quantity="other">No se pudo transferir objetos %d</item>
+        <item quantity="one">No se pudo transferir el artículo %d</item>
     </plurals>
 </resources>

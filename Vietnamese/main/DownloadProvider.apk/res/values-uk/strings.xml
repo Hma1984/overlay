@@ -10,11 +10,9 @@
     <string name="download_queued">В черзі</string>
     <string name="download_remaining">Залишилося %s</string>
     <string name="download_running">Завантаження</string>
-    <string name="download_running_percent">Завантажено %s</string>
     <string name="download_unknown_title">&lt;Без назви></string>
     <string name="notif_title_file_size">Всього: %1$d</string>
     <string name="notif_title_single_downloading">Завантаження %1$s</string>
-    <string name="notification_dld_msg">Керування завантаженими додатками</string>
     <string name="notification_download_complete">Завантажено успішно.</string>
     <string name="notification_download_failed">"Не вдалося завантажити об'єкти."</string>
     <string name="notification_need_wifi_for_size">Розмір файлу завеликий, необхідне підключення до Wi-Fi.</string>

@@ -112,25 +112,13 @@
         <item quantity="other">Преди %d минути</item>
         <item quantity="one">Преди 1 минута</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Оттегляне (%dсек)</item>
-        <item quantity="one">Оттегляне (%dсек)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Получихте %d покани за чат</item>
         <item quantity="one">Получихте %d покана за чат</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s хора</item>
-        <item quantity="one">%1$s човек</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s резултата за \"%2$s\"</item>
         <item quantity="one">%1$s резултат за \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d секунди</item>
-        <item quantity="one">%d секунда</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Изпратени %1$s съобщения</item>

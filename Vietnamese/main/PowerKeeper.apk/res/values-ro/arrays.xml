@@ -2,14 +2,14 @@
 <resources>
     <string-array name="hmode_app_classify1">
         <item>Personalizat</item>
-        <item>Economizator baterie</item>
+        <item>Economisire acumulator</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Aplicații active</item>
-        <item>Aplicații suspendate</item>
+        <item>Aplicații în hibernare</item>
     </string-array>
     <string-array name="pc_manage_active_app_items">
-        <item>Puneți aplicațiile în suspensie</item>
-        <item>Economisiți energie</item>
+        <item>Puneți aplicațiile în hibernare</item>
+        <item>Economisiți energia</item>
     </string-array>
 </resources>

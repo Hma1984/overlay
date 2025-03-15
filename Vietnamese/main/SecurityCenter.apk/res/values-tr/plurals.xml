@@ -204,14 +204,6 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="other">%d mesaj</item>
         <item quantity="one">%d mesaj</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">Game Turbo üyeliğiniz %d gün içinde sona erecek.</item>
         <item quantity="one">Game Turbo üyeliğiniz %d gün içinde sona erecek.</item>
@@ -248,14 +240,6 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="other">%d kez üst üste yer bildirimi yapıldı</item>
         <item quantity="one">%d kez yer bildirimi yapıldı</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d sa.</item>
-        <item quantity="one">%d sa.</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d dk.</item>
-        <item quantity="one">%d dk.</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Anladım (%d sn.)</item>
         <item quantity="one">Anladım (%d sn.)</item>
@@ -267,14 +251,6 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="one">"Not:
 ·Pil tasarrufu açıkken veya cihazınız aşırı ısındığında gelişmiş görseller kullanılamaz.
 ·Akıllı çerçeve oranı, oyununuz saniyede en az %d kare gösterecek şekilde ayarlandığında en iyi sonucu gösterir."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Not:
-· Pil tasarrufu açıkken veya cihazınız aşırı ısındığında gelişmiş görseller kullanılamaz.
-· Gelişmiş çerçeve oranı, oyununuz saniyede en az %d kare gösterecek şekilde ayarlandığında en iyi sonucu gösterir."</item>
-        <item quantity="one">"Not:
-· Pil tasarrufu açıkken veya cihazınız aşırı ısındığında gelişmiş görseller kullanılamaz.
-· Gelişmiş çerçeve oranı, oyununuz saniyede en az %d kare gösterecek şekilde ayarlandığında en iyi sonucu gösterir."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"%d günlük ücretsiz deneme almak için
@@ -315,10 +291,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">%d dakika hareketsizlikten sonra güç tasarrufu yapmak için ekran parlaklığını otomatik olarak düşür</item>
         <item quantity="one">%d dakika hareketsizlikten sonra güç tasarrufu yapmak için ekran parlaklığını otomatik olarak düşür</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
@@ -560,10 +532,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="other">%1$s dahil %2$d uygulama kötü amaçlı olabilir</item>
         <item quantity="one">%1$s dahil %2$d uygulama kötü amaçlı olabilir</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d uygulama pil tüketiyor</item>
         <item quantity="one">%d uygulama pil tüketiyor</item>
@@ -572,14 +540,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="other">" sa"</item>
         <item quantity="one">" sa"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" dk"</item>
-        <item quantity="one">" dk"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-gün</item>
-        <item quantity="one">%d-gün</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d öge</item>
         <item quantity="one">%d öge</item>
@@ -587,10 +547,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Cihazınızın şarjı yok. %1$d saniye içinde Hazırda bekletme moduna giriliyor.</item>
         <item quantity="one">Cihazınızın şarjı yok. %1$d saniye içinde Hazırda bekletme moduna giriliyor.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Düşük pil. Cihazınız %1$d saniye içinde Hazırda bekletme moduna geçecek. Performans ve sinyal gücü biraz azalabilir.</item>
-        <item quantity="one">Düşük pil. Cihazınız %1$d saniye içinde Hazırda bekletme moduna geçecek. Performans ve sinyal gücü biraz azalabilir.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s gün</item>
@@ -656,21 +612,9 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="other">Cihazınız %d saniye içinde kapanacaktır</item>
         <item quantity="one">Cihazınız %d saniye içinde kapanacaktır</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s sa.</item>
-        <item quantity="one">%s sa.</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s dk.</item>
-        <item quantity="one">%s dk.</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">kez</item>
         <item quantity="one">kez</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d kez</item>
-        <item quantity="one">%d kez</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">Yüksek güç tüketimine sahip %d öge</item>
@@ -691,10 +635,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d sa "</item>
         <item quantity="one">"%d sa "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d dak "</item>
-        <item quantity="one">"%d dak "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">%d senaryoda pil kullanımını optimize et</item>
@@ -719,14 +659,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Pil tasarrufu için %d ögeyi optimize edebilirsiniz</item>
         <item quantity="one">Pil tasarrufu için %d ögeyi optimize edebilirsiniz</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d dakika ekle</item>
@@ -912,14 +844,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="other">%1$d izin düzenleniyor</item>
         <item quantity="one">%1$d izin düzenleniyor</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> bölüm</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> bölüm</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">%d adet uygulama için güncelleme mevcut.</item>
         <item quantity="one">%d adet uygulama için güncelleme mevcut.</item>
@@ -927,10 +851,6 @@ Ses değiştirici'yi şimdi deneyin!"</item>
     <plurals name="summary_flow_verify">
         <item quantity="other">Operatör veri kullanım istatistikleri %d gündür senkronize edilmedi</item>
         <item quantity="one">Operatör veri kullanım istatistikleri %d gündür senkronize edilmedi</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%dsn.)</item>
-        <item quantity="one">(%dsn.)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d öge güvenli</item>
@@ -993,5 +913,37 @@ Bir ara verin!"</item>
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojanlar: %d</item>
         <item quantity="one">Trojan: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">%d sa.</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" dk"</item>
+        <item quantity="one">" dk"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s sa.</item>
+        <item quantity="one">%s sa.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s dk.</item>
+        <item quantity="one">%s dk.</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> bölüm</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> bölüm</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d dak "</item>
+        <item quantity="one">"%d dak "</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dsn.)</item>
+        <item quantity="one">(%dsn.)</item>
     </plurals>
 </resources>

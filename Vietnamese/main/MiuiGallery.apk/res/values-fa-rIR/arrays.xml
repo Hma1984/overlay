@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities_title">
+        <item>روز خاص</item>
+        <item>روزی برای به یاد ماندن</item>
+        <item>لحظات پر جنب و جوش</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>پسر</item>
+        <item>دختر</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>پشتیبان‌گیری عکس‌ها</item>
+        <item>همگام‌سازی عکس‌ها با فضای ابری</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>وقت بازی کردن</item>
+        <item>آخر هفته‌های نی‌نی</item>
+        <item>کوچولو</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>آخر هفته‌های من</item>
+        <item>لحظات زندگی</item>
+        <item>خاطرات آخر هفته</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>دوستان جدید و رفقای قدیمی</item>
+        <item>دورهمی‌های پارسال</item>
+    </string-array>
+    <string-array name="month">
+        <item>ژانویه</item>
+        <item>فوریه</item>
+        <item>مارس</item>
+        <item>آپریل</item>
+        <item>می</item>
+        <item>جون</item>
+        <item>جولای</item>
+        <item>آگوست</item>
+        <item>سپتامبر</item>
+        <item>اکتبر</item>
+        <item>نوامبر</item>
+        <item>دسامبر</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>پدر</item>
+        <item>مادر</item>
+        <item>پدربزرگ پدری</item>
+        <item>مادربزرگ پدری</item>
+        <item>پدربزرگ مادری</item>
+        <item>مادربزرگ مادری</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>با هم</item>
+        <item>زمان‌های خوب</item>
+        <item>در اتحاد</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>مرد</item>
+        <item>زن</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>با هم</item>
+        <item>دست جمعی</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>من</item>
+        <item>بچه</item>
+        <item>خانواده</item>
+        <item>همکاران</item>
+        <item>همکلاسی‌ها</item>
+        <item>دوستان</item>
+        <item>گروه‌بندی نشده</item>
+    </string-array>
+    <string-array name="season">
+        <item>بهار</item>
+        <item>تابستان</item>
+        <item>پاییز</item>
+        <item>زمستان</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>پدر</item>
+        <item>مادر</item>
+        <item>پدربزرگ پدری</item>
+        <item>مادربزرگ پدری</item>
+        <item>پدربزرگ مادری</item>
+        <item>مادربزرگ مادری</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>حرکت به جلو</item>
+        <item>پر از انرژی</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>خیلی سریع بزرگ می‌شوند</item>
+        <item>عکس‌های نی‌نی</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+</resources>

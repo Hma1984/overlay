@@ -2,12 +2,10 @@
 <resources>
     <string name="calendar_default_name">မူရင်း</string>
     <string name="calendar_info">ပြက္ခဒိန် အချက်အလက်</string>
-    <string name="calendar_info_error">အမှား</string>
     <string name="calendar_info_events">ဖြစ်စဉ်များ−%1$d</string>
     <string name="calendar_info_events_dirty">ဖြစ်စဉ်များ−%1$d |မသိမ်းဆည်းခဲ့သော−%2$d</string>
     <string name="calendar_info_no_calendars">ပြက္ခဒိန်များ မရှိပါ</string>
     <string name="calendar_storage">ပြက္ခဒိန် သိုလှောင်မှု</string>
-    <string name="channel_description" />
     <string name="channel_name">ပြက္ခဒိန် သတိပေးချက်များ</string>
     <string name="cta_notice">ပြက္ခဒိန်အား ဖွင့်ပါ၊ ထို့နောက် ပြက္ခဒိန်အား အင်တာနက်သို့ ချိတ်ဆက်ရန် ဦးစွာ ခွင့်ပြုပါ။</string>
     <string name="debug_tool_delete_button">ဖျက်ပစ်မည်</string>
@@ -24,4 +22,5 @@
     <string name="holiday_update_title">မွမ်းမံမှု ရရှိနိုင်သည်</string>
     <string name="provider_label">ပြက္ခဒိန်</string>
     <string name="upgrade_msg">ပြက္ခဒိန်၏ ဒေတာဘေ့စ်အား အသစ်မွမ်းမံနေ…</string>
+    <string name="calendar_info_error">အမှား</string>
 </resources>

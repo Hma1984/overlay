@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ew_detail_earthquake_center_title">Epicentre</string>
+    <string name="ew_detail_receive_distance_message2">%s km (Epicentre is far from you. You might not sense the earthquake.)</string>
+    <string name="ew_detail_receive_distance_title">Distance to epicentre</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="gb_adv_touch_custom_title">Customise</string>
+    <string name="gb_gpu_control_optimization_graph">Optimise graphics</string>
+    <string name="gb_gpu_tips_graph">Optimise graphics to boost the GPU performance and save power. This feature is supported by selected games.</string>
+    <string name="gb_gpu_tips_lod">Enhance picture clarity by optimising the textures of remote objects</string>
+    <string name="gb_gpu_tips_render">Use multithreaded rendering to optimise game performance</string>
+    <string name="gb_gpu_tips_texture">Prioritise performance or image quality</string>
+    <string name="miuix_appcompat_action_mode_select_all">Select All</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Select Items</string>
+    <string name="pc_activity_title">Optimise battery</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="superpower_date">EEEE, dd MMMM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="time_picker_dialog_title">Set time</string>
+</resources>

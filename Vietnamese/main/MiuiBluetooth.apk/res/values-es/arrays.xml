@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ble_package_names">
+    <string-array name="ble_profile_mi_band">
+        <item>Vibrar al sonar</item>
+        <item>Vibrar al recibir mensaje</item>
+        <item>Vibrar cuando alarma</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Hacer una foto</item>
+        <item>Encontrar teléfono</item>
+        <item>Encuentra Mi-key</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usar selección de sistema (predeterminado)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>Mi Fit</item>
-        <item>Mi VR</item>
-        <item>Xiaomi Wear</item>
+        <item>, activo</item>
+        <item>, activo (medios)</item>
+        <item>, activo (teléfono)</item>
     </string-array>
 </resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_service_error">"Couldn't revoke authorisation and perform a factory data reset. Try again.​"</string>
+    <string name="dialog_tip_need_network">Your device needs to connect to the internet to revoke authorisation.</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="master_clear_apply_step_1">Revoking authorisation requires performing a factory data reset on your device. It will permanently erase all files and data, including accounts, contacts, photos, and apps. Back up all important items to your computer before revoking authorisation.</string>
+    <string name="master_clear_not_available_ep">"You aren't allowed to perform factory reset or revoke your authorisation now. Contact your supervisor."</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="second_space_setting_search_label">Privacy protection/Protection/Privacy protection features</string>
+    <string name="stylus_quick_write_summary">Press and hold the writing button to write or draw.</string>
+    <string name="stylus_screen_shot_summary">Press and hold the screenshot button to take and edit a screenshot.</string>
+    <string name="turn_on_torch">Turn on torch</string>
+    <string name="undo_activated_dialog_message">"Revoking authorisation will deactivate Enterprise mode and perform a factory data reset on your device. All related features will no longer be available. Besides that, Xiaomi will stop collecting the information required for Enterprise mode (IMEI, Device ID, system version, region, etc.). We'd like to remind you that Xiaomi doesn't manage the data it collects for the Enterprise mode. We'll do our best to notify all the related parties, but recommend that you contact your company's supervisors to approve this revocation. Revoke authorisation and perform a factory data reset?"</string>
+    <string name="undo_grant_dialog_message">Xiaomi will stop collecting the information required for this feature (IMEI, Device ID, system version, region, etc.) after you revoke authorisation. Revoke now?</string>
+    <string name="undo_privacy_menu">Revoke authorisation</string>
+    <string name="xspace_default_app_title">Personalisation</string>
+    <string name="xspace_default_setting_label">Personalisation</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+</resources>

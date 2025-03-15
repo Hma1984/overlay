@@ -2,27 +2,11 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Yaxşı</item>
-        <item>Kafi</item>
+        <item>Qənaətbəxş</item>
         <item>Mülayim</item>
+        <item>Qeyri-sağlam</item>
+        <item>Şiddətli</item>
         <item>Zərərli</item>
-        <item>Mülayim</item>
-        <item>Zərərli</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>HKİ %1$s</item>
@@ -34,9 +18,9 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Yaxşı</item>
-        <item>Kafi</item>
-        <item>Orta</item>
-        <item>Zərərli</item>
+        <item>Qənaətbəxş</item>
+        <item>Mülayim</item>
+        <item>Qeyri-sağlam</item>
         <item>Şiddətli</item>
         <item>Zərərli</item>
         <item>İndeksin üzərində</item>
@@ -44,11 +28,11 @@
     <string-array name="hot_city">
         <item>Pekin</item>
         <item>Şanxay</item>
-        <item>Honq Konq</item>
-        <item>Taypey Siti</item>
+        <item>Honkonq</item>
+        <item>Taypey</item>
         <item>Cakarta</item>
         <item>Delhi</item>
-        <item>Mumbai</item>
+        <item>Mumbay</item>
         <item>Moskva</item>
         <item>Çennai</item>
         <item>İstanbul</item>
@@ -70,53 +54,55 @@
         <item>Mülayim</item>
         <item>Yüngül</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Mükəmməl</item>
+        <item>Yaxşı</item>
+        <item>Yüngül çirkli</item>
+        <item>Orta dərəcədə çirkli</item>
+        <item>Çox çirkli</item>
+        <item>Şiddətli dərəcədə çirkli</item>
+        <item>İndeksdən kənar</item>
+    </string-array>
     <string-array name="realtime_humidity_status">
         <item>Quru</item>
         <item>Rahat</item>
-        <item>Rütubətli</item>
+        <item>Rütubət</item>
     </string-array>
     <string-array name="realtime_pressure_status">
         <item>Yüksək</item>
-        <item>Orta</item>
+        <item>Mülayim</item>
         <item>Aşağı</item>
     </string-array>
     <string-array name="realtime_temperature_status">
         <item>Soyuq</item>
         <item>Sərin</item>
         <item>Rahat</item>
-        <item>İsti</item>
+        <item>İlıq</item>
         <item>İsti</item>
     </string-array>
     <string-array name="realtime_uv_level">
         <item>Zəif</item>
-        <item>Orta</item>
+        <item>Mülayim</item>
         <item>Güclü</item>
         <item>Çox güclü</item>
         <item>Şiddətli</item>
     </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
-    </string-array>
     <string-array name="weather_type">
-        <item>Açıq</item>
+        <item>Təmiz</item>
         <item>Buludlu</item>
         <item>Tutqun</item>
-        <item>Duman</item>
+        <item>Sis</item>
         <item>Şiddətli yağış fırtınası</item>
         <item>Leysan</item>
         <item>Yağış fırtınası</item>
-        <item>Şimşək çaxacaq</item>
-        <item>Yüngül yağışlı</item>
-        <item>Şiddətli yağış</item>
+        <item>Tufan</item>
+        <item>Leysan</item>
+        <item>Şiddətli yağıntı</item>
         <item>Mülayim yağışlı</item>
         <item>Yüngül yağışlı</item>
         <item>Sulu qar</item>
         <item>Çovğun</item>
-        <item>Qar yağışı</item>
+        <item>Qar leysanı</item>
         <item>Şiddətli qar</item>
         <item>Mülayim qarlı</item>
         <item>Yüngül qarlı</item>
@@ -142,26 +128,122 @@
     </string-array>
     <string-array name="wind_direction_simple">
         <item>Şm</item>
-        <item>Şm.Şr</item>
-        <item>Şr</item>
-        <item>C.Şr</item>
-        <item>C</item>
-        <item>C.Q</item>
-        <item>Q</item>
-        <item>Şm.Q</item>
+        <item>Şm-Şə</item>
+        <item>Şə</item>
+        <item>Cə-Şə</item>
+        <item>Cə</item>
+        <item>Cə-Qə</item>
+        <item>Qə</item>
+        <item>Şm-Qə</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Bofort şkalası</item>
-        <item>Saatda kilometr (km/s)</item>
+        <item>Kilometr/saat (km/s)</item>
         <item>Metr/saniyə (m/s)</item>
-        <item>Saatda mil (mil/s)</item>
+        <item>Mil/saat (mil/s)</item>
         <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_no_translate">
+        <item>km/sa</item>
+        <item>m/s</item>
+        <item>mil/sa</item>
+        <item>kn</item>
     </string-array>
     <string-array name="wind_unit_replace">
         <item>%1$s. güc</item>
-        <item>%1$skm/s</item>
-        <item>%1$sm/s</item>
-        <item>%1$smil/s</item>
-        <item>%1$skn</item>
+        <item>%1$s km/s</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mil/s</item>
+        <item>%1$s kn</item>
+    </string-array>
+    <string-array name="apk_download_num_unit">
+        <item>Endirildi：%.1f</item>
+        <item>Endirildi：%.1fm</item>
+        <item>Endirildi：%.1fb</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
     </string-array>
 </resources>

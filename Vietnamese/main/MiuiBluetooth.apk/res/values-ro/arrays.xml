@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ble_package_names">
+    <string-array name="ble_profile_mi_band">
+        <item>Vibrează când sună</item>
+        <item>Vibrează la recepționare SMS</item>
+        <item>Vibrează când sună alarma</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Realizează o fotografie</item>
+        <item>Găsește telefonul</item>
+        <item>Găsește butonul Mi-key</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>Mi Fit</item>
-        <item>Mi VR</item>
-        <item>Xiaomi Wear</item>
+        <item>, activ</item>
+        <item>, activ (media)</item>
+        <item>, activ (telefon)</item>
     </string-array>
 </resources>

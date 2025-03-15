@@ -2,12 +2,10 @@
 <resources>
     <string name="calendar_default_name">デフォルト</string>
     <string name="calendar_info">カレンダー情報</string>
-    <string name="calendar_info_error">エラー</string>
     <string name="calendar_info_events">イベント: %1$d</string>
     <string name="calendar_info_events_dirty">イベント: %1$d | 未保存: %2$d</string>
     <string name="calendar_info_no_calendars">カレンダーはありません</string>
     <string name="calendar_storage">カレンダーストレージ</string>
-    <string name="channel_description" />
     <string name="channel_name">カレンダーのリマインダー</string>
     <string name="cta_notice">まずカレンダーを開き、インターネットへの接続を許可してください。</string>
     <string name="debug_tool_delete_button">削除</string>
@@ -23,6 +21,6 @@
     <string name="holiday_update_summary">タップするとカレンダー情報をアップデートします。</string>
     <string name="holiday_update_title">アップデートが利用可能です</string>
     <string name="provider_label">カレンダー</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">カレンダーのデータベースをアップデート中…</string>
+    <string name="calendar_info_error">エラー</string>
 </resources>

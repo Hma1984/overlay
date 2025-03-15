@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_action_mode_done">Gereed</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -45,7 +45,6 @@
     <string name="app_name">Scanner</string>
     <string name="app_remove_icon_description_content">Scanner is een systeem-app. U kunt het nog steeds vinden in de Instellingen of scancodes met Camera, Browser en Mi Wallet nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="app_remove_icon_description_title">\"Scanner\" verwijderen uit het Startscherm?</string>
-    <string name="auracast_code_title_key">Luister naar de uitzending van %s</string>
     <string name="back">Terug</string>
     <string name="barcode_into_rectangle">Plaats de code in het frame</string>
     <string name="birthday">Verjaardag:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">E-mail verzenden</string>
     <string name="btn_send_message">SMS verzenden</string>
     <string name="camera_error_title">Camerafout</string>
-    <string name="camera_string">Camera</string>
-    <string name="camera_use">Voor het gebruik van de camera</string>
     <string name="cancel">Annuleren</string>
     <string name="choose_open_code_app">Selecteer een app</string>
     <string name="choose_pay_title">Selecteer betaalmethode</string>
@@ -216,17 +213,15 @@
     <string name="miracast_switch_off">Draadloos scherm is uitgeschakeld</string>
     <string name="miracast_switch_tip">Schakel Draadloos scherm in om deze functie te gebruiken</string>
     <string name="mishop">Mi Store</string>
-    <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
-    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>
@@ -298,11 +293,8 @@
     <string name="open_web_url">Openen in browser</string>
     <string name="pay_save_this_choose">Mijn keuze onthouden</string>
     <string name="payment_text">Openen met %s</string>
-    <string name="permissions_need">Vereiste toestemmingen</string>
-    <string name="permissions_use">Toestemmingen</string>
     <string name="phone">Telefoon:</string>
     <string name="place_barcode_into_rectangle">Plaats de code in het frame</string>
-    <string name="please_enable_bluetooth_retry">Schakel Bluetooth in en probeer het opnieuw</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preparing_sd">Intern geheugen voorbereiden…</string>
@@ -337,8 +329,6 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">Niet genoeg ruimte op interne opslag. Maak wat ruimte vrij.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">Toegang tot en bewerk items die zijn opgeslagen in de apparaatopslag</string>
-    <string name="storage_string">Toegang tot opslag</string>
     <string name="study_scan_result">Resultaat</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>

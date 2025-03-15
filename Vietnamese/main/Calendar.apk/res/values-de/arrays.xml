@@ -1,106 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Manuell</item>
-        <item>Alle %d Minuten</item>
-        <item>Jede Stunde</item>
-        <item>Alle %d Stunden</item>
-        <item>Alle %d Stunden</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Nichts</item>
+        <item>Islamischer Kalender</item>
+        <item>Indischer Nationalkalender</item>
+        <item>Vikram-Kalender</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Wassermann</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Widder</item>
+        <item>20.01. - 18.02.</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Krebs</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Steinbock</item>
+        <item>22.06. - 22.07.</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Nur dieses Ereignis</item>
-        <item>Alle Ereignisse in der Serie</item>
+        <item>Nur diesen Termin</item>
+        <item>Alle Termine der Serie</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Nur dieses Mal</item>
-        <item>Wiederholte Erinnerung deaktivieren</item>
+        <item>Einmal ausschalten</item>
+        <item>Immer aus</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Vorwärts</item>
         <item>Rückwärts</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Zum Termin</item>
+        <item>5 Minuten vorher</item>
+        <item>15 Minuten vorher</item>
+        <item>30 Minuten vorher</item>
+        <item>1 Stunde vorher</item>
+        <item>4 Stunden vorher</item>
+        <item>1 Tag vorher</item>
+        <item>2 Tage vorher</item>
+        <item>1 Woche vorher</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Nur dieses Ereignis</item>
-        <item>Dieses und zukünftige Ereignisse</item>
-        <item>Alle Ereignisse</item>
+        <item>Nur diesen Termin</item>
+        <item>Diesen &amp; zukünftige Termine</item>
+        <item>Alle Termine</item>
     </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
-        <item>Zwillinge</item>
+        <item>Zwilling</item>
+        <item>21.05. - 21.06.</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>Löwe</item>
+        <item>23.07. - 22.08.</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Waage</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Nichts</item>
-        <item>Traditioneller chinesischer Kalender</item>
-        <item>Islamischer Kalender</item>
-        <item>Hebräischer Kalender</item>
-        <item>Japanischer Kalender</item>
-        <item>Persischer Kalender</item>
-        <item>Indischer Kalender</item>
-        <item>Buddhistischer Kalender</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Januar</item>
-        <item>Februar</item>
-        <item>März</item>
-        <item>April</item>
-        <item>Mai</item>
-        <item>Juni</item>
-        <item>Juli</item>
-        <item>August</item>
-        <item>September</item>
-        <item>Oktober</item>
-        <item>November</item>
-        <item>Dezember</item>
+        <item>23.09. - 23.10.</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Nur dieses Mal</item>
-        <item>Wiederholte Erinnerung einstellen</item>
+        <item>Einmal einschalten</item>
+        <item>Immer an</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Fische</item>
+        <item>19.02. - 20.03.</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Aus</item>
-        <item>Für alle Ereignisse</item>
-        <item>Für zeitkritische Ereignisse</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
+        <item>Für alle Termine</item>
+        <item>Für zeitkritische Termine</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Immer</item>
-        <item>Nur im Lautlosmodus</item>
+        <item>Nur bei lautlos</item>
         <item>Niemals</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Nach Region</item>
+        <item>Regionsstandard</item>
         <item>Samstag</item>
         <item>Sonntag</item>
         <item>Montag</item>
@@ -140,7 +128,7 @@
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Nie</item>
-        <item>Uhrzeit</item>
+        <item>Zeit</item>
         <item>Anzahl</item>
     </string-array>
     <string-array name="repeat_choose_month">
@@ -158,16 +146,16 @@
         <item>Dez</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>Erste</item>
-        <item>Zweite</item>
-        <item>Dritte</item>
-        <item>Vierte</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
         <item>Letzte</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Mo - Fr</item>
         <item>Wochenende</item>
-        <item>Ganze Woche</item>
+        <item>Täglich</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Mo</item>
@@ -179,7 +167,7 @@
         <item>So</item>
     </string-array>
     <string-array name="repeat_countdown">
-        <item>Niemals</item>
+        <item>Nie</item>
         <item>Monatlich</item>
         <item>Jährlich</item>
     </string-array>
@@ -218,13 +206,13 @@
         <item>4. Freitag</item>
         <item>4. Samstag</item>
         <item>4. Sonntag</item>
-        <item>letzten Montag</item>
-        <item>letzten Dienstag</item>
-        <item>letzten Mittwoch</item>
-        <item>letzten Donnerstag</item>
-        <item>letzten Freitag</item>
-        <item>letzten Samstag</item>
-        <item>letzten Sonntag</item>
+        <item>letzter Montag</item>
+        <item>letzter Dienstag</item>
+        <item>letzter Mittwoch</item>
+        <item>letzter Donnerstag</item>
+        <item>letzter Freitag</item>
+        <item>letzter Samstag</item>
+        <item>letzter Sonntag</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Keine Antwort</item>
@@ -232,120 +220,53 @@
         <item>Vielleicht</item>
         <item>Nein</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Keine Antwort</item>
-        <item>Akzeptieren</item>
-        <item>Später entscheiden</item>
-        <item>Ablehnen</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Schütze</item>
+        <item>23.11. - 21.12.</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Skorpion</item>
+        <item>24.10. - 22.11.</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Stier</item>
-    </string-array>
-    <string-array name="timezone_labels_v3">
-        <item>Marschallinseln</item>
-        <item>Midwayinseln</item>
-        <item>Hawaii</item>
-        <item>Alaska</item>
-        <item>Pacific Time</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Mountain Time</item>
-        <item>Zentralamerika</item>
-        <item>Central Time</item>
-        <item>Mexiko-Stadt</item>
-        <item>Saskatchewan</item>
-        <item>Bogotá</item>
-        <item>Eastern Time</item>
-        <item>Venezuela</item>
-        <item>Atlantic Time (Barbados)</item>
-        <item>Atlantic Time (Kanada)</item>
-        <item>Manaus</item>
-        <item>Santiago</item>
-        <item>Neufundland</item>
-        <item>Brasília</item>
-        <item>Buenos Aires</item>
-        <item>Grönland</item>
-        <item>Montevideo</item>
-        <item>Mittelatlantik</item>
-        <item>Azoren</item>
-        <item>Kap Verde</item>
-        <item>Casablanca</item>
-        <item>London</item>
-        <item>Dublin</item>
-        <item>Amsterdam</item>
-        <item>Berlin</item>
-        <item>Belgrad</item>
-        <item>Brüssel</item>
-        <item>Sarajevo</item>
-        <item>Windhoek</item>
-        <item>Westafrikanische Zeit</item>
-        <item>Amman</item>
-        <item>Athen</item>
-        <item>Istanbul</item>
-        <item>Beirut</item>
-        <item>Kairo</item>
-        <item>Helsinki</item>
-        <item>Jerusalem</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Bagdad</item>
-        <item>Moskau</item>
-        <item>Kuwait</item>
-        <item>Nairobi</item>
-        <item>Teheran</item>
-        <item>Baku</item>
-        <item>Tiflis</item>
-        <item>Eriwan</item>
-        <item>Dubai</item>
-        <item>Kabul</item>
-        <item>Karatschi</item>
-        <item>Uralsk</item>
-        <item>Jekaterinburg</item>
-        <item>Kalkutta</item>
-        <item>Sri Lanka</item>
-        <item>Kathmandu</item>
-        <item>Astana</item>
-        <item>Rangun</item>
-        <item>Krasnojarsk</item>
-        <item>Bangkok</item>
-        <item>Beijing</item>
-        <item>Chongqing</item>
-        <item>Hong Kong</item>
-        <item>Macau</item>
-        <item>Singapur</item>
-        <item>Irkutsk</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipeh</item>
-        <item>Seoul</item>
-        <item>Tokio</item>
-        <item>Yakutsk</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sydney</item>
-        <item>Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fidschi</item>
-        <item>Tonga</item>
+        <item>20.04. - 20.05.</item>
     </string-array>
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Jungfrau</item>
+        <item>23.08. - 22.09.</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Klar</item>
+        <item>Bewölkt</item>
+        <item>Bedeckt</item>
+        <item>Nebel</item>
+        <item>Starker Sturm</item>
+        <item>Sturm</item>
+        <item>Leichter Sturm</item>
+        <item>Gewitter</item>
+        <item>Schauer</item>
+        <item>Starkregen</item>
+        <item>Regen</item>
+        <item>Leichter Regen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Schneeschauer</item>
+        <item>Starker Schneefall</item>
+        <item>Schnee</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Staub</item>
+        <item>Leichter Standsturm</item>
+        <item>Hagel</item>
+        <item>Feinstaub</item>
+        <item>Dunst</item>
+        <item>Gefrierender Regen</item>
     </string-array>
     <string-array name="week_header_name">
         <item>SO</item>
@@ -361,12 +282,22 @@
         <item>Weißer Hintergrund</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>So</item>
-        <item>Mo</item>
-        <item>Di</item>
-        <item>Mi</item>
-        <item>Do</item>
+        <item>S</item>
+        <item>M</item>
+        <item>D</item>
+        <item>M</item>
+        <item>D</item>
         <item>F</item>
-        <item>Sa</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Widder</item>
+        <item>21.03. - 19.04.</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Steinbock</item>
+        <item>22.12. - 19.01.</item>
     </string-array>
 </resources>

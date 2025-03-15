@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Tətbiqləri birləşdir</item>
+        <item>Ara bağlantı/Tətbiqləri birləşdir</item>
+        <item>Avtomobil özəllikləri</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Ara bağlantı</item>
+        <item>Ara bağlantı/Ara bağlantı</item>
+        <item>Cihaz ara bağlantısı, Cihaz ara bağlantı xidmətləri, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, ağıllı bağlantı, Mi Smart Hub, Ara bağlantı, Duo, Xiaomi telefonu, Xiaomi kompüteri, Çoxlu ekran, Duet, yayım, tətbiqləri birləşdir, toxunmadan, Mirror, Xiaomi Eko sistemi, cihaz bağlantısı</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Gizlilik</item>
+        <item>Ara bağlantı/Gizlilik</item>
+        <item>Gizlilik və ara bağlantı, Gizlilik</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Xiaomi Ara bağlantı</item>
+        <item>Ara bağlantı/Xiaomi Ara bağlantı</item>
+        <item>Xiaomi Ara bağlantı xidmətləri, Xiaomi Ara bağlantı</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Tətbiq köçürmə</item>
+        <item>Ara bağlantı/Tətbiqlər</item>
+        <item>Tətbiqləri köçür, ötür, transfer et</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Zəng sinxrn</item>
+        <item>Ara bağlantı/Zəng sinxrn</item>
+        <item>Zəng sinxrn, cihazlar arası zənglər, zəng ötürmə, zənglər</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Şəbəkə köməyi</item>
+        <item>Ara bağlantı/Şəbəkə yardımı</item>
+        <item>Şəbəkə köməyi, internet paylaşımı, hotspot paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Əsas ekran+</item>
+        <item>Ara bağlantı/Əsas ekran+</item>
+        <item>Əsas ekran+, Mi Smart Hub, ekran paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Lövhə</item>
+        <item>Ara bağlantı/Lövhə</item>
+        <item>Lövhə</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Cihazlar arası bildirişlər</item>
+        <item>Ara bağlantı/Bildirişlər</item>
+        <item>Cihazlar arası bildirişlər</item>
+    </string-array>
+    <string-array name="debug_mode_protocol_entries">
+        <item>İlkin</item>
+        <item>MiPlay</item>
+        <item>Miracast</item>
+        <item>AirKan</item>
+        <item>LeLink</item>
+        <item>DLNA</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+</resources>

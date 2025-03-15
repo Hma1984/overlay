@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Најнижа</item>
+        <item>Ниска</item>
+        <item>Редовна</item>
+        <item>Висока</item>
+        <item>Највиша</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Балансирано</item>
+        <item>Високи квалитет</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Ниско</item>
+        <item>Стандарднo</item>
+        <item>Високо</item>
+        <item>Највише</item>
+        <item>Задато</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Велика брзина</item>
+        <item>Балансирано</item>
+        <item>Високи квалитет</item>
+    </string-array>
+</resources>

@@ -4,7 +4,7 @@
         <item>Ad</item>
         <item>Ləqəb</item>
         <item>Telefon</item>
-        <item>E-Poçt</item>
+        <item>E-poçt</item>
         <item>Təşkilat</item>
         <item>IM</item>
         <item>SIP Telefon</item>
@@ -12,34 +12,24 @@
         <item>Veb sayt</item>
         <item>Ünvan</item>
         <item>Qeyd</item>
-        <item>Qohum</item>
+        <item>Münasibət</item>
     </string-array>
     <string-array name="dialog_choice_specific_correct_as_normal">
-        <item>%s-dən olan təqdimat mesajları</item>
-        <item>%s-dən olan operator xidmət mesajları</item>
-        <item>%s-dən olan maliyyə mesajları</item>
+        <item>%s göndərən tanıtım mesajları</item>
+        <item>%s göndərən operator xidməti mesajları</item>
+        <item>%s göndərən maliyyə mesajları</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maksimum</item>
         <item>2 gün</item>
     </string-array>
-    <string-array name="entries_pref_key_voice_report">
-        <item>@string/voice_report_wiredon</item>
-        <item>@string/voice_report_anytime</item>
-        <item>@string/voice_report_off</item>
-    </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Təyin edilməyib</item>
+        <item>Ayarlanmadı</item>
         <item>1 saat</item>
         <item>6 saat</item>
         <item>12 saat</item>
         <item>1 gün</item>
         <item>Maksimum</item>
-    </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Həmişə</item>
-        <item>Yalnız Səssiz rejimdə</item>
-        <item>Əsla</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
@@ -49,8 +39,106 @@
         <item>SMS</item>
         <item>Mi Mesaj</item>
     </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniyə</item>
+        <item>2 saniyə</item>
+        <item>3 saniyə</item>
+        <item>4 saniyə</item>
+        <item>5 saniyə</item>
+        <item>6 saniyə</item>
+        <item>7 saniyə</item>
+        <item>8 saniyə</item>
+        <item>9 saniyə</item>
+        <item>10 saniyə</item>
+        <item>Digər</item>
+    </string-array>
     <string-array name="switch_sdk">
         <item>Mi Mesaj</item>
         <item>CMCC Ağıllı SMS</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
     </string-array>
 </resources>

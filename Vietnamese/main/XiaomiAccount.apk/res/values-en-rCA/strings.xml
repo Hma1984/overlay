@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_popup_window_title">Pop-up window</string>
+    <string name="dropdown_menu">Drop-down menu</string>
+    <string name="indeterminate">Neither ticked nor unticked</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="template_percent">%1$d per cent.</string>
+</resources>

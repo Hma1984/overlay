@@ -7,7 +7,6 @@
     <string name="debug_dump_email_body">Vedlagt oversendes kontaktdatabasen med informasjon om alle mine kontaker. Behandles forsiktig.</string>
     <string name="debug_dump_email_sender_picker">Velg et program for å sende filen</string>
     <string name="debug_dump_email_subject">Kontaktdatabase vedlagt</string>
-    <string name="debug_dump_start_button">Start</string>
     <string name="debug_dump_title">Kopier kontaktdatabase</string>
     <string name="default_directory">Kontakter</string>
     <string name="local_invisible_directory">Annet</string>

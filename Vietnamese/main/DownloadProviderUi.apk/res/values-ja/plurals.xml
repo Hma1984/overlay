@@ -28,22 +28,19 @@
         <item quantity="other">%d分前</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">%d件のタスクを削除しますか？</item>
+        <item quantity="other">%d個のタスクを削除しますか？</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d個のダウンロードが削除されました</item>
+        <item quantity="other">%1$d個のダウンロードを削除しました</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d日</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d時間</item>
     </plurals>
     <plurals name="durationMinutes">
         <item quantity="other">%1$d分</item>
     </plurals>
     <plurals name="durationSeconds">
-        <item quantity="other">%1$d 秒</item>
+        <item quantity="other">%1$d秒</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30分前</item>
@@ -69,10 +66,7 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d分前</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="other">%s個</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">さらに%1$d個表示する</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d時間</item>
     </plurals>
 </resources>

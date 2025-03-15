@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d hora atrás</item>
-        <item quantity="one">%d hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Em %d hora</item>
-        <item quantity="one">Em %d hora</item>
+        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
@@ -25,7 +25,7 @@
         <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
+        <item quantity="other">Em %d mins</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,7 +33,7 @@
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
+        <item quantity="other">%d mins atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
@@ -42,6 +42,7 @@
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mensagens</item>
+        <item quantity="zero">%d mensagens</item>
         <item quantity="one">%d mensagem</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
@@ -54,6 +55,7 @@
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d selecionados</item>
+        <item quantity="zero">Selecionar itens</item>
         <item quantity="one">%d selecionado</item>
     </plurals>
     <plurals name="delivery_toast_body_more_plurals">
@@ -70,6 +72,7 @@
     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d mensagens</item>
+        <item quantity="zero">%d mensagens</item>
         <item quantity="one">%d mensagem</item>
     </plurals>
     <plurals name="in_a_hour">
@@ -112,25 +115,13 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Retirar (%ds)</item>
-        <item quantity="one">Retirar (%ds)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Você recebeu %d convites de chat em grupo</item>
         <item quantity="one">Você recebeu %d convite de chat em grupo</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s pessoas</item>
-        <item quantity="one">%1$s pessoa</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultados para \"%2$s\"</item>
         <item quantity="one">%1$s resultado para \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d segundos</item>
-        <item quantity="one">%d segundo</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s mensagens enviadas</item>
@@ -139,10 +130,12 @@
     <plurals name="slide_audio_duration">
         <item quantity="other">%d seg</item>
         <item quantity="one">%d seg</item>
+        <item quantity="few">%d seg</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d seg</item>
         <item quantity="one">%d seg</item>
+        <item quantity="few">%d seg</item>
     </plurals>
     <plurals name="timed_message_expired_title">
         <item quantity="other">%d mensagens programadas não foram enviadas</item>
@@ -155,5 +148,9 @@
     <plurals name="to_count">
         <item quantity="other">%d destinatários</item>
         <item quantity="one">%d destinatário</item>
+    </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Frequência cardíaca: %1$d BPM (%2$s)</item>
+        <item quantity="one">Frequência cardíaca: %1$d BPM (%2$s)</item>
     </plurals>
 </resources>

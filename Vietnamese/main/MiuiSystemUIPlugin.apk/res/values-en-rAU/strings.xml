@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_airplane_mode">Aeroplane mode.</string>
+    <string name="airplane_mode">Aeroplane mode</string>
+    <string name="control_center_notification_switch_guide">Swipe to switch between Control centre and Notification shade</string>
+    <string name="controls_dismiss_dialog_message">Manage smart home devices from multiple apps in Control centre</string>
+    <string name="controls_dismiss_dialog_message_international">"Remove \"Smart home\" card now? You'll be able to restore it in Settings > Control centre."</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="notification_control_center">Notifications &amp; Control centre</string>
+    <string name="open_system_optimization">Turn on system optimisation first</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="qs_control_header_tiles_title">Control centre</string>
+    <string name="quick_settings_flashlight_label">Torch</string>
+    <string name="status_bar_setting_title">Control centre &amp; status bar</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+</resources>

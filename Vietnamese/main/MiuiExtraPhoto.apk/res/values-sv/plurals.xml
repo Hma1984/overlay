@@ -68,12 +68,4 @@
         <item quantity="other">%d minuter sedan</item>
         <item quantity="one">1 minut sedan</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">%1$d objekt totalt</item>
-        <item quantity="one">%1$d objekt totalt</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">%1$d objekt valda</item>
-        <item quantity="one">%1$d objekt valt</item>
-    </plurals>
 </resources>

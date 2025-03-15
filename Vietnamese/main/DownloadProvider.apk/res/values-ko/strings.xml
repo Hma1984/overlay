@@ -10,11 +10,9 @@
     <string name="download_queued">목록에 추가됨</string>
     <string name="download_remaining">%s 남음</string>
     <string name="download_running">다운로드 중</string>
-    <string name="download_running_percent">다운로드 중, %s</string>
     <string name="download_unknown_title">&lt;제목 없음></string>
     <string name="notif_title_file_size">총 %1$d</string>
     <string name="notif_title_single_downloading">%1$s 다운로드 중</string>
-    <string name="notification_dld_msg">다운로드 중인 앱 관리</string>
     <string name="notification_download_complete">다운로드 성공</string>
     <string name="notification_download_failed">항목 다운로드 실패</string>
     <string name="notification_need_wifi_for_size">파일이 너무 큽니다. Wi-Fi 연결이 요구됩니다.</string>

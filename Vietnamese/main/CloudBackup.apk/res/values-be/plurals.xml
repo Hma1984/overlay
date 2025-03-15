@@ -7,10 +7,8 @@
         <item quantity="many">Гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d гадзін таму</item>
+        <item quantity="other">%d гадзіну таму</item>
         <item quantity="one">%d гадзіну таму</item>
-        <item quantity="few">%d гадзіны таму</item>
-        <item quantity="many">%d гадзін таму</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -19,10 +17,10 @@
         <item quantity="many">Паўгадзіны таму</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Праз %d гадзін</item>
+        <item quantity="other">Праз %d гадзіну</item>
         <item quantity="one">Праз %d гадзіну</item>
-        <item quantity="few">Праз %d гадзіны</item>
-        <item quantity="many">Праз %d гадзін</item>
+        <item quantity="few">Праз %d гадзіну</item>
+        <item quantity="many">Праз %d гадзіну</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Праз паўгадзіны</item>
@@ -37,10 +35,10 @@
         <item quantity="many">Неадкладна</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Праз %d хв.</item>
-        <item quantity="one">Праз %d хв.</item>
-        <item quantity="few">Праз %d хв.</item>
-        <item quantity="many">Праз %d хв.</item>
+        <item quantity="other">Праз %d хв</item>
+        <item quantity="one">Праз %d хв</item>
+        <item quantity="few">Праз %d хв</item>
+        <item quantity="many">Праз %d хв</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>
@@ -49,34 +47,21 @@
         <item quantity="many">Толькі што</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d хвілін таму</item>
-        <item quantity="one">%d хвіліну таму</item>
-        <item quantity="few">%d хвіліны таму</item>
-        <item quantity="many">%d хвілін таму</item>
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">%d хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
     </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
-        <item quantity="other">"Падобна на тое, што вы не стваралі рэзервовыя копіі аб'ектаў на працягу %s тыдняў. Стварыце рэзервовыя копіі, каб пазбегнуць страты чаго-небудзь важнага."</item>
-        <item quantity="one">"Падобна на тое, што вы не стваралі рэзервовыя копіі аб'ектаў на працягу %s тыдня. Стварыце рэзервовыя копіі, каб пазбегнуць страты чаго-небудзь важнага."</item>
-        <item quantity="few">"Падобна на тое, што вы не стваралі рэзервовыя копіі аб'ектаў на працягу %s тыдняў. Стварыце рэзервовыя копіі, каб пазбегнуць страты чаго-небудзь важнага."</item>
-        <item quantity="many">"Падобна на тое, што вы не стваралі рэзервовыя копіі аб'ектаў на працягу %s тыдняў. Стварыце рэзервовыя копіі, каб пазбегнуць страты чаго-небудзь важнага."</item>
+        <item quantity="other">Вы не стваралі рэзервовыя копіі %s тыдняў. Выканайце рэзервовае капіяванне, каб захаваць важныя дадзеныя.</item>
+        <item quantity="one">Вы не стваралі рэзервовыя копіі %s тыдзень. Выканайце рэзервовае капіяванне, каб захаваць важныя дадзеныя.</item>
+        <item quantity="few">Вы не стваралі рэзервовыя копіі %s тыдня. Выканайце рэзервовае капіяванне, каб захаваць важныя дадзеныя.</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s рэзервовай копіі (%2$s)</item>
         <item quantity="one">%1$s рэзервовая копія (%2$s)</item>
         <item quantity="few">%1$s рэзервовых копіі (%2$s)</item>
         <item quantity="many">%1$s рэзервовых копій (%2$s)</item>
-    </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">Апошняя рэзервовая копія: %1$d дзён таму | Новыя дадзеныя: %2$s</item>
-        <item quantity="one">Апошняя рэзервовая копія: %1$d дзень таму | Новыя дадзеныя: %2$s</item>
-        <item quantity="few">Апошняя рэзервовая копія: %1$d дні таму | Новыя дадзеныя: %2$s</item>
-        <item quantity="many">Апошняя рэзервовая копія: %1$d дзён таму | Новыя дадзеныя: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">Апошняя рэзервовая копія была створана %d дзён таму</item>
-        <item quantity="one">Апошняя рэзервовая копія была створана %d дзень таму</item>
-        <item quantity="few">Апошняя рэзервовая копія была створана %d дні таму</item>
-        <item quantity="many">Апошняя рэзервовая копія была створана %d дзён таму</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -127,21 +112,27 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="session_starting_app_count_backup_text">
-        <item quantity="other">Створана рэзервовая копія %d праграм</item>
-        <item quantity="one">Створана рэзервовая копія %d праграмы</item>
-        <item quantity="few">Створана рэзервовая копія %d праграм</item>
-        <item quantity="many">Створана рэзервовая копія %d праграм</item>
+        <item quantity="other">Скапіявана %d праграм</item>
+        <item quantity="one">Скапіяваны %d праграма</item>
+        <item quantity="few">Скапіявана %d праграмы</item>
     </plurals>
     <plurals name="session_starting_app_count_restore_text">
         <item quantity="other">Адноўлена %d праграм</item>
         <item quantity="one">Адноўлена %d праграма</item>
         <item quantity="few">Адноўлена %d праграмы</item>
-        <item quantity="many">Адноўлена %d праграм</item>
     </plurals>
     <plurals name="session_time_remain">
-        <item quantity="other">Застаецца прыкладна %s хв.</item>
-        <item quantity="one">Застаецца прыкладна %s хв.</item>
-        <item quantity="few">Застаецца прыкладна %s хв.</item>
-        <item quantity="many">Застаецца прыкладна %s хв.</item>
+        <item quantity="other">Засталося каля %s хв.</item>
+        <item quantity="one">Засталося каля %s хв.</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d дзён з моманту апошняга капіявання | Новыя дадзеныя: %2$s</item>
+        <item quantity="one">%1$d дзень з моманту апошняга капіявання | Новыя дадзеныя: %2$s</item>
+        <item quantity="few">%1$d дня з моманту апошняга капіявання | Новыя дадзеныя: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d дзён з моманту апошняга капіявання</item>
+        <item quantity="one">%d дзень з моманту апошняга капіявання</item>
+        <item quantity="few">%d дня з моманту апошняга капіявання</item>
     </plurals>
 </resources>

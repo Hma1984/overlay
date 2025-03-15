@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="string" name="error_data_in_transfer" id="0x7f020000" />
+    <public type="string" name="error_forbidden" id="0x7f020001" />
+    <public type="string" name="error_not_acceptable" id="0x7f020002" />
+    <public type="string" name="error_title" id="0x7f020003" />
+    <public type="string" name="error_unauthorized" id="0x7f020004" />
+    <public type="string" name="micloud_downloading_clipboard_message_from_web" id="0x7f020005" />
+    <public type="string" name="micloud_send_message_desc" id="0x7f020006" />
+    <public type="string" name="license_strings" id="0x7f020007" />
+    <public type="string" name="app_name" id="0x7f020008" />
+    <public type="string" name="status_bar_notification_info_overflow" id="0x7f020009" />
+</resources>

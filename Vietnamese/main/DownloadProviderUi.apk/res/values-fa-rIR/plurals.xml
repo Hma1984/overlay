@@ -41,16 +41,12 @@
         <item quantity="one">%d وظیفه حذف شود؟</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d دانلود حذف شدند</item>
+        <item quantity="other">%1$d دانلود حذف شد</item>
         <item quantity="one">%1$d دانلود حذف شد</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d روز</item>
         <item quantity="one">%1$d روز</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d روز</item>
-        <item quantity="one">%1$d ساعت</item>
     </plurals>
     <plurals name="durationMinutes">
         <item quantity="other">%1$d دقیقه</item>
@@ -92,12 +88,8 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="other">%s مورد</item>
-        <item quantity="one">%s مورد</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">نمایش %1$d مورد بیشتر</item>
-        <item quantity="one">نمایش %1$d مورد بیشتر</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d ساعت</item>
+        <item quantity="one">%1$d ساعت</item>
     </plurals>
 </resources>

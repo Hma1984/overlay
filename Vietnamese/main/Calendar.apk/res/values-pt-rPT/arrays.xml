@@ -1,106 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Manual</item>
-        <item>A cada %d minutos</item>
-        <item>A cada hora</item>
-        <item>A cada %d horas</item>
-        <item>A cada %d horas</item>
-    </string-array>
-    <string-array name="aquarius_info">
-        <item>aquarius</item>
-        <item>Aquário</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Carneiro</item>
-    </string-array>
-    <string-array name="cancer_info">
-        <item>cancer</item>
-        <item>Caranguejo</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Capricórnio</item>
-    </string-array>
     <string-array name="change_response_labels">
         <item>Apenas este evento</item>
-        <item>Todos os eventos na série</item>
+        <item>Todos os eventos da série</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Só esta vez</item>
-        <item>Desligar lembrete recorrente</item>
+        <item>Desligar uma vez</item>
+        <item>Desligar sempre</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Para a frente</item>
         <item>Para trás</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Na hora do evento</item>
+        <item>5 minutos antes</item>
+        <item>10 minutos antes</item>
+        <item>15 minutos antes</item>
+        <item>30 minutos antes</item>
+        <item>1 hora antes</item>
+        <item>1 dia antes</item>
+        <item>2 dias antes</item>
+        <item>1 semana antes</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Apenas este evento</item>
-        <item>Este evento e eventos futuros</item>
+        <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
-    <string-array name="gemini_info">
-        <item>gemini</item>
-        <item>Gémeos</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>leo</item>
-        <item>Leão</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>libra</item>
-        <item>Balança</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>N/A</item>
-        <item>Calendário Chinês Tradicional</item>
-        <item>Calendário Islâmico</item>
-        <item>Calendário Hebraico</item>
-        <item>Calendário Japonês</item>
-        <item>Calendário Persa</item>
-        <item>Calendário Indiano</item>
-        <item>Calendário Budista</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Janeiro</item>
-        <item>Fevereiro</item>
-        <item>Março</item>
-        <item>Abril</item>
-        <item>Maio</item>
-        <item>Junho</item>
-        <item>Julho</item>
-        <item>Agosto</item>
-        <item>Setembro</item>
-        <item>Outubro</item>
-        <item>Novembro</item>
-        <item>Dezembro</item>
-    </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Só esta vez</item>
-        <item>Definir lembrete recorrente</item>
+        <item>Ligar uma vez</item>
+        <item>Ligar sempre</item>
     </string-array>
-    <string-array name="pisces_info">
-        <item>pisces</item>
-        <item>Peixes</item>
+    <string-array name="panchang_weeks">
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Desligado</item>
-        <item>Para todos os eventos</item>
-        <item>Para eventos urgentes</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
+        <item>Todos os eventos</item>
+        <item>Eventos sensíveis ao tempo</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
-        <item>Apenas no modo silêncio</item>
+        <item>Apenas em modo Silêncio</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Predefinido da região</item>
+        <item>Predefinida da localização</item>
         <item>Sábado</item>
         <item>Domingo</item>
         <item>Segunda-feira</item>
@@ -140,8 +92,8 @@
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Nunca</item>
-        <item>Hora</item>
-        <item>Contagem</item>
+        <item>Tempo</item>
+        <item>Contar</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>Jan</item>
@@ -165,7 +117,7 @@
         <item>último</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
-        <item>Seg. a Sex.</item>
+        <item>Segunda a sexta</item>
         <item>Fim de semana</item>
         <item>Semana inteira</item>
     </string-array>
@@ -190,41 +142,41 @@
         <item>ano</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
-        <item>primeira Segunda-feira</item>
-        <item>primeira Terça-feira</item>
-        <item>primeira Quarta-feira</item>
-        <item>primeira Quinta-feira</item>
-        <item>primeira Sexta-feira</item>
-        <item>primeiro Sábado</item>
-        <item>primeiro Domingo</item>
-        <item>segunda Segunda-feira</item>
-        <item>segunda Terça-feira</item>
-        <item>segunda Quarta-feira</item>
-        <item>segunda Quinta-feira</item>
-        <item>segunda Sexta-feira</item>
-        <item>segundo Sábado</item>
-        <item>segundo Domingo</item>
-        <item>terceira Segunda-feira</item>
-        <item>terceira Terça-feira</item>
-        <item>terceira Quarta-feira</item>
-        <item>terceira Quinta-feira</item>
-        <item>terceira Sexta-feira</item>
-        <item>terceiro Sábado</item>
-        <item>terceiro Domingo</item>
-        <item>quarta Segunda-feira</item>
-        <item>quarta Terça-feira</item>
-        <item>quarta Quarta-feira</item>
-        <item>quarta Quinta-feira</item>
-        <item>quarta Sexta-feira</item>
-        <item>quarto Sábado</item>
-        <item>quarto Domingo</item>
-        <item>última Segunda-feira</item>
-        <item>última Terça-feira</item>
-        <item>última Quarta-feira</item>
-        <item>última Quinta-feira</item>
-        <item>última Sexta-feira</item>
-        <item>último Sábado</item>
-        <item>último Domingo</item>
+        <item>primeira segunda</item>
+        <item>primeira terça</item>
+        <item>primeira quarta</item>
+        <item>primeira quinta</item>
+        <item>primeira sexta</item>
+        <item>primeiro sábado</item>
+        <item>primeiro domingo</item>
+        <item>segunda segunda</item>
+        <item>segunda terça</item>
+        <item>segunda quarta</item>
+        <item>segunda quinta</item>
+        <item>segunda sexta</item>
+        <item>segundo sábado</item>
+        <item>segundo domingo</item>
+        <item>terceira segunda</item>
+        <item>terceira terça</item>
+        <item>terceira quarta</item>
+        <item>terceira quinta</item>
+        <item>terceira sexta</item>
+        <item>terceiro sábado</item>
+        <item>terceiro domingo</item>
+        <item>quarta segunda</item>
+        <item>quarta terça</item>
+        <item>quarta quarta</item>
+        <item>quarta quinta</item>
+        <item>quarta sexta</item>
+        <item>quarto sábado</item>
+        <item>quarto domingo</item>
+        <item>última segunda</item>
+        <item>última terça</item>
+        <item>última quarta</item>
+        <item>última quinta</item>
+        <item>última sexta</item>
+        <item>último sábado</item>
+        <item>último domingo</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Sem resposta</item>
@@ -232,47 +184,29 @@
         <item>Talvez</item>
         <item>Não</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Não responder</item>
-        <item>Aceitar</item>
-        <item>Decidir depois</item>
-        <item>Rejeitar</item>
-    </string-array>
-    <string-array name="sagittarius_info">
-        <item>sagittarius</item>
-        <item>Sagitário</item>
-    </string-array>
-    <string-array name="scorpio_info">
-        <item>scorpio</item>
-        <item>Escorpião</item>
-    </string-array>
-    <string-array name="taurus_info">
-        <item>taurus</item>
-        <item>Touro</item>
-    </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Ilhas Marshall</item>
-        <item>Ilhas Midway</item>
+        <item>Atol Midway</item>
         <item>Havaí</item>
         <item>Alasca</item>
         <item>Hora do Pacífico</item>
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>Hora da Montanha</item>
+        <item>Hora Montanhas Rochosas</item>
         <item>América Central</item>
         <item>Hora Central</item>
         <item>Cidade do México</item>
         <item>Saskatchewan</item>
         <item>Bogotá</item>
-        <item>Hora Oriental</item>
+        <item>Hora Europa Oriental</item>
         <item>Venezuela</item>
-        <item>Hora do Atlântico (Barbados)</item>
-        <item>Hora do Atlântico (Canadá)</item>
+        <item>Hora Atlântico (Barbados)</item>
+        <item>Hora Atlântico (Canadá)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Terra Nova</item>
-        <item>Brasília</item>
+        <item>Brasilia</item>
         <item>Buenos Aires</item>
         <item>Gronelândia</item>
         <item>Montevidéu</item>
@@ -280,46 +214,42 @@
         <item>Açores</item>
         <item>Cabo Verde</item>
         <item>Casablanca</item>
-        <item>Londres</item>
-        <item>Dublin</item>
-        <item>Amsterdã</item>
-        <item>Berlim</item>
+        <item>Londres, Dublin</item>
+        <item>Amsterdão, Berlim</item>
         <item>Belgrado</item>
         <item>Bruxelas</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
-        <item>Hora de África Ocidental</item>
-        <item>Amã</item>
-        <item>Atenas</item>
-        <item>Istambul</item>
-        <item>Beirute</item>
+        <item>Hora África Ocidental</item>
+        <item>Amã, Jordânia</item>
+        <item>Atenas, Istambul</item>
+        <item>Beirute, Líbano</item>
         <item>Cairo</item>
-        <item>Helsínque</item>
-        <item>Jerusalém</item>
+        <item>Helsínquia</item>
+        <item>Jerusalem</item>
         <item>Minsk</item>
         <item>Harare</item>
-        <item>Bagdá</item>
-        <item>Moscou</item>
+        <item>Bagdade</item>
+        <item>Moscovo</item>
         <item>Kuwait</item>
         <item>Nairobi</item>
-        <item>Teerã</item>
+        <item>Tehran</item>
         <item>Baku</item>
         <item>Tbilisi</item>
-        <item>Erevan</item>
+        <item>Yerevan</item>
         <item>Dubai</item>
-        <item>Cabul</item>
-        <item>Karachi</item>
-        <item>Oral</item>
-        <item>Ecaterimburgo</item>
-        <item>Calcutá</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
         <item>Sri Lanka</item>
-        <item>Catmandu</item>
+        <item>Kathmandu</item>
         <item>Astana</item>
-        <item>Rangoon</item>
+        <item>Yangon</item>
         <item>Krasnoyarsk</item>
         <item>Banguecoque</item>
         <item>Pequim</item>
-        <item>Chongqing</item>
         <item>Hong Kong</item>
         <item>Macau</item>
         <item>Singapura</item>
@@ -327,15 +257,14 @@
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Taipei</item>
-        <item>Seul</item>
-        <item>Tóquio</item>
+        <item>Seoul</item>
+        <item>Tóquio, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sydney</item>
-        <item>Canberra</item>
+        <item>Sydney, Camberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>
@@ -343,18 +272,42 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="virgo_info">
-        <item>virgo</item>
-        <item>Virgem</item>
+    <string-array name="weather_forecasts">
+        <item>Céu limpo</item>
+        <item>Céu nublado</item>
+        <item>Céu muito nublado</item>
+        <item>Nevoeiro</item>
+        <item>Tempestade forte</item>
+        <item>Aguaceiros</item>
+        <item>Tempestade</item>
+        <item>Trovoada</item>
+        <item>Chuva</item>
+        <item>Chuva forte</item>
+        <item>Chuva moderada</item>
+        <item>Chuva fraca</item>
+        <item>Chuva com neve</item>
+        <item>Tempestade de neve</item>
+        <item>Neve</item>
+        <item>Nevão</item>
+        <item>Neve moderada</item>
+        <item>Leve queda de neve</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Leve tempestade de areia</item>
+        <item>Ventoso</item>
+        <item>Granizo</item>
+        <item>Poeiras</item>
+        <item>Neblina</item>
+        <item>Chuva fria</item>
     </string-array>
     <string-array name="week_header_name">
-        <item>DOM</item>
-        <item>SEG</item>
-        <item>TER</item>
-        <item>QUA</item>
-        <item>QUI</item>
-        <item>SEX</item>
-        <item>SÁB</item>
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparente</item>
@@ -368,5 +321,11 @@
         <item>Q</item>
         <item>S</item>
         <item>S</item>
+    </string-array>
+    <string-array name="global_criket_match">
+        <item>Internacional</item>
+        <item>IPL</item>
+        <item>Nacional</item>
+        <item>Ligas T20</item>
     </string-array>
 </resources>

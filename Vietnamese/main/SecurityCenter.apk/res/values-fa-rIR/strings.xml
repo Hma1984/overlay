@@ -80,13 +80,6 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">گذرواژه قفل برنامه را وارد کنید</string>
     <string name="accessibility_gameboosterservice_description">روشن کرده تا هنگام بازی کردن تماس‌های ورودی WeChat بی‌صدا شوند</string>
-    <string name="accessibility_keyboard_delete_button">حذف</string>
-    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
-    <string name="accessibility_keyboard_letter_board_shift2number_button">شماره‌ها</string>
-    <string name="accessibility_keyboard_letter_board_shift2symbol_button">نمادها</string>
-    <string name="accessibility_keyboard_ok_button">ورود</string>
-    <string name="accessibility_keyboard_symbol_board_shift2letter_button">حروف</string>
-    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">قفل نمادها</string>
     <string name="action_button_text_100">بهینه‌سازی</string>
     <string name="action_button_text_60">اصلاح</string>
     <string name="action_button_text_60_80">اصلاح</string>
@@ -118,7 +111,6 @@
     <string name="activity_title_virus_settings">تنظیمات</string>
     <string name="activity_title_white_list">موارد استثنا</string>
     <string name="ad_btn_default_text">اطلاعات بیشتر</string>
-    <string name="ad_flag_text">آگهی</string>
     <string name="ad_floating_window_title">بستن پنجره‌ی شناور برای قفل گشایی</string>
     <string name="ad_split_screen_title">برای گشودن قفل از تقسیم صفحه خارج شوید</string>
     <string name="ad_update_time">آخرین به‌روزرسانی در %s</string>
@@ -162,7 +154,6 @@
     <string name="alert_back_milink_hangup_tips_content_vb">هنگام خاموش بودن صفحه، برنامه در پس‌زمینه بدون ایجاد وقفه در روند بازتاباندن کار خواهد کرد. برای روشن کردن دوباره صفحه دکمه روشن/خاموش را فشار دهید.</string>
     <string name="all_address_choose_hint">همه شماره‌های این استان</string>
     <string name="allow_all">اجازه دادن به همه</string>
-    <string name="allow_device_id_access">انتخاب برنامه‌هایی که می‌تواند از شناسه دستگاه استفاده کند</string>
     <string name="allow_onetime">اجازه یک‌باره</string>
     <string name="already_close_gamebooster">افزاینده سرعت بازی خاموش است</string>
     <string name="am">ق.ظ</string>
@@ -180,7 +171,6 @@
     <string name="antispam_xpace_text">به فضای نخست رفته تا فهرست سیاه را تنظیم کنید</string>
     <string name="antivirus_browser_check">بررسی تارنما در مرورگر Mi</string>
     <string name="antivirus_browser_check_summary">بررسی خودکار تارنماها در مرورگر Mi و دریافت هشدار درباره خطرات احتمالی</string>
-    <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_choose_engine_dialog_title">انتخاب تعاریف</string>
     <string name="antivirus_choose_engine_settings">تنظیمات تعریف ویروس</string>
     <string name="antivirus_choose_engine_title">تعاریف</string>
@@ -199,8 +189,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">آپلود نام و جزئیات برنامه‌ها</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">برای شناسایی و خنثی‌سازی بیشتر ویروس‌ها، نام و ویژگی‌های بسته برنامه‌ها را بارگذاری می‌کنیم تا با استفاده از یک موتور ابر اسکن شوند.</string>
     <string name="antivirus_privacy_dialog_ok">تأیید</string>
-    <string name="antivirus_privacy_dialog_summary"><Data>این ویژگی توسط موتور ضد ویروس سوم شخص ارائه شده است. برای آگاهی بیشتر، &lt;a href=\"%1$s\">توافق‌نامه مجوز&lt;/a> ارائه شده توسط سوم شخص را بخوانید.</Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi"><Data>هنگام انجام اسکن امنیتی، مدل دستگاه و نتایج اسکن شما در سرورهای %1$s بارگذاری شده و بر اساس &lt;a href=\"%2$s\">شرایط و ضوابط&lt;/a> مربوطه مورد استفاده قرار خواهند گرفت.&lt;br/>&lt;br/>پیش از انجام اسکن‌های امنیتی شرایط و ضوابط %3$s را خوانده و بپذیرید.&lt;br/>&lt;br/>چنانچه نپذیرید که داده‌ها در سرورهای %4$s بارگذاری شوند، همچنان می‌توانید از مصادیق ویروس ذخیره شده محلی دستگاه خود استفاده کنید.</Data></string>
+    <string name="antivirus_privacy_dialog_summary">&lt;Data>این ویژگی توسط موتور ضد ویروس سوم شخص ارائه شده است. برای آگاهی بیشتر، &lt;a href=\"%1$s\">توافق‌نامه مجوز&lt;/a> ارائه شده توسط سوم شخص را بخوانید.&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>هنگام انجام اسکن امنیتی، مدل دستگاه و نتایج اسکن شما در سرورهای %1$s بارگذاری شده و بر اساس &lt;a href=\"%2$s\">شرایط و ضوابط&lt;/a> مربوطه مورد استفاده قرار خواهند گرفت.&lt;br/>&lt;br/>پیش از انجام اسکن‌های امنیتی شرایط و ضوابط %3$s را خوانده و بپذیرید.&lt;br/>&lt;br/>چنانچه نپذیرید که داده‌ها در سرورهای %4$s بارگذاری شوند، همچنان می‌توانید از مصادیق ویروس ذخیره شده محلی دستگاه خود استفاده کنید.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_link">سیاست حفظ حریم خصوصی</string>
     <string name="antivirus_privacy_dialog_title">سیاست حفظ حریم خصوصی</string>
     <string name="antivirus_privacy_dialog_title_kddi">شرایط و ضوابط</string>
@@ -233,7 +223,6 @@
     <string name="app_behavior_dashboard_total_usage_title">نمایش همه پیشینه‌ها</string>
     <string name="app_behavior_dashboard_usage">استفاده از مجوزها</string>
     <string name="app_behavior_dashboard_usage_list_title">نمایش بر اساس مجوزها</string>
-    <string name="app_behavior_dashboard_usage_unit">%2$s / %1$s</string>
     <string name="app_behavior_denied">محدود کردن</string>
     <string name="app_behavior_desc_allowed">مجاز</string>
     <string name="app_behavior_desc_allowed_at">اجازه داده شد در %s</string>
@@ -252,7 +241,7 @@
     <string name="app_behavior_key_location">موقعیت مکانی</string>
     <string name="app_behavior_link_start">آغاز زنجیره‌ای</string>
     <string name="app_behavior_list_load_more">در حال بارگذاری…</string>
-    <string name="app_behavior_menu_about">درباره پیشینه‌ها</string>
+    <string name="app_behavior_menu_about">درباره پیشینه‌های رفتار برنامه</string>
     <string name="app_behavior_no_recorder">هنوز موردی اینجا نیست</string>
     <string name="app_behavior_now_running">درحال اجرا</string>
     <string name="app_behavior_perm_allow_always_danger_tip">در صورت دادن مجوز، برنامه‌ها ممکن است اقدامات حساسی انجام دهند</string>
@@ -260,7 +249,7 @@
     <string name="app_behavior_privacy_manager">اعلان‌ها درباره اقدامات حساس</string>
     <string name="app_behavior_record_cancel">لغو</string>
     <string name="app_behavior_record_close">خاموش کردن</string>
-    <string name="app_behavior_record_close_title">توقف ضبط</string>
+    <string name="app_behavior_record_close_title">پیشینه‌های خاموش کردن</string>
     <string name="app_behavior_record_hide_system">پنهان کردن برنامه‌های سیستم</string>
     <string name="app_behavior_record_open">روشن کردن</string>
     <string name="app_behavior_record_open_content_text">پیشینه‌های رفتار برنامه‌ها را روشن کرده تا بدانید برنامه‌ها چگونه از اطلاعات شخصی شما استفاده می‌کنند.</string>
@@ -284,26 +273,17 @@
     <string name="app_install_intercept">مسدود کردن نصب</string>
     <string name="app_install_tips_go_to">بازکردن</string>
     <string name="app_install_tips_install_success">%1$s با موفقیت نصب شد</string>
-    <string name="app_isolate_func_close_tip">اگر این ویژگی را خاموش کنید، ممکن است برخی از داده‌های برنامه از بین برود. ابتدا از اطلاعات مهم نسخه پشتیبان تهیه کنید. خاموش شود؟</string>
-    <string name="app_isolate_func_closing">درحال خاموش کردن…</string>
-    <string name="app_isolate_func_opening">درحال روشن کردن…</string>
-    <string name="app_lock_face_error_to_try">برای استفاده از گشودن قفل با چهره روی آیکون چهره بزنید</string>
-    <string name="app_lock_pwd">گذرواژه خود را برای گشودن قفل وارد کنید</string>
-    <string name="app_lock_pwd_forget">گذرواژه را فراموش کرده‌ام</string>
-    <string name="app_lock_pwd_or_finger">گشودن قفل با گذرواژه یا اثر انگشت</string>
     <string name="app_management_empty_desc">این برنامه از این ویژگی پشتیبانی نمی‌کند</string>
     <string name="app_management_for_chain_start">مسدود کردن باز کردن سایر برنامه‌ها</string>
     <string name="app_management_for_chain_start_desc">این برنامه را از اتصال و یا باز کردن سایر برنامه‌ها باز می‌دارد</string>
     <string name="app_management_for_device_id">پنهان کردن شناساگرها و جلوگیری از دنبال شدن</string>
     <string name="app_management_for_device_id_desc">این برنامه را از دسترسی به شماره تلفن و اطلاعات شناسایی شخصی شما باز می‌دارد</string>
-    <string name="app_management_for_independent_storage">حافظه مستقل</string>
-    <string name="app_management_for_independent_storage_desc">داده‌های برنامه را به طور مستقل ذخیره کنید و از دسترسی برنامه به برخی از داده‌های خارجی جلوگیری کنید</string>
+    <string name="app_management_for_independent_storage">جداسازی داده‌های حافظه پنهان</string>
+    <string name="app_management_for_independent_storage_desc">فقط به برنامه اجازه دسترسی به فایل‌ها و داده‌های خودش داده شود</string>
     <string name="app_management_for_install">مسدود کردن دانلودهای برنامه</string>
     <string name="app_management_for_install_desc">این برنامه را از دانلود یا نصب سایر برنامه‌ها باز می‌دارد</string>
     <string name="app_management_measures">مدیریت برنامه</string>
     <string name="app_manager_advanced_setting">تنظیمات پیشرفته</string>
-    <string name="app_manager_airtel_dlg_msg">در صورت داشتن هر گونه پرسش، با Airtel تماس بگیرید</string>
-    <string name="app_manager_airtel_dlg_title">توسط Airtel مسدود شده است</string>
     <string name="app_manager_allow">بله</string>
     <string name="app_manager_anomaly_analysis">تجزیه و تحلیل اشکالات برنامه‌های سوم شخص</string>
     <string name="app_manager_app_ifno_version">نسخه برنامه</string>
@@ -338,7 +318,6 @@
     <string name="app_manager_default_open_summary">شما انتخاب کرده‌اید که این برنامه را به صورت پیش‌فرض برای برخی اقدامات اجرا کنید.</string>
     <string name="app_manager_default_open_title">پاک‌سازی پیش‌فرض‌ها</string>
     <string name="app_manager_defaults_setting">برنامه‌های پیش‌فرض</string>
-    <string name="app_manager_deleted_system_app_title">برنامه‌های سیستمی حذف شده</string>
     <string name="app_manager_details_electric_title">باتری</string>
     <string name="app_manager_details_storage_title">حافظه</string>
     <string name="app_manager_details_title">اطلاعات برنامه</string>
@@ -368,15 +347,12 @@
     <string name="app_manager_have_not_consume">خالی</string>
     <string name="app_manager_hide_system_server">پنهان کردن خدمات سیستم</string>
     <string name="app_manager_manage_space">مدیریت فضا</string>
-    <string name="app_manager_memory">RAM</string>
     <string name="app_manager_menu_clear_data">پاک کردن داده‌ها</string>
     <string name="app_manager_mobile_slot">اینترنت همراه (سیم‌کارت %d)</string>
     <string name="app_manager_mobile_slot1">اینترنت همراه (سیم‌کارت ۱)</string>
     <string name="app_manager_mobile_slot2">اینترنت همراه (سیم‌کارت ۲)</string>
     <string name="app_manager_net_control_title">شیوه اتصال</string>
     <string name="app_manager_net_mobile">اینترنت همراه</string>
-    <string name="app_manager_net_wifi">Wi-Fi</string>
-    <string name="app_manager_not_allow">خیر</string>
     <string name="app_manager_open_show_all_apps_immediate">نمایش همه نتایج</string>
     <string name="app_manager_perm">مجوزها</string>
     <string name="app_manager_permission_backgroundstart_title">آغاز خودکار پس‌زمینه</string>
@@ -386,7 +362,6 @@
     <string name="app_manager_permission_power_saving_title">بهینه‌ساز باتری</string>
     <string name="app_manager_permission_startself_title">راه‌اندازی خودکار</string>
     <string name="app_manager_permission_summary_reject">محدود کردن همه</string>
-    <string name="app_manager_power_consume">%.1f%%</string>
     <string name="app_manager_powerkeeper_miui_auto">بهینه‌ساز باتری</string>
     <string name="app_manager_powerkeeper_no_bg">محدود کردن فعالیت پس‌زمینه</string>
     <string name="app_manager_powerkeeper_no_restrict">بدون محدودیت</string>
@@ -417,7 +392,6 @@
     <string name="app_manager_tab_manager">مدیریت</string>
     <string name="app_manager_title">مدیریت برنامه‌ها</string>
     <string name="app_manager_to_appstore">یافتن برنامه‌های بیشتر</string>
-    <string name="app_manager_total_size">کل</string>
     <string name="app_manager_uninstall">حذف</string>
     <string name="app_manager_uninstall_button_text">حذف</string>
     <string name="app_manager_uninstall_notify_title">حذف برنامه‌های کمتر استفاده شده</string>
@@ -456,13 +430,6 @@
     <string name="app_permission_use_neccesary">مجوزهای لازم</string>
     <string name="app_permission_use_no_neccesary">مجوزهای اختیاری</string>
     <string name="app_permission_use_title">مجوزها</string>
-    <string name="app_powerkeeper_config_description">این سیستم برنامه‌های دخیل در پیام‌رسانی فوری، ناوبری و پخش رسانه را شناسایی می‌کند و از اقدامات صرفه‌جویی در مصرف انرژی برای محافظت از فعالیت‌های مهم پس‌زمینه در برابر اختلال استفاده می‌کند.</string>
-    <string name="app_powerkeeper_miui_auto">بهینه‌ساز باتری (توصیه شده)</string>
-    <string name="app_powerkeeper_miui_auto_summary">شناسایی برنامه‌ها و فعالیت‌ها برای ادامه فرآیندهای مهم. بهینه‌ساز باتری برنامه‌های مهم را به صورت انتخابی درمان می‌کند.</string>
-    <string name="app_powerkeeper_no_restrict">بدون محدودیت</string>
-    <string name="app_powerkeeper_no_restrict_summary">بهینه‌ساز باتری فعالیت برنامه‌ها را محدود نمی‌کند</string>
-    <string name="app_powerkeeper_restrict_bg">محدود کردن برنامه های پس زمینه</string>
-    <string name="app_powerkeeper_restrict_running">بستن برنامه‌ها پس از %d دقیقه کار نکردن پس‌زمینه</string>
     <string name="app_running_tip_dialog_negative">لغو</string>
     <string name="app_running_tip_dialog_positive">خروج</string>
     <string name="app_running_tip_dialog_text">به نظر می‌رسد این برنامه در پس‌زمینه درحال اجراست. شما با خروج از برنامه می‌توانید سرعت دستگاه خود را افزایش داده و مصرف برق آن را کاهش دهید.</string>
@@ -478,10 +445,8 @@
     <string name="app_usage_recently">به‌تازگی استفاده شده</string>
     <string name="app_usage_year">طول %d سال</string>
     <string name="app_version">نسخه:</string>
-    <string name="app_wifi">Wi-Fi</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">%s از حافظه پنهان WeChat را پاک کرده تا فضای بیشتری آزاد شود</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">پاک‌سازی حافظه پنهان را فراموش نکنید</string>
-    <string name="application_horizontal_mode_title">حالت افقی</string>
     <string name="application_item_already_permission">مجاز</string>
     <string name="application_item_disable">محدود شده</string>
     <string name="application_mode_name">طرح‌های برنامه</string>
@@ -554,7 +519,6 @@
     <string name="apps_item_scan_risk_summary_installed">نصب شد | خطرات</string>
     <string name="apps_item_scan_risk_summary_uninstalled">APK | خطرات</string>
     <string name="apps_item_scan_virus_summary_installed">نصب شد | ویروس</string>
-    <string name="apps_item_scan_virus_summary_uninstalled">APK | ویروس</string>
     <string name="apps_item_sign_dialog_content">امضای %s با نسخه فروشگاه برنامه متفاوت است. این برنامه حذف شده و نسخه رسمی نصب شود؟ نکته: نصب یک برنامه با یک امضای مغایر ممکن است باعث از دست دادن اطلاعات شود.</string>
     <string name="apps_item_sign_dialog_title">نصب برنامه رسمی</string>
     <string name="apps_item_sign_install_button_text">تعویض</string>
@@ -569,12 +533,10 @@
     <string name="apps_item_virus_cleanup_text">پاک‌سازی</string>
     <string name="apps_item_virus_ignore_text">نادیده گرفتن</string>
     <string name="apps_item_virus_summary_installed">برنامه نصب شد</string>
-    <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_list_header_title_sms">بررسی برنامه پیام‌رسانی</string>
     <string name="apps_list_header_title_sms_access">محدود کردن دسترسی به کدهای تایید</string>
     <string name="ask_create_shortcut">میانبر صفحه اصلی ایجاد شود؟</string>
-    <string name="audio_optimization_summary_new">بهبود کیفیت صدای ایرفون‌ها در هنگام بازی و کاهش سر و صدا هنگام برقراری تماس‌ها</string>
-    <string name="audio_optimization_summary_v2">در حین بازی شناور بودن را افزایش داده و کاهش سر و صدا را بهینه کنید</string>
+    <string name="audio_optimization_summary">صدا را بهبود داده و سر و صدای محیطی را در گفتگوها کاهش می‌دهد</string>
     <string name="audio_optimization_title">صدای بهینه شده</string>
     <string name="auto_atsk_condition_battery_level_text_down">هنگامی‌که باتری به %s رسیذ</string>
     <string name="auto_atsk_condition_battery_level_text_up">هنگامی‌که باتری تا %s شارژ‌ شد</string>
@@ -583,7 +545,6 @@
     <string name="auto_clean_close">پاک‌سازی‌های خودکار خاموش هستند</string>
     <string name="auto_data_back_booster">افزاینده سرعت بازی خاموش است. ویژگی‌های ارتباطی بازیابی شدند.</string>
     <string name="auto_data_booster_suc">افزاینده سرعت بازی روشن است. به حالت همه‌جانبه تعویض شد.</string>
-    <string name="auto_handle_title">عمومی</string>
     <string name="auto_import_games">همه بازی‌های خود را در یک‌جا قرار دهید</string>
     <string name="auto_send_correcting_msg">خالی گذاشته تا از طریق ارسال پیامک رایگان به صورت خودکار بررسی شود</string>
     <string name="auto_set_by_brand">همگام‌سازی جزئیات طرح اینترنت همراه با شرکت مخابراتی</string>
@@ -613,8 +574,6 @@
     <string name="auto_task_edit_condition_title">افزودن وضعیت</string>
     <string name="auto_task_edit_my_custom_task">نام وظیفه را وارد کنید</string>
     <string name="auto_task_edit_operation_summary">برای مثال: «روشن کردن حالت هواپیما»</string>
-    <string name="auto_task_edit_step1_new">%d.</string>
-    <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">نام</string>
     <string name="auto_task_main_title">وظایف خودکار</string>
     <string name="auto_task_mamange_activity_title">وظایف خودکار</string>
@@ -635,11 +594,9 @@
     <string name="auto_task_notify_task_exit_task">لغو وظیفه</string>
     <string name="auto_task_operation_airplane_mode">حالت هواپیما</string>
     <string name="auto_task_operation_auto_brightness">تنظیم روشنایی خودکار</string>
-    <string name="auto_task_operation_bluetooth">بلوتوث</string>
     <string name="auto_task_operation_brightness">روشنایی نمایشگر</string>
     <string name="auto_task_operation_close">خاموش</string>
     <string name="auto_task_operation_close_string">خاموش کردن %s</string>
-    <string name="auto_task_operation_gps">GPS</string>
     <string name="auto_task_operation_memory_clean_lockscreen">پاک‌سازی حافظه</string>
     <string name="auto_task_operation_mobile_data">اینترنت همراه</string>
     <string name="auto_task_operation_modify_string">ویرایش %s</string>
@@ -647,12 +604,8 @@
     <string name="auto_task_operation_no_op">هیچ کدام</string>
     <string name="auto_task_operation_open">روشن</string>
     <string name="auto_task_operation_open_string">روشن کردن %s</string>
-    <string name="auto_task_operation_string_comma">,</string>
-    <string name="auto_task_operation_string_etc">و غیره.</string>
-    <string name="auto_task_operation_string_split">;</string>
     <string name="auto_task_operation_sync">همگام‌سازی</string>
     <string name="auto_task_operation_vibration">لرزش</string>
-    <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_result_summary_text">تنظیم وظایف خودکار شده برای بهینه‌ساز باتری</string>
     <string name="autostart_now_tip">"«%1$s» را از باز کردن «%2$s» باز داشت "</string>
     <string name="back_app_name">بازگشت به قفل برنامه</string>
@@ -695,10 +648,6 @@
     <string name="battery_health_title_text">سلامت باتری</string>
     <string name="battery_health_voltage_text">ولتاژ باتری</string>
     <string name="battery_history_activity_title">تاریخچه</string>
-    <string name="battery_history_days">%1$d روز و %2$d ساعت و %3$d دقیقه و %4$d ثانیه</string>
-    <string name="battery_history_hours">%1$d ساعت و %2$d دقیقه و %3$d ثانیه</string>
-    <string name="battery_history_minutes">%1$d دقیقه و %2$d ثانیه</string>
-    <string name="battery_history_seconds">%1$d ثانیه</string>
     <string name="battery_low_button_not_open_power_save">حالا نه</string>
     <string name="battery_low_button_open_power_save">روشن کردن</string>
     <string name="battery_low_percent_format_save_mode_closed">تنها %s از شارژ باتری باقی مانده است. فراموش نکنید دستگاه خود را شارژ کنید.</string>
@@ -714,11 +663,9 @@
     <string name="battery_stats_phone_signal_label">سیگنال شبکه تلفن همراه</string>
     <string name="battery_stats_screen_on_label">صفحه روشن</string>
     <string name="battery_stats_wake_lock_label">بیدار</string>
-    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
     <string name="battery_status_good">به طور عادی کار می‌کند</string>
     <string name="battery_status_level_excellent">عالی</string>
     <string name="battery_status_level_good">خوب</string>
-    <string name="battery_status_level_normal">عادی</string>
     <string name="battery_status_level_poor">بد</string>
     <string name="battery_status_overheat">بیش از حد داغ شده</string>
     <string name="battery_status_unknown">خطای ناشناخته</string>
@@ -840,7 +787,6 @@
     <string name="blur_cross_device_permissions">مجوز برای هم‌اتصالی دستگاه</string>
     <string name="blur_double_space">فضای دوم</string>
     <string name="blur_external_storage">حافظه خارجی</string>
-    <string name="blur_key_words_oaid">OAID</string>
     <string name="blur_key_words_permission_records">پیشینه‌های رفتار برنامه‌ها</string>
     <string name="blur_location_off">هنگامی که این ویژگی را خاموش می‌کنید، فقط برنامه‌هایی که به آن‌ها به صورت خاص مجوز اعطا کرده‌اید امکان دسترسی به موقعیت تقریبی شما را خواهند داشت.</string>
     <string name="blur_location_on">هنگامی که این ویژگی را روشن می‌کنید و یک بار مجوز اعطا می‌کنید، همه برنامه‌ها مجاز به دسترسی به موقعیت تقریبی شما خواهند شد.</string>
@@ -918,13 +864,11 @@
     <string name="button_text_let_me_select">متوجه‌ام</string>
     <string name="button_text_next_step">بعدی</string>
     <string name="button_text_next_step_timer">گام بعدی (%d)</string>
-    <string name="button_text_once_accept">اجازه یک‌باره</string>
     <string name="button_text_open_now">بازکردن</string>
     <string name="button_text_reject">رد کردن</string>
     <string name="button_text_trust">اعتماد به این شبکه</string>
     <string name="button_text_update_now">به‌روزرسانی</string>
     <string name="button_to_setting">تنظیمات</string>
-    <string name="byteShort">بیت</string>
     <string name="call_address">فهرست سیاه منطقه</string>
     <string name="call_and_contact">تماس‌ها و مخاطبین</string>
     <string name="call_blacklist">فهرست سیاه تماس</string>
@@ -972,7 +916,6 @@
     <string name="card_main_private_space_summary">استفاده از فضای دوم مانند داشتن ۲ دستگاه است</string>
     <string name="card_main_private_space_title">فضای دوم</string>
     <string name="card_main_sectool_title">ابزار</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">مدیریت ویدئوها</string>
     <string name="card_main_whatsappclean_title">پاک‌سازی کننده واتساپ</string>
     <string name="card_main_xspace_action">ایجاد</string>
@@ -1038,21 +981,10 @@
     <string name="cmcc_app_check_dialog_negative">بعداً</string>
     <string name="cmcc_app_check_dialog_positive">راه‌اندازی دوباره</string>
     <string name="cmcc_app_check_dialog_title">سیستم تعمیر شد</string>
-    <string name="columbus_ad_flag_text">آگهی</string>
-    <string name="columbus_reward_style_access">جزئیات بیشتر</string>
-    <string name="columbus_reward_style_close_cancel">خروج</string>
-    <string name="columbus_reward_style_close_desc">برای دریافت جایزه، تماشای ویدئو را تمام کنید. به تماشا ادامه می‌دهید؟</string>
-    <string name="columbus_reward_style_speed_confirm">ادامه</string>
-    <string name="columbus_skip_ad">رد کردن</string>
-    <string name="columbus_skip_ad_time">رد کردن (%d)</string>
-    <string name="combine_permission_action_foreground">هنگام استفاده از برنامه اجازه داده شود</string>
-    <string name="combine_permission_title">%1$s مجوزهای زیر را درخواست می‌کند</string>
     <string name="commonly_used_func_card_title">ویژگی‌های مشترک</string>
     <string name="commonly_used_func_edit_too_many_func">نمی‌توان مورد بیشتری اضافه کرد</string>
-    <string name="config_restrict_running_warning">اگر ادامه دهید، تمام فعالیت‌های پس‌زمینه برنامه متوقف می‌شود، که ممکن است بر ویژگی‌های آن تأثیر بگذارد. در هر صورت ادامه می‌دهید؟</string>
     <string name="confirmSecondSpacePassword">گذرواژه فضای دوم را تأیید کنید</string>
     <string name="confirm_ai_allow_all_permission">وضعیت مجوز برای همه برنامه‌ها به «برای من تصمیم گرفته شود» تغییر کند؟</string>
-    <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">افزودن حساب Xiaomi</string>
     <string name="confirm_close">خاموش کردن</string>
     <string name="confirm_fingerprint_msg">اثر انگشت خود را تأیید کنید</string>
@@ -1065,7 +997,6 @@
     <string name="confirm_upgrade">گزینه‌ها</string>
     <string name="connect_internet_by_mobiledata">اتصال اینترنت همراه</string>
     <string name="connect_internet_by_usbshare">اینترنت هم‌رسانی شده از طریق USB</string>
-    <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="connected_device_application_flow_permission">مجوزهای دست به دست کردن برنامه</string>
     <string name="connected_device_camera_collaboration_permission">مجوزهای دوربین متصل</string>
     <string name="connected_device_camera_permission">مجوزهای دوربین</string>
@@ -1075,13 +1006,9 @@
     <string name="connected_devices_camera">دوربین</string>
     <string name="connected_devices_camera_desc">به دستگاه‌های نزدیک که داخل همین حساب هستند اجازه می‌دهید در این دستگاه عکس بگیرند و ویدئو ضبط کنند</string>
     <string name="connected_devices_camera_title">به دستگاه بالا اجازه می‌دهید که روی این دستگاه عکس بگیرد و ویدئو ضبط کند؟</string>
-    <string name="connected_devices_files">فایل‌ها</string>
-    <string name="connected_devices_files_desc">به دستگاه‌های نزدیک وارد حساب Xiaomi شده خود اجازه دسترسی به فایل‌های این دستگاه را بدهید</string>
     <string name="connected_devices_for_camera">به %1$s اجازه می‌دهید از دوربین این دستگاه استفاده کند؟</string>
     <string name="connected_devices_for_camera_desc">برای گرفتن عکس، ضبط ویدئو و گرفتن تماس‌های تصویری</string>
     <string name="connected_devices_for_empty_view">بدون دستگاه متصل</string>
-    <string name="connected_devices_for_files">به «%1$s» اجازه دسترسی به فایل‌های این دستگاه داده شود؟</string>
-    <string name="connected_devices_for_files_desc">برای دسترسی به فایل‌های بین دستگاهی</string>
     <string name="connected_devices_for_notification">به %1$s اجازه می‌دهید اعلان‌های این دستگاه را نمایش دهد؟</string>
     <string name="connected_devices_for_notification_desc">وقتی این دستگاه قفل است، اعلان‌های این دستگاه را روی دستگاه‌های دیگر مشاهده کنید</string>
     <string name="connected_devices_for_record">به %1$s اجازه می‌دهید که روی این دستگاه صدا ضبط کند؟</string>
@@ -1106,7 +1033,6 @@
     <string name="continue_set">ادامه</string>
     <string name="convenient_mode">باز کردن قفل همه برنامه‌ها به صورت یکجا</string>
     <string name="convenient_summary">گذرواژه را یک بار وارد کرده تا قفل همه برنامه‌ها را باز کنید</string>
-    <string name="conversation_phone_title">جعبه ابزار تماس</string>
     <string name="conversation_settings_top">"·با بیرون کشیدن نوار ابزارهای کنفرانس هنگام تماس‌های صوتی و تصویری تمام‌صفحه، به ویژگی‌های آن‌ها دسترسی پیدا کنید.
 ·نوع و شماره ویژگی‌ها به مدل دستگاه بستگی دارد."</string>
     <string name="conversation_sider_tips">با استفاده از ابزارهای جدید کنفرانس بهترین تجربه تماس را داشته باشید</string>
@@ -1119,62 +1045,27 @@
     <string name="cpu_usage_view_action_btn_text">برای نمایش ضربه بزنید</string>
     <string name="create_gamebooster_destop">میان‌بر صفحه اصلی با موفقیت ایجاد شد</string>
     <string name="create_shortcut">یک میانبر صفحه اصلی برای افزاینده سرعت بازی ایجاد کنید</string>
-    <string name="cs_close_vt_camera_first_tips">هنگام استفاده از دوربین‌های بین دستگاهی از این ویژگی استفاده نمی‌شود</string>
     <string name="cs_color_sense">دمای رنگ</string>
-    <string name="cs_conversation_record_using">ضبط کردن</string>
-    <string name="cs_func_toast_bluetooth_headset">برای استفاده از این قابلیت، ایرفون‌های بلوتوث را قطع کنید</string>
     <string name="cs_func_toast_headset">برای امکان استفاده از این ویژگی هدست خود را قطع کنید</string>
     <string name="cs_func_toast_light">برای امکان استفاده از این ویژگی به دوربین جلو تعویض کنید</string>
     <string name="cs_func_toast_pickup">برای امکان استفاده از این ویژگی به تماس تصویری تعویض کنید</string>
-    <string name="cs_func_unavailable_tips">از این قابلیت در هنگام تماس استفاده کنید</string>
-    <string name="cs_gesture_effect_title">تشخیص اشاره‌های دست</string>
-    <string name="cs_gesture_effect_title_hint">اشاره‌های پشتیبانی شده</string>
-    <string name="cs_gesture_effect_title_summry">با استفاده از حرکات دست، جلوه‌های واکنش را در طول تماس‌های ویدئویی اضافه کنید</string>
-    <string name="cs_light_enhance_physical_options">دمای رنگ</string>
-    <string name="cs_light_enhance_physical_title">روشنایی</string>
-    <string name="cs_open_camera_first_tips">برای استفاده از این ویژگی دوربین را باز کنید</string>
     <string name="cs_pickup_denoise_desc">کاهش سر و صدای صداهای ورودی هنگام استفاده از بلندگوها یا ایرفون‌ها</string>
     <string name="cs_pickup_denoise_title">کاهش سر و صدا</string>
-    <string name="cs_pickup_enhance">پیشرفته</string>
     <string name="cs_pickup_multi_desc">دریافت صدای %d درجه</string>
     <string name="cs_pickup_multi_title">چندین شرکت کننده</string>
-    <string name="cs_pickup_private">خصوصی</string>
-    <string name="cs_pickup_private_desc">دریافت صدا فقط از کاربران خاص</string>
     <string name="cs_pickup_single_desc">فقط صدا را از بخش جلوی نمایشگر می‌گیرد</string>
     <string name="cs_pickup_single_title">تک شرکت کننده</string>
-    <string name="cs_pickup_standard">استاندارد</string>
-    <string name="cs_pickup_standard_desc">دریافت صدای %1$d درجه</string>
     <string name="cs_pickup_surround_desc">با استفاده از AI سر و صدا را کاهش داده تا صدای واضح و شفافی داشته باشید</string>
     <string name="cs_pickup_surround_title">کاهش سر و صدای میکروفن</string>
-    <string name="cs_pickup_vioce_print_guide_dialog_desc">تماس را پایان داده و برای آعاز دستورالعمل‌ها را دنبال کنید.</string>
-    <string name="cs_pickup_vioce_print_guide_dialog_title">برای برداشت صدای فقط یک نفر، ابتدا صدای او را ضبط کنید.</string>
-    <string name="cs_pickup_vioce_print_in_private_tips">صدای خود را ضبط کنید تا کاهش سر و صدا را روی خصوصی تنظیم شود.</string>
-    <string name="cs_pickup_vioce_print_private_dialog_title">ضبط صدا</string>
-    <string name="cs_pickup_vioce_print_unsupport_tips">پیش از انتخاب «تک شرکت کننده» صدا را ضبط کنید</string>
-    <string name="cs_pickup_vioce_print_unsupport_toast">دستگاه‌های خارجی را قطع کرده و سپس دوباره تلاش کنید</string>
-    <string name="cs_pickup_voice_print_desc">برداشت صدای فقط یک نفر</string>
-    <string name="cs_privacy_camera_global_settings_title">حریم خصوصی تماس</string>
-    <string name="cs_record_voice_title">ضبط</string>
     <string name="cs_screen_translation_title">ترجمه صفحه</string>
-    <string name="cs_simultaneous_interpretation_title">تفسیر</string>
     <string name="cs_title_pickup">کاهش سر و صدا</string>
     <string name="cs_title_smart_subtitle">رونویسی زیرنویس</string>
     <string name="cs_title_ultraclear">حالت وضوح فوق‌العاده</string>
-    <string name="cs_tool_box_max_screen_guide_case_1">ترجمه همزمان و سایر ابزارهای تماس کنفرانسی را در جعبه ابزار تماس جدید امتحان کنید</string>
-    <string name="cs_tool_box_max_screen_guide_case_2">طیف وسیعی از ویژگی‌های تماس کنفرانسی را در جعبه ابزار تماس جدید امتحان کنید</string>
-    <string name="cs_tool_box_phone_guide_case_1">ترجمه همزمان و سایر ویژگی‌ها را در جعبه ابزار تماس جدید امتحان کنید</string>
-    <string name="cs_tool_box_phone_guide_case_2">طیف وسیعی از ویژگی‌ها را در جعبه ابزار تماس جدید امتحان کنید</string>
-    <string name="cs_voice_print">ضبط صدا</string>
-    <string name="cs_voice_search">اثر صدا</string>
-    <string name="cs_vt_camera_title">دوربین‌های بین دستگاهی</string>
-    <string name="cs_vt_camera_toast_case1">دوربین را در برنامه کنونی باز کنید</string>
-    <string name="cs_vt_camera_toast_case2">هیچ دستگاه سازگاری در اطراف یافت نشد</string>
     <string name="cta_agree_desc">برای امکان استفاده از خدمات ما، به این برنامه اجازه اتصال به اینترنت را داده و مجوزهای فهرست شده در بالا را بدهید.</string>
     <string name="cta_close_dialog_cancel">لغو</string>
     <string name="cta_close_dialog_content">در صورتی که دسترسی به اینترنت و موقیت خود را محدود کنید، دیگر هشدارهای زلزله، به‌روزرسانی مصادیق ویروس و اطلاعات فهرست سیاه را دریافت نخواهید کردو. دستگاه شما از ایمنی کمتری برخوردار خواهد بود. در هر صورت محدود شود؟</string>
     <string name="cta_close_dialog_ok">محدود کردن</string>
     <string name="cta_close_dialog_title">محدود کردن دسترسی</string>
-    <string name="cta_combine_permission_title">مجوزها</string>
     <string name="cta_dialog_negative">خروج</string>
     <string name="cta_dialog_positive">پذیرفتن</string>
     <string name="cta_dialog_title">اتصال اینترنت</string>
@@ -1228,9 +1119,6 @@
     <string name="data_usage_warning_title_notify">شما از سقف اینترنت همراه خود فراتر رفتید</string>
     <string name="databooster_tips_message">روشن کرده تا همه سیم‌کارت‌ها به‌جز کارت اینترنت همراه محدود شوند. در صورتی که هنگام بازی منتخب شما خطایی رخ داد این ویژگی را خاموش کنید.</string>
     <string name="databooster_tips_title">توجه</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="day_overflow_tips">هشدار مصرف اینترنت همراه روزانه</string>
@@ -1253,31 +1141,14 @@
     <string name="delete_from_manual_item_white_list">حذف از موارد استثنا</string>
     <string name="delete_input">حذف</string>
     <string name="deleted_apps">برنامه‌های حذف شده</string>
-    <string name="desc_share_uid_sec" formatted="false">%1s. %2s</string>
     <string name="descx_quick_scan_cancel">اسکن لغو شد</string>
     <string name="descx_quick_scan_preparation">چند لحظه صبر کنید…</string>
     <string name="detail_app_button">اطلاعات برنامه</string>
     <string name="details_subtitle">جزئیات مصرف</string>
-    <string name="device_id">شناسه دستگاه برای پیشنهادات شخصی سازی شده</string>
-    <string name="device_id_app_manager_dialog_continue">متوقف نشود</string>
-    <string name="device_id_app_manager_dialog_message">به برخی از برنامه‌ها اجازه دادید فعالیت‌های شما را ردیابی کنند. اکنون می‌توانید ردیابی را متوقف کنید.</string>
-    <string name="device_id_app_manager_dialog_stop">توقف</string>
-    <string name="device_id_app_manager_switch_sub_title">هنگام خاموش بودن این ویژگی، تمام درخواست‌های ردیابی جدید به‌طور خودکار رد خواهند شد</string>
-    <string name="device_id_app_manager_switch_title">اجازه دادن به برنامه‌ها برای درخواست ردیابی</string>
-    <string name="device_id_app_manager_tips">برنامه‌ها می‌توانند فعالیت‌های شما را در برنامه‌ها و تارنماهای مختلف با استفاده از شناسه‌های ردیابی برای ارائه پیشنهادات آگهی شخصی‌سازی شده و سایر ویژگی‌ها ردیابی کنند</string>
-    <string name="device_id_app_manager_title">مدیریت ردیابی برنامه‌ها</string>
-    <string name="device_id_manager_tips">این سیستم برای محافظت از حریم خصوصی شما، شناسه‌های ردیابی بازنشانی شونده (OAID) را به جای شناسه‌های دستگاه به برنامه‌ها ارائه می‌کند.</string>
-    <string name="device_id_manager_title">مدیریت شناسه ردیابی</string>
-    <string name="device_id_reset">بازنشانی شناسه ردیابی</string>
-    <string name="device_id_reset_msg">پس از بازنشانی، یک شناسه جدید با این دستگاه مرتبط خواهد شد.</string>
-    <string name="device_id_str">شناسه ردیابی کنونی: %s</string>
     <string name="device_manager_apply_step_1">مدیریت دستگاه برای این برنامه فعال شود؟</string>
     <string name="device_manager_apply_step_2">"فعال‌سازی مدیریت دستگاه برای این برنامه ممکن است سبب افشای اطلاعات شخصی شما شود.
 همه داده‌های دستگاه شما ممکن است پاک شده و گذرواژه صفحه قفل نیز دوباره تنظیم شود."</string>
     <string name="device_manager_apply_step_3">پیش از انجام مطمئن شوید متوجه تمام خطرات ممکن شده‌اید. مدیریت دستگاه برای این برنامه فعال شود؟</string>
-    <string name="device_oaid">مدیریت شناسه مجازی</string>
-    <string name="device_oaid_desc">به جای شناساگر منحصر به فرد شما، سیستم یک شناسه مجازی (OAID) به برنامه‌های نصب شده ارائه می‌دهد. این کار جلوی برنامه‌ها را از دنبال کردن رفتار و پیش‌تنظیمات شما می‌گیرد و از حریم خصوصی شما محافظت می‌کند.</string>
-    <string name="device_oaid_title">شناسه مجازی</string>
     <string name="dialog_app_roaming_message">%1$s نمی‌تواند هنگام رومینگ از اینترنت همراه استفاده کند. هنگام رومینگ، تنها برنامه‌هایی که به موارد استثنا افزوده‌اید می‌توانند از اینترنت همراه استفاده کنند.</string>
     <string name="dialog_app_roaming_title">%1$s نمی‌تواند از رومینگ اینترنت همراه استفاده کند</string>
     <string name="dialog_change_package_type_summary">تغییر نوع طرح اینترنت هرماه تمام تنظیمات مصرف اینترنت همراه (مانند سقف اینترنت همراه) را به مقادیر پیش‌فرضشان بازنشانی می‌کند. نوع طرح اینترنت همراه تغییر یابد؟</string>
@@ -1384,9 +1255,7 @@
     <string name="dynamic_performance_optimization_title">کارایی پویا</string>
     <string name="early_morning">صبح</string>
     <string name="edit_phone_num">ویرایش شماره تلفن سیم‌کارت</string>
-    <string name="ellipsis">…</string>
     <string name="email">ایمیل</string>
-    <string name="empty" />
     <string name="empty_app">بدون برنامه</string>
     <string name="empty_title_auto_start_list">هیچ برنامه‌ای نمی‌تواند راه‌اندازی خودکار شود.</string>
     <string name="empty_title_garbage_virus_white_list">نتایج را در فهرست نگه داشته تا در اسکن بعدی رد شوند</string>
@@ -1414,12 +1283,12 @@
     <string name="exit">خروج</string>
     <string name="exit_dialog_exit">خروج</string>
     <string name="exit_dialog_garbage_clean_message">مقدار زباله دستگاه شما بیش از %s است. زباله‌ها پاک‌سازی شوند؟</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>پاک‌سازی کننده می‌تواند آزاد شود&lt;font color=#0099ff>%s&lt;/font> از فضای ذخیره‌سازی اکنون پاک شود؟</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>پاک‌سازی کننده می‌تواند آزاد شود&lt;font color=#0099ff>%s&lt;/font> از فضای ذخیره‌سازی اکنون پاک شود؟&lt;/Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">پاک‌سازی</string>
     <string name="exit_dialog_garbage_clean_title">آزادسازی فضای ذخیره‌سازی</string>
     <string name="exit_dialog_homepage_optimise_message">امتیاز کارایی دستگاه شما زیر ۸۰ است. اکنون بهینه‌سازی شود؟</string>
     <string name="exit_dialog_release_memory_positive_button">بستن</string>
-    <string name="exit_dialog_release_memory_title_new"><Data>سرعت دستگاه خود را با &lt;font color=#0099ff>%s&lt;/font> افزایش دهید</Data></string>
+    <string name="exit_dialog_release_memory_title_new">&lt;Data>سرعت دستگاه خود را با &lt;font color=#0099ff>%s&lt;/font> افزایش دهید&lt;/Data></string>
     <string name="exit_dialog_release_storage_message">بیش از ۸۰% حافظه دستگاه شما اشغال شده است. با حذف برنامه‌هایی که هرگز استفاده نمی‌کنید فضا را آزاد کنید.</string>
     <string name="exit_dialog_release_storage_message_new">بیش از %s حافظه دستگاه شما اشغال شده است. با حذف برنامه‌هایی که هرگز استفاده نمی‌کنید فضا را آزاد کنید.</string>
     <string name="exit_dialog_release_storage_positive_button">آزاد کردن فضا</string>
@@ -1455,8 +1324,7 @@
     <string name="fingerprint_verify_failed">اثر انگشت تأیید نشد</string>
     <string name="fingerprint_verify_succeed">اثر انگشت تأیید شد</string>
     <string name="fingerprint_verify_try_agin">اثر انگشت اسکن نشد، دوباره تلاش کنید</string>
-    <string name="fingerprint_verify_try_error">تلاش‌های ناموفق بیش از حد بودند. پیش از تلاش دوباره، دستگاه خود را قفل و باز کنید.</string>
-    <string name="firewall_activity_lable">دسترسی شبکه</string>
+    <string name="firewall_activity_lable">محدود کردن مصرف اینترنت با استفاده از برنامه</string>
     <string name="firewall_allow_all">اجازه به همه برنامه‌ها برای اتصال با استفاده از روش زیر</string>
     <string name="firewall_allow_data">اجازه دادن مقدار مصرف اینترنت همراه</string>
     <string name="firewall_allow_network">اجازه دادن</string>
@@ -1480,9 +1348,8 @@
     <string name="firewall_statement_no_more">دوباره به من یادآوری نشود</string>
     <string name="firewall_statement_ok">متوجه‌ام</string>
     <string name="firewall_statement_title">توجه</string>
-    <string name="firewall_system_title">دسترسی شبکه برای برانه‌های سیستمی</string>
+    <string name="firewall_system_title">اتصال‌های برنامه‌های سیستمی</string>
     <string name="firewall_temp_rule_reason">%2$s اتصال اینترنت را برای %1$s محدود کرد</string>
-    <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">برنامه نصب شده هنگام خاموش بودن این مورد نمی‌تواند با استفاده از Wi-Fi به اینترنت متصل شود</string>
     <string name="first_aid_activity_title">حل اشکالات</string>
     <string name="first_aid_card_airplane_button">خاموش کردن</string>
@@ -1509,8 +1376,6 @@
     <string name="first_aid_card_wifi_or_flow_button">اتصال</string>
     <string name="first_aid_card_wifi_or_flow_summary">برای اتصال Wi-Fi یا اینترنت همراه را روشن کنید</string>
     <string name="first_aid_card_wifi_or_flow_title">به اینترنت وصل نمی‌شود</string>
-    <string name="first_aid_dialog_ignore_message">%s. می‌توانید با نادیده گرفتن این مورد آن را از بررسی‌های آینده حذف کنید. نادیده گرفته شود؟</string>
-    <string name="first_aid_dialog_ignore_title">نادیده گرفتن موارد</string>
     <string name="first_aid_dialog_msg_stop_scan">اسکن متوقف شود؟</string>
     <string name="first_aid_dialog_title_stop_scan">توقف اسکن کردن</string>
     <string name="first_aid_exception_sub_title">در هنگام اسکن این موارد نادیده گرفته می‌شوند</string>
@@ -1541,58 +1406,17 @@
     <string name="fixed_cellular_data_quota_monthly">سقف اینترنت همراه ماهانه</string>
     <string name="fixed_package_tips">پس از رسیدن به سقف محدودیت هزینه‌های اضافی ایجاد خواهند شد</string>
     <string name="fixed_traffic_quota">سقف اینترنت همراه (اجباری)</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'م.ث'"</string>
-    <string name="fmt_time_minute">"m'دق'"</string>
-    <string name="fmt_time_minute_second">"m'دق' و s'ث'"</string>
-    <string name="fmt_time_minute_second_millis">"m'دق' و s.S'ث'"</string>
-    <string name="fmt_time_second">"s'ث'"</string>
-    <string name="fmt_time_second_millis">"s.S'ث'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="fod_authentication_shift_button">لغو</string>
     <string name="fod_button_finger">استفاده از اثر انگشت</string>
     <string name="fod_button_password">گذرواژه را وارد کنید</string>
@@ -1675,49 +1499,33 @@
     <string name="game_manual_record_setting_setting">تنظیمات</string>
     <string name="game_manual_record_setting_title">لحظات کلیدی</string>
     <string name="game_more_improve">فعالیت‌های پس‌زمینه و سرعت دانلود را محدود کرده تا در باتری و پهنای باند برای بازی کردن صرفه‌جویی کنید</string>
-    <string name="game_performance_wild_mode">Wild Boost</string>
+    <string name="game_performance_wild_mode">حالت نهایی</string>
     <string name="game_performance_wild_mode_tips">"برای بهبود کارایی دستگاه روشن کنید
 (دستگاه شما گرم می‌شود و انرژی بیشتری مصرف می‌کند)"</string>
     <string name="game_setting">تنظیمات بازی</string>
     <string name="game_video_net_data">اینترنت همراه</string>
     <string name="game_video_network_eror">به شبکه وصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="game_wid_viewpoint_buttom">یک استراحت کوتاه داشته باشید.</string>
-    <string name="gamebooster_confirm_dialog_negative_btn">مخالفت</string>
-    <string name="gamebooster_confirm_dialog_positive_btn">پذیرفتن</string>
-    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
-    <string name="gamebooster_confirm_dialog_title">سیاست حفظ حریم خصوصی ما را بپذیرید</string>
     <string name="gamebooster_dialog_recover">تمدید</string>
     <string name="gamebooster_dialog_start_booster">آغاز</string>
-    <string name="gamebooster_dialog_start_booster_new">تقویت</string>
     <string name="gamebooster_lowbattery_notification_summary">دستگاه خود را پیش از خاموش شدن شارژ کنید.</string>
     <string name="gamebooster_main_activity_back">بازگشت</string>
     <string name="gamebooster_network_dialog_cn_message">هنگامی که برنامه امنیت اجازه اتصال به اینترنت و دسترسی به موقعیت شما را نداشته باشد نمی‌توانید از افزاینده سرعت بازی استفاده کنید. اکنون اجازه می‌دهید؟</string>
     <string name="gamebooster_network_dialog_message">آیا به امنیت اجازه دسترسی به اینترنت داده شود تا از همه ویژگی‌های افزایش سرعت بازی استفاده کند؟</string>
     <string name="gamebooster_network_dialog_title">برخی ویژگی‌ها در دسترس نیستند</string>
     <string name="gamebooster_push_expiring_soon_button">تمدید</string>
-    <string name="gamebooster_push_expiring_soon_title">افزاینده سرعت بازی</string>
-    <string name="gamebox_ai_accelerate">شتاب دهنده سرعت اینترنت همراه AI</string>
-    <string name="gamebox_ai_accelerate_description">تجزیه و تحلیل محیط شبکه برای افزایش سرعت اتصال شبکه‌های موبایل و ذخیره اینترنت همراه</string>
     <string name="gamebox_ai_subtitle">زیرنویس‌های AI</string>
     <string name="gamebox_app_not_find">ابتدا برنامه را نصب کنید.</string>
     <string name="gamebox_brightness">روشنایی</string>
     <string name="gamebox_browser_not_find">ابتدا مرورگر Mi را نصب کنید</string>
     <string name="gamebox_bullet_chat">نمایش نظرات روی صفحه</string>
-    <string name="gamebox_cellular_network">بهینه‌سازی شبکه تلفن همراه</string>
-    <string name="gamebox_cellular_network_description">بهترین مسیر شبکه را بر اساس تأخیر بازی به صورت خودکار انتخاب کنید</string>
     <string name="gamebox_collimator">مگسک</string>
     <string name="gamebox_display_1">هیچ کدام</string>
     <string name="gamebox_display_2">اشباع شده</string>
     <string name="gamebox_display_3">روشن</string>
     <string name="gamebox_display_4">روشن و اشباع شده</string>
-    <string name="gamebox_display_5">HDR</string>
     <string name="gamebox_display_set">"تقویت تصویری: "</string>
     <string name="gamebox_dnd">مزاحم نشوید</string>
-    <string name="gamebox_filter_alpha_tip">شفافیت</string>
-    <string name="gamebox_filter_dark_conter">برش عکس</string>
-    <string name="gamebox_filter_tip">فیلتر درون بازی انتخاب شده با آغاز بازی به‌کار برده خواهد شد</string>
-    <string name="gamebox_filter_toast_apply">فیلتر هنگام بازی کردن به‌کار برده خواهد شد</string>
-    <string name="gamebox_filter_toast_open">فیلتر به‌کار برده شده: %1$s</string>
     <string name="gamebox_func_antimsg_close">اعلان‌های شناور مجاز شدند</string>
     <string name="gamebox_func_antimsg_open">اعلان‌های شناور محدود شده‌اند</string>
     <string name="gamebox_func_immersion_close">حالت همه‌جانبه خاموش است</string>
@@ -1728,19 +1536,15 @@
     <string name="gamebox_func_wlan_open">Wi-Fi روشن است</string>
     <string name="gamebox_game_center_app_not_find">ابتدا بازی‌ها را نصب کنید</string>
     <string name="gamebox_hangup">خاموش کردن نمایشگر</string>
-    <string name="gamebox_hangup_new">خاموش کردن نمایشگر</string>
     <string name="gamebox_hangup_tips_content">این ویژگی به شما اجازه می‌دهد تا نمایشگر را خاموش کنید، اما بازی را در پس‌زمینه در حال اجرا نگه می‌دارد. پس از باز کردن قفل دستگاه بلافاصله به صورت خودکار خاموش می‌شود.</string>
     <string name="gamebox_hangup_tips_title">خاموش کردن نمایشگر</string>
     <string name="gamebox_immersion">حالت همه‌جانبه</string>
     <string name="gamebox_immersion_tips_content">حالت همه‌جانبه همه کارایی‌های سیم‌کارت به جز اتصال اینترنت همراه را محدود می‌کند. نه توسط تماس‌ها و نه دریافت اعلان تماس‌های از دست رفته در کارتان وقفه ایجاد می‌شود. تمام ویژگی‌ها سیم‌کارت پس از خاموش شدن حالت همه‌جانبه بازیابی خواهند شد. حالت همه‌جانبه روشن شود؟</string>
     <string name="gamebox_immersion_tips_title">توجه</string>
     <string name="gamebox_immerson_open">درحال روشن کردن حالت همه‌جانبه. شبکه‌ها را تعویض نکنید…</string>
-    <string name="gamebox_macro">Combos</string>
     <string name="gamebox_manual_record">ضبط</string>
     <string name="gamebox_mem_clean">پاک‌سازی حافظه</string>
-    <string name="gamebox_mem_filter">فیلتر‌های بازی</string>
     <string name="gamebox_milink">بازتاباندن</string>
-    <string name="gamebox_net_optimize_description">تأخیر و لرزش WLAN را کاهش دهید. از یک روتر Xiaomi یا ردمی برای لذت بردن از حالت‌های ویژه افزایش سرعت استفاده کنید.</string>
     <string name="gamebox_positive_button_text">تأیید (%1$d ثانیه)</string>
     <string name="gamebox_qq_not_find">QQ را نصب کرده سپس دوباره تلاش کنید.</string>
     <string name="gamebox_recent_task_expand_fail">برنامه‌هایی که با میان‌بر‌ها کار می‌کنند نصب نیستند</string>
@@ -1753,13 +1557,11 @@
     <string name="gamebox_type_gesture">کشیده تا نشان داده شود</string>
     <string name="gamebox_voicechanger">تغییر دهنده صدا</string>
     <string name="gamebox_wechat_not_find">WeChat را نصب کرده سپس دوباره تلاش کنید.</string>
-    <string name="gamebox_wifi">Wi-Fi</string>
     <string name="gamecenter_install_fail">نصب نشد</string>
     <string name="gamecenter_install_sucessfull">با موفقیت نصب شد</string>
     <string name="gateway_exception_summary">رهیاب خود را بررسی و دوباره تلاش کنید.</string>
     <string name="gateway_exception_summary2">نمی‌توان به سرور متصل شد</string>
     <string name="gateway_exception_title">آزمایش رهیاب</string>
-    <string name="gb_ad_game_size">مگابایت</string>
     <string name="gb_add_game_hint">افزودن موارد از فهرست برنامه‌ها</string>
     <string name="gb_add_game_loading_tips">چند لحظه صبر کنید…</string>
     <string name="gb_adv_touch_adv_title">حالت کلاسیک (پیش‌فرض)</string>
@@ -1787,26 +1589,16 @@
     <string name="gb_advance_settings_reset_dialog_content">به تنظیمات پیش‌فرض بازیابی شود؟</string>
     <string name="gb_advance_settings_reset_dialog_title">تنظیمات پیش‌فرض</string>
     <string name="gb_advance_settings_screen_display">نمایش</string>
-    <string name="gb_advance_settings_screen_display_style_summary">کنتراست را افزایش دهید و تصاویر را برای نمایش جزئیات بیشتر بهینه کنید</string>
-    <string name="gb_advance_settings_screen_display_summary">کنتراست را افزایش دهید و تصاویر را برای نمایش جزئیات بیشتر بهینه کنید</string>
     <string name="gb_advance_settings_screen_hdr">بهبود نمایش</string>
-    <string name="gb_advance_settings_screen_hdr_gear1">اصلی</string>
     <string name="gb_advance_settings_screen_hdr_gear2">متوسط</string>
     <string name="gb_advance_settings_screen_hdr_gear3">شدید</string>
     <string name="gb_advance_settings_screen_hdr_gear4">حداکثری</string>
-    <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
-    <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">افزایش کنتراست و بهبود جزئیات برای بازی‌ها</string>
-    <string name="gb_advance_settings_screen_show_enhancement">بهبود نمایش</string>
-    <string name="gb_advance_settings_screen_show_enhancement_summary">نمایش حرکت با افزایش صافی و روان بودن</string>
-    <string name="gb_advance_settings_screen_super_picture_quality">کیفیت تصویر فوق‌العاده</string>
-    <string name="gb_advance_settings_screen_super_picture_quality_summary">افزایش وضوح و نرخ فریم برای تصاویری روان‌تر</string>
     <string name="gb_advance_settings_touch">کنترل‌های لمسی</string>
     <string name="gb_advance_settings_vibration_4d">لرزش 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">لرزش هنگام شلیک در بازی</string>
     <string name="gb_advance_settings_vibration_4d_summary2">لرزش هنگام کشتن در بازی</string>
     <string name="gb_all_hight_display">نرخ تازه‌سازی بالا</string>
-    <string name="gb_all_hight_display_sub_title">120 Hz for all scenarios</string>
     <string name="gb_already_in_game_list_tips">این مورد میان بازی‌های افزوده وجود دارد. اینجا افزوده نمی‌شود.</string>
     <string name="gb_already_in_video_list_tips">این مورد میان برنامه‌های ویدئویی وجود دارد. اینجا افزوده نمی‌شود.</string>
     <string name="gb_application_not_find">هنوز موردی اینجا نیست</string>
@@ -1814,15 +1606,9 @@
     <string name="gb_audition_play_instruction">برای تأثیر بهتر از هدفون استفاده کنید</string>
     <string name="gb_award_noti_message">برای دریافت پاداش، به‌روزرسانی‌های پس‌زمینه Game for Peace را در افزاینده سرعت بازی روشن کنید</string>
     <string name="gb_award_noti_title">جوایز Game for Peace اینجا هستند!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>هنگام روشن بودن حالت نهایی در سطح سیستم، در افزاینده سرعت بازی به حالت متعادل تعویض نمی‌شود. شما می‌توانید در امنیت، تنظیمات باتری را تغییر دهید. &lt;br>&lt;a href=\"#\">باز کردن امنیت&lt;/a></Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>هنگام روشن بودن حالت نهایی در سطح سیستم، در افزاینده سرعت بازی به حالت متعادل تعویض نمی‌شود. شما می‌توانید در امنیت، تنظیمات باتری را تغییر دهید. &lt;br>&lt;a href=\"#\">باز کردن امنیت&lt;/a></Data></string>
-    <string name="gb_bar_high">زیاد</string>
-    <string name="gb_bar_low">کم</string>
-    <string name="gb_bar_mid">متوسط</string>
     <string name="gb_barrage_app_manger">مدیریت برنامه‌ها</string>
     <string name="gb_barrage_chat_desc">همیشه باور داشته باش که یک چیز شگفت انگیز در در آستانه روی دادن است</string>
     <string name="gb_barrage_chat_pre_desc">پیش‌نمایش</string>
-    <string name="gb_barrage_chat_text_color">رنگی</string>
     <string name="gb_barrage_chat_text_size">اندازه متن</string>
     <string name="gb_barrage_chat_text_size_big">بزرگ</string>
     <string name="gb_barrage_chat_text_size_small">کوچک</string>
@@ -1835,16 +1621,13 @@
     <string name="gb_beauty_cold_light">سرد</string>
     <string name="gb_beauty_face">زیبایی</string>
     <string name="gb_beauty_light">پرنور کردن</string>
-    <string name="gb_beauty_nature_light">طبیعی</string>
     <string name="gb_beauty_warm_light">گرم</string>
-    <string name="gb_collimator_color">رنگی</string>
     <string name="gb_collimator_size">اندازه</string>
     <string name="gb_collimator_style">نوع</string>
     <string name="gb_collimator_toast">یک مگسک هدف گیری را بسیار راحت تر می‌کند</string>
     <string name="gb_cooler_device_toast">"تجربه دیداری توسط 
 خنک‌کننده بازی Xiaomi بهبود یافته است"</string>
     <string name="gb_create_icon_summary">ایجاد میان‌بر صفحه اصلی</string>
-    <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">پاسخ</string>
     <string name="gb_description_image_button_reject">رد کردن</string>
     <string name="gb_description_image_button_video_answer">تماس تصویری</string>
@@ -1879,12 +1662,8 @@
     <string name="gb_first_window_handsfree_title">پاسخ به تماس هنگام استفاده از برنامه</string>
     <string name="gb_first_window_start">آغاز بازی</string>
     <string name="gb_first_window_summary">سرعت بازی و کارایی را در سطح سیستم بالا می‌برد</string>
-    <string name="gb_first_window_title">افزاینده سرعت بازی</string>
     <string name="gb_game_end_toast">لحظات حساس بازی‌های خود را دوباره ببینید</string>
     <string name="gb_game_fill_desc">در برخی موارد ممکن است محتوا نا متوازن باشد</string>
-    <string name="gb_game_macro_bubble_tips">Try combos</string>
-    <string name="gb_game_macro_toast_tips">"Try combos!
-Record sequences and use them anytime!"</string>
     <string name="gb_game_mode_change_btn_right">راه‌اندازی دوباره</string>
     <string name="gb_game_mode_change_message">برای به‌کارگیری تغییرات، بازی دوباره راه‌اندازی شود؟</string>
     <string name="gb_game_mode_change_new">در اینجا میان طرح‌ها می‌توانید تعویض کنید</string>
@@ -1895,8 +1674,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_mode_fill">پر کردن صفحه</string>
     <string name="gb_game_mode_fill_type">پر کردن صفحه</string>
     <string name="gb_game_mode_new">طرح‌های بازی</string>
-    <string name="gb_game_mode_ratio">اصلی</string>
-    <string name="gb_game_mode_ratio_type">اصلی</string>
     <string name="gb_game_mode_recommend">" (پیشنهاد شده)"</string>
     <string name="gb_game_mode_search">جستجوی برنامه‌ها</string>
     <string name="gb_game_ratio_bottom">پایین</string>
@@ -1916,7 +1693,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_record_finish_tips">ویدئوی ضبط شده دستی در افزاینده سرعت بازی ذخیره شد</string>
     <string name="gb_game_video_save">ذخیره</string>
     <string name="gb_game_video_save_tip">با موفقیت ذخیره شد</string>
-    <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">ضبط با استفاده از AI</string>
     <string name="gb_game_video_type_manual">دستی</string>
     <string name="gb_game_video_type_manual_record">ضبط دستی</string>
@@ -1929,21 +1705,16 @@ Record sequences and use them anytime!"</string>
     <string name="gb_have_signed">امروز اعلام ورود شده است</string>
     <string name="gb_manual_record_dialog_del_video_message">ویدئوهای انتخاب شده برای همیشه حذف شوند؟</string>
     <string name="gb_manual_video_record_title">موارد ضبط‌ شده</string>
-    <string name="gb_margin_restrain">نادیده گرفتن لمس تصادفی لبه‌ها</string>
-    <string name="gb_margin_restrain_description">دستگاه شما نسبت به لمس تصادفی در بخش‌های نزدیک لبه‌ها کمتر واکنش نشان می‌دهد</string>
-    <string name="gb_margin_restrain_seekbar">بخش لمس تصادفی</string>
     <string name="gb_msg_completely_shielded">پنهان کردن پیام‌ها</string>
     <string name="gb_msg_completely_shielded_summary">پنهان کردن</string>
     <string name="gb_msg_not_shielded_summary">نمایش</string>
     <string name="gb_msg_quickly_answer">اجازه پاسخ فوری</string>
     <string name="gb_msg_quickly_answer_summary">پاسخ فوری</string>
     <string name="gb_msg_transparent_dispaly">اعلان‌ها با پس‌زمینه شفاف</string>
-    <string name="gb_msg_transparent_dispaly_summary">شفافیت</string>
     <string name="gb_network_status_bad">یک خطای اتصال رخ داد.</string>
     <string name="gb_new_feature">ویژگی جدید</string>
-    <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">خیلی سریع نیست!</string>
-    <string name="gb_performace_guide_disable_desc"><Data>هنگام روشن بودن حالت کارایی در سطح سیستم، در افزاینده سرعت بازی به حالت متعادل تعویض نمی‌شود. شما می‌توانید در امنیت، تنظیمات باتری را تغییر دهید.&lt;br>&lt;a href=\"#\">باز کردن امنیت&lt;/a></Data></string>
+    <string name="gb_performace_guide_disable_desc">&lt;Data>هنگام روشن بودن حالت کارایی در سطح سیستم، در افزاینده سرعت بازی به حالت متعادل تعویض نمی‌شود. شما می‌توانید در امنیت، تنظیمات باتری را تغییر دهید.&lt;br>&lt;a href=\"#\">باز کردن امنیت&lt;/a>&lt;/Data></string>
     <string name="gb_performace_switch_toast">به حالت کارایی تعویض شد. دستگاه شما ممکن است گرم شده و برق بیشتری مصرف کند.</string>
     <string name="gb_performace_tips_button">تعویض</string>
     <string name="gb_performace_tips_title">برای تجربه بهتر به حالت کارایی تعویض کنید</string>
@@ -1960,11 +1731,10 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_dialog_cancel">خیر، سپاسگزارم</string>
     <string name="gb_predownload_dialog_checked">دوباره نمایش داده نشود</string>
     <string name="gb_predownload_dialog_confirm">روشن کردن</string>
-    <string name="gb_predownload_dialog_message_china"><Data>محتوا برای این بازی به‌روز شده و می‌تواند پس از اتصال به WLAN و خاموش شدن صفحه نمایش به صورت خودکار دانلود شود. با این وجود شما می‌توانید به محض انتشار نسخه جدید از آن استفاده کنید.&lt;br>&lt;br>پیش از استفاده از این ویژگی &lt;a href=\"%1$s\">توضیحات به‌روزرسانی در پس‌زمینه&lt;/a> را خوانده و بپذیرید.</Data></string>
+    <string name="gb_predownload_dialog_message_china">&lt;Data>محتوا برای این بازی به‌روز شده و می‌تواند پس از اتصال به WLAN و خاموش شدن صفحه نمایش به صورت خودکار دانلود شود. با این وجود شما می‌توانید به محض انتشار نسخه جدید از آن استفاده کنید.&lt;br>&lt;br>پیش از استفاده از این ویژگی &lt;a href=\"%1$s\">توضیحات به‌روزرسانی در پس‌زمینه&lt;/a> را خوانده و بپذیرید.&lt;/Data></string>
     <string name="gb_predownload_dialog_title">به‌روزرسانی‌های پس‌زمینه اکنون در دسترس هستند</string>
     <string name="gb_predownload_message_new">به‌روزرسانی خودکار بازی‌های سازگار هنگام استفاده نشدن از دستگاه</string>
     <string name="gb_predownload_noti_message">%2$1.2f گیگابایت از محتوای به‌روز شده در این دستگاه وجود دارد. به محض انتشار نسخه جدید می‌توانید از آن استفاده کنید.</string>
-    <string name="gb_predownload_noti_small_size_message">%2$1.2f مگابایت منبع جدید دانلود شد. به محض انتشار نسخه جدید، می‌توانید از آن‌ها استفاده کنید.</string>
     <string name="gb_predownload_noti_title">%s در پس‌زمینه با موفقیت به‌روز شد</string>
     <string name="gb_predownload_receive">دریافت پاداش‌ها</string>
     <string name="gb_predownload_receive_error">یک خطای شبکه رخ داد. دوباره تلاش کنید.</string>
@@ -1972,8 +1742,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_predownload_receive_tips">برای دریافت پاداش‌ها به‌روزرسانی‌های پس زمینه را روشن کنید</string>
     <string name="gb_predownload_receiving">درحال دریافت…</string>
     <string name="gb_predownload_title">به‌روزرسانی‌های پس‌زمینه</string>
-    <string name="gb_setting_dock_toast">ویژگی‌های دستیار دوربین جلو اکنون در جعبه ابزار تماس موجود است</string>
-    <string name="gb_setting_dock_toast_2">ویژگی‌های دستیار دوربین جلو اکنون در جعبه ابزار تماس موجود است</string>
     <string name="gb_shortcut_pref_title">میان‌بر صفحه اصلی</string>
     <string name="gb_shoulder_guide_message1">دکمه [L] را به موقعیت هر کارایی حرکت داده و از طریق دکمه بازشو از آن استفاده کنید</string>
     <string name="gb_shoulder_guide_message2">حرکت [1] با فشردن دکمه فعال شده است. حرکت [2] با رها کردن دکمه فعال شده است.</string>
@@ -1992,7 +1760,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_shoulder_key_guide_tips">دکمه‌های بازشو را پیکربندی کرده و مانند یک حرفه‌ای بازی کنید!</string>
     <string name="gb_shoulder_key_guide_tips1">جعبه ابزار را باز کرده و دکمه‌های بازشو را پیکر بندی کنید</string>
     <string name="gb_shoulder_key_light_effect">انیمیشن‌های رنگی</string>
-    <string name="gb_shoulder_key_light_effect_color">رنگی</string>
     <string name="gb_shoulder_key_light_effect_subtitle">هنگامی که دکمه‌های بازشو روشن هستند و شما در حال بازی هستید، انیمیشن‌های رنگی نمایش داده می‌شوند</string>
     <string name="gb_shoulder_key_light_effect_title">انیمیشن‌ها</string>
     <string name="gb_shoulder_key_settings_guide_tips1">دکمه‌های [L] و [R] را به موقعیت هر کارایی حرکت داده تا پیکربندی به پایان برسد</string>
@@ -2016,7 +1783,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_signed_gift_loading_summary">چند لحظه صبر کنید…</string>
     <string name="gb_signed_title">روزهای اعلام ورود این ماه</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s باقی مانده است</string>
-    <string name="gb_smart_shake_description">حساسیت به اشاره‌های کوچک</string>
     <string name="gb_sound_audition">انجام</string>
     <string name="gb_storage_game_dialog_message">شما می‌توانید بازی‌ها را به صورت خودکار در افزاینده سرعت بازی ذخیره کنید. چنانچه این ویژگی را روشن کنید، دیگر در صفحه اصلی نمایان نخواهند شد. روشن شود؟</string>
     <string name="gb_storage_game_uninstall">حذف بازی‌ها</string>
@@ -2037,11 +1803,8 @@ Record sequences and use them anytime!"</string>
     <string name="gb_turbo_wonder_subtitle">لحظات کلیدی را ثبت کنید</string>
     <string name="gb_vision_enhance">بهبود نمایش</string>
     <string name="gb_vision_enhance_desc">بهبود کیفیت و کارایی تصویر</string>
-    <string name="gb_vision_enhance_frme_insertion_new_tips">"نرخ فریم بهبود یافته
-%d فریم بر ثانیه"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"نرخ فریم هوشمند
 %d فریم بر ثانیه"</string>
-    <string name="gb_vision_enhance_smart_frame_enhance">بهبود نرخ فریم</string>
     <string name="gb_vision_enhance_smart_frame_insertion">نرخ فریم هوشمند</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">تنظیم خودکار نرخ فریم برای حرکت نرم‌تر</string>
     <string name="gb_vision_enhance_super_resolution">وضوح فوق‌العاده</string>
@@ -2060,12 +1823,10 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_lady">زنانه</string>
     <string name="gb_voice_changer_loli">دخترانه</string>
     <string name="gb_voice_changer_men">مردانه</string>
-    <string name="gb_voice_changer_normal">اصلی</string>
     <string name="gb_voice_changer_permission_dlg_msg">تغییردهنده صدا برای کارکرد عادی نیاز به امکان ضبط صدا دارد.</string>
     <string name="gb_voice_changer_permission_dlg_title">نیازمند مجوز است</string>
     <string name="gb_voice_changer_recommend">پیشنهاد شده</string>
     <string name="gb_voice_changer_renew_dailog">اشتراک خود را تمدید کرده تا بتوانید از این جلوه استفاده کنید.</string>
-    <string name="gb_voice_changer_robot">روبات</string>
     <string name="gb_voice_changer_setting_account_title">حساب Xiaomi</string>
     <string name="gb_voice_changer_setting_become_vip">اشتراک</string>
     <string name="gb_voice_changer_setting_gender_subtitle">با توجه به جنسیت انتخاب شده جلوه‌ها و پیشنهادات را تنظیم کنید</string>
@@ -2094,7 +1855,6 @@ Record sequences and use them anytime!"</string>
     <string name="gb_wonderful_video_cancel">لغو</string>
     <string name="gb_wonderful_video_checkall">انتخاب همه</string>
     <string name="gb_wonderful_video_delete">حذف</string>
-    <string name="gb_wonderful_video_goto_box">باز کردن افزاینده سرعت بازی</string>
     <string name="gb_wonderful_video_header_title">امروز</string>
     <string name="gb_wonderful_video_save_suc">ذخیره شده</string>
     <string name="gb_xunyou_gift_type_one">افزاینده سرعت ۱ روزه Xunyou</string>
@@ -2109,21 +1869,9 @@ Record sequences and use them anytime!"</string>
     <string name="gd_dock_shortcut_splitescreen">تقسیم صفحه</string>
     <string name="gd_setting_conversation">ابزارهای کنفرانس</string>
     <string name="gd_setting_conversation_desc">ویژگی‌های مختلفی را برای استفاده در تماس‌های صوتی و تصویری تمام‌صفحه ارائه می‌دهد</string>
-    <string name="gd_setting_dock_activity_title">جعبه ابزار کناری</string>
-    <string name="gd_setting_dock_call_summary">ویژگی‌های تماس صوتی و تصویری (برای مثال پرنور کردن)</string>
-    <string name="gd_setting_dock_call_title">جعبه ابزار تماس</string>
-    <string name="gd_setting_dock_game_summary">نمایش و کارایی را در هنگام بازی افزایش دهید</string>
-    <string name="gd_setting_dock_game_summary_new">نمایش و کارایی را در هنگام بازی افزایش دهید</string>
-    <string name="gd_setting_dock_summary">هنگام استفاده از یک برنامه تمام‌صفحه، سایر برنامه‌ها در پنجره‌های شناور باز می‌شوند</string>
-    <string name="gd_setting_dock_title">نوار کناری</string>
-    <string name="gd_setting_dock_video_summary">استفاده از جلوه‌هایی همچون Dolby Atmos هنگام تماشای ویدئوها</string>
-    <string name="gd_setting_dock_video_summary_new">هنگام تماشای فیلم از ابزارها و جلوه ها استفاده کنید</string>
-    <string name="gd_setting_group_custom_conversation_apps">ضبط اثر صدا برای تماس‌ها</string>
     <string name="gd_setting_group_custom_gtb_apps">بازی‌ها</string>
-    <string name="gd_setting_group_custom_gtb_apps_new">مدیریت برنامه‌های بازی</string>
     <string name="gd_setting_group_custom_settings">شخصی سازی</string>
     <string name="gd_setting_group_custom_vtb_apps">برنامه‌های ویدئویی</string>
-    <string name="gd_setting_group_custom_vtb_apps_new">مدیریت برنامه‌های ویدئویی</string>
     <string name="gd_setting_group_title_switch">صحنه‌ها</string>
     <string name="gd_setting_gtb">نمایش هنگام بازی کردن</string>
     <string name="gd_setting_gtb_desc">ویژگی‌های خاص برای بازی</string>
@@ -2138,22 +1886,15 @@ Record sequences and use them anytime!"</string>
     <string name="gd_sidebar_edit_quick_title">میانبرها</string>
     <string name="gd_sidebar_long_press_tips">هنگامی که دستگاه را به صورت عمودی گرفته‌اید، نشان‌گر را فشرده و نگه داشته تا جابجا شود</string>
     <string name="gd_splite_screen_tips">تقسیم صفحه از پنجره‌های شناور پشتیبانی نمی‌کند</string>
-    <string name="gdpr_msg"><Data>برای شناسایی خطرات امنیتی و حفاظت از داده‌های شما، ما نیاز به گردآوری مقدار مورد نیاز از اطلاعات درباره دستگاه شما داریم. پیش از استفاده از خدمات ما &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. در صورتی که به ما اجازه گردآوری چنین اطلاعاتی را ندهید، شما همچنان می‌توانید از این برنامه استفاده کنید، اما برخی ویژگی‌ها ممکن است برای شما در دسترس نباشند. </Data></string>
+    <string name="gdpr_msg">&lt;Data>برای شناسایی خطرات امنیتی و حفاظت از داده‌های شما، ما نیاز به گردآوری مقدار مورد نیاز از اطلاعات درباره دستگاه شما داریم. پیش از استفاده از خدمات ما &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. در صورتی که به ما اجازه گردآوری چنین اطلاعاتی را ندهید، شما همچنان می‌توانید از این برنامه استفاده کنید، اما برخی ویژگی‌ها ممکن است برای شما در دسترس نباشند. &lt;/Data></string>
     <string name="get_detail_by_click">برای نمایش جزئیات ضربه بزنید</string>
     <string name="get_phone_num_fail">شماره تلفن ناشناس</string>
     <string name="get_sys_info">در حال دریافت اطلاعات…</string>
-    <string name="gigabyteShort">گیگابایت</string>
-    <string name="global_dock_guide_desc_pad">برای حرکت دادن پنجره در اطراف، نشانگر را فشرده و نگه دارید</string>
     <string name="global_dock_guide_desc_with_split_screen">"· با زدن روی نوار کناری، آن را در پنجره‌های شناور باز کنید.
 · با کشیدن یک برنامه به وسط صفحه آن را در پنجره‌های شناور باز کرده و یا برای استفاده از تقسیم صفحه آن را به کنار صفحه بکشید.
 · با فشردن و نگه داشتن نشان‌گر، پنجره را در اطراف حرکت دهید."</string>
-    <string name="global_dock_guide_desc_with_split_screen_new">"با زدن روی نوار کناری، آن را در پنجره‌های شناور باز کنید.
-با کشیدن یک برنامه به وسط صفحه آن را در پنجره‌های شناور باز کرده و یا برای استفاده از تقسیم صفحه آن را به کنار صفحه بکشید.
-با فشردن و نگه داشتن نشان‌گر، پنجره را در اطراف حرکت دهید."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· با زدن روی یک برنامه در نوار کناری آن را در یک پنجره شناور باز کنید.
 · با فشردن و نگه داشتن نشان‌گر پنجره را در اطراف حرکت دهید."</string>
-    <string name="global_dock_guide_desc_without_split_screen_new">"با کشیدن روی صفحه و باز کردن نوار کناری روی یک برنامه زده تا در پنجره شناور آن را باز کند.
-با فشردن و نگه داشتن نشانگر پنجره را در اطراف حرکت دهید."</string>
     <string name="global_satisfaction_notification_button">امتیازدهی</string>
     <string name="global_satisfaction_notification_channel">نظرسنجی رضایت کاربران</string>
     <string name="global_satisfaction_notification_subhead">به ما درباره تجربه خود بگویید</string>
@@ -2164,7 +1905,6 @@ Record sequences and use them anytime!"</string>
     <string name="gmscore_support_remind">در صورتی که با استفاده از Gmail، نقشه Google و سایر برنامه‌های Google مشکل دارید، این ویژگی را روشن کنید. کمی از عمر باتری خواهد کاست.</string>
     <string name="gmscore_support_service">خدمات اساسی Google</string>
     <string name="go_to">ادامه</string>
-    <string name="go_to_mi_sim">Tap to use Mi SIM.</string>
     <string name="go_to_send">ارسال</string>
     <string name="go_to_setting_fingerprint">تنظیمات</string>
     <string name="google_base_app_install_choice">برنامه برای کارکرد عادی نیازمند چارچوب خدمات Google است. دانلود و نصب شود؟</string>
@@ -2227,7 +1967,6 @@ Record sequences and use them anytime!"</string>
     <string name="gs_performance_mode_detail">بهینه‌سازی کارایی سیستم برای بازی</string>
     <string name="gs_show_way">جهت صفحه اصلی</string>
     <string name="gs_show_way_horizontal">افقی</string>
-    <string name="gs_show_way_vertical">عمودی</string>
     <string name="gs_sign_notification">یادآوری اعلام ورود هر شب ساعت ۸</string>
     <string name="gs_sign_notification_new">یادآوری اعلام ورود هر روز ساعت %d ب.ظ</string>
     <string name="gs_slip_gamebox_detail">برای نمایان کردن پانل میان‌بر از کشو استفاده و یا از لبه بالای نمایشگر به داخل بکشید</string>
@@ -2245,12 +1984,8 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_open">روشن کردن</string>
     <string name="gtb_dialog_hint_smart_5g">این ویژگی را می‌توانید در افزاینده سرعت بازی > تنظیمات روشن و خاموش کنید.</string>
     <string name="gtb_dialog_privacy_speed_message">شما در آستانه استفاده از تغییر افزاینده سرعت بازی Xunyou هستید. این خدمات شناسه حساب Xiaomi شما را گردآوری کرده تا مدت عضویت شما را ضبط نماید.</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>من &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> افزاینده سرعت بازی Xunyou را خوانده و پذیرفته‌ام.</Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
-    <string name="gtb_dialog_privacy_speed_title">افزاینده سرعت بازی Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_voice_tips"><Data>من &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> تغییر دهنده صدا بازی Xunyou را خوانده و پذیرفته‌ام.</Data></string>
-    <string name="gtb_dialog_privacy_voice_title">تغییر دهنده صدا بازی Xunyou</string>
+    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>من &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> افزاینده سرعت بازی Xunyou را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>من &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> تغییر دهنده صدا بازی Xunyou را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="gtb_dialog_summary_smart_5g">هنگامی که افزاینده سرعت بازی یک شبکه 5G را شناسایی می‌کند، می‌تواند دستگاه شما را به بهترین شبکه موجود متصل کرده تا تأخیر شبکه را کاهش دهد. این ویژگی روشن شود؟</string>
     <string name="gtb_dialog_title_smart_5g">بهینه‌سازی شبکه 5G</string>
     <string name="gtb_dnd">مزاحم نشوید</string>
@@ -2271,7 +2006,7 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_guide_gtb_game_new">جدید</string>
     <string name="gtb_guide_gtb_line_new">حالت کارایی را در افزاینده سرعت بازی تجربه کنید!</string>
     <string name="gtb_guide_gtb_line_new_global">بکشید تا افزاینده سرعت بازی باز شود</string>
-    <string name="gtb_guide_gtb_line_wilde_mode">Wild Boost را در افزاینده سرعت بازی امتحان کنید تا بازی خود را به سطح بعدی ببرید</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">حالت نهایی را در افزاینده سرعت بازی امتحان کنید تا بازی خود را به سطح بعدی ببرید</string>
     <string name="gtb_guide_gtb_line_xspace">با Game Turbo کاملاً جدید، بازی خود را تقویت کنید!</string>
     <string name="gtb_guide_small_window_app_desc">استفاده از برنامه‌های دیگر هنگام بازی</string>
     <string name="gtb_guide_small_window_app_title">پنجره‌های شناور</string>
@@ -2294,20 +2029,6 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">انسداد سیم‌کارت دوم</string>
     <string name="gtb_setting_item_title_smart_5g">بهینه‌سازی شبکه 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi افزایش سرعت</string>
-    <string name="gtb_spring_festival_back_game">Back to game</string>
-    <string name="gtb_spring_festival_egg_obtain_fail">"Couldn't connect to the network"</string>
-    <string name="gtb_spring_festival_goto_gameturbo">View</string>
-    <string name="gtb_spring_festival_guide">"Switch to landscape mode
-to join our egg hunt!"</string>
-    <string name="gtb_spring_festival_guide_know">Got it</string>
-    <string name="gtb_spring_festival_push_active_desc">Win phones, smart devices and coupons</string>
-    <string name="gtb_spring_festival_push_active_title">Easter egg hunt is on!</string>
-    <string name="gtb_spring_festival_push_desc">Join our egg hunt to win prizes</string>
-    <string name="gtb_spring_festival_push_egg_title">You received an Easter egg!</string>
-    <string name="gtb_spring_festival_push_gift_title">Egg hunt prizes are coming!</string>
-    <string name="gtb_spring_festival_push_join">Join</string>
-    <string name="gtb_spring_festival_push_see">View</string>
-    <string name="gtb_spring_festival_shortcut_create">Create a Home screen shortcut</string>
     <string name="gtb_start_phone_accelerate">افزایش سرعت</string>
     <string name="gtb_stop_accelerate">توقف</string>
     <string name="gtb_timer">زمان‌سنج</string>
@@ -2343,24 +2064,17 @@ to join our egg hunt!"</string>
     <string name="hints_scan_result_safe">ایمن</string>
     <string name="hints_scanning">در حال اسکن…</string>
     <string name="hints_scanning_text">در حال اسکن کردن…</string>
-    <string name="hints_virus_apk_list_item_summary">apk</string>
-    <string name="hints_virus_apk_summary">%s (apk)</string>
-    <string name="hints_virus_app_list_item_summary">برنامه</string>
     <string name="hints_virus_app_summary">%s (برنامه)</string>
     <string name="hints_virus_lib_update_default_summary">زمان آخرین به‌روزرسانی نامشخص است</string>
-    <string name="hot">پرطرفدار</string>
     <string name="hot_today">پرطرفدار امروز</string>
     <string name="i_know">متوجه‌ام</string>
     <string name="i_know_time">متوجه‌ام (%d)</string>
     <string name="icon_created_settings_preference">افزوده شد</string>
     <string name="ignore_special_app">مستثنا کردن اینترنت همراه مصرف شده توسط برنامه‌های انتخاب شده از طرح خود</string>
-    <string name="im">پیام فوری</string>
     <string name="ime_security_warning">%1$s ممکن است هر چیزی را که تایپ می‌کنید از جمله گذرواژه‌ها و سایر اطلاعات حساس را ضبط کند. در هر صورت استفاده شود؟</string>
-    <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
     <string name="infinite_remind_warning_text_tips">ارسال هشدار هنگامی که به سقف ماهانه رسیده باشد</string>
     <string name="info_and_call">تماس‌ها و پیام‌رسانی</string>
     <string name="info_antispam_close">فهرست سیاه خاموش است</string>
-    <string name="info_antispam_current_mode">%s</string>
     <string name="info_antispam_phone">مسدود کردن تماس‌ها</string>
     <string name="info_antispam_phone_sms">مسدود کردن تماس‌ها و پیام‌ها</string>
     <string name="info_antispam_sms">مسدود کردن پیام</string>
@@ -2410,28 +2124,16 @@ to join our egg hunt!"</string>
     <string name="ip_address_exception_summary">نمی‌توان آدرس IP را دریافت کرد. اگر دوباره با این مشکل مواجه شدید، تلاش کنید از یک نشانی IP ثابت استفاده نمایید.</string>
     <string name="item_app_permission">مجوزهای برنامه</string>
     <string name="item_dev_mode">گزینه‌های توسعه‌دهنده</string>
-    <string name="item_eighty">%d CNY</string>
-    <string name="item_fifty">%d CNY</string>
-    <string name="item_hundred">%d CNY</string>
     <string name="item_install_monitor">نصب مانیتور</string>
     <string name="item_mms">فیلتر کردن پیام‌های ناخواسته</string>
     <string name="item_system_auto_download">دانلود خودکار به‌روزرسانی‌ها</string>
-    <string name="item_ten">%d CNY</string>
-    <string name="item_thirty">%d CNY</string>
     <string name="item_usb_debug">اشکال‌زدایی USB</string>
     <string name="item_virus_lib">به‌روزرسانی خودکار تعریف ویروس‌ها</string>
-    <string name="item_zero">%d CNY</string>
-    <string name="keyboard_key_back">بازگشت</string>
-    <string name="keyboard_key_space">فاصله</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s و %2$s</string>
-    <string name="kilobyteShort">کیلوبایت</string>
-    <string name="kilobyte_per_second">ک.ب/ث</string>
     <string name="label_callwait">اعلان انتظار تماس</string>
     <string name="label_mi_stats">تجزیه و تحلیل Mi</string>
     <string name="last_check_canceled">اسکن قبلی لغو شد</string>
     <string name="launch_instant_app">باز کردن</string>
-    <string name="layoutDirection">rtl</string>
-    <string name="left_precent">%۶۰</string>
     <string name="legal_workday">روزهای کاری قانونی</string>
     <string name="legal_workday_invalidate">دوشنبه - جمعه (اطلاعات تعطیلات به پایان رسیده است)</string>
     <string name="legal_workday_invalidate_message">برای به‌روزرسانی اطلاعات تعطیلات عمومی، ضربه بزنید.</string>
@@ -2446,9 +2148,7 @@ to join our egg hunt!"</string>
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="loading_text_format" formatted="false">بررسی اینکه عکس‌ها حاوی اطلاعات خصوصی هستند %d/%d</string>
     <string name="local_ip_exception_summary">نمی‌توان نشانی IP را دریافت کرد. برای گزارش دادن این مسئله، به برنامه بازخورد بروید و گزارشی را از روی دستگاه خود ارسال کنید.</string>
-    <string name="location_services_title">خدمات موقعیت</string>
     <string name="lock_all_title">قفل همه برنامه‌ها</string>
-    <string name="lock_app_input_invalid_car">برخی نمادها پشتیبانی نمی‌شوند</string>
     <string name="lock_mode_title">تنظیمات قفل</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s در صفحه قفل استفاده شد</string>
     <string name="lock_screen_traffic_guide_notification_title">برای مدیریت مصرف اینترنت همراه ضربه بزنید.</string>
@@ -2483,7 +2183,6 @@ to join our egg hunt!"</string>
     <string name="lockscreen_glogin_password_hint">گذرواژه</string>
     <string name="lockscreen_glogin_submit_button">ورود به حساب کاربری</string>
     <string name="loding">درحال بارگذاری داده‌ها</string>
-    <string name="log_count">(%d)</string>
     <string name="long_click_dialog_summary">نتایج را در فهرست نگه داشته تا به موارد استثنا افزوده شوند</string>
     <string name="long_click_dialog_title">توجه</string>
     <string name="low_memory_warning_dialog_cancel_button">لغو</string>
@@ -2540,7 +2239,6 @@ to join our egg hunt!"</string>
     <string name="make_sure_package_type">طرح اینترنت همراه خود را انتخاب کنید</string>
     <string name="man_add_application">افزودن راه‌اندازی خودکار برنامه‌ها به صورت دستی</string>
     <string name="manage_hybrid_permissions">مدیریت مجوزهای برنامه‌ها</string>
-    <string name="manage_notification_access_title">اعلان‌ها را خوانده، پاسخ داده و کنترل کنید</string>
     <string name="managed_user_title">همه برنامه‌های کاری</string>
     <string name="manual_input_free_traffic">تنظیم مصرف اینترنت همراه غیراوج</string>
     <string name="manual_input_traffic">تنظیم مصرف اینترنت همراه</string>
@@ -2574,10 +2272,7 @@ to join our egg hunt!"</string>
     <string name="mark_sell_block_large">بازاریاب‌های تلفنی</string>
     <string name="mark_sell_time_setting">شماره‌هایی که چند بار معین به عنوان بازاریاب‌های تلفنی گزارش شده مسدود شود</string>
     <string name="mark_time_setting_dialog_title">گزارش شماره</string>
-    <string name="mark_time_text">%d</string>
     <string name="marked_by_user">"علامت زده‌اید به عنوان "</string>
-    <string name="megabyteShort">مگابایت</string>
-    <string name="megabyte_per_second">م.ب/ث</string>
     <string name="memory_check_content">%s آزاد شد</string>
     <string name="memory_clean_memory_size_tip">حافظه پنهان</string>
     <string name="memory_clean_no_need_clean">همه چیز خوب به نظر می‌رسد</string>
@@ -2605,7 +2300,6 @@ to join our egg hunt!"</string>
     <string name="menu_item_install_debug_package">نصب بسته عیب یابی</string>
     <string name="menu_item_notification_antispam_text_avail">فهرست سیاه</string>
     <string name="menu_item_notification_antispam_text_normal">فهرست سیاه</string>
-    <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_optimize_text_new">%s اشغال شده است</string>
     <string name="menu_item_notification_power_text">بهینه‌سازی باتری</string>
     <string name="menu_item_notification_title">نشان دادن منو در کرکره اعلان</string>
@@ -2623,7 +2317,6 @@ to join our egg hunt!"</string>
     <string name="menu_show_work_profile_text">نمایش برنامه‌های فضای کاری</string>
     <string name="menu_sms">ارسال پیام</string>
     <string name="menu_summary_antispam">مسدود کردن تماس‌ها و پیام‌ها</string>
-    <string name="menu_summary_antispam_calls">مسدود کردن تماس‌های ناخواسته</string>
     <string name="menu_summary_antivirus">جستجو برای ویروس‌های دستگاه شما</string>
     <string name="menu_summary_app_manager">تنظیمات مدیریت برنامه‌ها</string>
     <string name="menu_summary_garbage_cleanup">هیچ زباله‌ای پیدا نشد</string>
@@ -2650,24 +2343,15 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">مجوزها</string>
     <string name="menu_text_networkassistants">مصرف اینترنت همراه</string>
     <string name="menu_text_networkassistants_danger">%s فراتر</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s باقی‌مانده</string>
-    <string name="menu_text_networkassistants_unit_b">بیت</string>
-    <string name="menu_text_networkassistants_unit_gb">گیگابایت</string>
-    <string name="menu_text_networkassistants_unit_kb">کیلوبایت</string>
-    <string name="menu_text_networkassistants_unit_mb">مگابایت</string>
     <string name="menu_text_optimize_manage">افزایش سرعت</string>
     <string name="menu_text_optimize_manage_1">افزایش سرعت</string>
     <string name="menu_text_power_manager">باتری</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">حذف از موارد استثنا</string>
     <string name="menu_white">افزودن به استثناها</string>
     <string name="mi_ime_not_used">استفاده از صفحه کلید مجاز شده توسط Xiaomi</string>
-    <string name="mi_roaming">رومینگ Mi</string>
     <string name="mi_service_app_detail">جزئیات مصرف اینترنت همراه</string>
     <string name="mi_service_traffic_detail">جزئیات چارچوب کاری</string>
-    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up open Mi Sim.&lt;/U>&lt;/font>"</string>
-    <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mic_noise_reduction_mode_standard">عادی</string>
     <string name="mic_noise_reduction_mode_ultimate">انتخاب</string>
     <string name="mic_noise_reduction_voiceprint_desc">نگه داشتن صدا فقط از یک کاربر مشخص</string>
@@ -2686,7 +2370,6 @@ to join our egg hunt!"</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
-    <string name="miuix_appcompat_edit">ویرایش</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
     <string name="miuix_appcompat_select_all">انتخاب همه</string>
@@ -2707,9 +2390,6 @@ to join our egg hunt!"</string>
     <string name="mixed_recording_intro_header">%1$s تا %2$s کاراکتر وارد کنید</string>
     <string name="mixed_retry_button_text">لغو</string>
     <string name="mixed_settings_help_how_to_record">چگونگی تنظیم گذرواژه</string>
-    <string name="mm_app_name">سیم‌کارت Mi</string>
-    <string name="mode_size_center">مرکز</string>
-    <string name="mode_size_full">تمام‌صفحه</string>
     <string name="modify_cellular_type">برای انتخاب طرح اینترنت همراه خود ضربه بزنید</string>
     <string name="modify_password_mode"><u>تغییر نوع گذرواژه</u></string>
     <string name="modifypassword">تغییر نوع گذرواژه</string>
@@ -2791,8 +2471,6 @@ to join our egg hunt!"</string>
     <string name="net_boostering">درحال افزایش سرعت شبکه…</string>
     <string name="net_boosting">درحال افزایش سرعت…</string>
     <string name="net_delay_title">تاخیر</string>
-    <string name="net_free_booster_new_user_tip">یک تقویت کننده رایگان بازی دریافت کرده و برای برنده شدن یک گوشی Xiaomi وارد شوید!</string>
-    <string name="net_free_booster_new_user_title">هدیه کاربر جدید</string>
     <string name="net_overdue">جلسه تمام شد</string>
     <string name="network_assistant_privacy">برای پیگیری مصرف اینترنت همراه توسط برنامه، ما اطلاعاتی همچون نام بسته، WLAN و مصرف اینترنت همراه، مصرف زمان اوج و خارج از اوج و زمان روشن بودن WLAN و اینترنت همراه را گردآوری می‌کنیم. این اطلاعات به صورت محلی در دستگاه شما ذخیره خواهند شد.</string>
     <string name="network_assistant_privacy_title">ارسال برنامه، داده‌های تشخیصی برنامه و شبکه</string>
@@ -2901,11 +2579,9 @@ to join our egg hunt!"</string>
     <string name="notification_garbage_clean_hint">پاک‌سازی فضای حافظه</string>
     <string name="notification_garbage_clean_hint_new">دستگاهتان را اوج دهید</string>
     <string name="notification_garbage_clean_size">آزادسازی %s</string>
-    <string name="notification_garbage_clean_size_float_unit">%.1f گیگابایت</string>
     <string name="notification_garbage_clean_size_found">%s زباله وجود دارد</string>
     <string name="notification_garbage_clean_size_found_hint">وقتش رسیده که زیاله هارو از سطل زباله خارج کنی!</string>
     <string name="notification_garbage_clean_size_found_text">پوشه‌های زباله بسیار زیاد است</string>
-    <string name="notification_garbage_clean_size_int_unit">%d گیگابایت</string>
     <string name="notification_garbage_clean_size_new">آزادسازی %s از حافظه</string>
     <string name="notification_garbage_cleanup_summary">زباله‌ها (%s) را پاک‌سازی کرده تا دستگاه خود را سریع‌تر کنید</string>
     <string name="notification_garbage_cleanup_title">پاکسازی فایل‌های زباله</string>
@@ -2974,12 +2650,9 @@ to join our egg hunt!"</string>
     <string name="numeric_recording_intro_header">گذرواژه را وارد کنید</string>
     <string name="numeric_retry_button_text">لغو</string>
     <string name="numeric_settings_help_how_to_record">چگونگی تنظیم PIN</string>
-    <string name="oaid_apps_summary">اجازه دادن یا محدود کردن دسترسی به برنامه‌های خاص</string>
     <string name="oaid_apps_title">مدیریت شناسه مجازی</string>
     <string name="oaid_reset_content_tip">اگر شناسه مجازی را خاموش کنید، ممکن است کارکرد عادی برخی برنامه‌ها متوقف شده و بخشی از داده‌های برنامه شما ممکن است از بین رفته یا ناپایدار شود.</string>
     <string name="oaid_reset_final_tip">در هر صورت شناسه مجازی خاموش شود؟</string>
-    <string name="oaid_string">"شناسه مجازی کنونی:
-%1s"</string>
     <string name="oaid_tips_content">شناسه‌های مجازی (OAID) می‌تواند برای ردیابی رفتار شما و شخصی‌سازی تبلیغات برای شما استفاده شود. می‌توانید انتخاب کنید کدام برنامه‌ها اجازه دسترسی به شناسه مجازی شما را دارند. توجه داشته باشید که چنانچه دسترسی را محدود کنید، ممکن است پیشنهادهای تبلیغاتی بی ربط باشند یا برنامه‌ها نتوانند به طور عادی کار کنند.</string>
     <string name="ok">تأیید</string>
     <string name="ok_button">تأیید</string>
@@ -2987,7 +2660,6 @@ to join our egg hunt!"</string>
     <string name="om_lock_app_locked_app">قفل</string>
     <string name="om_lock_app_unlocked_app">باز</string>
     <string name="om_locked_apps_summary">برنامه‌های قفل شده توسط افزاینده سرعت نادیده گرفته خواهند شد.</string>
-    <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
     <string name="om_not_finish_speedboost">افزاینده سرعت لازم است</string>
     <string name="om_optimzing_big_button_text">افزایش سرعت</string>
     <string name="om_running_app_info_summary">آزادسازی %s</string>
@@ -3007,12 +2679,10 @@ to join our egg hunt!"</string>
     <string name="om_settings_title">تنظیمات افزایش سرعت</string>
     <string name="om_shortcut_added_toast_text">با موفقیت افزوده شد</string>
     <string name="om_shortcut_dialog_summary">RAM Jet به شما امکان پاک‌سازی حافظه و افزایش سرعت دستگاه‌تان را تنها با یک ضربه می‌دهد. RAM Jet به صفحه اصلی افزوده شود؟</string>
-    <string name="om_shortcut_dialog_title">RAM Jet</string>
     <string name="once_settings_camera_ttile">هم‌رسانی بدون ابرداده</string>
     <string name="once_settings_location_title">هم‌رسانی بدون اطلاعات موقعیت</string>
     <string name="once_settings_subtitle">موارد انتخاب شده را چگونه می‌خواهید هم‌رسانی کنید؟</string>
     <string name="once_settings_title">حفاظت از حریم خصوصی</string>
-    <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">برنامه یافت نشد</string>
     <string name="open_app">بازکردن</string>
     <string name="open_callwait">فعال</string>
@@ -3023,14 +2693,8 @@ to join our egg hunt!"</string>
     <string name="operator_location_settings">تنظیم کارور و موقعیت</string>
     <string name="operator_location_settings_message">کارور و موقعیت شما شناسایی نشد. هشدارهای موجودی و مصرف اینترنت همراه شما اکنون تنظیم نمی‌شود.</string>
     <string name="operator_name_cbn">Broadnet چین</string>
-    <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_mi_mobile">موبایل Mi</string>
-    <string name="operator_name_telcom">China Telecom</string>
-    <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_virtual_operator">شرکت مخابراتی مجازی</string>
-    <string name="operator_number_cmcc">10086</string>
-    <string name="operator_number_telcom">10000</string>
-    <string name="operator_number_unicom">10010</string>
     <string name="opt_antivirus_scan_antivirus_notification_summary">استفاده از برنامه‌های مخرب خطرات امنیتی ایجاد می‌کنند</string>
     <string name="opt_antivirus_scan_single_antivirus_notification_title">%s ممکن است یک برنامه مخرب باشد</string>
     <string name="optimize_manage_title">افزایش سرعت</string>
@@ -3115,7 +2779,6 @@ to join our egg hunt!"</string>
     <string name="pc_batery_protection">محافظت از باتری</string>
     <string name="pc_battery_charge_protect">محافظت از شارژ کردن</string>
     <string name="pc_battery_chart_loading">چند لحظه صبر کنید…</string>
-    <string name="pc_battery_date_year_month_format">MMM yyyy</string>
     <string name="pc_battery_detail_curve_reference_now">اکنون</string>
     <string name="pc_battery_detail_device_item_title">آمار مصرف باتری</string>
     <string name="pc_battery_health_revise_title">درجه‌بندی اطلاعات سلامت باتری</string>
@@ -3130,47 +2793,11 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_item_histogram">جزئیات مصرف برق</string>
     <string name="pc_battery_history_rank_mha_menu_item">میلی‌آمپر ساعت</string>
     <string name="pc_battery_history_rank_percent_menu_item">درصد</string>
-    <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">کل برق مصرف شده</string>
     <string name="pc_battery_history_usetime_title">فعال</string>
     <string name="pc_battery_low_health_reminder">زمان تعویض باتری شما فرا رسیده است</string>
-    <string name="pc_battery_replacement_service_title">خدمات تعویض باتری ما را امتحان کنید. %1$s سخت‌افزار اصلی با %2$s گارانتی.</string>
-    <string name="pc_berserk_mode_dialog_title">روشن کردن حالت نهایی</string>
-    <string name="pc_berserk_mode_noti_summary">حالت نهایی ممکن است مصرف برق را افزایش داده و منجر به مشکلات بیش از حد شود</string>
-    <string name="pc_berserk_mode_performance_title">حالت نهایی</string>
     <string name="pc_button_go_to_setting">تنظیمات</string>
-    <string name="pc_camera_printer_dialog_battery_full">کاملا شارژ شده است</string>
-    <string name="pc_camera_printer_dialog_battery_low">باتری ضعیف است</string>
-    <string name="pc_camera_printer_dialog_negative_button">متوجه‌ام</string>
-    <string name="pc_camera_printer_dialog_positive_button">دوربین را باز کنید</string>
-    <string name="pc_camera_printer_dialog_should_charge">شارژر را وصل کنید</string>
-    <string name="pc_camera_printer_notify_button">دوربین را باز کنید</string>
-    <string name="pc_camera_printer_notify_subtitle">متصل</string>
-    <string name="pc_camera_printer_title">کیت چاپ عکس</string>
     <string name="pc_category_charge_settings">تنظیمات شارژ کردن</string>
-    <string name="pc_charge_mode_low_power_fast_speed">افزایش سرعت</string>
-    <string name="pc_charge_mode_low_power_fast_speed_tips">ممکن است دستگاه داغ شود</string>
-    <string name="pc_charge_mode_standard">عادی</string>
-    <string name="pc_charge_mode_topspeed">سرعت بالا</string>
-    <string name="pc_charge_mode_topspeed_tips">ممکن است دستگاه داغ شود</string>
-    <string name="pc_charge_protection_features_title">گزینه‌های شارژ کردن</string>
-    <string name="pc_charge_protection_wired_charge">شارژ سیمی</string>
-    <string name="pc_charge_protection_wired_charge_mode">حالت شارژ سیمی</string>
-    <string name="pc_charge_protection_wireless_charge">شارژ بی‌سیم</string>
-    <string name="pc_charge_protection_wireless_charge_mode">حالت شارژ بی‌سیم</string>
-    <string name="pc_charge_protection_wireless_reverse_charge">شارژ بی‌سیم معکوس</string>
-    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">هنگامی که باتری این دستگاه به کمتر از %1$s می‌رسد، شارژ بی‌سیم معکوس خاموش شود</string>
-    <string name="pc_charge_protection_wireless_reverse_charge_limit_title">محدودیت شارژ</string>
-    <string name="pc_charge_wireless_charge_mode_silence_title">زمان حالت بی‌صدا</string>
-    <string name="pc_charge_wireless_charge_select_silence">بی‌صدا</string>
-    <string name="pc_charge_wireless_charge_select_silence_always">همیشه</string>
-    <string name="pc_charge_wireless_charge_select_silence_night">شب</string>
-    <string name="pc_charge_wireless_charge_select_silence_night_summary">%1$s تا %2$s روز بعد</string>
-    <string name="pc_charge_wireless_charge_select_silence_summary">سر و صدای کمتر و شارژ آهسته‌تر</string>
-    <string name="pc_charge_wireless_charge_select_standard">عادی</string>
-    <string name="pc_charge_wireless_charge_select_topspeed">سرعت بالا</string>
-    <string name="pc_charge_wireless_charge_select_topspeed_summary">سر و صدای بیشتر و دمای دستگاه بالاتر</string>
-    <string name="pc_charge_wireless_only_mi_charger_work">فقط با شارژرهای داده شده توسط Xiaomi کار می‌کند</string>
     <string name="pc_charged_auto_close_summary">وقتی باتری به %1$s رسید و یا کامل شارژ شد خاموش شود</string>
     <string name="pc_charged_auto_close_title">وقتی شارژ شد خاموش شود</string>
     <string name="pc_close_notifi_action">خاموش کردن</string>
@@ -3179,12 +2806,10 @@ to join our egg hunt!"</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">باتری %1$s کمتر از %2$s است. با روشن کردن بهینه‌ساز باتری، %3$s و %4$s دقیقه زمان به آن بیافزایید.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">باتری %s ضعیف است</string>
     <string name="pc_current_power_mode">حالت کنونی</string>
-    <string name="pc_cycle_count_protect_title">چرخه‌ها</string>
     <string name="pc_emergency_call">اضطراری</string>
     <string name="pc_endurance_calculation">در حال محاسبه…</string>
     <string name="pc_entered_extreme_mode">حالت خواب زمستانی روشن است</string>
     <string name="pc_entered_extreme_mode_summary">باتری دستگاه شما خالی شده و وارد حالت خواب زمستانی شده است. برنامه‌های پس‌زمینه اعلان ارسال نخواهند کرد.</string>
-    <string name="pc_extreme_category">باتری بسیار کم</string>
     <string name="pc_extreme_exit_and_power_off">خروج</string>
     <string name="pc_extreme_mode_bg_toast">در حالت خواب زمستانی، برنامه‌ها در پس‌زمینه اجرا می‌شوند ولی اعلانی ارسال نخواهند کرد</string>
     <string name="pc_extreme_mode_entering">در حال ورود به حالت خواب زمستانی…</string>
@@ -3193,8 +2818,6 @@ to join our egg hunt!"</string>
     <string name="pc_extreme_mode_exiting">در حال خروج از حالت خواب زمستانی…</string>
     <string name="pc_extreme_mode_find_charger">دستگاه خود را هرچه سریع‌تر شارژ کنید.</string>
     <string name="pc_extreme_mode_runtime">حالت خواب زمستانی به مدت %1$s و %2$s روشن بوده است.</string>
-    <string name="pc_extreme_mode_setting_summary">زمانی که باتری بسیار کم است، زمان آماده به کار افزایش می‌یابد</string>
-    <string name="pc_extreme_mode_setting_title">خواب زمستانی</string>
     <string name="pc_extreme_mode_title">حالت خواب زمستانی</string>
     <string name="pc_fast_charge_notifi_action_text_off">توقف</string>
     <string name="pc_fast_charge_notifi_action_text_on">افزایش سرعت</string>
@@ -3209,18 +2832,12 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_switch_summary_new">یادآوری برای افزایش سرعت شارژ هنگامی که شارژر ارائه شده متصل بوده و باتری به زیر سطح تنظیم شده می‌رسد</string>
     <string name="pc_fast_charge_switch_title">افزایش سرعت شارژ</string>
     <string name="pc_fast_charge_switch_toast_message">زمان بعدی که این دستگاه را شارژ کنید، تغییرات اعمال خواهد شد</string>
-    <string name="pc_fast_charge_temp_remider">برای تنظیم خودکار سرعت شارژ، روشن کنید. این ویژگی فقط با شارژرهای عرضه شده Xiaomi کار می‌کند. ممکن است دستگاه شما در حین شارژ شدن گرم شود.</string>
     <string name="pc_fast_charge_title">افزایش سرعت شارژ</string>
-    <string name="pc_first_use_error_tips">درحال محاسبه</string>
-    <string name="pc_first_use_protect_title">استفاده نخست</string>
     <string name="pc_going_to_exit_extreme_mode">خروج از حالت خواب زمستانی</string>
     <string name="pc_going_to_exit_extreme_mode_summary">دستگاه شما در حال شارژ است. حالت خواب زمستانی خاموش است.</string>
     <string name="pc_going_to_extreme_mode">ورود به حالت خواب زمستانی</string>
     <string name="pc_handle_battery_level">گریپ</string>
     <string name="pc_have_no_battery_issue">بدون اشکال</string>
-    <string name="pc_health_charge_protect_notification_summary">برای جلوگیری از پیری باتری، محافظ باتری را روشن کنید</string>
-    <string name="pc_health_charge_protect_summary">برای افزایش عمر باتری، وقتی سطح باتری به %1$s رسید، شارژ دستگاه متوقف می‌شود</string>
-    <string name="pc_health_charge_protect_title">محافظت از باتری</string>
     <string name="pc_hide_more_power_rank_apps">پنهان کردن</string>
     <string name="pc_hidemode_normal">متعادل</string>
     <string name="pc_hidemode_normal_title">متعادل</string>
@@ -3238,8 +2855,6 @@ to join our egg hunt!"</string>
     <string name="pc_install_manager">نصب از طریق USB</string>
     <string name="pc_intellect_charge_protect_summary">تنظیم شارژ بر اساس سناریوهای مصرف</string>
     <string name="pc_intellect_charge_protect_title">شارژ بهینه شده</string>
-    <string name="pc_is_exiting_super_power">"درحال خاموش کردن
-بهینه‌ساز فوق‌العاده باتری"</string>
     <string name="pc_keywords_fast_charge">شارژ فوری</string>
     <string name="pc_keywords_low_power_consumption_save">بهینه‌ساز باتری</string>
     <string name="pc_keywords_low_power_mode">حالت نیروی کم</string>
@@ -3257,10 +2872,6 @@ to join our egg hunt!"</string>
     <string name="pc_low_batterty_got_it">متوجه‌ام</string>
     <string name="pc_low_battery_fast_charge">افزایش سرعت شارژ</string>
     <string name="pc_low_battery_fast_charge_summary">هنگام خاموش بودن صفحه و کم بودن باتری، شارژر ارائه شده را وصل کرده تا سرعت شارژ افزایش یابد. این ویژگی ممکن است سبب داغ شدن دستگاه شما شود.</string>
-    <string name="pc_low_temp_charge_summary">شارژر را متصل نگه دارید و منتظر بمانید تا باتری پس از خاموش شدن نمایشگر گرم شود تا به طور معمول شارژ شود</string>
-    <string name="pc_low_temp_charge_title">شارژ با دمای پایین</string>
-    <string name="pc_low_temperature_extreme_endurance_summary">زمانی که دمای محیط بسیار پایین است، عملکرد دستگاه را برای افزایش عمر باتری محدود می‌کند</string>
-    <string name="pc_low_temperature_extreme_endurance_title">حالت استقامت در سرما</string>
     <string name="pc_main_activity_back">بازگشت</string>
     <string name="pc_main_battery_text_day">%1$s دقیقه افزوده شد. نزدیک به %2$s روز دیگر مانده است</string>
     <string name="pc_main_battery_text_day_hour">%1$s دقیقه افزوده شد. نزدیک به %2$s روز و %3$s ساعت دیگر مانده است</string>
@@ -3271,13 +2882,11 @@ to join our egg hunt!"</string>
     <string name="pc_main_power_manager_hour_minute">%1$s ساعت و %2$s دقیقه تا شارژ شدن کامل مانده است</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s روز و %2$s ساعت دیگر مانده است</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s ساعت و %2$s دقیقه دیگر مانده است</string>
-    <string name="pc_misight_reminder_check">نمایش</string>
     <string name="pc_more_battery_feature">ویژگی‌های بیشتر</string>
     <string name="pc_more_power_rank_apps">برنامه‌های بیشتر</string>
     <string name="pc_night_charge_protect_summary">مدت زمان شارژ را به صورت خودکار تنظیم کرده تا پیری باتری را کاهش دهید</string>
     <string name="pc_night_charge_protect_title">محافظت از شارژ در شب</string>
     <string name="pc_night_sleep_mode_summary">هنگام تشخیص خواب برای صرفه‌جویی در باتری برخی ویژگی‌ها را به صورت خودکار خاموش می‌کند</string>
-    <string name="pc_night_sleep_mode_summary_pad">هنگام خاموش بودن نمایشگر، دستگاه شما برنامه‌های پس‌زمینه را می‌بندد و استفاده از شبکه را محدود می‌کند. اگر دستگاه برای مدت طولانی استفاده نشود، به طور خودکار به حالت استراحت رفته و یا خاموش می‌شود.</string>
     <string name="pc_night_sleep_mode_title">حالت شب</string>
     <string name="pc_no_more_remind">یادآوری نشود</string>
     <string name="pc_ordinary_charge_summary">همیشه اجازه شارژ کردن تا %1$s داده شود</string>
@@ -3290,14 +2899,11 @@ to join our egg hunt!"</string>
     <string name="pc_phone_battery_level">تلفن همراه</string>
     <string name="pc_power_consume_check">بررسی باتری</string>
     <string name="pc_power_consume_check_ing">درحال بررسی…</string>
-    <string name="pc_power_mode_has_berserk">حالت نهایی روشن است</string>
     <string name="pc_power_mode_has_performance">حالت کارایی روشن است</string>
     <string name="pc_power_save_settings_new">تنظیمات بهینه‌ساز باتری</string>
-    <string name="pc_production_date_protect_title">تاریخ ساخت</string>
     <string name="pc_remind_close_cover_to_charge_summary">برای تجربه شارژ سریعتر و پایدارتر، پیش از شارژ کردن، دستگاه را تا کنید.</string>
     <string name="pc_remind_close_cover_to_charge_title">شارژ با تا کردن</string>
     <string name="pc_reminder_always_protect_summary">برای افزایش عمر باتری به شارژ محدود شده تعویض کنید</string>
-    <string name="pc_satellite_auto_enter_super_power">برای اطمینان از ارتباطات ماهواره‌ای، بهینه‌ساز فوق‌العاده باتری را روشن کرد</string>
     <string name="pc_save_charge">شارژ کردن</string>
     <string name="pc_save_other_setting">سایر تنظیمات</string>
     <string name="pc_save_power">بهینه‌ساز باتری</string>
@@ -3308,17 +2914,6 @@ to join our egg hunt!"</string>
     <string name="pc_search_keywords_capacity">ظرفیت باتری</string>
     <string name="pc_search_keywords_property">کارایی</string>
     <string name="pc_settings_title">باتری</string>
-    <string name="pc_smart_charge_button_summary">برای افزایش طول عمر باتری، سیستم یاد می‌گیرد که چگونه دستگاهتان را شارژ می‌کنید و وقتی سطح باتری به %1$s رسید، شارژ کردن را متوقف می‌کند.</string>
-    <string name="pc_smart_charge_notify_summary_high_temp">درحال پیمایش شارژ کردن پس از رسیدن باتری به سطح %1$s متوقف خواهد شد</string>
-    <string name="pc_smart_charge_notify_summary_high_temp_protect">برای محافظت از دستگاهتان در برابر داغ کردن، وقتی سطح باتری به %1$s رسید، شارژ متوقف می‌شود</string>
-    <string name="pc_smart_charge_notify_summary_navagition">درحال پیمایش… شارژ کردن پس از رسیدن باتری به سطح %1$s متوقف خواهد شد</string>
-    <string name="pc_smart_charge_notify_summary_night_charge">شارژ در %s متوقف خواهد شد</string>
-    <string name="pc_smart_charge_pogo_project_dialog_content">برای افزایش طول عمر باتری، باتری این دستگاه هنگام اتصال به خودرو از سطح کنونی بالاتر نمی‌رود.</string>
-    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">دوباره نمایش داده نشود</string>
-    <string name="pc_smart_charge_pogo_project_dialog_title">محافظت از باتری</string>
-    <string name="pc_smart_charge_pogo_project_notification_content">برای افزایش طول عمر باتری، باتری این دستگاه هنگام اتصال به خودرو از سطح کنونی بالاتر نمی‌رود</string>
-    <string name="pc_smart_charge_pogo_project_notification_title">محافظت از باتری</string>
-    <string name="pc_smart_charge_title">شارژ هوشمند</string>
     <string name="pc_smart_discharge_checkbox_summary">هنگام استفاده از ویژگی‌های مسیریابی، شارژ کردن به طور خودکار با درصد مشخصی متوقف می‌شود. بهینه‌ساز باتری خاموش خواهد شد.</string>
     <string name="pc_smart_discharge_checkbox_title">قطع خودکار شارژ کردن</string>
     <string name="pc_smart_discharge_drop_down_title">تنظیمات قطع خودکار</string>
@@ -3331,8 +2926,6 @@ to join our egg hunt!"</string>
     <string name="pc_statistics_battery_use_title">مصرف باتری</string>
     <string name="pc_suggest_open_fast_charge">شارژ فوری %d واتی را روشن کنید</string>
     <string name="pc_temperature_too_high">دستگاه داغ شده است</string>
-    <string name="pc_this_time_charge_full">این بار کامل شارژ شود</string>
-    <string name="pc_this_time_charge_full_work">تقریباً کامل شارژ شده است</string>
     <string name="pc_timely_charging_summary">سطح باتری کمتر از %1$s است. اگر دستگاه در زمانی که باتری کم است بیش از حد گرم شود، ممکن است به باتری آسیب برسد.</string>
     <string name="pc_timely_charging_title">دستگاه خود را شارژ کنید</string>
     <string name="pc_to_phone_install">نصب %s از طریق USB مسدود شد</string>
@@ -3340,24 +2933,18 @@ to join our egg hunt!"</string>
     <string name="pc_wait_device_cools_down">برای امکان استفاده از این ویژگی صبر کنید تا دستگاهتان خنک شود.</string>
     <string name="pc_wireless_charge_adjust_position_summary">آن را روی شارژر بی‌سیم قرار دهید</string>
     <string name="pc_wireless_charge_adjust_position_title">دستگاه خود را سریع‌تر شارژ کنید</string>
-    <string name="pc_wireless_charge_notification_summary">شارژ بی‌سیم نسبت به شارژ سیمی انرژی کارآمد کمتری دارد</string>
-    <string name="pc_wireless_charge_notification_title">در حال شارژ به صورت بی‌سیم</string>
     <string name="pc_wireless_charging_special_stand_summary1">دستگاه خود را بر روی پایه‌ای که به همراه شارژر بی‌سیم آمده است نصب کنید</string>
     <string name="pc_wireless_charging_special_stand_summary2">برای داشتن بهترین کارایی، دستگاه خود را بر روی پایه‌ای که به همراه شارژر بی‌سیم آمده است نصب کنید</string>
     <string name="pc_wireless_charging_special_stand_title">از پایه شارژ ارائه شده استفاده کنید</string>
     <string name="pc_wireless_handle_connected">دستگاه متصل شد</string>
-    <string name="pc_wireless_handle_title">گریپ دوربین حرفه‌ای</string>
+    <string name="pc_wireless_handle_title">گریپ دوربین</string>
     <string name="pc_work_in_save_mode">بهینه‌ساز باتری</string>
     <string name="pc_work_in_super_save_mode">بهینه‌ساز فوق‌العاده باتری</string>
     <string name="pc_xiaoai_create_auto_task">کار جدید از Mi AI</string>
     <string name="pc_xiaoai_voice_control_close">خاموش کردن «بیدار کردن با صدا»ی Mi AI</string>
     <string name="per_month_pkg_traffic_settings">تعیین سقف اینترنت همراه</string>
-    <string name="percent_formatted_text">%%%s</string>
-    <string name="percent_text_formatted">%s%%</string>
-    <string name="percentage">%%%d</string>
     <string name="perfermance_optimization_summary">از داغ کردن و اشکالات سخت‌افزاری جلوگیری می‌کند</string>
     <string name="perfermance_optimization_title">بهینه‌سازی کارایی</string>
-    <string name="performance_frame_enhance_super_display_tips">نرخ فریم بهبود یافته و وضوح فوق‌العاده هم‌زمان به‌کار برده نمی‌شوند. روشن کردن یکی دیگری را خاموش خواهد کرد.</string>
     <string name="performance_frame_insert_super_display_tips">نرخ فریم هوشمند و وضوح فوق‌العاده هم‌زمان به‌کار برده نمی‌شوند. روشن کردن یکی دیگری را خاموش خواهد کرد.</string>
     <string name="perm_intercept_content">به این برنامه این مجوز: %1s داده شود؟</string>
     <string name="perm_intercept_notification_title">اجازه استفاده از اعلان‌ها به %1s به این برنامه اجازه انجام کارهای زیر را می‌دهد:</string>
@@ -3366,8 +2953,6 @@ to join our egg hunt!"</string>
     <string name="perm_intercept_unknown_title">اجازه نصب برنامه‌ها از منابع ناشناس به %1s ممکن است خطرات زیر را به دنبال داشته باشد:</string>
     <string name="perm_list_header_title">برنامه‌ها</string>
     <string name="perm_list_header_title_has_storage">برنامه‌های دارای حافظه</string>
-    <string name="permdesc_coarse_location">موقعیت تقریبی</string>
-    <string name="permdesc_fine_location">موقعیت</string>
     <string name="permdesc_get_installed_apps">به \"%1$s\" اجازه می‌دهید به اطلاعات برنامه‌های نصب‌شده دسترسی داشته باشد؟</string>
     <string name="permdesc_in_calls">نظارت بر تماس‌های دریافتی</string>
     <string name="permdesc_out_calls">نظارت بر تماس‌های خروجی</string>
@@ -3415,97 +3000,48 @@ to join our egg hunt!"</string>
     <string name="permission_group_location">این مجوز به برنامه‌ها امکان می‌دهد از طریق شبکه یا ماهواره به اطلاعات مکانی دسترسی داشته باشند.</string>
     <string name="permission_group_microphone">این مجوز به برنامه‌ها امکان استفاده از میکروفن برای ضبط صدا را می‌دهد.</string>
     <string name="permission_group_nearby_device">این مجوز به برنامه‌ها امکان کشف و اتصال به دستگاه‌های نزدیک و همچنین تعیین موقعیت آن‌ها را می‌دهد.</string>
-    <string name="permission_group_note">با دادن این مجوز به برنامه اجازه دهید از یادداشت‌ها به موارد دسترسی پیدا کند.</string>
     <string name="permission_group_phone">این مجوز به برنامه‌ها امکان برقراری، پاسخ و پایان تماس‌ها و همچنین دسترسی به شماره تلفن، وضعیت دستگاه و اطلاعات شبکه موبایلی شما را می‌دهد.</string>
-    <string name="permission_group_record">با دادن این مجوز به برنامه اجازه دهید از ضبط کننده به موارد دسترسی پیدا کند.</string>
     <string name="permission_group_sms">این مجوز به برنامه‌ها امکان ارسال و نمایش پیامک و MMS را می‌دهد.</string>
     <string name="permission_group_sport_healthy">این مجوز به برنامه‌ها امکان دسترسی به اطلاعات فعالیت شما (همچون شمارش گام‌ها، تمرین‌ها) را می‌هد.</string>
-    <string name="permission_instruction_access_notification">This permission allows apps to read, search, and clear all your notifications. Remember that notifications may include private information (e.g. bank card numbers and passwords).</string>
-    <string name="permission_instruction_activity_recognition">This permission allows apps to access the information collected by the built-in sensors that detect your physical activity (e.g. step count and workouts). Remember the information about your physical activity is personal.</string>
-    <string name="permission_instruction_add_voicemail">This permission allows apps to add voicemail to the system.</string>
-    <string name="permission_instruction_answer_phone_call">This permission allows apps to answer or end calls without your consent.</string>
-    <string name="permission_instruction_auto_start">This permission allows apps to autostart without your confirmation. Giving this permission to multiple apps may slow down your device. Malicious apps use this permission to collect your personal information without you knowing it.</string>
-    <string name="permission_instruction_background_start">This permission allows apps to display pop-ups without your confirmation. These pop-ups might cover your screen completely affecting normal use.</string>
-    <string name="permission_instruction_bluetooth_admin">This permission allows apps to turn Bluetooth on and off without your confirmation.</string>
     <string name="permission_instruction_body_sensors">برنامه‌های دارای این مجوز می‌توانند به داده‌های حس‌گرهای مربوط به علائم حیاتی شما (همچون تپش قلب) دسترسی داشته باشند</string>
-    <string name="permission_instruction_call_phone">"This permission allows apps to make unsolicited calls, which may generate additional fees. Note that this permission doesn't allow apps to call emergency phone numbers. Malicious apps might use this permission to make paid calls without your consent."</string>
-    <string name="permission_instruction_camera">This permission allows apps to use the camera for taking photos or recording videos.</string>
-    <string name="permission_instruction_change_wifi_state">This permission allows apps to turn Wi-Fi on and off without your confirmation.</string>
-    <string name="permission_instruction_device_admin">This permission allows apps to control your device, which may include clearing data, unlocking the device, and changing passwords. This is a high-risk permission.</string>
-    <string name="permission_instruction_dont_disturb">This permission allows apps to turn DND mode on and off.</string>
-    <string name="permission_instruction_draw_overlay">This permission allows apps to display floating windows over any other interface on your device, which may affect the normal use of other apps. Malicious apps might use this permission to read or collect private information (e.g. passwords) through transparent floating windows.</string>
-    <string name="permission_instruction_external_storage">This permission allows apps to access photos, media, and files on your device. Be careful with this permission to avoid unnecessary disclosure of private information.</string>
     <string name="permission_instruction_gallery">اگر به برنامه‌ها اجازه دسترسی به فایل‌ها در پوشه‌های خودشان بدهید به منظور حفاظت از حریم خصوصی شما، سیستم به شما اجازه می‌دهد تصمیم بگیرید که آیا می‌خواهید این برنامه‌ها به موارد شما در گالری دسترسی داشته باشند یا نه. از آن‌جایی که برنامه‌های دارای API سطح ۲۹ یا بالاتر Android از جداسازی حافظه پشتیبانی می‌کنند، این کلید برای آن‌ها ارائه نخواهد شد.</string>
-    <string name="permission_instruction_get_accounts">This permission allows apps to access the list of accounts stored on your device. This list might contain all your personal accounts created by installed apps, as well as the accounts from social media platforms and communication tools.</string>
     <string name="permission_instruction_get_identifier">دسترسی به شناساگر دستگاه</string>
-    <string name="permission_instruction_install_shortcuts">This permission allows apps to create Home screen shortcuts.</string>
-    <string name="permission_instruction_install_unknown_source">This permission allows apps to install other apps on your device. Malicious apps use this permission to install apps without your confirmation.</string>
     <string name="permission_instruction_location">هنگام دادن این مجوز، برنامه‌ها از شبکه‌ها یا موقعیت‌یابی ماهواره‌ای برای دسترسی به موقعیت شما استفاده می‌کنند. می‌توانید به برنامه‌هایی که از این ویژگی پشتیبانی می‌کنند اجازه دهید فقط به مکان تقریبی شما دسترسی داشته باشند.</string>
     <string name="permission_instruction_mac_adress">دسترسی به آدرس MAC این دستگاه</string>
     <string name="permission_instruction_media_audio">این مجوز به برنامه‌ها امکان دسترسی به آهنگ‌ها و سایر فایل‌های صوتی ذخیره شده در این دستگاه را می‌دهد. این موارد ممکن است حاوی اطلاعات شخصی باشند.</string>
     <string name="permission_instruction_media_files">این مجوز به برنامه‌ها امکان دسترسی به فایل‌ها و اسناد ذخیره شده در این دستگاه را می‌دهد. این موارد ممکن است حاوی اطلاعات شخصی باشند.</string>
-    <string name="permission_instruction_modify_audio_settings">This permission allows apps to modify audio settings (e.g. adjust the volume without your confirmation). You might not be able to adjust volume in some apps unless you give them this permission.</string>
-    <string name="permission_instruction_nfc">This permission allows apps to communicate with NFC cards and devices.</string>
-    <string name="permission_instruction_notification_adjustment">This permission allows apps to provide more personalized and diversified adaptive notifications.</string>
-    <string name="permission_instruction_ongoing_notification">This permission allows apps to create permanent shortcuts in the Notification shade, which may prevent you from seeing regular notifications.</string>
-    <string name="permission_instruction_package_usage_stat">This permission allows apps to track the behavior of other apps on your device and obtain the information which might include your carrier and language settings. This is a high-risk permission. Your device might be monitored, and the security of your personal information may also be at risk.</string>
-    <string name="permission_instruction_picture_in_picture">This permission allows apps to display items on your Home screen or over other apps via picture-in-picture interface.</string>
-    <string name="permission_instruction_popup_window">This permission allows apps to display floating windows over any other interface on your device, which may affect the normal use of other apps. Malicious apps might use this permission to read or collect private information (e.g. passwords) through transparent floating windows.</string>
-    <string name="permission_instruction_read_appplication_list">This permission allows apps to access the information about all apps installed on your device. Malicious apps might use this permission to analyze your personal preferences.</string>
     <string name="permission_instruction_read_calllog">این مجوز به برنامه‌ها امکان دسترسی به تاریخچه تماس را می‌دهد.</string>
-    <string name="permission_instruction_read_clipboard">This permission allows apps to read any content you copy, which may include private information (e.g. account details, bank card numbers, and passwords).</string>
     <string name="permission_instruction_read_contacts">این مجوز به برنامه‌ها امکان دسترسی به مخاطبین را می‌دهد. برنامه‌های مخرب ممکن است از این مجوز برای ذخیره و یا هم‌رسانی مخاطبین بدون اجازه شما استفاده کنند.</string>
     <string name="permission_instruction_read_history">دسترسی به تاریخچه مرور</string>
     <string name="permission_instruction_read_imei">دسترسی به IMEI این دستگاه</string>
     <string name="permission_instruction_read_media_pic">این مجوز به برنامه‌ها امکان دسترسی به عکس‌ها و ویدئوهای ذخیره شده در این دستگاه را می‌دهد. این موارد ممکن است حاوی اطلاعات شخصی باشند.</string>
-    <string name="permission_instruction_read_note">دسترسی به یادداشت‌ها</string>
-    <string name="permission_instruction_read_notify_sms">This permission allows apps to read notification text messages stored on your device or SIM card.</string>
     <string name="permission_instruction_read_phone_state">این مجوز به برنامه‌ها امکان دسترسی به شماره تلفن، وضعیت دستگاه و اطلاعات شبکه موبایلی شما را می‌دهد.</string>
     <string name="permission_instruction_read_read_calendar">این مجوز به برنامه‌ها امکان افزودن، حذف و ویرایش رویدادهای سالنامه را می‌دهد.</string>
-    <string name="permission_instruction_read_record">دسترسی به موارد ضبظ شده</string>
     <string name="permission_instruction_read_sms">این مجوز به برنامه اجازه می‌دهد تا همه متن‌ها و پیام‌های چند رسانه‌ای ذخیره شده در دستگاه یا سیم‌کارت شما را بخواند. این پیام‌ها ممکن است حاوی گذرواژه‌ها، جزئیات حساب بانکی و سایر اطلاعات شخصی باشند.</string>
     <string name="permission_instruction_read_write_calendar">این مجوز به برنامه‌ها امکان دسترسی به رویدادهای سالنامه را می‌دهد.</string>
-    <string name="permission_instruction_receive_mms">This permission allows apps to read all multimedia messages stored on your device or SIM card. Such messages might contain passwords, bank account details, and other personal information.</string>
     <string name="permission_instruction_receive_sms">دریافت پیامک و MMS</string>
     <string name="permission_instruction_receive_sms_mms">این مجوز به برنامه‌ها امکان خواندن همه پیامک‌ها و MMSها را می‌دهد. این پیام‌ها ممکن است حاوی گذرواژه، جزئیات حساب بانکی و سایر اطلاعات شخصی باشند.</string>
-    <string name="permission_instruction_record_audio">"This permission allows apps to use the microphone for recording audio. Remember that this permission allows apps to record anything, including your conversations with others. It's best to allow apps to use this permission only while you're using the apps."</string>
     <string name="permission_instruction_record_screen">دسترسی به محتوای صفحه</string>
-    <string name="permission_instruction_running_background">This permission allows apps to work in the background. While doing this, the apps may collect data and provide services. Remember that such activities raise power consumption.</string>
-    <string name="permission_instruction_running_exceed_data">This permission allows apps to ignore mobile data usage limits.</string>
     <string name="permission_instruction_scoped">یک ساز و کار محافظت از حافظه جدید به شما امکان کنترل چگونگی اسفتاده برنامه‌های سازگار از مجوزهای حافظه را می‌دهد</string>
-    <string name="permission_instruction_send_mms">This permission allows apps to send multimedia messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
-    <string name="permission_instruction_send_payment_sms">This permission allows apps to send paid text messages.</string>
-    <string name="permission_instruction_send_sms">This permission allows apps to send text messages, which may generate additional fees. Malicious apps might use this permission to send paid messages without your consent.</string>
     <string name="permission_instruction_shake">این مجوز به برنامه‌ها امکان شناسایی موقعیت دستگاه در فضا، تشخیص تکان خوردن و تعیین جهت صفحه را می‌دهد.</string>
     <string name="permission_instruction_show_locked">این مجوز امکان نمایش موارد در صفحه قفل شما را به برنامه‌ها می‌دهد. ممکن است برنامه‌های مخرب از این مجوز برای نمایش آگهی‌ها استفاده کنند.</string>
     <string name="permission_instruction_sociality">اگر به برنامه‌ها اجازه دسترسی به فایل‌ها در پوشه‌های خودشان بدهید به منظور حفاظت از حریم خصوصی شما، سیستم به شما اجازه می‌دهد تصمیم بگیرید که آیا می‌خواهید این برنامه‌ها به فایل‌های تولید شده در برنامه‌های رسانه‌های اجتماعی دسترسی داشته باشند یا نه. از آن‌جایی که برنامه‌های دارای API سطح ۲۹ یا بالاتر Android از جداسازی حافظه پشتیبانی می‌کنند، این کلید برای آن‌ها ارائه نخواهد شد.</string>
     <string name="permission_instruction_storage">اگر به برنامه‌ها اجازه دسترسی به فایل‌ها در پوشه‌های خودشان بدهید به منظور حفاظت از حریم خصوصی شما، سیستم به شما اجازه می‌دهد تصمیم بگیرید که آیا می‌خواهید این برنامه‌ها به موارد شما در گالری و فایل‌های تولید شده در برنامه‌های رسانه‌های اجتماعی دسترسی داشته باشند یا نه. از آن‌جایی که برنامه‌های دارای API سطح ۲۹ یا بالاتر Android از جداسازی حافظه پشتیبانی می‌کنند، این کلید برای آن‌ها ارائه نخواهد شد.</string>
-    <string name="permission_instruction_touch_pay">This permission allows apps to perform contactless payments.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">انتقال داده‌ها به سایر دستگاه‌ها</string>
-    <string name="permission_instruction_use_sip">This permission allows apps to use SIP video services.</string>
-    <string name="permission_instruction_vr_assistant">This permission allows apps to use VR assistant services.</string>
     <string name="permission_instruction_wall_paper">با اعطای این مجوز به برنامه‌ها امکان تغییر خدمات تصاویر زمینه پویای پیش‌فرض و ادامه اجرا در پس‌زمینه را بدهید.</string>
     <string name="permission_instruction_write_calllog">این مجوز به برنامه‌ها امکان افزودن یا حذف پیشینه‌های تاریخچه تماس را می‌دهد.</string>
-    <string name="permission_instruction_write_clipboard">This permission allows apps to save items to the clipboard. Spam messages may affect your normal use of the clipboard.</string>
     <string name="permission_instruction_write_contacts">این مجوز به برنامه‌ها امکان افزودن، حذف و ویرایش مخاطبین را می‌دهد.</string>
-    <string name="permission_instruction_write_settings">This permission allows apps to modify system settings. Malicious apps might use this permission temper with your system settings and affect the normal use of your device.</string>
     <string name="permission_legacy_storage">دسترسی به عکس‌ها، ویدئوها، صداها و فایل‌ها</string>
-    <string name="permission_oaid_desc">به %1$s اجازه ردیابی فعالیت‌های شما در سایر برنامه‌ها و تارنماها داده شود؟</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">برنامه‌ها پیش از خواندن مخاطبین، نمایش تاریخچه تماس، تغییر تنظیمات سیستم یا دسترسی به دوربین و سایر منابع دستگاه از شما اجازه نمی‌گیرند. شما می‌توانید این قابلیت را در تنظیمات مجوز روشن کنید.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">مدیر مجوز</string>
     <string name="permission_precise_location">موقعیت دقیق</string>
     <string name="permission_precise_location_sumary">هنگام خاموش بودن این ویژگی، برنامه‌ها فقط امکان دسترسی به موقعیت تقریبی شما خواهند داشت</string>
-    <string name="permission_risk_app_for_desc">این برنامه ممکن است خطرات امنیتی داشته باشد. در هر صورت مجوز اعطا شود؟</string>
-    <string name="permission_risk_app_for_title">خطراتی شناسایی شد</string>
     <string name="permission_share_uid">موقعیت دقیق</string>
     <string name="permission_upgrade_more">ویژگی‌های حفاظت حریم خصوصی بیشتر</string>
     <string name="permission_upgrade_privacy_title">مجوزهای ضبط صدا و دسترسی به مخاطبین حالا گزینه‌ای دارند که به شما اجازه می‌دهد تا بتوانید چنین مجوزهایی را فقط هنگامی که از برنامه مربوطه استفاده می‌کنید بدهید. برای حافظت از حریم خصوصی اطلاعات شخصی شما، برنامه‌ها این اقدامات را در پس‌زمینه انجام نخواهند داد.</string>
     <string name="permission_upgrade_runtime">مجوزهای دسترسی به موقعیت یا گرفتن عکس حالا گزینه‌ای دارند که به شما اجازه می‌دهد تا بتوانید فقط یک بار چنین مجوزهایی را بدهید. به منظور حفاظت از حریم خصوصی اطلاعات شخصی شما، این اقدامات پس از ترک برنامه انجام نخواهند شد. درباره مجوزها پس از استفاده دوباره ویژگی‌های مربوطه در زمان بعدی از شما پرسیده خواهد شد.</string>
     <string name="permission_upgrade_title">مجوزهای به‌روز شده</string>
     <string name="permission_upgrade_virtual">چنانچه نمی‌خواهید به برنامه‌ها اجازه دسترسی به مخاطبین یا تاریخچه تماس خود را بدهید، می‌توانید هنگام دادن مجوزهای مربوطه «باز گرداندن پیام‌های خالی» را انتخاب کنید.</string>
-    <string name="permission_warning_for_cancel">لغو</string>
-    <string name="permission_warning_for_ensure">اعطا کردن</string>
-    <string name="permission_warning_for_risk">اگر تصمیم به اعطای مجوز دارید، پیام‌های خالی برای محافظت از حریم خصوصی شما به برنامه بازگردانده می‌شوند.</string>
     <string name="permission_with_SMS_and_MMS">مجوزهای مربوط به پیامک و MMS</string>
     <string name="permission_with_call_and_contact">مجوزهای مربوط به تماس‌های تلفنی، اطلاعات مخاطبین، و تاریخچه تماس.</string>
     <string name="permission_with_read_write_clipboard">اجازه دادن به برنامه‌ها برای دسترسی و ذخیره موارد در حافظه موقت</string>
@@ -3551,7 +3087,6 @@ to join our egg hunt!"</string>
     <string name="power_analysis_consume_title">مصرف باتری</string>
     <string name="power_analysis_suggestion_need_optimize">اشکالات مصرف باتری شناسایی شد.</string>
     <string name="power_autorun_apps_empty">بدون برنامه‌های راه‌اندازی خودکار</string>
-    <string name="power_bluetooth">بلوتوث</string>
     <string name="power_btn_analyze">تجزیه و تحلیل مصرف باتری</string>
     <string name="power_cell">آماده‌باش گوشی</string>
     <string name="power_center_5g_save_close_detail">بهینه‌ساز باتری 5G عمر باتری را بدون تأثیرگذاری بر اتصال 5G افزایش می‌دهد. در هر صورت خاموش شود؟</string>
@@ -3569,15 +3104,12 @@ to join our egg hunt!"</string>
     <string name="power_center_battery_chargefull_time">تا شارژ کامل</string>
     <string name="power_center_battery_detail">جزئیات</string>
     <string name="power_center_battery_duration">زمان باقی مانده</string>
-    <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_duration_screen_on">مدت استفاده از نمایشگر باقی مانده</string>
     <string name="power_center_battery_hardware">سخت‌افزار %s</string>
     <string name="power_center_battery_health_poor_tip">به نظر می‌رسد سلامت باتری کم است. باتری خود را در یک مرکز خدمات مجاز بررسی کنید.</string>
     <string name="power_center_battery_health_summary">برای بهبود صحت آمار سلامت باتری، دستگاه خود را %1$d-%2$d بار کاملاً شارژ و تخلیه کنید</string>
     <string name="power_center_battery_last">%s باقی مانده</string>
     <string name="power_center_battery_level">%s شارژ شده است</string>
-    <string name="power_center_battery_level_general">عادی</string>
-    <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
     <string name="power_center_battery_software">نرم‌افزار %s</string>
     <string name="power_center_battery_status">مصرف باتری</string>
     <string name="power_center_battery_temperature">دما</string>
@@ -3595,12 +3127,6 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">هنگام روشن بودن بهینه‌ساز باتری، بهینه‌سازی‌های زیر انجام خواهند شد:</string>
     <string name="power_center_hints_scan_danger_result">حالا می‌توانید اشکالات باتری را برطرف کنید</string>
     <string name="power_center_list_item_auto_brightness">تنظیم خودکار روشنایی نمایشگر</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s ولت</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s میلی‌آمپر</string>
-    <string name="power_center_list_item_battery_status_capacity">میلی‌آمپر</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
-    <string name="power_center_list_item_battery_status_time">ساعت</string>
     <string name="power_center_list_item_close_bluetooth">خاموش کردن بلوتوث</string>
     <string name="power_center_list_item_deep_save_title">تنظیمات پیشرفته</string>
     <string name="power_center_list_item_haptic_feedback">خاموش کردن بازخورد لمسی</string>
@@ -3610,15 +3136,14 @@ to join our egg hunt!"</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">برای ذخیره باتری، دستگاه خود را فوری قفل کنید</string>
     <string name="power_center_list_item_wake_notification">نمایشگر برای اعلان‌ها بیدار نشود</string>
     <string name="power_center_list_item_wake_notification_summary">اعلان‌های دریافتی فقط هنگامی که نمایشگر را روشن می‌کنید نمایش داده می‌شود</string>
-    <string name="power_center_main_percent_formatted">%%%s</string>
     <string name="power_center_night_charge_noti_subtitle">باتری تا ساعت %s کامل شارژ خواهد شد</string>
     <string name="power_center_night_charge_noti_title">شارژ بهینه شده روشن است</string>
     <string name="power_center_night_charge_protection">شارژ بهینه شده</string>
     <string name="power_center_night_charge_protection_setting">گزینه‌های بیشتر را در امنیت > باتری ببینید.</string>
     <string name="power_center_night_charge_protection_summary">برای پیش‌گیری از کم شدن عمر باتری، دستگاه شما روال شارژ روزانه شما را یاد گرفته تا شارژ کردن پیوسته غیر ضروری را کاهش دهد</string>
     <string name="power_center_one_key_save">بهینه‌سازی</string>
-    <string name="power_center_ontime_boot">روشن شدن زمان‌بندی شده</string>
-    <string name="power_center_ontime_shutdown">خاموش شدن زمان‌بندی شده</string>
+    <string name="power_center_ontime_boot">زمان روشن شدن</string>
+    <string name="power_center_ontime_shutdown">زمان خاموش شدن</string>
     <string name="power_center_optimize_title">پیشنهادات</string>
     <string name="power_center_power_save_summary_text">افزایش زمان باقی مانده تا %1$d ساعت و %2$d دقیقه</string>
     <string name="power_center_power_save_title_text">بهینه‌ساز باتری</string>
@@ -3667,8 +3192,6 @@ to join our egg hunt!"</string>
     <string name="power_center_super_wireless_charge_dialog_summary">این حالت باعث افزایش سرعت فن کولر شارژر بی‌سیم شده. برای شارژ سریع‌تر دستگاه خود، این حالت را روشن نگه داشته یا چنانچه فکر می‌کنید صدای محیط خیلی زیاد است آن را خاموش کنید.</string>
     <string name="power_center_super_wireless_charge_dialog_summary2">به امنیت بروید > باتری > تنظیمات برای گزینه‌های بیشتر.</string>
     <string name="power_center_super_wireless_charge_dialog_title">شارژ بی‌سیم فوری</string>
-    <string name="power_center_super_wireless_charge_enter_noti_summary">无线充电器风扇转速提高，充电速度更快</string>
-    <string name="power_center_super_wireless_charge_enter_noti_title">可开启极速无线充电模式</string>
     <string name="power_center_super_wireless_charge_noti_summary">برای باز کردن تنظیمات، ضربه بزنید</string>
     <string name="power_center_super_wireless_charge_noti_switch">اعلام درباره شارژ بی‌سیم فوری</string>
     <string name="power_center_super_wireless_charge_noti_title">شارژ بی‌سیم فوری روشن است</string>
@@ -3678,9 +3201,8 @@ to join our egg hunt!"</string>
     <string name="power_center_surface_temp_higher">گرم</string>
     <string name="power_center_surface_temp_low">سرد</string>
     <string name="power_center_surface_temp_lower">سرد</string>
-    <string name="power_center_surface_temp_normal">متوسط</string>
-    <string name="power_center_time_to_boot">زمان</string>
-    <string name="power_center_time_to_shutdown">زمان</string>
+    <string name="power_center_time_to_boot">زمان روشن شدن</string>
+    <string name="power_center_time_to_shutdown">زمان خاموش شدن</string>
     <string name="power_center_title">باتری</string>
     <string name="power_center_unoffical_battery_button">یافتن ارائه دهنده خدمات مجاز</string>
     <string name="power_center_unoffical_battery_dialog">هشدار استفاده از باتری غیر مجاز</string>
@@ -3759,7 +3281,6 @@ to join our egg hunt!"</string>
     <string name="power_optimize_loading">درحال بارگذاری</string>
     <string name="power_optimize_open_hide_mode">روشن کردن بهینه‌ساز باتری</string>
     <string name="power_optimize_power_save_extend_time">افزودن %s</string>
-    <string name="power_optimize_power_save_extend_time_new" formatted="false">تمدید برای %1s %2s</string>
     <string name="power_optimize_power_save_summary">برای اعمال بهینه‌سازی چندگانه سیستم که فعالیت پس‌زمینه را محدود می‌کنند، بهینه‌ساز باتری را روشن کنید</string>
     <string name="power_optimize_prohibit_app_autostart">اجازه ندهید برنامه‌ها به صورت خودکار راه‌اندازی شوند</string>
     <string name="power_optimize_reduce_fps">کاهش نرخ تازه‌سازی نمایشگر به %d هرتز</string>
@@ -3802,7 +3323,6 @@ to join our egg hunt!"</string>
     <string name="power_save_ps_close_setting_7">خاموش کردن خدمات و ویژگی‌های پر مصرف (%1$s، %2$s، %3$s، %4$s، %5$s، %6$s، %7$s)</string>
     <string name="power_save_ps_close_setting_dclickwakeup">\"روشن یا خاموش کردن نمایشگر با دو بار زدن\"</string>
     <string name="power_save_ps_close_setting_fingeraod">\"نمایش آیکون اثر انگشت هنگام خاموش بودن نمایشگر\"</string>
-    <string name="power_save_ps_close_setting_gps">GPS</string>
     <string name="power_save_ps_close_setting_haptic">بازخورد لمسی</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"بیدار کردن با برداشتن\"</string>
     <string name="power_save_ps_close_setting_sync">همگام‌سازی</string>
@@ -3838,7 +3358,6 @@ to join our egg hunt!"</string>
     <string name="power_settings_top">نوار بالا</string>
     <string name="power_superpower_title_systemui_highpower">زمان باقی مانده</string>
     <string name="power_superpower_title_systemui_lowpower">شارژر را وصل کنید</string>
-    <string name="power_wifi">Wi-Fi</string>
     <string name="power_wireless_need_update_text">در حال به‌روزرسانی…</string>
     <string name="power_wireless_ubable_update_toast">در هنگام شارژ بی‌سیم نمی‌توان سفت‌افزار را به‌روزرسانی کرد</string>
     <string name="power_wireless_update_button_text">به‌روزرسانی</string>
@@ -3885,7 +3404,6 @@ to join our egg hunt!"</string>
     <string name="pref_category_package_type_title">نوع طرح اینترنت همراه</string>
     <string name="pref_category_title_module_settings">تنظیمات ویژگی</string>
     <string name="pref_category_title_other">تنظیمات بیشتر</string>
-    <string name="pref_category_title_securitycenter_settings">عمومی</string>
     <string name="pref_correction_setting">تنظیمات قالب یکسان‌سازی</string>
     <string name="pref_correction_setting_switch">استفاده از قالب یکسان‌سازی سفارشی</string>
     <string name="pref_correction_sms_content">قالب یکسان‌سازی</string>
@@ -3913,7 +3431,6 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">وقتی که طرح اینترنت همراه مصرف شد</string>
     <string name="pref_open_adjust_traffic">به‌روزرسانی روزانه مصرف اینترنت همراه با استفاده از آمار شرکت مخابراتی شما</string>
     <string name="pref_operator_not_set">شرکت مخابرات تنظیم نیست</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">هنگامی که از طرح اینترنت همراه خود فراتر می‌روید</string>
     <string name="pref_package_traffic_settings">طرح اینترنت همراه</string>
     <string name="pref_pkg_begin_date">تاریخ بازنشانی مصرف</string>
@@ -3996,11 +3513,10 @@ to join our egg hunt!"</string>
     <string name="privacy_dialog_camera_message">برای حفاظت از حریم خصوصی شما، سیستم به برنامه‌ها اجازه استفاده از دوربین در پس‌زمینه را نمی‌دهد.</string>
     <string name="privacy_dialog_camera_title">محدود کردن مصرف پس‌زمینه دوربین</string>
     <string name="privacy_dialog_content_part1">به امنیت خوش آمدید! این برنامه دستگاه شما را برای یافتن زباله‌ها و ویروس‌ها بررسی کرده و همچنین به شما اجازه کنترل برنامه‌ها، کنترل مصرف اینترنت همراه، انسداد تماس‌ها و پیام‌ها و غیره را می‌دهد.</string>
-    <string name="privacy_dialog_content_part2"><Data>امنیت به منظور ارائه خدمات خود و بهبود ویژگی‌هایش نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی امنیت پس بگیرید.</Data></string>
-    <string name="privacy_dialog_content_part3"><Data>پیش از استفاده از امنیت، &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.</Data></string>
+    <string name="privacy_dialog_content_part2">&lt;Data>امنیت به منظور ارائه خدمات خود و بهبود ویژگی‌هایش نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی امنیت پس بگیرید.&lt;/Data></string>
+    <string name="privacy_dialog_content_part3">&lt;Data>پیش از استفاده از امنیت، &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data></string>
     <string name="privacy_dialog_danger_mission_message">Android چند مجوز پر خطر دارد (مانند مجوزهای ارسال اعلان‌های فشاری). برای محافظت از حریم خصوصی شما، سیستم از شما خواهد پرسید که آیا چنین رفتارهایی را اجازه داده و گزینه‌های محدودسازی ارائه شوند یا نه؟</string>
     <string name="privacy_dialog_danger_mission_title">مجوز‌های پرخطر</string>
-    <string name="privacy_dialog_feedback">بازخورد</string>
     <string name="privacy_dialog_message">هنگامی که به اینترنت وصل می‌شوید، این پیام همراه با اطلاعات شرکت مخابراتی رمزگذاری شده و در سرورهای Mi آپلود خواهد شد تا به ما در بهبود نظارت بر مصرف اینترنت همراه کمک کند.</string>
     <string name="privacy_dialog_negative_button_text">خروج</string>
     <string name="privacy_dialog_ok">متوجه‌ام</string>
@@ -4046,7 +3562,6 @@ to join our egg hunt!"</string>
     <string name="privacy_look_all_permission_status">همه مجوزها</string>
     <string name="privacy_look_all_permission_times">همه برنامه‌ها</string>
     <string name="privacy_look_privacy">سیاست حفظ حریم خصوصی</string>
-    <string name="privacy_manage_title" />
     <string name="privacy_mask_summary">به جای شناسه واقعی شما، سیستم یک شناسه مجازی (OAID) به برنامه‌های سوم شخص ارائه خواهد داد. این کار برنامه‌ها را از دنبال کردن رفتار شما و پیش‌تنظیماتتان باز داشته و از حریم خصوصی شما محافظت می‌کند.</string>
     <string name="privacy_mask_title">شناسه مجازی روشن است</string>
     <string name="privacy_mode_dialog_title">حالت میهمان</string>
@@ -4103,7 +3618,7 @@ to join our egg hunt!"</string>
     <string name="privacy_revoke_dialog_title_cn">توجه</string>
     <string name="privacy_revoke_failed_dialog_content">یک خطای سرور رخ داده است. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="privacy_revoke_failed_dialog_title">رضایت پس گرفته نشد</string>
-    <string name="privacy_revoke_tip_dialog_content"><Data>ادامه استفاده شما از %1$s تنها در صورتی ممکن خواهد بود که نسخه جدید سیاست حفظ حریم خصوصی آن را بپذیرید. &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> به‌روز شده %2$s را می‌پذیرید؟</Data></string>
+    <string name="privacy_revoke_tip_dialog_content">&lt;Data>ادامه استفاده شما از %1$s تنها در صورتی ممکن خواهد بود که نسخه جدید سیاست حفظ حریم خصوصی آن را بپذیرید. &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> به‌روز شده %2$s را می‌پذیرید؟&lt;/Data></string>
     <string name="privacy_revoke_tip_dialog_title">از این برنامه نمی‌توان استفاده کرد</string>
     <string name="privacy_revoke_title">پس گرفتن رضایت</string>
     <string name="privacy_risk_app">برنامه‌های پرخطر</string>
@@ -4200,22 +3715,20 @@ to join our egg hunt!"</string>
     <string name="privacy_thumbnail_blur_category_photography">عکس و ویدئو</string>
     <string name="privacy_thumbnail_blur_category_tip">پیشنهاد شده</string>
     <string name="privacy_thumbnail_blur_search_empty">نتیجه‌ای یافت نشد</string>
-    <string name="privacy_thumbnail_blur_title">تار کردن پیش‌نمایش برنامه‌ها</string>
+    <string name="privacy_thumbnail_blur_title">پیش‌نمایش تار کردن</string>
     <string name="privacy_thumbnail_blur_top_tip">برنامه‌هایی را انتخاب کنید که پیش نمایش‌ها در موارد تازه تار شود</string>
     <string name="privacy_thumbnail_shield_title">ماسکه پیش‌نمایش</string>
     <string name="privacy_thumbnail_shield_top_tip">پیش‌نمایش‌های ماسک برای برنامه‌های نمایش داده شده در موارد تازه</string>
     <string name="privacy_type_open">روشن</string>
     <string name="privacy_update_dialog_content_1">سیاست حفظ حریم خصوصی %s به‌روزرسانی شد:</string>
-    <string name="privacy_update_dialog_content_2"><Data>پیش از ادامه، نسخه جدید &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> را خوانده و بپذیرید.</Data></string>
+    <string name="privacy_update_dialog_content_2">&lt;Data>پیش از ادامه، نسخه جدید &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> را خوانده و بپذیرید.&lt;/Data></string>
     <string name="privacy_update_dialog_title">سیاست حفظ حریم خصوصی به‌روز شده</string>
     <string name="privacy_using_camera">درحال استفاده از دوربین</string>
     <string name="privacy_using_location">درحال دسترسی به موقعیت</string>
     <string name="privacy_using_record">درحال ضبط صدا</string>
     <string name="privacyapp_number_masked_text">محتوای اعلان‌ها پنهان است</string>
     <string name="privacyapp_number_unmasked_text">محتوای اعلان‌ها می‌توانند پنهان شوند</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
-    <string name="process_vpnsdkmanager_label">افزاینده سرعت بازی</string>
     <string name="promotion">تبلیغ</string>
     <string name="prompt_all">پرسش برای همه</string>
     <string name="prompt_input_time_illegal">این بار نمی‌توان تنظیم کرد، آن را تغییر داده و دوباره تلاش کنید</string>
@@ -4288,16 +3801,6 @@ to join our egg hunt!"</string>
     <string name="reset_data_dialog_message">این دستگاه با حساب Xiaomi شما مرتبط نیست. گذرواژه دوباره تنظیم یا بازیابی نمی‌شود. تمام موارد مهم را پشتیبان‌گیری کرده و به تنظیمات کارخانه بازنشانی کنید. تمام داده‌ها برای همیشه حذف خواند شد و هنگام بازنشانی به تنظیمات کارخانه کارت SD فرمت خواهد شد.</string>
     <string name="reset_data_dialog_ok">بازنشانی به تنظیمات کارخانه</string>
     <string name="reset_data_title">گذرواژه بازیابی نمی‌شود</string>
-    <string name="restore_device_id_content">پیشنهادات شخصی‌سازی شده بازنشانی خواهد شد</string>
-    <string name="restore_device_id_title">بازنشانی شناسه دستگاه</string>
-    <string name="restore_dialog_content">بازنشانی شناسه دستگاه کنونی پیشنهادات شخصی سازی شده را نیز بازنشانی خواهد کرد. اکنون بازنشانی شود؟</string>
-    <string name="restore_dialog_positive">بازنشانی</string>
-    <string name="restore_dialog_title">توجه</string>
-    <string name="restore_oaid_content">شناسه مجازی خود را بازنشانی کرده تا رفتار و پیشینه پیش‌تنظیمات خود را پاک‌سازی کنید</string>
-    <string name="restore_oaid_dialog_content">چندین برنامه درحال استفاده از شناسه مجازی شما هستند. اگر آن را بازنشانی کنید، بخشی از داده‌های برنامه ممکن است از بین رفته و یا ناپایدار شود. در هر صورت شناسه مجازی بازنشانی شود؟</string>
-    <string name="restore_oaid_positive">بازنشانی</string>
-    <string name="restore_oaid_positive_step">بازنشانی (%1$d)</string>
-    <string name="restore_oaid_title">بازنشانی شناسه مجازی</string>
     <string name="result_autoscan_header">نظارت بر پرداخت</string>
     <string name="result_autoscan_info">نظارت خودکار بر محیط سیستم هنگامی که برنامه‌های پرداختی باز می‌شوند</string>
     <string name="result_sms_header">خطرات پیام‌رسانی شناسایی شد</string>
@@ -4307,7 +3810,6 @@ to join our egg hunt!"</string>
     <string name="result_sms_title_auth">خطر افشای پیامک‌های مالی وجود دارد</string>
     <string name="result_wifi_header">خطرات Wi-Fi شناسایی شد</string>
     <string name="resume">بازنشانی</string>
-    <string name="right_precent">%۱۰۰</string>
     <string name="risk_app_install_agree_button">اعتماد کردن به این برنامه</string>
     <string name="risk_app_install_agree_checkbox">من همه خطرات احتمالی را میپذیرم.</string>
     <string name="risk_app_install_agree_message">این برنامه توسط سوم شخص تهیه شده و ممکن است قوانین و مقررات محلی را نقض کند. Xiaomi قابلیت استفاده، استمرار و دسترسی‌پذیری به محتوا و خدمات ارائه شده توسط این برنامه را تضمین نمی‌کند. هر گونه ضرر و زیان ناشی از استفاده از این برنامه بر عهده شما خواهد بود.</string>
@@ -4317,7 +3819,6 @@ to join our egg hunt!"</string>
     <string name="risk_app_install_history">تاریخ مجوز</string>
     <string name="risk_app_install_item_des">نسخه: %1$s</string>
     <string name="risk_app_install_manager">برنامه‌هایی با خطرات احتمالی</string>
-    <string name="risk_count_suffix" />
     <string name="risk_detail_app">خطراتی را به همراه دارد</string>
     <string name="risk_detail_title">خطرات احتمالی</string>
     <string name="risk_info_title">توضیحات</string>
@@ -4366,7 +3867,6 @@ to join our egg hunt!"</string>
     <string name="scan_open_shut_down_password_title">تأیید خاموش کردن</string>
     <string name="scan_status_risk">پرمخاطره</string>
     <string name="scan_status_safe">امن</string>
-    <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">آخرین نسخه ضبط نمایشگر را نصب کرده سپس دوباره تلاش کنید.</string>
     <string name="sd_eject">جداسازی کارت SD</string>
     <string name="sd_eject_summary">برای خارج کردن ایمن کارت SD آن را جدا کنید</string>
@@ -4374,15 +3874,6 @@ to join our egg hunt!"</string>
     <string name="sd_format_summary">پاک‌سازی همه داده‌های کارت SD (شامل آهنگ‌ها و عکس‌ها)</string>
     <string name="sd_insert_summary">برای سوار کردن کارت SD آن را وارد کنید</string>
     <string name="sd_mount">سوار کردن کارت SD</string>
-    <string name="sd_mount_summary" />
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-    <string name="search_keyword_apply">برنامه</string>
-    <string name="search_keyword_applybar">لنگرگاه برنامه‌ها</string>
-    <string name="search_keyword_call">تماس</string>
-    <string name="search_keyword_sidebar">نوار کناری</string>
-    <string name="search_keyword_tool">ابزارها</string>
-    <string name="search_keyword_tools">جعبه ابزار</string>
-    <string name="search_keyword_voice">صدا</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
     <string name="section_clear_acc_item_title">%s. اگر همچنان فضای کافی وجود ندارد٬ از پاک‌سازی کننده استفاده کنید.</string>
     <string name="section_security_defend_item_title">با قفل برنامه از داده‌های خود حفاظت کنید</string>
@@ -4474,19 +3965,9 @@ to join our egg hunt!"</string>
     <string name="sim_not_ready_toast">سیم‌کارت آماده نیست</string>
     <string name="sim_state_exception_summary">وضعیت سیم‌کارت نشان می‌دهد که ممکن است اشکالی در سیم‌کارت شما وجود داشته باشد.</string>
     <string name="sip_phone">تلفن SIP</string>
-    <string name="size_byte">بایت</string>
-    <string name="size_compat1">%1$d:%2$d</string>
-    <string name="size_compat2">%1$d:%2$d</string>
     <string name="size_embedded">پنجره‌های موازی</string>
     <string name="size_full">تمام صفحه</string>
-    <string name="size_giga_byte">گ.ب</string>
-    <string name="size_kilo_byte">ک.ب</string>
-    <string name="size_mega_byte">م.ب</string>
-    <string name="size_peta_byte">پ.ب</string>
-    <string name="size_suffix">%1$s %2$s</string>
-    <string name="size_tera_byte">ت.ب</string>
     <string name="skin_change_close_toast">تغییرات در زمان بعدی که شما امنیت را راه‌اندازی کردید به‌کار گرفته خواهد شد</string>
-    <string name="skip_ad">رد شدن</string>
     <string name="sms_address">فهرست سیاه منطقه</string>
     <string name="sms_blacklist">فهرست سیاه پیامک</string>
     <string name="sms_cloud_block">فهرست سیاه فضای ابری</string>
@@ -4510,7 +3991,6 @@ to join our egg hunt!"</string>
     <string name="sp_abnormal_scan_title">حل اشکالات</string>
     <string name="sp_antispam_scan_summary">محافطت از خود در برابر کلاهبرداری</string>
     <string name="sp_antispam_scan_title">فهرست سیاه</string>
-    <string name="sp_app_install_protect_title">محافظت از نصب برنامه</string>
     <string name="sp_background_risk_dialog_summary">، وارد شده و مشکلات پرداخت را برطرف کنید.</string>
     <string name="sp_background_risk_dialog_summary_new">محیط پرداخت کنونی ممکن است خطرات امنیتی ایجاد کند. برای آگاهی از جزئیات بیشتر چند لحظه‌ای از وقت خود را قرار دهید.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">شما به شبکه Wi-Fi عمومی وصل شده‌اید که ممکن است ایمن نباشد. مطمئن شوید پرداخت شما پیش از انجام آن محافظت شده است.</string>
@@ -4570,7 +4050,6 @@ to join our egg hunt!"</string>
     <string name="sp_settings_check_item_title_sign_exception">موارد استثنای امضا</string>
     <string name="sp_settings_check_item_title_update">به روزرسانی‌های سیستم</string>
     <string name="sp_settings_check_item_title_virus_exception">موارد استثنا</string>
-    <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_exception_count_zero">بدون مورد</string>
     <string name="sp_settings_group_title_check_item">موارد چندگانه</string>
     <string name="sp_settings_info_input_method">آزمایش صفحه کلید هنگام انجام پرداخت برای مشکلات امنیتی</string>
@@ -4687,7 +4166,6 @@ to join our egg hunt!"</string>
     <string name="st_antispam_title_contact_incoming">تماس از سوی مخاطبین</string>
     <string name="st_antispam_title_contact_sms">پیام‌ها از سوی مخاطبین</string>
     <string name="st_antispam_title_contactandanoy_group">تنظیمات</string>
-    <string name="st_antispam_title_mms">پیام چندرسانه‌ای</string>
     <string name="st_antispam_title_null_incoming">شماره‌های ناشناس</string>
     <string name="st_antispam_title_service_sms">اعلان‌های خدمات</string>
     <string name="st_antispam_title_whitelist">موارد استثنا</string>
@@ -4735,8 +4213,6 @@ to join our egg hunt!"</string>
     <string name="st_summary_special_numbers">مسدود کردن شماره تلفن‌های نشانک زده</string>
     <string name="st_summary_whitelist_numbers">اجازه دادن به تماس‌ها و پیام‌ها از شماره‌ها و مناطق خاص</string>
     <string name="st_summary_whitelist_numbers_international">اجازه دادن به تماس‌ها و پیام‌ها از شماره‌های خاص</string>
-    <string name="st_tab_title">%1$s (سیم‌کارت %2$d)</string>
-    <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">افزودن به فهرست سیاه</string>
     <string name="st_title_addwhitelist">افزودن به استثناها</string>
     <string name="st_title_adress">افزودن موقعیت‌های مکانی</string>
@@ -4770,14 +4246,12 @@ to join our egg hunt!"</string>
     <string name="st_title_other_group">سایر</string>
     <string name="st_title_settings_other_group">تنظیمات بیشتر</string>
     <string name="st_title_show_antispam_notification">اعلان‌های فهرست سیاه</string>
-    <string name="st_title_sim_card">%1$s - سیم‌کارت %2$s</string>
     <string name="st_title_whitelist_numbers">موارد استثنا</string>
     <string name="start">آغاز</string>
     <string name="start_downloading_app">درحال آغاز دانلود: %1$s</string>
     <string name="start_game">آغاز</string>
     <string name="status_bar_network_flow_content">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; باقی مانده: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; این ماه: %2$s</string>
-    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="status_bar_network_flow_exceed_content">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;بیشتر از طرح: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_phone_balance">"   موجودی تلفن:%1$s "</string>
     <string name="status_bar_network_flow_purchase">"   خرید >"</string>
@@ -4785,7 +4259,6 @@ to join our egg hunt!"</string>
     <string name="still_retain_btn">نگه داشتن</string>
     <string name="stop_milink_connect">بازتاباندن متوقف شد</string>
     <string name="storage_activity_title">فضای ذخیره‌سازی</string>
-    <string name="storage_activity_title_personage">شخصی</string>
     <string name="storage_activity_title_work">کاری</string>
     <string name="storage_app_detail_activity_title">فضای اشغال شده</string>
     <string name="storage_app_detail_cache">حافظه پنهان</string>
@@ -4798,7 +4271,6 @@ to join our egg hunt!"</string>
     <string name="storage_app_detail_dialog_ok">تأیید</string>
     <string name="storage_app_detail_manage_space">%s - مدیریت فضای ذخیره‌سازی</string>
     <string name="storage_app_detail_manager_enabled">روشن</string>
-    <string name="storage_app_detail_qq_cleaner">پاک‌سازی کننده QQ</string>
     <string name="storage_app_detail_sdcard">داده‌های برنامه</string>
     <string name="storage_app_detail_system">اندازه برنامه</string>
     <string name="storage_app_detail_third_clean_size">آزادسازی %s</string>
@@ -4861,11 +4333,9 @@ to join our egg hunt!"</string>
     <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">%1$s فرمت نشد</string>
     <string name="storage_format_success">%1$s با موفقیت فرمت شد</string>
-    <string name="storage_item_apk_name">هاAPK</string>
     <string name="storage_item_appdata_name">برنامه‌ها و داده‌ها</string>
     <string name="storage_item_audio_name">صدا</string>
     <string name="storage_item_clean_name">آزاد کردن فضا</string>
-    <string name="storage_item_doc_name">اسناد</string>
     <string name="storage_item_other_name">سایر</string>
     <string name="storage_item_picture_name">تصاویر</string>
     <string name="storage_item_system_data">فایل‌های سیستم</string>
@@ -4874,9 +4344,6 @@ to join our egg hunt!"</string>
     <string name="storage_menu_mount">سوار کردن</string>
     <string name="storage_mount_failure">%1$s سوار نشد</string>
     <string name="storage_mount_success">%1$s با موفقیت سوار شد</string>
-    <string name="storage_permission_button">تنظیمات</string>
-    <string name="storage_permission_message">به این ویژگی اجازه دهید به فضای ذخیره‌سازی دسترسی داشته باشد تا بتواند میزان مصرف فضای ذخیره‌سازی را به‌طور دقیق محاسبه کند. می‌توانید این مجوز را در تنظیمات اعطا کنید.</string>
-    <string name="storage_permission_title">نیازمند مجوز است</string>
     <string name="storage_space_release_hint">فضای ذخیره‌سازی بیشتری نیاز دارید؟</string>
     <string name="storage_system_log">گزارشات سیستم</string>
     <string name="storage_system_log_tip">گزارشات سیستم در زمان لازم به صورت خودکار پاک‌سازی خواهند شد</string>
@@ -4898,7 +4365,6 @@ to join our egg hunt!"</string>
     <string name="suggest_app_tolock_masked">محتوای پنهان شده</string>
     <string name="suggest_app_tolock_unmasked">اعلان‌های قابل نمایش</string>
     <string name="suggest_scan_again">اسکن را کامل کرده تا از خطرات امنیتی جلوگیری شود.</string>
-    <string name="suggest_to_use_mi_sim">Use Mi Sim to prevent you from generating additional carrier fees.</string>
     <string name="summary_app_lock_disable">با قفل برنامه از داده‌های خود حفاظت کنید</string>
     <string name="summary_app_update_new">برنامه‌ها را به‌روز کرده تا به ویژگی‌های جدید دسترسی یابید</string>
     <string name="summary_auto_update">سیستم مناسب‌ترین زمان را برای دانلود و نصب به‌روزرسانی‌ها انتخاب می‌کند.</string>
@@ -4954,9 +4420,6 @@ to join our egg hunt!"</string>
     <string name="superpower_dialog_button_ok">تأیید</string>
     <string name="superpower_dialog_massage">بهینه‌ساز باتری فوق‌العاده ویژگی‌های پر مصرف را محدود کرده و کارایی دستگاه شما را کاهش می‌دهد تا امکانات پایه‌ای (مانند تماس، پیامک و اتصال به اینترنت) را تا جایی که امکان دارد در دسترس نگه دارد. بهینه‌ساز فوق‌العاده باتری روشن شود؟</string>
     <string name="superpower_dialog_title">بهینه‌ساز فوق‌العاده باتری</string>
-    <string name="superpower_notification_low_temp_btn_txt">روشن کردن</string>
-    <string name="superpower_notification_low_temp_summary">حالت استقامت در سرما می‌تواند باتری بیشتری را در زمانی که بهینه‌ساز فوق‌العاده باتری روشن بوده و دمای محیط بسیار پایین است، صرفه‌جویی کند</string>
-    <string name="superpower_notification_low_temp_title">بهینه‌ساز فوق‌العاده باتری روشن شود؟</string>
     <string name="superpower_notification_new_title_new">کمتر از %s از باتری باقی مانده است</string>
     <string name="superpower_notification_summary">دستگاه خود را شارژ کرده یا بهینه‌ساز فوق‌العاده باتری را روشن کنید</string>
     <string name="superpower_notification_time_12">EEEE، dd MMMM</string>
@@ -4964,7 +4427,6 @@ to join our egg hunt!"</string>
     <string name="superpower_notification_title_new">کمتر از %s از باتری باقی مانده است</string>
     <string name="superpower_progress_content">درحال روشن کردن بهینه‌ساز فوق‌العاده باتری…</string>
     <string name="superpower_progress_left_time">%1$d ساعت و %2$d دقیقه</string>
-    <string name="superpower_progress_low_temp_content">روشن کردن حالت استقامت در سرما…</string>
     <string name="superpower_progress_switch_home">درحال تعویض به تم تاریک</string>
     <string name="superpower_progress_title">زمان باقی مانده</string>
     <string name="superpower_progress_turndown_brightness">کاهش روشنایی نمایشگر</string>
@@ -4986,8 +4448,6 @@ to join our egg hunt!"</string>
     <string name="sys_app_prot_cracked_confirm">متوجه‌ام</string>
     <string name="sys_cpu_title">مصرف CPU</string>
     <string name="sys_freememory_title">در دسترس</string>
-    <string name="sys_title_gamebooster_unit_gb">گیگابایت</string>
-    <string name="sys_title_gamebooster_unit_mb">مگابایت</string>
     <string name="system_anti_fraud_dialog_confirm_btn_txt">متوجه‌ام</string>
     <string name="system_anti_fraud_dialog_content">به نظر می‌رسد شما یک تماس یا پیام کلاه‌برداری دریافت کرده اید. انجام این پرداخت ممکن است سبب زیان‌های مالی شود.</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>اگر کارکنان خدمات مشتریان، مسئولین و یا افرادی که ممکن است شما بشناسید از شما درخواست تکمیل این پرداخت را کرده‌اند، &lt;/font>&lt;font = color=#F22424>پیش از ادامه هویت آن‌ها را تأیید کنید.&lt;/font></string>
@@ -5002,26 +4462,25 @@ to join our egg hunt!"</string>
     <string name="system_permission_declare_agree">پذیرفتن</string>
     <string name="system_permission_declare_analytics_declare">ما شما را به ثبت‌نام در برنامه تجربه کاربرمان دعوت می‌کنیم. این برنامه برای گردآوری آمار به منظور بهبود خدماتی که به شما ارائه می‌کنیم نیاز به اتصال به اینترنت و استفاده از مجوزها یا ویژگی‌های زیر دارد. ما در اینجا داده‌ها را فقط برای اهداف آماری گردآوری کرده و طبق داده‌هایی که گردآوری می‌کنیم نمی‌توانیم شخص شما را شناسایی کنیم.</string>
     <string name="system_permission_declare_disagree">مخالف</string>
-    <string name="system_permission_declare_double_link"><Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.</Data></string>
+    <string name="system_permission_declare_double_link">&lt;Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">به %1s خوش آمدید! این برنامه به شما اجازه استفاده از ویژگی‌های زیر را می‌دهد: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>پیش از ادامه &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>پیش از ادامه &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_declare_no_say_no">در صورت انتخاب ندادن مجوزهای لازم و یا اجازه ندادن به ما برای جمع‌آوری و استفاده از داده‌هایتان، این برنامه به صورت عادی کار نخواهد کرد.</string>
     <string name="system_permission_declare_no_say_no_analytics">در صورتی که مایل نیستید این مجوزها را بدهید، می‌توانید در تنظیمات > تنظیمات بیشتر > حریم خصوصی > برنامه تجربه کاربر از آن‌ها جدا شوید.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">در صورت انتخاب ندادن مجوزهای لازم و یا اجازه ندادن به ما برای جمع‌آوری و استفاده از داده‌هایتان، این برنامه تا اندازه‌ای کار نخواهد کرد.</string>
     <string name="system_permission_declare_optional">به منظور ارائه خدمات بیشتر به شما هنگام استفاده شما از برنامه، ممکن است ما این مجوزها نیاز داشته باشیم: %s. شما همواره می‌توانید در تنظیمات، تنظیمات برگزیده مجوزهای خود را تغییر کنید.</string>
-    <string name="system_permission_declare_optional_default_grant"><Data>برای ارائه تجربه کاربری بهتر، این برنامه به مجوزهای بیشتر زیر نیاز دارد: %1s. برای جزئیات بیشتر در مورد چگونگی پردازش اطلاعات شخصی شما، روی &lt;a href=\"test\">اینجا&lt;/a> ضربه بزنید. می‌توانید مجوزهای خود را در هر زمانی در تنظیمات مدیریت کنید.</Data></string>
     <string name="system_permission_declare_privacy_declare">این برنامه برای کارکرد عادی نیازمند اتصال به اینترنت و مجوزهای زیر است:</string>
     <string name="system_permission_declare_privacy_no_network">این برنامه برای کارکرد عادی نیاز به مجوزهای زیر دارد:</string>
     <string name="system_permission_declare_privacy_no_permission">این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و گردآوری داده‌های شخصی دارد.</string>
-    <string name="system_permission_declare_privacy_policy"><Data>پیش از ادامه &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.</Data></string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data>پیش از ادامه &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">می‌توانید از این برنامه خارج شوید.</string>
     <string name="system_permission_declare_revoke_uninstallable">شما می‌توانید از حساب خارج، این برنامه را حذف و یا مجوز خود را از امنیت > مدیریت برنامه‌ها > مجوزها > مجوزها بردارید.</string>
     <string name="system_permission_declare_title">توجه</string>
     <string name="system_permission_declare_use_network">به شبکه متصل شوید</string>
     <string name="system_permission_declare_use_network_no_permission">به شبکه متصل شوید</string>
-    <string name="system_permission_declare_user_agreement"><Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید.</Data></string>
+    <string name="system_permission_declare_user_agreement">&lt;Data>پیش از ادامه &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_perm_answer_call">برقراری تماس</string>
     <string name="system_permission_perm_optional">" (اختیاری)"</string>
     <string name="system_permission_perm_read_mms">خواندن MMS</string>
@@ -5034,7 +4493,6 @@ to join our egg hunt!"</string>
     <string name="tab_call">تماس‌ها</string>
     <string name="tab_gift">هدیه‌ها</string>
     <string name="tab_guide">راهنما</string>
-    <string name="tab_sms">پیامک</string>
     <string name="tab_sort_all">همه</string>
     <string name="tab_title">فهرست سیاه</string>
     <string name="tc_cmd_invalid">قالب معتبر نیست</string>
@@ -5058,7 +4516,6 @@ to join our egg hunt!"</string>
     <string name="tc_sms_report_get_success_notify_title">پیامک گزارش مصرف اینترنت همراه دریافت شد</string>
     <string name="tc_sms_report_geting_sms">درحال دریافت اطلاعات پیامک…</string>
     <string name="tc_sms_report_notify_correction_body">به برنامه مصرف اینترنت همراه در مرکز امنیتی بروید و دوباره به‌طور دستی تلاش کنید.</string>
-    <string name="tc_sms_report_notify_correction_business_hall">Calibrate again in Carrier Services</string>
     <string name="tc_sms_report_notify_correction_failure_title">نمی‌توان اطلاعات مصرف اینترنت همراه را به‌روز کرد</string>
     <string name="tc_sms_report_notify_get_failure_body">نمی‌توان گزارش مصرف اینترنت همراه را ارسال کرد. مطمئن شوید که به شبکه تلفن همراه متصل هستید.</string>
     <string name="tc_sms_report_notify_get_failure_title">پیامک مصرف اینترنت همراه دریافت نمی‌شود</string>
@@ -5092,10 +4549,7 @@ to join our egg hunt!"</string>
     <string name="tether_over_limit_dialog_title">هشدار مصرف اینترنت همراه</string>
     <string name="tether_over_limit_warning_notify_message">خاموش کردن کانون داغ همراه.</string>
     <string name="tether_over_limit_warning_notify_title">به سقف اینترنت همراه کانون داغ رسیدید</string>
-    <string name="textDirection">ltr</string>
     <string name="text_button">متوجه‌ام</string>
-    <string name="text_cycle_day">%s</string>
-    <string name="text_day" />
     <string name="text_done">تأیید</string>
     <string name="text_security">حریم خصوصی</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
@@ -5143,18 +4597,12 @@ to join our egg hunt!"</string>
     <string name="third_application">برنامه‌های نصب شده</string>
     <string name="third_desktop_dialog_content">از آن‌جایی که برنامه‌های لانچر از سوی سوم شخص‌ها ممکن است اشکالاتی مانند افشای اطلاعات، تخلیه غیرعادی باتری و کندی به همراه داشته باشند، فقط برنامه‌های تأیید شده می‌توانند به عنوان لانچر پیش‌فرض تنظیم شوند.</string>
     <string name="third_desktop_dialog_ok">متوجه‌ام</string>
-    <string name="third_desktop_dialog_title">خطا</string>
     <string name="three_percent_total_pkg">%s (۳%% از اینترنت همراه ماهانه)</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>
     <string name="time_picker_dialog_title">تنظیم زمان</string>
-    <string name="time_picker_label_hour">ساعت</string>
-    <string name="time_picker_label_minute">دقیقه</string>
-    <string name="timeshow_h">%.1f ساعت</string>
-    <string name="timeshow_h_int">%d ساعت</string>
     <string name="timeshow_m">%d دقیقه</string>
-    <string name="timeshow_s">%d ثانیه</string>
     <string name="tips">توجه</string>
     <string name="tips_by_auto_close">برای امکان تنظیم هشدارهای موجودی و مصرف اینترنت همراه، لازم است تا آمار کارور خود را به صورت خودکار همگام‌سازی کنید. همگام‌سازی روشن شود؟</string>
     <string name="tips_by_reminder_function">در صورت خاموش کردن همگام‌سازی خودکار دیگر نمی‌توانید هشدارهای موجودی و مصرف اینترنت همراه گوشی خود را دریافت کنید.</string>
@@ -5175,7 +4623,6 @@ to join our egg hunt!"</string>
     <string name="title_cloud_space_almost_full">حافظه فضای ابری تقریباً پر است، ممکن است موارد همگام‌سازی نشوند</string>
     <string name="title_cloud_space_full">فضای ابری پر است</string>
     <string name="title_cmcc_app_check">تأیید کامل نیست</string>
-    <string name="title_condition_meeting">ملاقات</string>
     <string name="title_consume_power_rank">مصرف برق برنامه</string>
     <string name="title_dark_mode">برخی موارد به درستی نمایش داده نمی‌شوند</string>
     <string name="title_data_flow">کنترل اینترنت همراه</string>
@@ -5233,12 +4680,9 @@ to join our egg hunt!"</string>
     <string name="title_xiaomi_roaming">رومینگ Mi</string>
     <string name="toast_add_virus_white_list_no_need_repeat">این مورد استثنا از پیش موجود است</string>
     <string name="toast_auto_traffic_correct">مصرف اینترنت همراه به صورت خودکار تنظیم شد</string>
-    <string name="toast_cinema_mode">تنظیم خودکار صفحه نمایش و تنظیمات صدا برای تجربه تماشای فراگیرتر</string>
     <string name="toast_cleaner_cloudscan">پاک‌سازی کننده از تعاریف آنلاین استفاده خواهد کرد</string>
     <string name="toast_dark_mode_fixed">با موفقیت اصلاح شد. این صفحه را ترک کرده تا تغییرات اعمال شوند.</string>
     <string name="toast_flow_notification">اعلان‌های مصرف اینترنت همراه روشن شد</string>
-    <string name="toast_gamembox_unenable_pad">ابتدا افزاینده سرعت بازی را در امنیت روشن کنید</string>
-    <string name="toast_gamembox_unenable_phone">ابتدا افزاینده سرعت بازی را در امنیت روشن کنید</string>
     <string name="toast_garbage_lib">به‌روزرسانی‌های خودکار برای پاک‌سازی کننده روشن شد</string>
     <string name="toast_keyword_blank">لازم است یک کلیدواژه وارد کنید</string>
     <string name="toast_keyword_exist">کلیدواژه افزوده شد</string>
@@ -5261,7 +4705,6 @@ to join our egg hunt!"</string>
     <string name="top_game">بازی‌های برتر</string>
     <string name="top_load_fail_detail">بارگذاری نشد. برای تلاش دوباره ضربه بزنید</string>
     <string name="top_no_network_detial">بارگذاری نشد. اتصال به شبکه را بررسی کرده و دوباره تلاش کنید</string>
-    <string name="traffic_advanced_settings">Traffic Advanced Settings</string>
     <string name="traffic_alarm">تنظیم هشدار</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">طرح ماهانه به %s تغییر پیدا کرد.</string>
     <string name="traffic_alert_auto_modify_notification_titile">طرح اینترنتی به‌روز شد</string>
@@ -5281,8 +4724,6 @@ to join our egg hunt!"</string>
 سقف مصرف اینترنت زمان غیراوج ماهانه طرح شما %1$s است. شما سقف مصرف داده‌های غیراوج را تنظیم نکرده‌اید."</string>
     <string name="traffic_config_alert_body_normal">"
 سقف مصرف اینترنت زمان اوج ماهانه طرح شما %1$s است. این مقدار با سقف %2$s که به‌طور دستی تنظیم کرده‌اید، متفاوت است."</string>
-    <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
     <string name="traffic_config_alert_setted">تنظیمات به‌کار گرفته شد</string>
     <string name="traffic_config_alert_title">%s اصلاح</string>
     <string name="traffic_correction_failed">نمی‌توان اطلاعات را دریافت کرد</string>
@@ -5328,9 +4769,7 @@ Rolled over extra data"</string>
     <string name="traffic_setting_fragment_sms_content_tips">پیام خود را اینجا بنویسید</string>
     <string name="traffic_setting_fragment_title">اطلاع از مصرف اینترنت همراه</string>
     <string name="traffic_setting_fragment_title_guide">شرکت‌های مخابراتی و طرح‌های اینترنت همراه</string>
-    <string name="traffic_to_limit_warning">"You've used up %s of your data limit"</string>
     <string name="traffic_usage_warning_body">شما تا کنون %s از اینترنت همراه این ماه را استفاده کرده‌اید.</string>
-    <string name="traffic_usage_warning_body_go_to_mi_sim">"You've already used %s of mobile data this month,Tap to use Mi SIM."</string>
     <string name="traffic_usage_warning_limit">محدودیت هشدار مصرف اینترنت همراه</string>
     <string name="traffic_usage_warning_title">هشدار مصرف اینترنت همراه</string>
     <string name="traffic_warning_purchase_title">هشدار مصرف اینترنت همراه گوشی</string>
@@ -5341,7 +4780,6 @@ Rolled over extra data"</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
     <string name="turn_off_auto_correction">خاموش کردن همگام‌سازی خودکار</string>
     <string name="two_address_choose_hint">%1$s و %2$s</string>
-    <string name="ufs_size_suffix">%1$s + %2$s</string>
     <string name="unable_connect_internet">اتصال به اینترنت موجود نیست</string>
     <string name="uninstall_app_dialog_msg">حذف برنامه تمام داده‌های برنامه را نیز حذف می‌کند.</string>
     <string name="uninstall_app_dialog_title">حالا حذف شود؟</string>
@@ -5360,10 +4798,8 @@ Rolled over extra data"</string>
     <string name="unlock_set_unlock_password_summary">ترکیب کاراکترهای متفاوت</string>
     <string name="unlock_set_unlock_password_title">گذرواژه</string>
     <string name="unlock_set_unlock_pattern_title">الگو</string>
-    <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unused_apps_switch">متوقف کردن فعالیت برنامه اگر استفاده نشده است</string>
     <string name="unused_apps_switch_summary">حذف مجوزها، حذف فایل‌های موقت و متوقف کردن اعلان‌ها</string>
-    <string name="usage_access_title">دسترسی به آمار مصرف</string>
     <string name="usage_sorted_activity_lable">مصرف اینترنت همراه</string>
     <string name="usage_sorted_empty_text">خالی</string>
     <string name="usage_sorted_loading_text">چند لحظه صبر کنید…</string>
@@ -5372,7 +4808,6 @@ Rolled over extra data"</string>
     <string name="usage_type_cpu_foreground">CPU در پیش‌زمینه</string>
     <string name="usage_type_data_recv">اینترنت همراه دریافت شده</string>
     <string name="usage_type_data_send">اینترنت همراه ارسال شده</string>
-    <string name="usage_type_gps">GPS</string>
     <string name="usage_type_no_coverage">زمان بدون نشانه</string>
     <string name="usage_type_on_time">زمان روشن بودن</string>
     <string name="usage_type_video">ویدئو</string>
@@ -5388,7 +4823,6 @@ Rolled over extra data"</string>
     <string name="usb_insert_summary">اتصال دستگاه USB</string>
     <string name="usb_install_desc">این برنامه از طریق USB نصب شود؟</string>
     <string name="usb_mount">سوار کردن دستگاه USB</string>
-    <string name="usb_mount_summary" />
     <string name="usbsharenet_exception_summary">نمی‌توان با استفاده از اتصال USB مشترک به اینترنت متصل شد. اتصال USB دستگاه خود را بررسی و Mi PC Suite را دوباره راه‌اندازی کنید.</string>
     <string name="usbsharenet_exception_title">آزمایش اینترنت هم‌رسانی شده از طریق USB</string>
     <string name="usbsharenet_pc_exception_summary">نمی‌توان با استفاده از اتصال USB مشترک به اینترنت متصل شد. اتصال اینترنت کامپیوتر خود را بررسی کنید.</string>
@@ -5401,13 +4835,13 @@ Rolled over extra data"</string>
     <string name="vb_advanced_settings_before_open">قبل</string>
     <string name="vb_advanced_settings_pic_stronger_desc">اشیاء درحال حرکت را به وسیله بهبود انیمیشن‌ها شفاف‌تر و روان‌تر می‌کند. این ویژگی به مصرف برق بیشتری نیاز دارد.</string>
     <string name="vb_default_mode">سفارشی</string>
-    <string name="vb_dolby_effect">Dolby Atmos</string>
     <string name="vb_dult_effect">نمایش LUT سه‌بعدی</string>
     <string name="vb_fps_settings">نرخ تازه‌سازی خودکار</string>
     <string name="vb_fps_settings_tips">این ویژگی نرخ تازه‌سازی صفحه را به نرخ فریم ویدئو تنظیم می‌کند، که باعث صرفه جویی در باتری و باز‌پخش روان می‌شود. روشن کردن نظرات شناور، نرخ تازه‌سازی خودکار را خاموش می‌کند.</string>
     <string name="vb_immerse_voice">صدای فراگیر</string>
     <string name="vb_movie_mode">حالت سینمایی</string>
-    <string name="vb_movie_power_hint">حالت سینمایی یک تجربه تماشای همه‌جانبه را فراهم می‌کند. دستگاه شما ممکن است گرم شود و برق بیشتری مصرف کند.</string>
+    <string name="vb_movie_power_hint">"حالت سینمایی یک تجربه تماشای همه جانبه را فراهم می‌کند.
+دستگاه شما ممکن است گرم شود و برق بیشتری مصرف کند."</string>
     <string name="vb_movie_subtitle">نیازمند کارایی بالاست</string>
     <string name="vb_mv_style_close_toast">شیوه خاموش است</string>
     <string name="vb_power_performance_mode_conflict_toast">هنگام روشن بودن حالت کارایی از این ویژگی استفاده نمی‌شود</string>
@@ -5420,7 +4854,6 @@ Rolled over extra data"</string>
     <string name="vb_settings">تنظیمات</string>
     <string name="vb_super_power_save_mode_conflict_toast">هنگام روشن بودن بهینه‌ساز فوق‌العاده باتری از این ویژگی استفاده نمی‌شود</string>
     <string name="vb_theatre_switch_guide">برای تعویض به حالت سینمایی ضربه بزنید</string>
-    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*این جلوه‌ها در کل تصویر به‌کار برده شده‌اند</string>
     <string name="vb_ve_settings_display_style_tips_new">*جلوه‌ها فقط در قسمت پخش ویدئو به کار گرفته خواهد شد</string>
     <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*این جلوه فقط در قسمت پخش ویدئو اعمال می‌شود.
@@ -5440,7 +4873,6 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_3d_summary_headset">افزایش حس شناوری و احاطه شدن هنگامی که با ایرفون‌ها به صدایی گوش می‌دهید</string>
     <string name="vb_video_effects_3d_surround">صدای فراگیر مجازی</string>
     <string name="vb_video_effects_display_style">سبک</string>
-    <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">گفتگوی بهبود یافته</string>
     <string name="vb_video_effects_dolby_headset">" (فقط هدفون‌ها)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos روشن است</string>
@@ -5452,19 +4884,12 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_liquid_summary">افزایش وضوح گفتگو در ویدئوها</string>
     <string name="vb_video_effects_only_headphone">فقط با ایرفون کار می‌کند</string>
     <string name="vb_video_effects_setting_black_white">سیاه و سفید</string>
-    <string name="vb_video_effects_setting_cinema">سینما</string>
     <string name="vb_video_effects_setting_girl">خجالتی</string>
-    <string name="vb_video_effects_setting_gorgeous">لرزان</string>
     <string name="vb_video_effects_setting_green_orange">نارنجی</string>
     <string name="vb_video_effects_setting_grim">خنک</string>
-    <string name="vb_video_effects_setting_hdr">HDR</string>
     <string name="vb_video_effects_setting_knight">فلزی</string>
-    <string name="vb_video_effects_setting_mecha">روبات</string>
     <string name="vb_video_effects_setting_nostalgia">نوستالژی</string>
-    <string name="vb_video_effects_setting_old_movie">گذشته</string>
     <string name="vb_video_effects_setting_outside">فضای باز</string>
-    <string name="vb_video_effects_setting_raw">اصلی</string>
-    <string name="vb_video_effects_setting_solar">محو</string>
     <string name="vb_video_effects_setting_warmth">گرم</string>
     <string name="vb_video_effects_settings_liquid">وضوح</string>
     <string name="vb_video_effects_settings_stereo">میزان صدا</string>
@@ -5486,11 +4911,6 @@ Rolled over extra data"</string>
     <string name="vb_vison_dynamic_enhance_close_toast">انیمیشن‌های بهینه شده خاموشند</string>
     <string name="vb_voice_adjust">صدای سینمایی</string>
     <string name="video_repeat">پخش دوباره</string>
-    <string name="videobox_double_core_visual">دیداری دو هسته‌ای</string>
-    <string name="videobox_double_core_visual_description1">بهبود وضوح ویدئو، افزایش نرخ فریم و بهینه‌سازی HDR از طریق یک تراشه اختصاصی</string>
-    <string name="videobox_double_core_visual_description2">"وضوح، روان بودن و جلوه کلی نمایش را بهبود می‌بخشد.
-این ویژگی به مصرف برق بیشتری نیاز دارد.
-این ویژگی هنگام روشن بودن بهینه‌ساز باتری یا بهینه‌ساز فوق‌العاده باتری کار نمی‌کند."</string>
     <string name="videobox_hangup_tips_content">صفحه شما قفل خواهد شد، اما برنامه هنگام روشن بودن این ویژگی در پس‌زمینه همچنان اجرا خواهد شد. برای روشن کردن دوباره صفحه، دکمه روشن/خاموش را فشار دهید. این ویژگی روشن شود؟</string>
     <string name="videobox_hangup_tips_title">توجه</string>
     <string name="videobox_settings_line_location">موقعیت میان‌بر</string>
@@ -5505,13 +4925,11 @@ Rolled over extra data"</string>
     <string name="videobox_settings_timing_desc">دریافت هشدار زیاده‌روی ساعتی به شما یادآوری می‌کند تا کمی استراحت کنید</string>
     <string name="videobox_settings_title">جعبه ابزار ویدئو</string>
     <string name="view_traffic_detail">نمایش جزئیات</string>
-    <string name="view_traffic_details">View data usage stats</string>
     <string name="virus_app_delete_installed">حذف برنامه</string>
     <string name="virus_app_delete_uninstalled">حذف</string>
     <string name="virus_app_ignore">نادیده گرفتن</string>
     <string name="virus_app_size_text">اندازه: %s</string>
     <string name="virus_app_type_installed">نصب شده</string>
-    <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">نسخه: %s</string>
     <string name="virus_auto_update_engine">به‌روزرسانی‌های خودکار: %s</string>
     <string name="virus_auto_update_engine_1">به‌روزرسانی خودکار تعاریف</string>
@@ -5519,13 +4937,11 @@ Rolled over extra data"</string>
     <string name="virus_detail_app">حاوی ویروس‌ها</string>
     <string name="virus_detail_title">ویروس‌ها</string>
     <string name="virus_engine_choose_text">مصادیق ویروس آنلاین</string>
-    <string name="virus_engine_split_text">"، "</string>
     <string name="virus_ignore_dialog_content">چنانچه تصمیم دارید خطرات احتمالی یک برنامه را نادیده بگیرید، دیگر در مورد آن‌ها به شما اطلاع داده نخواهد شد. با این حال، باید به یاد داشته باشید که این بدان معنا نیست که چنین خطراتی خنثی می‌شوند.</string>
     <string name="virus_ignore_dialog_no_remind">دوباره نمایش داده نشود</string>
     <string name="virus_ignore_dialog_title">نادیده گرفتن خطرات</string>
     <string name="virus_info_title">توضیحات</string>
     <string name="virus_news_title">اطلاعات مربوطه</string>
-    <string name="virus_scan_process_pre">%</string>
     <string name="virus_type_title">نوع</string>
     <string name="virus_update_tips_title">هشدار</string>
     <string name="virus_wait_network_dialog_message">گوشی شما اکنون به Wi-Fi وصل نیست. از اینترنت همراه استفاده شود؟</string>
@@ -5555,13 +4971,6 @@ Rolled over extra data"</string>
     <string name="wakepath_delete_all_tips">در صورت ادامه، مجوز باز کردن برنامه‌های دیگر را باید به هر برنامه جداگانه اعطا کنید. در هر صورت ادامه یابد؟</string>
     <string name="wakepath_delete_app_start_all">در صورت ادامه، مجوز باز کردن هر برنامه دیگری را باید دوباره به %s جداگانه اعطا کنید. در هر صورت ادامه یابد؟</string>
     <string name="wakepath_delete_app_start_other_app">در صورت ادامه، مجوز باز کردن %2$s را باید دوباره به %1$s جداگانه اعطا کنید. در هر صورت ادامه یابد؟</string>
-    <string name="wakepath_manager_allow_list">مجاز</string>
-    <string name="wakepath_manager_allow_start">مجاز</string>
-    <string name="wakepath_manager_checkbox_desc">به %1$s اجازه اجرای برنامه‌های دیگر را می‌دهد</string>
-    <string name="wakepath_manager_checkbox_title">اجازه آغاز زنجیره‌ای</string>
-    <string name="wakepath_manager_empty_list">هیچ برنامه‌ای مجاز به اجرا نیست</string>
-    <string name="wakepath_manager_reject_list">محدود شده</string>
-    <string name="wakepath_manager_reject_toast">«مدیریت آغاز زنجیره‌ای» را در تنظیمات جستجو کنید تا به این برنامه اجازه دهید برنامه‌های دیگر را اجرا کند</string>
     <string name="wakepath_manager_title">مدیریت آغاز زنجیره‌ای</string>
     <string name="website">وب‌سایت</string>
     <string name="wednesday">چهارشنبه</string>
@@ -5606,5 +5015,104 @@ Rolled over extra data"</string>
     <string name="xunyou_pay_webview">خدمات Xunyou</string>
     <string name="xunyou_server_expired">دوره به پایان رسید.</string>
     <string name="yesterday">دیروز</string>
+    <string name="app_manager_not_allow">خیر</string>
+    <string name="app_manager_total_size">کل</string>
+    <string name="auto_handle_title">عمومی</string>
+    <string name="battery_history_days">%1$d روز و %2$d ساعت و %3$d دقیقه و %4$d ثانیه</string>
+    <string name="battery_history_hours">%1$d ساعت و %2$d دقیقه و %3$d ثانیه</string>
+    <string name="gb_barrage_chat_text_color">رنگی</string>
+    <string name="gb_beauty_nature_light">طبیعی</string>
+    <string name="gb_collimator_color">رنگی</string>
+    <string name="gb_shoulder_key_light_effect_color">رنگی</string>
+    <string name="gb_wonderful_video_goto_box">باز کردن افزاینده سرعت بازی</string>
+    <string name="gs_show_way_vertical">عمودی</string>
+    <string name="hot">پرطرفدار</string>
+    <string name="power_center_list_item_battery_status_time">ساعت</string>
+    <string name="pref_category_title_securitycenter_settings">عمومی</string>
+    <string name="storage_activity_title_personage">شخصی</string>
+    <string name="storage_app_detail_qq_cleaner">پاک‌سازی کننده QQ</string>
+    <string name="storage_item_apk_name">APKها</string>
+    <string name="storage_item_doc_name">اسناد</string>
+    <string name="third_desktop_dialog_title">خطا</string>
+    <string name="time_picker_label_hour">ساعت</string>
+    <string name="timeshow_h">%.1f ساعت</string>
+    <string name="timeshow_h_int">%d ساعت</string>
+    <string name="vb_video_effects_setting_cinema">سینما</string>
+    <string name="vb_video_effects_setting_gorgeous">لرزان</string>
+    <string name="apps_item_scan_virus_summary_uninstalled">APK | ویروس</string>
+    <string name="auto_task_operation_string_etc">و غیره.</string>
+    <string name="battery_history_minutes">%1$d دقیقه و %2$d ثانیه</string>
+    <string name="battery_history_seconds">%1$d ثانیه</string>
+    <string name="battery_status_level_normal">عادی</string>
+    <string name="fmt_time_12hour_pm">ah</string>
+    <string name="fmt_time_millis">"S'م.ث'"</string>
+    <string name="fmt_time_minute">"m'دق'"</string>
+    <string name="fmt_time_minute_second">"m'دق' و s'ث'"</string>
+    <string name="fmt_time_minute_second_millis">"m'دق' و s.S'ث'"</string>
+    <string name="fmt_time_second">"s'ث'"</string>
+    <string name="fmt_time_second_millis">"s.S'ث'"</string>
+    <string name="gamebooster_push_expiring_soon_title">افزاینده سرعت بازی</string>
+    <string name="gb_advance_settings_screen_hdr_gear1">اصلی</string>
+    <string name="gb_first_window_title">افزاینده سرعت بازی</string>
+    <string name="gb_game_mode_ratio">اصلی</string>
+    <string name="gb_game_mode_ratio_type">اصلی</string>
+    <string name="gb_msg_transparent_dispaly_summary">شفافیت</string>
+    <string name="gb_voice_changer_normal">اصلی</string>
+    <string name="gb_voice_changer_robot">روبات</string>
+    <string name="gtb_dialog_privacy_speed_title">افزاینده سرعت بازی Xunyou</string>
+    <string name="gtb_dialog_privacy_voice_title">تغییر دهنده صدا بازی Xunyou</string>
+    <string name="hints_virus_app_list_item_summary">برنامه</string>
+    <string name="kilobyte_per_second">ک.ب/ث</string>
+    <string name="megabyte_per_second">م.ب/ث</string>
+    <string name="mi_roaming">رومینگ Mi</string>
+    <string name="power_center_battery_level_general">عادی</string>
+    <string name="power_center_surface_temp_normal">متوسط</string>
+    <string name="privacy_dialog_feedback">بازخورد</string>
+    <string name="process_vpnsdkmanager_label">افزاینده سرعت بازی</string>
+    <string name="time_picker_label_minute">دقیقه</string>
+    <string name="timeshow_s">%d ثانیه</string>
+    <string name="vb_video_effects_setting_mecha">روبات</string>
+    <string name="vb_video_effects_setting_old_movie">گذشته</string>
+    <string name="vb_video_effects_setting_raw">اصلی</string>
+    <string name="vb_video_effects_setting_solar">محو</string>
+    <string name="virus_engine_split_text">"، "</string>
     <string name="yuan">یوان</string>
+    <string name="st_title_sim_card">%1$s - سیم‌کارت %2$s</string>
+    <string name="byteShort">بیت</string>
+    <string name="gb_ad_game_size">مگابایت</string>
+    <string name="gigabyteShort">گیگابایت</string>
+    <string name="kilobyteShort">کیلوبایت</string>
+    <string name="megabyteShort">مگابایت</string>
+    <string name="menu_text_networkassistants_unit_b">بیت</string>
+    <string name="menu_text_networkassistants_unit_gb">گیگابایت</string>
+    <string name="menu_text_networkassistants_unit_kb">کیلوبایت</string>
+    <string name="menu_text_networkassistants_unit_mb">مگابایت</string>
+    <string name="notification_garbage_clean_size_float_unit">%.1f گیگابایت</string>
+    <string name="notification_garbage_clean_size_int_unit">%d گیگابایت</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s ولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_capacity">میلی‌آمپر</string>
+    <string name="size_byte">بایت</string>
+    <string name="size_giga_byte">گ.ب</string>
+    <string name="size_kilo_byte">ک.ب</string>
+    <string name="size_mega_byte">م.ب</string>
+    <string name="size_peta_byte">پ.ب</string>
+    <string name="size_tera_byte">ت.ب</string>
+    <string name="st_tab_title">%1$s (سیم‌کارت %2$d)</string>
+    <string name="sys_title_gamebooster_unit_gb">گیگابایت</string>
+    <string name="sys_title_gamebooster_unit_mb">مگابایت</string>
+    <string name="tab_sms">پیامک</string>
+    <string name="left_precent">%۶۰</string>
+    <string name="im">پیام فوری</string>
+    <string name="auto_task_operation_bluetooth">بلوتوث</string>
+    <string name="mm_app_name">سیم‌کارت Mi</string>
+    <string name="power_bluetooth">بلوتوث</string>
+    <string name="st_antispam_title_mms">پیام چندرسانه‌ای</string>
+    <string name="app_behavior_dashboard_usage_unit">%2$s / %1$s</string>
+    <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
+    <string name="percent_formatted_text">%%%s</string>
+    <string name="percentage">%%%d</string>
+    <string name="power_center_main_percent_formatted">%%%s</string>
+    <string name="right_precent">%۱۰۰</string>
+    <string name="ufs_size_suffix">%1$s + %2$s</string>
 </resources>

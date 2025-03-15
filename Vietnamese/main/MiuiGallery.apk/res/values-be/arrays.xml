@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities_title">
+        <item>Асаблівы дзень</item>
+        <item>Памятны дзень</item>
+        <item>Яркія моманты</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Смачны год</item>
+        <item>Тры стравы. Чатыры сезоны.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Прывітанне, мір!</item>
+        <item>У дарозе</item>
+        <item>Калейдаскоп месцаў</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Восеньскае хараство</item>
+        <item>Сяючая восень</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Хлопчык</item>
+        <item>Дзяўчынка</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Архіваваць фота</item>
+        <item>Сінхранізаваць фота з Воблакам Xiaomi</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>У мінулы панядзелак</item>
+        <item>У мінулы аўторак</item>
+        <item>У мінулую сераду</item>
+        <item>У мінулы чацвер</item>
+        <item>У мінулую пятніцу</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Гарадскія пейзажы</item>
+        <item>Вуліцы і куты</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Пяшчотныя пялёсткі</item>
+        <item>У поўным росквіце</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>У дзікай прыродзе</item>
+        <item>Дзікі і свабодны</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Нашы сустрэчы</item>
+        <item>У кампаніі сяброў</item>
+        <item>Даўно не бачыліся</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>Апошні Новы Год</item>
+        <item>Дзень святога Валянціна</item>
+        <item>Апошні дзень працы</item>
+        <item>Апошні дзень абароны дзяцей</item>
+        <item>Апошні нацыянальны дзень</item>
+        <item>Апошняе Каляды</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>Новы год на працягу многіх гадоў</item>
+        <item>Дзень Святога Валянціна на працягу многіх гадоў</item>
+        <item>Дзень працы на працягу многіх гадоў</item>
+        <item>Дзень дзяцей на працягу многіх гадоў</item>
+        <item>Нацыянальны дзень на працягу многіх гадоў</item>
+        <item>Каляды на працягу многіх гадоў</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Вашы любімыя прадметы</item>
+        <item>Роднасныя душы</item>
+        <item>Яркія моманты жыцця</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Студзень</item>
+        <item>Люты</item>
+        <item>Сакавік</item>
+        <item>Красавік</item>
+        <item>Май</item>
+        <item>Чэрвень</item>
+        <item>Ліпень</item>
+        <item>Жнівень</item>
+        <item>Верасень</item>
+        <item>Кастрычнік</item>
+        <item>Лістапад</item>
+        <item>Снежань</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Заняты сталеннем</item>
+        <item>Усе мілей і мілей</item>
+        <item>Маленькі даследчык</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Дзённік фітнесу</item>
+        <item>Мацней і мацней</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Прыемнага апетыту!</item>
+        <item>Яшчэ адзін кавалачак?</item>
+        <item>Атрымлівайце асалоду ад ежай!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Усміхайцеся і махайце!</item>
+        <item>Час гульняў</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>На свежым паветры</item>
+        <item>Сляды на снезе</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Нястрымны</item>
+        <item>Падтрыманне формы</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Вялікі дзень</item>
+        <item>Да алтара!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Час гуляць</item>
+        <item>Дзіцячыя выходныя</item>
+        <item>Маляня</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Мае выходныя</item>
+        <item>Часцінкі жыцця</item>
+        <item>Імгненні выходных</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Новыя сябры і старыя прыяцелі</item>
+        <item>Леташнія тусоўкі</item>
+    </string-array>
+    <string-array name="month">
+        <item>Студзень</item>
+        <item>Люты</item>
+        <item>Сакавік</item>
+        <item>Красавік</item>
+        <item>Май</item>
+        <item>Чэрвень</item>
+        <item>Ліпень</item>
+        <item>Жнівень</item>
+        <item>Верасень</item>
+        <item>Кастрычнік</item>
+        <item>Лістапад</item>
+        <item>Снежань</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>У мінулым студзені</item>
+        <item>У мінулым лютым</item>
+        <item>У мінулым сакавіку</item>
+        <item>У мінулым красавіку</item>
+        <item>У мінулым траўні</item>
+        <item>У мінулым чэрвені</item>
+        <item>У мінулым ліпені</item>
+        <item>У мінулым жніўні</item>
+        <item>У мінулым верасні</item>
+        <item>У мінулым кастрычніку</item>
+        <item>У мінулым лістападзе</item>
+        <item>У мінулым снежні</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Ты вырас!</item>
+        <item>Ты зноў вырас!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Маё асабістае меню</item>
+        <item>Смачныя ўспаміны</item>
+        <item>Другую порцыю, калі ласка!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Лепшыя віды свету</item>
+        <item>Працягвайце ўзыходжанне</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Бацька</item>
+        <item>Маці</item>
+        <item>Дзед па бацьку</item>
+        <item>Бабка па бацьку</item>
+        <item>Дзед па маці</item>
+        <item>Бабка па маці</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Разам</item>
+        <item>Добрыя часы</item>
+        <item>Ва ўнісон</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Куды вядзе нас дарога</item>
+        <item>Добрыя агульныя падарожжы</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Вясёлая вясна</item>
+        <item>Радаснае лета</item>
+        <item>Шчаслівай восені</item>
+        <item>Вясёлая зіма</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Вясновыя абеды</item>
+        <item>Летнія пачастункі</item>
+        <item>Восеньскія святы</item>
+        <item>Зімовыя смакаты</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Разам</item>
+        <item>Дружба і сувязі</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Дзіця</item>
+        <item>"Сям'я"</item>
+        <item>Калегі</item>
+        <item>Аднакласнікі</item>
+        <item>Сябры</item>
+        <item>Нявызначаныя</item>
+    </string-array>
+    <string-array name="season">
+        <item>Вясна</item>
+        <item>Лета</item>
+        <item>Восень</item>
+        <item>Зіма</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Мінулай вясной</item>
+        <item>Мінулым летам</item>
+        <item>Мінулай восенню</item>
+        <item>Мінулай зімой</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Бацька</item>
+        <item>Маці</item>
+        <item>Дзядуля па бацьку</item>
+        <item>Бабуля па бацьку</item>
+        <item>Дзядуля па маці</item>
+        <item>Бабуля па маці</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Рух наперад</item>
+        <item>Поўныя энергіі</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Кветкі вясны</item>
+        <item>Вясна лунае ў паветры</item>
+        <item>Добры дзень, вясна!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Крыху лета</item>
+        <item>Дзе лета ніколі не канчаецца</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Залаты гадзіннік</item>
+        <item>Залатыя прамяні</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Яны растуць так хутка</item>
+        <item>Фота маляняці</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Мінулыя выхадныя</item>
+        <item>Дні, якія трэба запомніць</item>
+        <item>Штодзённыя падзеі</item>
+        <item>Звычайныя і выключныя</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Зімовыя дні</item>
+        <item>Зімовая краіна цудаў</item>
+    </string-array>
+</resources>

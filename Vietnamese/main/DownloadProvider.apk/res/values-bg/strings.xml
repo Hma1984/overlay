@@ -10,11 +10,9 @@
     <string name="download_queued">Чакащи</string>
     <string name="download_remaining">%s остават</string>
     <string name="download_running">Изтегля се</string>
-    <string name="download_running_percent">Изтегля се %s</string>
     <string name="download_unknown_title">&lt;Без име></string>
     <string name="notif_title_file_size">Общо: %1$d</string>
     <string name="notif_title_single_downloading">Изтегляне: %1$s</string>
-    <string name="notification_dld_msg">Управление на изтеглените приложения</string>
     <string name="notification_download_complete">Изтеглянето е успешно.</string>
     <string name="notification_download_failed">Елементите не можаха да се изтеглят.</string>
     <string name="notification_need_wifi_for_size">Изтеглянето изисква Wi-Fi.</string>

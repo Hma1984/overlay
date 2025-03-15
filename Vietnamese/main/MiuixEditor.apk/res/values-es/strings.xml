@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_frequent_phrases">Añadir frases frecuentes</string>
+    <string name="add_frequent_phrases">Agrega frases frecuentes</string>
+    <string name="call">Llamar</string>
     <string name="call_notification_answer_action">Responder</string>
     <string name="call_notification_answer_video_action">Vídeo</string>
     <string name="call_notification_decline_action">Rechazar</string>
@@ -8,9 +9,20 @@
     <string name="call_notification_incoming_text">Llamada entrante</string>
     <string name="call_notification_ongoing_text">Llamada en curso</string>
     <string name="call_notification_screening_text">Filtrando una llamada entrante</string>
-    <string name="edit_frequent_phrases">Editar frases frecuentes</string>
+    <string name="edit_frequent_phrases">Edita frases frecuentes</string>
+    <string name="floating_toolbar_close_overflow_description">Cerrar menú adicional</string>
+    <string name="floating_toolbar_open_overflow_description">Más opciones</string>
     <string name="frequent_phrases">Frases frecuentes</string>
-    <string name="query">Buscar</string>
+    <string name="google_call">Llamada</string>
+    <string name="google_email">Correo</string>
+    <string name="google_map">Mapa</string>
+    <string name="google_open">Abrir</string>
+    <string name="google_translate">Traducir</string>
+    <string name="open">Navegar</string>
+    <string name="query">Consulta</string>
     <string name="select">Seleccionar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="translate">Traducir</string>
+    <string name="translation_more">Más</string>
+    <string name="translation_query_error">No se pudieron encontrar resultados</string>
+    <string name="translation_query_error_network">No se pudo obtener información, verifique la conexión de red y vuelva a intentarlo</string>
 </resources>

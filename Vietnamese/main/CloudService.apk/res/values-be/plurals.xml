@@ -7,10 +7,8 @@
         <item quantity="many">Гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d гадзін таму</item>
+        <item quantity="other">%d гадзіну таму</item>
         <item quantity="one">%d гадзіну таму</item>
-        <item quantity="few">%d гадзіны таму</item>
-        <item quantity="many">%d гадзін таму</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -19,10 +17,8 @@
         <item quantity="many">Паўгадзіны таму</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Праз %d гадзін</item>
+        <item quantity="other">Праз %d гадзіну</item>
         <item quantity="one">Праз %d гадзіну</item>
-        <item quantity="few">Праз %d гадзіны</item>
-        <item quantity="many">Праз %d гадзін</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Праз паўгадзіны</item>
@@ -37,10 +33,8 @@
         <item quantity="many">Неадкладна</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Праз %d хв.</item>
-        <item quantity="one">Праз %d хв.</item>
-        <item quantity="few">Праз %d хв.</item>
-        <item quantity="many">Праз %d хв.</item>
+        <item quantity="other">Праз %d хв</item>
+        <item quantity="one">Праз %d хв</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>
@@ -49,10 +43,10 @@
         <item quantity="many">Толькі што</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d хвілін таму</item>
-        <item quantity="one">%d хвіліну таму</item>
-        <item quantity="few">%d хвіліны таму</item>
-        <item quantity="many">%d хвілін таму</item>
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">%d хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
     </plurals>
     <plurals name="cloud_storage_full_upgrade_text">
         <item quantity="other">Недастаткова месца ў сховішчы. Не атрымалася сінхранізаваць %d фота.</item>
@@ -144,29 +138,17 @@
         <item quantity="few">%d WLAN networks</item>
         <item quantity="many">%d WLAN networks</item>
     </plurals>
-    <plurals name="e2ee_device_verification_num">
-        <item quantity="other">%s неправераных прылад</item>
-        <item quantity="one">%s неправераная прылада</item>
-        <item quantity="few">%s неправераных прылады</item>
-        <item quantity="many">%s неправераных прылад</item>
-    </plurals>
     <plurals name="error_retry_hour">
-        <item quantity="other">%s гадзін</item>
-        <item quantity="one">%s гадзіна</item>
-        <item quantity="few">%s гадзіны</item>
-        <item quantity="many">%s гадзін</item>
+        <item quantity="other">%s г.</item>
+        <item quantity="one">%s г.</item>
     </plurals>
     <plurals name="error_retry_minute">
-        <item quantity="other">%s хвілін</item>
-        <item quantity="one">%s хвіліна</item>
-        <item quantity="few">%s хвіліны</item>
-        <item quantity="many">%s хвілін</item>
+        <item quantity="other">%s хв.</item>
+        <item quantity="one">%s хв.</item>
     </plurals>
     <plurals name="error_retry_second">
-        <item quantity="other">%s секунд</item>
-        <item quantity="one">%s секунда</item>
-        <item quantity="few">%s секунды</item>
-        <item quantity="many">%s секунд</item>
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
     </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Паўтарыце праз %d секунд</item>
@@ -181,10 +163,9 @@
         <item quantity="many">"Не атрымалася сінхранізаваць &lt;font color=#F22424>%s аб'ектаў&lt;/font>"</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
-        <item quantity="other">"Не атрымалася сінхранізаваць %s аб'ектаў"</item>
-        <item quantity="one">"Не атрымалася сінхранізаваць %s аб'ект"</item>
-        <item quantity="few">"Не атрымалася сінхранізаваць %s аб'екта"</item>
-        <item quantity="many">"Не атрымалася сінхранізаваць %s аб'ектаў"</item>
+        <item quantity="other">Не атрымалася сінхранізаваць %s элементаў</item>
+        <item quantity="one">Не атрымалася сінхранізаваць %s элемент</item>
+        <item quantity="few">Не атрымалася сінхранізаваць %s элемента</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -240,12 +221,6 @@
         <item quantity="few">Толькі што</item>
         <item quantity="many">Толькі што</item>
     </plurals>
-    <plurals name="local_lockscreen_error_hint_retry">
-        <item quantity="other">Занадта шмат спроб. Паўтарыце праз %s секунд.</item>
-        <item quantity="one">Занадта шмат спроб. Паўтарыце праз %s секунду.</item>
-        <item quantity="few">Занадта шмат спроб. Паўтарыце праз %s секунды.</item>
-        <item quantity="many">Занадта шмат спроб. Паўтарыце праз %s секунд.</item>
-    </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Сінхранізацыя працягнецца праз %d хвілін</item>
         <item quantity="one">Сінхранізацыя працягнецца праз %d хвіліну</item>
@@ -259,10 +234,10 @@
         <item quantity="many">"%d аб'ектаў выдзелена"</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
-        <item quantity="other">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграм&lt;/font>.</item>
-        <item quantity="one">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграму&lt;/font>.</item>
-        <item quantity="few">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграмы&lt;/font>.</item>
-        <item quantity="many">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграм&lt;/font>.</item>
+        <item quantity="other">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграм&lt;/font></item>
+        <item quantity="one">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграму&lt;/font></item>
+        <item quantity="few">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграмы&lt;/font></item>
+        <item quantity="many">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграм&lt;/font></item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хвілін таму</item>
@@ -270,23 +245,15 @@
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
     </plurals>
-    <plurals name="other_lockscreen_error_hint_retry">
-        <item quantity="other">Занадта шмат спроб. Паўтарыце праз %d дзён.</item>
-        <item quantity="one">Занадта шмат спроб. Паўтарыце праз %d дзень.</item>
-        <item quantity="few">Занадта шмат спроб. Паўтарыце праз %d дні.</item>
-        <item quantity="many">Занадта шмат спроб. Паўтарыце праз %d дзён.</item>
-    </plurals>
     <plurals name="provision_sync_items_status_off_title">
-        <item quantity="other">"Не ўключана сінхранізацыя %s аб'ектаў"</item>
-        <item quantity="one">"Не ўключана сінхранізацыя %s аб'екта"</item>
-        <item quantity="few">"Не ўключана сінхранізацыя %s аб'ектаў"</item>
-        <item quantity="many">"Не ўключана сінхранізацыя %s аб'ектаў"</item>
+        <item quantity="other">Сінхранізацыя не ўключана для %s элементаў</item>
+        <item quantity="one">Сінхранізацыя не ўключана для %s элемента</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s сэрвісаў будуць сінхранізаваныя з Xiaomi Cloud</item>
-        <item quantity="one">%s сэрвіс будзе сінхранізаваны з Xiaomi Cloud</item>
-        <item quantity="few">%s сэрвіса будуць сінхранізаваныя з Xiaomi Cloud</item>
-        <item quantity="many">%s сэрвісаў будуць сінхранізаваныя з Xiaomi Cloud</item>
+        <item quantity="other">%s сэрвісаў будуць сінхранізаваныя з Воблакам Xiaomi</item>
+        <item quantity="one">%s сэрвіс будзе сінхранізаваны з Воблакам Xiaomi</item>
+        <item quantity="few">%s сэрвіса будуць сінхранізаваныя з Воблакам Xiaomi</item>
+        <item quantity="many">%s сэрвісаў будуць сінхранізаваныя з Воблакам Xiaomi</item>
     </plurals>
     <plurals name="select_no_more_than">
         <item quantity="other">"Немагчыма выбраць больш за %d аб'ектаў"</item>
@@ -317,11 +284,5 @@
         <item quantity="one">%1$s хв.</item>
         <item quantity="few">%1$s хв.</item>
         <item quantity="many">%1$s хв.</item>
-    </plurals>
-    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
-        <item quantity="other">Адправіць новы код (%s с)</item>
-        <item quantity="one">Адправіць новы код (%s с)</item>
-        <item quantity="few">Адправіць новы код (%s с)</item>
-        <item quantity="many">Адправіць новы код (%s с)</item>
     </plurals>
 </resources>

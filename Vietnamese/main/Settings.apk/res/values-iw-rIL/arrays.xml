@@ -22,79 +22,6 @@
         <item>סוף שבוע</item>
         <item>מותאם אישית</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>א</item>
-        <item>ב</item>
-        <item>ג</item>
-        <item>ח</item>
-        <item>ט</item>
-        <item>י</item>
-        <item>כ</item>
-        <item>ל</item>
-        <item>מ</item>
-        <item>נ</item>
-        <item>ס</item>
-        <item>ע</item>
-        <item>פ</item>
-        <item>צ</item>
-        <item>ק</item>
-        <item>ר</item>
-        <item>ש</item>
-        <item>ת</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>א</item>
-        <item>ב</item>
-        <item>ג</item>
-        <item>ד</item>
-        <item>ה</item>
-        <item>ו</item>
-        <item>ז</item>
-        <item>ח</item>
-        <item>ט</item>
-        <item>י</item>
-        <item>כ</item>
-        <item>ל</item>
-        <item>מ</item>
-        <item>נ</item>
-        <item>ס</item>
-        <item>ע</item>
-        <item>פ</item>
-        <item>צ</item>
-        <item>ק</item>
-        <item>ר</item>
-        <item>ש</item>
-        <item>ת</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>א</item>
-        <item>ב</item>
-        <item>ג</item>
-        <item>ד</item>
-        <item>ה</item>
-        <item>ו</item>
-        <item>ז</item>
-        <item>ח</item>
-        <item>ט</item>
-        <item>י</item>
-        <item>כ</item>
-        <item>ל</item>
-        <item>מ</item>
-        <item>נ</item>
-        <item>ס</item>
-        <item>ע</item>
-        <item>פ</item>
-        <item>צ</item>
-        <item>ק</item>
-        <item>ר</item>
-        <item>ש</item>
-        <item>ת</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="ap_identify">
         <item>ברירת מחדל</item>
         <item>נקודה חמה ניידת</item>
@@ -187,6 +114,17 @@
         <item>"  פעיל (מדיה)"</item>
         <item>"  פעיל (טלפון)"</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>להשאיר רק כותרות ACL</item>
+        <item>לסנן חבילות מדיה A2DP</item>
+        <item>לסנן ערוץ RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>להשבית</item>
+        <item>למלא ברצף של תווים</item>
+        <item>להשאיר את הכותרת בלבד</item>
+        <item>להסיר לגמרי</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>שניה 1</item>
         <item>2 שניות</item>
@@ -208,15 +146,6 @@
         <item>PIN</item>
         <item>סיסמה</item>
     </string-array>
-    <array name="click_bottom">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom08</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="common_password_business_names">
         <item>מסך הנעילה</item>
         <item>סיסמת פרטיות</item>
@@ -228,10 +157,6 @@
     <string-array name="connect_mode_entries">
         <item>תאימות</item>
         <item>מהירות גבוהה</item>
-    </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>כהה</item>
@@ -278,24 +203,6 @@
         <item>בינוני</item>
         <item>חזק</item>
     </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>input_method_selector_show_automatically_title</item>
-        <item>input_method_selector_always_show_title</item>
-        <item>input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
-    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>אל תעיר את המסך</item>
         <item>הער את המסך</item>
@@ -328,22 +235,6 @@
         <item>לאחר 5 דקות</item>
         <item>לעולם לא</item>
     </string-array>
-    <array name="long_press">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="long_press_volume_down_action">
         <item>ללא</item>
         <item>מצב צילום מהיר (תמונה)</item>
@@ -372,14 +263,6 @@
         <item>סגול</item>
         <item>סגול</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>XS</item>
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP וישן יותר</item>
         <item>Windows Vista וחדש יותר</item>
@@ -387,8 +270,8 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>msd_pc_system_install_finish_summary_xp</item>
-        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>אחסון USB יפתח אוטומטית בעת חיבור למחשב.</item>
         <item></item>
     </string-array>
@@ -407,16 +290,8 @@
         <item>"הסרת התקנת התקן: fusermount -u /media/mtp
 שים לב: עבור Ubuntu 8.04 בלבד!"</item>
     </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>msd_install_retry_reinstall_mac</item>
-        <item>msd_install_retry_connect</item>
-        <item>msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>msd_install_retry_connect</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_xp">
-        <item>msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_connect</item>
         <item>התקן שוב את Mi PC Suite</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
@@ -446,58 +321,6 @@
         <item>חיפוש</item>
         <item>הגדרות</item>
     </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>אנדרואיד</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-    </string-array>
     <string-array name="paper_color_values">
         <item>צבעים מלאים</item>
         <item>צבעים בהירים</item>
@@ -512,97 +335,6 @@
         <item>השתקת רעש במיקרופון יחיד</item>
         <item>השתקת רעש במיקרופון זוגי</item>
     </string-array>
-    <array name="power_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_long_press">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick03</item>
-        <item>powerclick02</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>ביצועים</item>
         <item>מאוזן</item>
@@ -661,16 +393,6 @@
         <item>רווי</item>
         <item>רגיל</item>
     </string-array>
-    <string-array name="screen_resolution_format">
-        <item>screen_resolution_ultrahigh_format</item>
-        <item>screen_resolution_high_format</item>
-        <item>screen_resolution_normal_format</item>
-    </string-array>
-    <string-array name="screen_resolution_text">
-        <item>2K</item>
-        <item>1080p</item>
-        <item>720p</item>
-    </string-array>
     <string-array name="screen_saturation_title">
         <item>מבריק</item>
         <item>רגיל</item>
@@ -684,37 +406,12 @@
         <item>10 דקות</item>
         <item>לעולם לא</item>
     </string-array>
-    <string-array name="screen_zoom_level">
-        <item>XS</item>
-        <item>S</item>
-        <item>L</item>
-    </string-array>
-    <string-array name="silent_entries">
-        <item>standard</item>
-        <item>total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>תמיד</item>
         <item>30 דקות</item>
         <item>שעה 1</item>
         <item>שעתיים</item>
         <item>8 שעות</item>
-    </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
-        <item>בית חכם</item>
-        <item>ללא</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>בית חכם</item>
@@ -733,31 +430,6 @@
         <item>חד</item>
         <item>מוצק</item>
     </string-array>
-    <array name="three_drop">
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop02</item>
-        <item>threedrop03</item>
-        <item>threedrop04</item>
-        <item>threedrop05</item>
-        <item>threedrop06</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-    </array>
     <string-array name="time_format_entries">
         <item>12 שעות 1:00 PM</item>
         <item>24 שעות 13:00</item>
@@ -767,11 +439,6 @@
         <item>כיבוי</item>
         <item>רגיל</item>
         <item>מהיר מאוד</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"שימוש בנתונים סלולריים "</item>
@@ -799,6 +466,12 @@
         <item>מגע</item>
         <item>מגע ישיר</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>להזיז שמאלה</item>
+        <item>להזיז למטה</item>
+        <item>להזיז ימינה</item>
+        <item>להזיז למעלה</item>
+    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>שאל בעת חיבור</item>
         <item>טעינה בלבד</item>
@@ -809,16 +482,6 @@
         <item>מאנשי קשר בלבד</item>
         <item>מאנשי קשר המסומנים בכוכב בלבד</item>
         <item>ללא</item>
-    </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="wapi_psk_type">
-        <item>wapi_psk_type_ascii</item>
-        <item>wapi_psk_type_hex</item>
     </string-array>
     <string-array name="wfd_status">
         <item>מתחיל תהליך…</item>
@@ -839,18 +502,6 @@
         <item>אחוז (בתוך הצלמית)</item>
         <item>אחוז (לצד הצלמית בלוח ההתראות)</item>
     </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>wifi_ap_choose_2G</item>
-        <item>wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>wifi_ap_ssid_off</item>
-        <item>wifi_ap_ssid_on</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>התחבר באופן אוטומטי</item>
         <item>התחבר באופן ידני</item>
@@ -868,14 +519,85 @@
         <item>השתמש ב-MAC אקראי</item>
         <item>השתמש ב-MAC המכשיר</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wep</item>
-        <item>wifi_security_psk_generic</item>
-        <item>wifi_security_eap</item>
-    </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>התחבר באופן אוטומטי</item>
         <item>התחבר באופן ידני</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>אנדרואיד</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
     </string-array>
 </resources>

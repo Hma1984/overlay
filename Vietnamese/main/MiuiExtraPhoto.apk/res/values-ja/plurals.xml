@@ -51,10 +51,4 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d分前</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">合計%1$d個</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">%1$d個を選択済み</item>
-    </plurals>
 </resources>

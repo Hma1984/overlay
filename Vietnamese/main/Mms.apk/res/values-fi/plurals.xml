@@ -112,25 +112,13 @@
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">1 minuutti sitten</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Peruuta (%ds)</item>
-        <item quantity="one">Peruuta (%ds)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Sait %d ryhmäkeskustelukutsua</item>
         <item quantity="one">Sait %d ryhmäkeskustelukutsun</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s ihmistä</item>
-        <item quantity="one">%1$s henkilö</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s tulosta haulle \"%2$s\"</item>
         <item quantity="one">%1$s tulos haulle \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d sekuntia</item>
-        <item quantity="one">%d sekunti</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Lähetettiin %1$s viestiä</item>

@@ -8,16 +8,6 @@
     <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုကို ရွေးရန်</string>
     <string name="abc_capital_off">ပိတ်</string>
     <string name="abc_capital_on">ဖွင့်</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">ရှာဖွေရန်…</string>
     <string name="abc_searchview_description_clear">ရှာဖွေမှုကို ဖယ်ရှားရန်</string>
     <string name="abc_searchview_description_query">ရှာဖွေရန် မေးခွန်း</string>
@@ -45,15 +35,12 @@
 ယခု ထွက်လိုပါသလား။}other{ဖုန်းသည် အရေးပေါ် ပြန်လည်ခေါ်ဆိုမုဒ်အတွင်း %s မိနစ်ကြာ ရှိနေပါမည်။
 ယခု ထွက်လိုပါသလား။}}"</string>
     <string name="alert_dialog_in_ecm_call">ရွေးချယ်ထားသော အပြုအမူမှာ အရေပေါ်ခေါ်ဆိုမှုပြုလုပ်နေစဉ် မရှိနိုင်ပါ</string>
-    <string name="alert_dialog_no">No</string>
     <string name="alert_dialog_not_avaialble_in_ecm">{count,plural, =1{‘အရေးပေါ် ပြန်လည်ခေါ်ဆိုမုဒ်’ တွင် ရှိနေပါက ရွေးထားသော လုပ်ဆောင်ချက်ကို မရနိုင်ပါ။ ဖုန်းသည် ဤမုဒ်အတွင်း တစ်မိနစ်ကြာ ရှိနေပါမည်။ ယခု ထွက်လိုပါသလား။}other{‘အရေးပေါ် ပြန်လည်ခေါ်ဆိုမုဒ်’ တွင် ရှိနေပါက ရွေးထားသော လုပ်ဆောင်ချက်ကို မရနိုင်ပါ။ ဖုန်းသည် ဤမုဒ်အတွင်း %s မိနစ်ကြာ ရှိနေပါမည်။ ယခု ထွက်လိုပါသလား။}}</string>
-    <string name="alert_dialog_yes">Yes</string>
     <string name="already_auto">အလိုအလျောက် ရွေးချယ်မှုထဲတွင် ပါပြီးသားဖြစ်သည်။</string>
     <string name="ambulance_type_description">လူနာတင်ယာဉ်</string>
     <string name="apn_settings">APN ချိတ်ဆက်ရာလမ်းကြောင်းအမည်</string>
     <string name="atr_disable">နယ်မြေအပိုင်းအခြားထဲတွင်ယာဉ်ကြောအသွားအလာပြ ထုတ်ပြန်ချက်အား ပိတ်ထားသည်</string>
     <string name="atr_enable">နယ်မြေအပိုင်းအခြားထဲတွင်ယာဉ်ကြောအသွားအလာပြ ထုတ်ပြန်ချက်အား ရနိုင်သည်</string>
-    <string name="audio_mode_bluetooth">ဘလူးတုသ်</string>
     <string name="audio_mode_earpiece">လက်ကိုင်တယ်လီဖုန်းနားခွက်</string>
     <string name="audio_mode_speaker">စပီကာ</string>
     <string name="audio_mode_wired_headset">ကြိုးတပ် မိုက်ခွက်ပါနားကြပ်</string>
@@ -171,7 +158,6 @@
     <string name="carrier_mmi_msg_title">%s မက်ဆေ့ဂျ်</string>
     <string name="carrier_provisioning">ဝန်ဆောင်မှုပေးသူက ပေးထားသည့် အချက်အလက်များ</string>
     <string name="carrier_settings_euicc">ဝန်ဆောင်မှုပေးသူ</string>
-    <string name="carrier_settings_euicc_summary">%1$s — %2$s</string>
     <string name="carrier_settings_title">ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူ၏ အပြင်အဆင်</string>
     <string name="cb_sms_settings">စာတိုများ ဖြန့်ဝေခြင်းစနစ် စာတို အပြင်အဆင်</string>
     <string name="cbrs_data_switch_string">Cbrs ဒေတာ</string>
@@ -261,7 +247,6 @@
     <string name="clh_callFailed_user_not_member_of_CUG_txt">ခေါ်ဆိုမှုကို မပြုလုပ်နိုင်ပါ။ အမှားကုဒ် ၈၇။</string>
     <string name="clh_card_title_call_ended_txt">ခေါ်ဆိုမှု ပြီးသွားပါပြီ</string>
     <string name="clh_incall_error_out_of_service_txt">မိုဘိုင်း ကွန်ရက် မရှိပါ</string>
-    <string name="close_dialog">OK</string>
     <string name="confirmPin2Label">ပင်နံပါတ်၂ အသစ်ကို အတည်ပြုရန်</string>
     <string name="confirmPinLabel">ပင်နံပါတ်အသစ်အား သေချာကြောင်း လက်ခံပါ</string>
     <string name="connect_later">ကွန်ယက်ကို ဆက်သွယ်လို့မရပါ။ နောင်မှ ပြန်ကြိုးစားပါ</string>
@@ -277,10 +262,8 @@
     <string name="default_notification_description">ပုံသေ အသံ (%1$s)</string>
     <string name="delete_fdn_contact">ခေါ်ဆိုသည့်အခြေစိုက်နံပါတ်အားဖျက်သည်</string>
     <string name="deleting_fdn_contact">ခေါ်ဆိုသည့်အခြေစိုက်နံပါတ်အားဖျက်နေသည်</string>
-    <string name="description_concat_format">%1$s၊ %2$s</string>
     <string name="description_delete_button">နောက်ပြန် ခလုတ်</string>
     <string name="description_dial_button">ဖုန်းခေါ်ခြင်း</string>
-    <string name="description_dialpad_back">အနောက်သို့ ပြန်သွားပါ</string>
     <string name="description_dialpad_button">နံပါတ်အကွက် ပြရန်</string>
     <string name="description_dialpad_overflow">နောက်ထပ် ရွေးစရာ</string>
     <string name="description_image_button_plus">အပေါင်း လက္ခဏာ</string>
@@ -309,7 +292,6 @@
     <string name="dtmf_tones_summary">DTMF အသံရဲ့ အတိုအရှည်သတ်မှတ်ပါ</string>
     <string name="dtmf_tones_title">DTMFအသံများ</string>
     <string name="eab_provisioned_switch_string">EAB/လက်ရှိ ထောက်ပံ့ပေးခြင်း</string>
-    <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="edit_fdn_contact">ခေါ်ဆိုသည့်အခြေစိုက်နံပါတ်အားပြင်သည်</string>
     <string name="emergencyDialerIconLabel">အရေးပေါ်နံပါတ်ခေါ်ဆိုနံပါတ်ကွက်</string>
     <string name="emergency_broadcast_disable">အရေးပေါ်အသံလွှင့်ခြင်း ပိတ်ထား</string>
@@ -333,15 +315,12 @@
     <string name="enable_disable_eo">အလုပ်အကိုင် အခွင့်အလမ်းများ</string>
     <string name="enable_disable_international">နိုင်ငံတကာ</string>
     <string name="enable_disable_lafs">ပြည်တွင်းလေကြောင်း ခရီးစဉ်များ</string>
-    <string name="enable_disable_local">ပြည်တွင်း</string>
     <string name="enable_disable_local_weather">ပြည်တွင်း ရာသီဥတု</string>
     <string name="enable_disable_lodgings">တည်းခိုစရာနေရာများ</string>
     <string name="enable_disable_maintenance">ပြုပြင်မွန်းမံခြင်း</string>
     <string name="enable_disable_mhh">ဆေးပညာ, ကျန်းမာရေး, နှင့် ဆေးရုံ</string>
     <string name="enable_disable_multi_category">များစွာသော အမျိုးအစားမျိုး</string>
     <string name="enable_disable_national">နိုင်ငံတွင်းဆိုင်ရာ</string>
-    <string name="enable_disable_regional">ဒေသဆိုင်ရာ</string>
-    <string name="enable_disable_restaurants">စားသောက်ဆိုင်များ</string>
     <string name="enable_disable_retail_directory">စျေးဆိုင်လမ်းညွှန်</string>
     <string name="enable_disable_stock_quotes">ကုန်စျေးနှုန်းများ</string>
     <string name="enable_disable_technology_news">နည်းပညာသတင်း</string>
@@ -359,13 +338,11 @@
     <string name="enhanced_4g_lte_mode_summary_o2">အသံခေါ်ဆိုမှုနှင့် အခြားဆက်သွယ်ရေးများ ပိုမိုကောင်းမွန်စေရန် 4G ဝန်ဆောင်မှုများ အသုံးပြုပါ (အကြံပြုထားသည်)</string>
     <string name="enhanced_4g_lte_mode_title">မြှင့်တင်ထား 4G LTE မုဒ်</string>
     <string name="enter_input">USSD စာများဟာ စာလုံးရေ %1$d မှ%2$d အတွင်း ဖြစ်ရပါမည်။ နောက်တစ်ခေါက်ကြိုးစားပါ</string>
-    <string name="enter_pin2_text">ပင်နံပါတ် ၂</string>
     <string name="enter_pin_text">ဆင်းမ်ကတ် ပင်နံပါတ်:</string>
     <string name="entertainment_news_settings">အနုပညာသတင်း</string>
     <string name="eo_disable">အလုပ်အကိုင် အခွင့်အလမ်းများ ပိတ်ထား</string>
     <string name="eo_enable">အလုပ်အကိုင် အခွင့်အလမ်းများ ဖွင့်ထား</string>
     <string name="error_updating_title">ခေါ်ဆိုမှုဆက်တင်အမှား</string>
-    <string name="esos_satellite_string">ဂြိုဟ်တုအစစ် eSOS မုဒ်ကို စမ်းသပ်ခြင်း (အမှားရှာပြင်ခြင်းအတွက်သာ)</string>
     <string name="exception_error">ကွန်ရက် သို့မဟုတ် ဆင်းမ်ကဒ်အမှား</string>
     <string name="expand_button_title">အဆင့်မြင့်</string>
     <string name="failedToImportSingleContactMsg">အဆက်အသွယ်ကို တင်သွင်း မရခဲ့</string>
@@ -401,23 +378,12 @@
     <string name="importingSimContacts">ဆင်းမ်ကတ်မှ လိပ်စာများအား ထည့်ပါ</string>
     <string name="incall_error_call_failed">ခေါ်ဆို၍ မရပါ။</string>
     <string name="incall_error_cannot_add_call">ယခုအချိန်တွင် ခေါ်ဆိုမှု ထပ်မထည့်နိုင်ပါ။ မက်ဆေ့ဂျ်ပို့ဆောင်ခြင်းဖြင့်လည်း ဆက်သွယ်ရန်ကြိုးစားနိုင်ပါသည်။</string>
-    <string name="incall_error_carrier_roaming_satellite_mode">မိုဘိုင်း (သို့) Wi-Fi ကွန်ရက်မရှိဘဲ မက်ဆေ့ဂျ်များကို ပို့နိုင်၊ လက်ခံနိုင်သည်။</string>
     <string name="incall_error_ecm_emergency_only">အရေးပေါ် မဟုတ်သည့် ခေါ်ဆိုမှုကို ပြုလုပ်ရန် အရေးပေါ် ဖုန်းခေါ်မှုမှ ထွက်ပါ။</string>
     <string name="incall_error_emergency_only">ကွန်ယက်ပေါ်မှာ မှတ်ပုံတင်မှု မပြုလုပ်ထားပါ</string>
     <string name="incall_error_missing_voicemail_number">အသံစာ နံပါတ် မသိရ။</string>
     <string name="incall_error_no_phone_number_supplied">ဖုန်းခေါ်ရန်အတွက်၊ သင့်လျော်သည့်နံပါတ် ရိုက်ထည့်ပါ။</string>
     <string name="incall_error_out_of_service">မိုဘိုင်းကွန်ယက်များ မရှိပါ</string>
-    <string name="incall_error_out_of_service_2g">"မိုဘိုင်းကွန်ရက် မရနိုင်ပါ။
-
-ဖုန်းခေါ်ရန် ကြိုးမဲ့ကွန်ရက်သို့ ချိတ်ဆက်ပါ။
-
-ဤစက်တွင် 2G ကိုပိတ်ထားပြီး ၎င်းက သင့်ချိတ်ဆက်နိုင်မှုအပေါ် သက်ရောက်နိုင်သည်။ ဆက်တင်များသို့သွားပြီး ရှေ့ဆက်ရန် 2G ကိုခွင့်ပြုပါ။"</string>
     <string name="incall_error_out_of_service_wfc">မိုဘိုင်းကွန်ရက် မရနိုင်ပါ။ ခေါ်ဆိုမှုပြုလုပ်ရန် ကြိုးမဲ့ကွန်ရက်သို့ ချိတ်ဆက်လိုက်ပါ။</string>
-    <string name="incall_error_out_of_service_wfc_2g_user">"မိုဘိုင်းကွန်ရက် မရနိုင်ပါ။
-
-ဖုန်းခေါ်ရန် ကြိုးမဲ့ကွန်ရက်သို့ ချိတ်ဆက်ပါ။
-
-ဤစက်တွင် 2G ကိုပိတ်ထားပြီး ၎င်းက သင့်ချိတ်ဆက်နိုင်မှုအပေါ် သက်ရောက်နိုင်သည်။ ဆက်တင်များသို့သွားပြီး ရှေ့ဆက်ရန် 2G ကိုခွင့်ပြုပါ။"</string>
     <string name="incall_error_power_off">ဖုန်းခေါ်ရန် လေယာဉ်ပျံမုဒ် ပိတ်ထားပါ။</string>
     <string name="incall_error_power_off_thermal"><b>ဖုန်းအလွန်ပူနေသည်</b>"
 
@@ -426,7 +392,7 @@
 အရေးပေါ်ဖုန်းခေါ်ခြင်းများ ပြုလုပ်နိုင်သေးသည်။"</string>
     <string name="incall_error_power_off_wfc">ဖုန်းခေါ်ရန် လေယာဉ်ပျံမုဒ် ပိတ်ပါ သို့မဟုတ် ကြိုးမဲ့ကွန်ယက်သို့ ချိတ်ဆက်ပါ။</string>
     <string name="incall_error_promote_wfc">ဖုန်းဆက်ရန် Wi-Fi ခေါ်ဆိုခြင်းကို ဖွင့်ပါ။</string>
-    <string name="incall_error_satellite_enabled">ဖုန်းခေါ်ရန်အတွက် ဂြိုဟ်တုချိတ်ဆက်မှုကို အရင်ဖြုတ်ပါ။</string>
+    <string name="incall_error_satellite_enabled">ဖုန်းခေါ်ရန် ဂြိုဟ်တုမုဒ် ပိတ်ပါ။</string>
     <string name="incall_error_supp_service_conference">ဖုန်းခေါ်ဆိုမှုများကို ပေါင်းစည်း၍ မရပါ။</string>
     <string name="incall_error_supp_service_hangup">ဖုန်းခေါ်ခြင်း(များ)အား လွှတ်မပေးနိုင်ပါ။</string>
     <string name="incall_error_supp_service_hold">ခေါ်ဆိုမှုများကို ကိုင်ထား၍မရပါ။</string>
@@ -515,7 +481,6 @@
     <string name="mobile_data_status_roaming_with_plan_subtext">လတ်တလောတွင် ပြင်ပကွန်ရက်နှင့် ချိတ်ဆက်ထားပါသည်၊ ဒေတာ အစီအစဉ်ကို အသုံးပြုနေပါသည်</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">လတ်တလောတွင် ပြင်ပကွန်ရက်နှင့် ချိတ်ဆက်ထားပါသည်၊ ဒေတာအစီအစဉ် လိုအပ်ပါသည်</string>
     <string name="mobile_network_settings_not_available">ဒီအသုံးပြုသူ အတွက် မိုဘိုင်း ကွန်ရက် ဆက်တင်များ မရှိ</string>
-    <string name="mock_carrier_roaming_satellite_string">Mock Carrier Satellite Mode (အမှားရှာပြင်ခြင်း အတွက်သာ)</string>
     <string name="multi_category_disable">မျိုးစုံသောအတန်းအစားများကို ပိတ်ထားသည်</string>
     <string name="multi_category_enable">"မျိုးစုံသောအတန်းအစားများကို  ရရှိနိုင်သည်"</string>
     <string name="name">အမည်</string>
@@ -527,7 +492,6 @@
     <string name="network_could_not_connect">ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_disconnected">ချိတ်ဆက်မှုပြတ်နေပါသည်</string>
     <string name="network_error_message">အမှားစာ</string>
-    <string name="network_global">တစ်ကမ္ဘာလုံးဆိုင်ရာ</string>
     <string name="network_info_message">ကွန်ရက် စာပို့</string>
     <string name="network_lte">LTE (အကြံပြုထား)</string>
     <string name="network_operator_category">ကွန်ရက်</string>
@@ -554,7 +518,6 @@
     <string name="number">နံပါတ်</string>
     <string name="numerous_emergency_numbers_title">အရေးပေါ် နံပါတ်များ</string>
     <string name="oem_radio_info_label">ထုတ်လုပ်သူနှင့် သက်ဆိုင်သော အချက်အလက်/ဆက်တင်များ</string>
-    <string name="ok">OK</string>
     <string name="oldPin2Label">ပင်နံပါတ် ၂ အဟောင်း</string>
     <string name="oldPinLabel">ပင်နံပါတ် အဟောင်း</string>
     <string name="onHold">ဖုန်းကိုင်ထားသည်</string>
@@ -598,14 +561,11 @@
 ပြန်လည်ကြိုးစားပါ သို့မဟုတ် သုံးစွဲသူအား အကူအညီပေးဝန်ဆောင်မှု ကို ဆက်သွယ်ပြီး နည်းလမ်းရှာပါ။"</string>
     <string name="other_settings">တခြားခေါ်ဆိုမှုဆိုင်ရာ ဆက်တင်</string>
     <string name="pane_title_emergency_dialpad">အရေးပေါ် နံပါတ်ကွက်</string>
-    <string name="pause_prompt_no">No</string>
     <string name="pause_prompt_str">"အသံ ပို့နေစဉ်
 "</string>
-    <string name="pause_prompt_yes">Yes</string>
     <string name="payphone">ငွေပေးရသည့်ဖုန်း</string>
     <string name="phoneAppLabel">ဖုန်းဝန်ဆောင်မှုများ</string>
     <string name="phoneIconLabel">ဖုန်း</string>
-    <string name="phone_account_no_config_mobile_networks">စက်ပစ္စည်းပိုင်ရှင်သည် မိုဘိုင်းကွန်ရက်ဆက်တင်များ ပြောင်းခွင့်ကို ကန့်သတ်ထားသည်။</string>
     <string name="phone_account_settings_user_restriction">ဖုန်းအကောင့်ဆက်တင်များကို စီမံခန့်ခွဲသူ (သို့) ဝန်ထမ်းကသာ ပြောင်းနိုင်သည်။</string>
     <string name="phone_accounts">ခေါ်ဆိုသော အကောင့်များ</string>
     <string name="phone_accounts_add_sip_account">SIP အကောင့်ပေါင်းထည့်မည်။</string>
@@ -690,17 +650,11 @@
     <string name="puk2_requested">လျှို့ဝှက်စကားလုံး မမှန်ကန်ပါ။ SIM ယခုသော့ခတ်လိုက်ပါပြီ။ PUK2 ရိုက်ထည့်ပါ။</string>
     <string name="puk_requested">လျှို့ဝှက်စကားလုံး မမှန်ကန်ပါ။ ပင်နံပါတ် ယခုအဆက်ဖြတ်လိုက်ပါပြီ။ PUK တောင်းဆိုထားသည်။</string>
     <string name="puk_unlocked">သင့် ဆင်းမ်ကဒ်အား ပိတ်ဆို့မှုကို ဖယ်ရှားပြီးပါပြီ။ သင့်ဖုန်းဟာ သော့ဖွင့်နေပါသည်…</string>
-    <string name="radioInfo_cid">CID</string>
     <string name="radioInfo_data_connected">ချိတ်ဆက်ထားသည်</string>
     <string name="radioInfo_data_connecting">ချိတ်ဆက်နေသည်</string>
     <string name="radioInfo_data_disconnected">ချိတ်ဆက်မှုပြတ်တောက်သွားသည်</string>
     <string name="radioInfo_data_suspended">ဆိုင်းငံ့ထားသည်</string>
-    <string name="radioInfo_display_asu">asu</string>
-    <string name="radioInfo_display_bytes">ဘိုက်</string>
-    <string name="radioInfo_display_dbm">dBm</string>
-    <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_imei_primary">အဓိက</string>
-    <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">IMS ဝန်ဆောင်မှု အခြေအနေ</string>
     <string name="radioInfo_menu_viewADN">SIM ထဲရှိ လိပ်စာ စာအုပ်ကိုကြည့်ပါ</string>
     <string name="radioInfo_menu_viewFDN">ခေါ်ဆိုရန် ကန့်သတ် နံပါတ်ကို ကြည့်မည်</string>
@@ -731,7 +685,6 @@
     <string name="radio_info_gprs_service_label">ဒေတာ ဝန်ဆောင်မှု −</string>
     <string name="radio_info_gsm_service_label">အသံဝန်ဆောင်မှု −</string>
     <string name="radio_info_http_client_test">HTTP ကလိုင်းယင့် စမ်းသပ်မှု −</string>
-    <string name="radio_info_imei_label">IMEI</string>
     <string name="radio_info_ims_feature_status_available">အသုံးပြုနိုင်သည်</string>
     <string name="radio_info_ims_feature_status_unavailable">မရနိုင်ပါ</string>
     <string name="radio_info_ims_reg_status">"IMS မှတ်ပုံတင်ခြင်း− %1$s
@@ -748,7 +701,7 @@ UT အသုံးပြုမှု အင်တာဖေ့စ် − %5$s"</s
     <string name="radio_info_nr_state">NR အခြေအနေ (NSA)-</string>
     <string name="radio_info_override_network_type_label">အစားထိုး ကွန်ရက်အမျိုးအစား-</string>
     <string name="radio_info_phone_number_label">ဖုန်းနံပါတ် −</string>
-    <string name="radio_info_phy_chan_config">ရုပ်ပိုင်းဆိုင်ရာ ချန်နယ်စီစဉ်သတ်မှတ်ချက်များ-</string>
+    <string name="radio_info_phy_chan_config">LTE ရုပ်ပိုင်းဆိုင်ရာ ချန်နယ်စီစဉ်သတ်မှတ်မှု−</string>
     <string name="radio_info_ping_hostname_v4">ပင်ကို လက်ခံဝန်ဆောင်ပေးသူအမည်(www.google.com) မှာ IPv4 -</string>
     <string name="radio_info_ping_hostname_v6">ပင်ကို လက်ခံဝန်ဆောင်ပေးသူအမည် (www.google.com) IPv6 -</string>
     <string name="radio_info_ppp_received_label">လက်ခံရရှိထားသော ဒေတာ −</string>
@@ -758,7 +711,6 @@ UT အသုံးပြုမှု အင်တာဖေ့စ် − %5$s"</s
     <string name="radio_info_roaming_label">ပြင်ပကွန်ရက်နှင့် ချိတ်ဆက်ခြင်း</string>
     <string name="radio_info_set_perferred_label">ပိုနှစ်သက်သည့် ကွန်ရက်အမျိုးအစားကို သတ်မှတ်ပါ −</string>
     <string name="radio_info_signal_strength_label">လိုင်းဆွဲအား −</string>
-    <string name="radio_info_smsc_label">SMSC -</string>
     <string name="radio_info_smsc_refresh_label">ပြန်စရန်</string>
     <string name="radio_info_smsc_update_label">အပ်ဒိတ်လုပ်ရန်</string>
     <string name="radio_info_subid">လက်ရှိ Id အခွဲ−</string>
@@ -834,9 +786,8 @@ UT အသုံးပြုမှု အင်တာဖေ့စ် − %5$s"</s
     <string name="smart_forwarding_settings_menu">အဆင့်မြင့် ထပ်ဆင့်ပို့ခြင်း</string>
     <string name="smart_forwarding_settings_menu_summary">နံပါတ်တစ်ခုကို ဆက်သွယ်၍ မရနိုင်ပါက ဖုန်းခေါ်ဆိုမှုများကို သင်၏ အခြားနံပါတ်သို့ အချိန်မရွေး ထပ်ဆင့်ပို့ပါ</string>
     <string name="sports_news_settings">အားကစား သတင်း</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
-    <string name="status_hint_label_incoming_wifi_call">Wi-Fi ဖုန်းခေါ်နေသည်</string>
-    <string name="status_hint_label_wifi_call">Wi-Fi ခေါ်ဆိုမှု</string>
+    <string name="status_hint_label_incoming_wifi_call">အောက်ပါမှ Wi-Fi ခေါ်ခြင်း</string>
+    <string name="status_hint_label_wifi_call">ဝိုင်ဖိုင်ခေါ်ဆိုမှု</string>
     <string name="stk_cc_ss_to_dial_error">SS တောင်းဆိုမှုကို ပုံမှန်ဖုန်းခေါ်ဆိုမှုသို့ ပြောင်းထားပါသည်</string>
     <string name="stk_cc_ss_to_dial_video_error">SS တောင်းဆိုမှုကို ဗီဒီယိုခေါ်ဆိုမှုသို့ ပြောင်းထားပါသည်</string>
     <string name="stk_cc_ss_to_ss_error">SS တောင်းဆိုမှုအသစ်သို့ ပြောင်းထားပါသည်</string>
@@ -867,7 +818,6 @@ UT အသုံးပြုမှု အင်တာဖေ့စ် − %5$s"</s
     <string name="sum_loading_settings">ဆက်တင်များကို ကြည့်ရှုရန် လုပ်နေပါသည်…</string>
     <string name="sum_show_caller_id">အထွက်ဖုန်းများတွင် နံပါတ်မြင်ရသည်</string>
     <string name="sum_voicemail_choose_provider">အသံမေးလ် ဝန်ဆောင်မှု ရွေးပါ</string>
-    <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
     <string name="supp_service_additional_call_forwarded">နောက်ထပ်ခေါ်ဆိုမှုကို ထပ်ဆင့်ပို့ထားပါသည်။</string>
     <string name="supp_service_additional_ect_connected">တိုက်ရိုက်ခေါ်ဆိုမှုကို လွှဲပြောင်းပြီးပါပြီ။</string>
     <string name="supp_service_additional_ect_connecting">တိုက်ရိုက်ခေါ်ဆိုမှုကို လွှဲပြောင်းနေဆဲဖြစ်ပါသည်။</string>
@@ -956,4 +906,17 @@ UT အသုံးပြုမှု အင်တာဖေ့စ် − %5$s"</s
     <string name="wifi_calling">"Wi-Fi  ခေါ်ဆိုခြင်း"</string>
     <string name="wifi_calling_settings_title">Wi-Fi ခေါ်ဆိုခြင်း</string>
     <string name="wild_prompt_str">wildစာလုံးကို အစားထိုးရန်မှာ</string>
+    <string name="description_dialpad_back">အနောက်သို့ ပြန်သွားပါ</string>
+    <string name="enable_disable_local">ပြည်တွင်း</string>
+    <string name="enable_disable_restaurants">စားသောက်ဆိုင်များ</string>
+    <string name="enter_pin2_text">ပင်နံပါတ် ၂</string>
+    <string name="radio_info_imei_label">IMEI</string>
+    <string name="description_concat_format">%1$s၊ %2$s</string>
+    <string name="enable_disable_regional">ဒေသဆိုင်ရာ</string>
+    <string name="network_global">တစ်ကမ္ဘာလုံးဆိုင်ရာ</string>
+    <string name="radioInfo_display_bytes">ဘိုက်</string>
+    <string name="summary_collapsed_preference_list">%1$s၊ %2$s</string>
+    <string name="radio_info_smsc_label">SMSC -</string>
+    <string name="audio_mode_bluetooth">ဘလူးတုသ်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
 </resources>

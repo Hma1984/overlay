@@ -2,59 +2,52 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Vor 1 Stunde</item>
-        <item quantity="one">Vor 1 Stunde</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Vor %d Stunden</item>
-        <item quantity="one">Vor %d Stunde</item>
+        <item quantity="other">Vor %d Std</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Vor einer halben Stunde</item>
-        <item quantity="one">Vor einer halben Stunde</item>
+        <item quantity="other">Vor einer halben Std</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In %d Stunden</item>
-        <item quantity="one">In %d Stunde</item>
+        <item quantity="other">In %d Std</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In einer halben Stunde</item>
-        <item quantity="one">In einer halben Stunde</item>
+        <item quantity="other">In einer halben Std</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Sofort</item>
-        <item quantity="one">Sofort</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">In %d Minuten</item>
-        <item quantity="one">In %d Minute</item>
+        <item quantity="other">In %d Min</item>
+        <item quantity="one">In %d Min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
-        <item quantity="one">Gerade eben</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Vor %d Minuten</item>
-        <item quantity="one">Vor %d Minute</item>
+        <item quantity="other">Vor %d Min</item>
+        <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="cloud_storage_full_upgrade_text">
-        <item quantity="other">Unzureichender Speicherplatz. %d Fotos konnten nicht synchronisiert werden.</item>
-        <item quantity="one">Unzureichender Speicherplatz. %d Foto konnte nicht synchronisiert werden.</item>
+        <item quantity="other">Nicht genügend Speicher. %d Fotos wurden nicht synchronisiert.</item>
+        <item quantity="one">Nicht genügend Speicher. %d Foto wurde nicht synchronisiert.</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d Sperrlisteneinträge</item>
         <item quantity="one">%d Sperrlisteneintrag</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">%d Browser Inhalte</item>
-        <item quantity="one">%d Browser Inhalt</item>
+        <item quantity="other">%d Browserelemente</item>
+        <item quantity="one">%d Browserelement</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">%d Kalender Inhalte</item>
-        <item quantity="one">%d Kalender Inhalt</item>
+        <item quantity="other">%d Kalendereinträge</item>
+        <item quantity="one">%d Kalendereintrag</item>
     </plurals>
     <plurals name="dirty_callog_count">
-        <item quantity="other">%d Anrufverlaufaufzeichnungen</item>
-        <item quantity="one">%d Anrufverlaufaufzeichnung</item>
+        <item quantity="other">%d Anruflistenaufnahmen</item>
+        <item quantity="one">%d Anruflistenaufnahme</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d Kontakte</item>
@@ -77,28 +70,24 @@
         <item quantity="one">%d Notiz</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
-        <item quantity="other">%d Info-Assistenteinträge</item>
-        <item quantity="one">%d Info-Assistenteintrag</item>
+        <item quantity="other">%d Infoassistenteinträge</item>
+        <item quantity="one">%d Infoassistenteintrag</item>
     </plurals>
     <plurals name="dirty_phrase_count">
-        <item quantity="other">%d häufige Redewendungen</item>
-        <item quantity="one">%d häufige Redewendung</item>
+        <item quantity="other">%d häufige Sätze</item>
+        <item quantity="one">%d häufiger Satz</item>
     </plurals>
     <plurals name="dirty_recorder_count">
-        <item quantity="other">Protokolle %d</item>
-        <item quantity="one">Protokoll %d</item>
+        <item quantity="other">%d Aufnahmen</item>
+        <item quantity="one">%d Aufnahme</item>
     </plurals>
     <plurals name="dirty_wlan_count">
-        <item quantity="other">%d WLAN-Netzwerke</item>
-        <item quantity="one">%d WLAN-Netzwerk</item>
+        <item quantity="other">%d WLANs</item>
+        <item quantity="one">%d WLAN</item>
     </plurals>
     <plurals name="dirty_wlan_count_china">
-        <item quantity="other">%d WLAN networks</item>
-        <item quantity="one">%d WLAN network</item>
-    </plurals>
-    <plurals name="e2ee_device_verification_num">
-        <item quantity="other">%s nicht verifizierte Geräte</item>
-        <item quantity="one">%s nicht verifiziertes Gerät</item>
+        <item quantity="other">%d WLANs</item>
+        <item quantity="one">%d WLAN</item>
     </plurals>
     <plurals name="error_retry_hour">
         <item quantity="other">%s Stunden</item>
@@ -113,40 +102,36 @@
         <item quantity="one">%s Sekunde</item>
     </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
-        <item quantity="other">In %d Sekunden erneut versuchen</item>
-        <item quantity="one">In %d Sekunde erneut versuchen</item>
+        <item quantity="other">In %d Sek erneut versuchen</item>
+        <item quantity="one">In %d Sek erneut versuchen</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_red_title">
-        <item quantity="other">&lt;font color=#F22424>%s Elemente&lt;/font> konnten nicht synchronisiert werden</item>
-        <item quantity="one">&lt;font color=#F22424>%s Element&lt;/font> konnte nicht synchronisiert werden</item>
+        <item quantity="other">&lt;font color=#F22424>%s Elemente&lt;/font> wurden nicht synchronisiert</item>
+        <item quantity="one">&lt;font color=#F22424>%s Element&lt;/font> wurde nicht synchronisiert</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
-        <item quantity="other">%s Elemente konnten nicht synchronisiert werden</item>
-        <item quantity="one">%s Element konnte nicht synchronisiert werden</item>
+        <item quantity="other">%s Elemente wurden nicht synchronisiert</item>
+        <item quantity="one">%s Element wurde nicht synchronisiert</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
-        <item quantity="one">Vor einer halben Stunde</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>
-        <item quantity="one">In 1 Stunde</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">In einer halben Stunde</item>
-        <item quantity="one">In einer halben Stunde</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Sofort</item>
-        <item quantity="one">Sofort</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">In %d Min</item>
+        <item quantity="other">In %d Minuten</item>
         <item quantity="one">In 1 Minute</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Elemente warten auf Synchronisierung: %d</item>
-        <item quantity="one">Element wartet auf Synchronisierung: %d</item>
+        <item quantity="other">Elemente warten auf Synchronisation: %d</item>
+        <item quantity="one">Element wartet auf Synchronisation: %d</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">vor %s Stunden</item>
@@ -158,62 +143,49 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
-        <item quantity="one">Gerade eben</item>
-    </plurals>
-    <plurals name="local_lockscreen_error_hint_retry">
-        <item quantity="other">Zu viele Versuche. In %s Sekunden erneut versuchen.</item>
-        <item quantity="one">Zu viele Versuche. In %s Sekunde erneut versuchen.</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">In %d Minuten synchronisieren fortsetzten</item>
-        <item quantity="one">In %d Minute synchronisieren fortsetzten</item>
+        <item quantity="other">Synchronisation in %d Minuten wieder aufnehmen</item>
+        <item quantity="one">Synchronisation in %d Minute wieder aufnehmen</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
-        <item quantity="other">Speicher ist voll. &lt;font color=#F22424>%d Apps&lt;/font> konnten nicht synchronisiert werden.</item>
-        <item quantity="one">Speicher ist voll. &lt;font color=#F22424>%d App&lt;/font> konnte nicht synchronisiert werden.</item>
+        <item quantity="other">Speicher ist voll. &lt;font color=#F22424>%d Apps&lt;/font> wurden nicht synchronisiert.</item>
+        <item quantity="one">Speicher ist voll. &lt;font color=#F22424>%d Spp&lt;/font>wurde nicht synchronisiert.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
-    <plurals name="other_lockscreen_error_hint_retry">
-        <item quantity="other">Zu viele Versuche. In %d Tagen erneut versuchen.</item>
-        <item quantity="one">Zu viele Versuche. In %d Tag erneut versuchen.</item>
-    </plurals>
     <plurals name="provision_sync_items_status_off_title">
-        <item quantity="other">Synchronisieren ist für %s Elemente nicht eingeschaltet</item>
-        <item quantity="one">Synchronisieren ist für %s Element nicht eingeschaltet</item>
+        <item quantity="other">Synchronisation ist für %s Elemente nicht aktiviert</item>
+        <item quantity="one">Synchronisation ist für %s Element nicht aktiviert</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s Dienste werden mit Xiaomi Cloud synchronisiert</item>
-        <item quantity="one">%s Dienst wird mit Xiaomi Cloud synchronisiert</item>
+        <item quantity="other">%s Dienste mit Xiaomi Cloud synchronisieren</item>
+        <item quantity="one">%s Dienst mit Xiaomi Cloud synchronisieren</item>
     </plurals>
     <plurals name="select_no_more_than">
-        <item quantity="other">Sie können nicht mehr als %d Objekte auswählen</item>
-        <item quantity="one">Sie können nicht mehr als %d Objekte auswählen</item>
+        <item quantity="other">Mehr als %d Elemente auswählen nicht möglich</item>
+        <item quantity="one">Mehr als %d Element auswählen nicht möglich</item>
     </plurals>
     <plurals name="share_sdk_invitation_some_people_accepted">
-        <item quantity="other">Einladung von %d Personen akzeptiert</item>
-        <item quantity="one">Einladung von %d Person akzeptiert</item>
+        <item quantity="other">Einladung von %d Personen angenommen</item>
+        <item quantity="one">Einladung von %d Person angenommen</item>
     </plurals>
     <plurals name="time_format_day">
         <item quantity="other">%1$s Tage</item>
         <item quantity="one">%1$s Tag</item>
     </plurals>
     <plurals name="time_format_hour">
-        <item quantity="other">%1$s Stunden</item>
-        <item quantity="one">%1$s Stunde</item>
+        <item quantity="other">%1$s Std</item>
+        <item quantity="one">%1$s Std</item>
     </plurals>
     <plurals name="time_format_min">
-        <item quantity="other">%1$s Minuten</item>
-        <item quantity="one">%1$s Minute</item>
-    </plurals>
-    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
-        <item quantity="other">Neuen Code senden (%s Sek.)</item>
-        <item quantity="one">Neuen Code senden (%s Sek.)</item>
+        <item quantity="other">%1$s Min</item>
+        <item quantity="one">%1$s Min</item>
     </plurals>
 </resources>

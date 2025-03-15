@@ -2,12 +2,10 @@
 <resources>
     <string name="calendar_default_name">Προεπιλογή</string>
     <string name="calendar_info">Πληροφορίες Ημερολογίου</string>
-    <string name="calendar_info_error">Σφάλμα</string>
     <string name="calendar_info_events">Συμβάντα: %1$d</string>
     <string name="calendar_info_events_dirty">Συμβάντα: %1$d | Δεν αποθηκεύτηκαν: %2$d</string>
     <string name="calendar_info_no_calendars">Δεν βρέθηκαν ημελογόγια</string>
     <string name="calendar_storage">Μνήμη ημερολογίου</string>
-    <string name="channel_description" />
     <string name="channel_name">Υπενθυμίσεις Ημερολογίου</string>
     <string name="cta_notice">Ανοίξτε το Ημερολόγιο και επιτρέψτε του πρώτα να συνδεθεί στο διαδίκτυο.</string>
     <string name="debug_tool_delete_button">Διαγραφή</string>
@@ -23,6 +21,6 @@
     <string name="holiday_update_summary">Άγγιγμα για ενημέρωση πληροφοριών ημερολογίου.</string>
     <string name="holiday_update_title">Διαθέσιμη ενημέρωση</string>
     <string name="provider_label">Ημερολόγιο</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">Ενημέρωση δεδομένων ημερολογίου…</string>
+    <string name="calendar_info_error">Σφάλμα</string>
 </resources>

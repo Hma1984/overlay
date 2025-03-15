@@ -5,41 +5,23 @@
         <item>Angemessen</item>
         <item>Moderat</item>
         <item>Ungesund</item>
-        <item>Stark</item>
+        <item>Schwerwiegend</item>
         <item>Gefährlich</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+        <item>LQI %1$s</item>
+        <item>LQI %1$s</item>
+        <item>LQI %1$s</item>
+        <item>LQI %1$s</item>
+        <item>LQI %1$s</item>
+        <item>LQI %1$s</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Gut</item>
-        <item>Angemessen</item>
-        <item>Moderat</item>
-        <item>Ungesund</item>
-        <item>Stark</item>
-        <item>Gefährlich</item>
-        <item>Index überschritten</item>
+    <string-array name="breeze">
+        <item>Stärke 2</item>
+        <item>6–11 km/h</item>
+        <item>1,6–3,3 m/s</item>
+        <item>4–7 mph</item>
+        <item>4–6 kn</item>
     </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
@@ -56,19 +38,28 @@
         <item>Singapur</item>
         <item>Berlin</item>
         <item>Rom</item>
-        <item>New York City</item>
+        <item>New York</item>
         <item>Los Angeles</item>
         <item>Chicago</item>
-        <item>Tokio</item>
+        <item>Tokyo</item>
         <item>Paris</item>
         <item>Bangkok</item>
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="minute_rain_array">
-        <item>Schwer</item>
+        <item>Stark</item>
         <item>Mäßig</item>
         <item>Leicht</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Ausgezeichnet</item>
+        <item>Gut</item>
+        <item>Leicht verschmutzt</item>
+        <item>Mäßig verschmutzt</item>
+        <item>Stark verschmutzt</item>
+        <item>Ernsthaft verschmutzt</item>
+        <item>Außerhalb des Messbereichs</item>
     </string-array>
     <string-array name="realtime_humidity_status">
         <item>Trocken</item>
@@ -77,8 +68,8 @@
     </string-array>
     <string-array name="realtime_pressure_status">
         <item>Hoch</item>
-        <item>Moderat</item>
-        <item>Tief</item>
+        <item>Mäßig</item>
+        <item>Niedrig</item>
     </string-array>
     <string-array name="realtime_temperature_status">
         <item>Kalt</item>
@@ -92,28 +83,21 @@
         <item>Mäßig</item>
         <item>Stark</item>
         <item>Sehr stark</item>
-        <item>Ernst</item>
-    </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
+        <item>Schwerwiegend</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sonnig</item>
-        <item>Wolkig</item>
+        <item>Klar</item>
         <item>Bewölkt</item>
+        <item>Bedeckt</item>
         <item>Nebel</item>
-        <item>Starker Regensturm</item>
+        <item>Starkregen</item>
         <item>Platzregen</item>
         <item>Regensturm</item>
-        <item>Gewittersturm</item>
-        <item>Regenschauer</item>
-        <item>Starker Regen</item>
+        <item>Gewitter</item>
+        <item>Schauer</item>
+        <item>Schwere Regenfälle</item>
         <item>Mäßiger Regen</item>
-        <item>Leichter Regen</item>
+        <item>Nieselregen</item>
         <item>Schneeregen</item>
         <item>Schneesturm</item>
         <item>Schneeschauer</item>
@@ -125,9 +109,9 @@
         <item>Leichter Sandsturm</item>
         <item>Staubsturm</item>
         <item>Hagel</item>
-        <item>Staub</item>
+        <item>Feinstaub</item>
         <item>Dunst</item>
-        <item>Eisregen</item>
+        <item>Gefrierender Regen</item>
         <item></item>
     </string-array>
     <string-array name="wind_direction">
@@ -147,21 +131,21 @@
         <item>SO</item>
         <item>S</item>
         <item>SW</item>
-        <item>M</item>
+        <item>W</item>
         <item>NW</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Beaufortskala</item>
         <item>Kilometer pro Stunde (km/h)</item>
         <item>Meter pro Sekunde (m/s)</item>
-        <item>Meilen pro Stunde (mph)</item>
+        <item>Meile pro Stunde (mph)</item>
         <item>Knoten (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
         <item>Stärke %1$s</item>
-        <item>%1$skm/h</item>
-        <item>%1$sm/s</item>
-        <item>%1$smph</item>
-        <item>%1$skn</item>
+        <item>%1$s km/h</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
+        <item>%1$s kn</item>
     </string-array>
 </resources>

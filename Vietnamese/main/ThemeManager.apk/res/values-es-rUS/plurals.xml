@@ -5,15 +5,15 @@
         <item quantity="one">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d horas atrás</item>
-        <item quantity="one">%d hora atrás</item>
+        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Hace media hora</item>
         <item quantity="one">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
         <item quantity="one">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
@@ -25,56 +25,112 @@
         <item quantity="one">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d min</item>
+        <item quantity="other">En %d minutos</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Ahora mismo</item>
-        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+        <item quantity="one">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
-        <item quantity="one">%d min atrás</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
-    <plurals name="account_coins_num">
-        <item quantity="other">%1s monedas</item>
-        <item quantity="one">%1s moneda</item>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d temas Ambiente</item>
+        <item quantity="one">%1$d tema Ambiente</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d fuentes</item>
+        <item quantity="one">%1$d fuente</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d iconos</item>
+        <item quantity="one">%1$d icono</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d temas</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Añadir %1$d elementos</item>
+        <item quantity="one">Añadir %1$d elemento</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Se añadieron %1$d elementos a tu cuenta. Ve los elementos añadidos en tus pedidos.</item>
+        <item quantity="one">Se añadió %1$d elemento a tu cuenta. Ve los elementos añadidos en tus pedidos.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">Solo puedes descargar %1$d elementos gratuitos si no has iniciado sesión (se excluyen los fondos de pantalla y los tonos de llamada). Inicia sesión para descargar elementos sin restricciones.</item>
+        <item quantity="one">Solo puedes descargar %1$d elemento gratuito si no has iniciado sesión (se excluyen los fondos de pantalla y los tonos de llamada). Inicia sesión para descargar elementos sin restricciones.</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">%1$d elementos no están añadidos a tu cuenta</item>
+        <item quantity="one">%1$d elemento no está añadido a tu cuenta</item>
+    </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">Hay actualizaciones disponibles para %1$d temas</item>
+        <item quantity="one">Hay disponible una actualización para %1$d tema</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="other">Actualizando %1$d temas</item>
+        <item quantity="one">Actualizando %1$d tema</item>
     </plurals>
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">Presión atmosférica: %s hectopascales</item>
         <item quantity="one">Presión atmosférica: %s hectopascal</item>
     </plurals>
-    <plurals name="confirm_delete_tasks">
-        <item quantity="other">¿Eliminar %d tareas ahora?</item>
-        <item quantity="one">¿Eliminar %d tarea ahora?</item>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d elementos</item>
+        <item quantity="one">%1$d elemento</item>
     </plurals>
-    <plurals name="delete_tasks_successfully">
-        <item quantity="other">%d tareas eliminadas con éxito</item>
-        <item quantity="one">%d tarea eliminada con éxito</item>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d iconos</item>
+        <item quantity="one">%1$d icono</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="other">%1$d comentarios más</item>
+        <item quantity="one">%1$d comentario más</item>
+    </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s recompensas</item>
+        <item quantity="one">%s recompensa</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s recompensas</item>
+        <item quantity="one">%s recompensa</item>
+    </plurals>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">Hace %d hora</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minuto</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Adelantar %d segundos</item>
-        <item quantity="one">Adelantar %d segundo</item>
+        <item quantity="other">Avance rápido %d segundos</item>
+        <item quantity="one">Avance rápido %d segundos</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">Aplicado en %1$d dispositivos</item>
+        <item quantity="one">Aplicado en %1$d dispositivo</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Hace media hora</item>
         <item quantity="one">Hace media hora</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
-        <item quantity="other">%1$s calorías quemadas</item>
-        <item quantity="one">%1$s caloría quemada</item>
+        <item quantity="other">Calorías quemadas de %1$s</item>
+        <item quantity="one">Quemado %1$s Calorie</item>
     </plurals>
     <plurals name="health_chart_calories_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de calorías: %1$s calorías</item>
-        <item quantity="one">Objetivo de calorías: %1$s caloría</item>
-    </plurals>
-    <plurals name="health_chart_calories_schedule_format">
-        <item quantity="other">%1$s/%2$s kcal</item>
-        <item quantity="one">%1$s/%2$s kcal</item>
+        <item quantity="other">Objetivo de Caloria: %1$s Calorías</item>
+        <item quantity="one">Objetivo de Calorie: %1$s Calorie</item>
     </plurals>
     <plurals name="health_chart_sport_time_current_schedule_format_desc">
         <item quantity="other">Tiempo de actividad: %1$s minutos</item>
@@ -85,32 +141,40 @@
         <item quantity="one">Objetivo de actividad: %1$s minuto</item>
     </plurals>
     <plurals name="health_chart_sport_time_schedule_format">
-        <item quantity="other">%1$s/%2$s mins</item>
+        <item quantity="other">%1$s/%2$s minutos</item>
         <item quantity="one">%1$s/%2$s min</item>
     </plurals>
     <plurals name="health_chart_stand_count_schedule_format_desc">
-        <item quantity="other">Levantado en %1$s horas</item>
-        <item quantity="one">Levantado en %1$s hora</item>
+        <item quantity="other">Almacenamiento dentro de %1$s horas</item>
+        <item quantity="one">Almacenar dentro de %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de tiempo levantado: %1$s horas</item>
-        <item quantity="one">Objetivo de tiempo levantado: %1$s hora</item>
+        <item quantity="other">Objetivo permanente: %1$s horas</item>
+        <item quantity="one">Objetivo permanente: %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s hrs</item>
-        <item quantity="one">%1$s/%2$s hr</item>
+        <item quantity="other">%1$s/%2$s horas</item>
+        <item quantity="one">%1$s/%2$s hora</item>
     </plurals>
     <plurals name="health_chart_step_count_current_schedule_format_desc">
-        <item quantity="other">Conteo de pasos actual: %1$s pasos</item>
-        <item quantity="one">Conteo de pasos actual: %1$s paso</item>
+        <item quantity="other">Número de pasos actual: %1$s pasos</item>
+        <item quantity="one">Número de pasos actual: %1$s paso</item>
     </plurals>
     <plurals name="health_chart_step_count_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de pasos: %1$s pasos</item>
-        <item quantity="one">Objetivo de pasos: %1$s paso</item>
+        <item quantity="other">Objetivo paso: %1$s pasos</item>
+        <item quantity="one">Objetivo paso: %1$s paso</item>
     </plurals>
     <plurals name="health_chart_step_count_schedule_format">
         <item quantity="other">%1$s/%2$s pasos</item>
-        <item quantity="one">%1$s/%2$s paso</item>
+        <item quantity="one">Paso %1$s/%2$s</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="other">Hay actualizaciones disponibles para %1$d iconos</item>
+        <item quantity="one">Hay actualizaciones disponibles para %1$d icono</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">Actualizando %1$d iconos…</item>
+        <item quantity="one">Actualizando %1$d icono…</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">En 1 hora</item>
@@ -128,83 +192,85 @@
         <item quantity="other">en %d minutos</item>
         <item quantity="one">en 1 minuto</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Una actualización está disponible para los Super iconos %1$d</item>
+        <item quantity="one">Una actualización está disponible para el Súper icono de %1$d</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Actualizando supericonos %1$d</item>
+        <item quantity="one">Actualizando el súper icono %1$d</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Ahora mismo</item>
-        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+        <item quantity="one">Justo ahora</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d notificaciones nuevas</item>
-        <item quantity="one">%d notificación nueva</item>
+        <item quantity="other">%d nuevas notificaciones</item>
+        <item quantity="one">%d nueva notificación</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
-    <plurals name="payment_coins_tips">
-        <item quantity="other">"%1$d monedas = %2$d IDR
-Las monedas no son reembolsables"</item>
-        <item quantity="one">"%1$d moneda = %2$d IDR
-Las monedas no son reembolsables"</item>
+    <plurals name="pay_mibi">
+        <item quantity="other">Paga %1$s Monedas Mi</item>
+        <item quantity="one">Pagar Moneda Mi %1$s</item>
     </plurals>
-    <plurals name="portfolio">
-        <item quantity="other">%d Trabajos</item>
-        <item quantity="one">%d Trabajo</item>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d comentarios</item>
+        <item quantity="one">%d comentario</item>
     </plurals>
-    <plurals name="processing_is_expected_text">
-        <item quantity="other">Su solicitud será procesada en aproximadamente %1$d segundos.</item>
-        <item quantity="one">Su solicitud será procesada en aproximadamente %1$d segundo.</item>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">%1$d elementos descargados con éxito</item>
+        <item quantity="one">%1$d elemento descargado con éxito</item>
     </plurals>
-    <plurals name="purchase_refund_success_diag_notice_one">
-        <item quantity="other">"%d pedidos reembolsados correctamente. "</item>
-        <item quantity="one">"%d pedido reembolsado correctamente. "</item>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Monedas/conjunto</item>
+        <item quantity="one">Moneda/set %1$s Mi</item>
     </plurals>
-    <plurals name="purchase_refund_success_diag_notice_two">
-        <item quantity="other">Sus monedas se depositarán en %d horas.</item>
-        <item quantity="one">Sus monedas se depositarán en %d hora.</item>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f puntos</item>
+        <item quantity="one">%1$.1f punto</item>
     </plurals>
-    <plurals name="purchase_refund_success_notice">
-        <item quantity="other">Su reembolso ha sido procesado. Sus monedas se depositarán en %d horas.</item>
-        <item quantity="one">Su reembolso ha sido procesado. Sus monedas se depositarán en %d hora.</item>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s tonos de llamada</item>
+        <item quantity="one">%1$s tono de llamada</item>
     </plurals>
-    <plurals name="purchased_authorizing_dialog_content">
-        <item quantity="other">Esto puede tomar un poco de tiempo. Si no ha recibido los artículos que compró dentro de %d horas, envíe sus comentarios para informarnos sobre el problema.</item>
-        <item quantity="one">Esto puede tomar un poco de tiempo. Si no ha recibido los artículos que compró dentro de %d hora, envíenos sus comentarios para informarnos sobre el problema.</item>
-    </plurals>
-    <plurals name="purchased_instructions">
-        <item quantity="other">&lt;Data>Al completar el pago, acepta el &lt;a href=\"%1$s\">Aviso sobre Compras en la Aplicación&lt;/a>.&lt;br>Hay reembolsos disponibles durante &lt;xliff:g id=time>%2$d&lt;/xliff:g> horas después de realizar las compras. &lt;/Data></item>
-        <item quantity="one">&lt;Data>Al completar el pago, acepta el &lt;a href=\"%1$s\">Aviso sobre Compras en la Aplicación&lt;/a>.&lt;br>Hay reembolsos disponibles durante &lt;xliff:g id=time>%2$d&lt;/xliff:g> hora después de realizar las compras. &lt;/Data></item>
-    </plurals>
-    <plurals name="purchased_refund_constact_us_success_dialog_message">
-        <item quantity="other">El pedido se completó hace más de %d horas. Envíenos un correo electrónico.</item>
-        <item quantity="one">El pedido se completó hace más de %d hora. Envíenos un correo electrónico.</item>
-    </plurals>
-    <plurals name="purchased_refund_success_dialog_message">
-        <item quantity="other">Recibirá las monedas en %d horas.</item>
-        <item quantity="one">Recibirá las monedas en %d hora.</item>
-    </plurals>
-    <plurals name="resource_font_download_notification_title_many">
-        <item quantity="other">Las fuentes %1$s se descargaron correctamente</item>
-        <item quantity="one">La fuente %1$s se descargó correctamente</item>
-    </plurals>
-    <plurals name="resource_theme_download_notification_title_many">
-        <item quantity="other">Los temas %1$s se descargaron correctamente</item>
-        <item quantity="one">El tema %1$s se descargó correctamente</item>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Actualizaciones disponibles para %1$d temas.</item>
+        <item quantity="one">Actualización disponible para %1$d tema.</item>
     </plurals>
     <plurals name="theme_designer_products_count">
         <item quantity="other">%1$s diseños</item>
         <item quantity="one">%1$s diseño</item>
     </plurals>
-    <plurals name="tiny_accessibility_battery_level">
-        <item quantity="other">Batería al %s por ciento</item>
-        <item quantity="one">Batería al %s por ciento</item>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Actualizaciones disponibles para %1$d temas</item>
+        <item quantity="one">Actualización disponible para %1$d tema</item>
     </plurals>
-    <plurals name="tiny_accessibility_battery_level_charging">
-        <item quantity="other">Cargando. Batería al %d por ciento.</item>
-        <item quantity="one">Cargando. Batería al %d por ciento.</item>
+    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Buscar entre %1$d aplicaciones</item>
+        <item quantity="one">Buscar entre %1$d aplicación</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">%1$d aplicaciones encontradas</item>
+        <item quantity="one">%1$d aplicación encontrada</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">Podrá probar \"%2$s\" gratis en %1$d horas</item>
+        <item quantity="one">Podrá probar \"%2$s\" gratis en %1$d hora</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">Prueba gratuita de 3 días (quedan %1$d artículos para hoy)</item>
+        <item quantity="one">Prueba gratuita de 3 días (queda %1$d artículo para hoy)</item>
+    </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d imágenes</item>
+        <item quantity="one">%1$d imagen</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d imágenes</item>
@@ -213,5 +279,9 @@ Las monedas no son reembolsables"</item>
     <plurals name="weather_temperature_desc">
         <item quantity="other">Temperatura: %1$s grados, %2$s</item>
         <item quantity="one">Temperatura: %1$s grado, %2$s</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d fans</item>
+        <item quantity="one">%1$d ventilador</item>
     </plurals>
 </resources>

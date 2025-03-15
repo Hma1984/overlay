@@ -90,6 +90,12 @@
         <item quantity="two">%d מכשירים זמינים</item>
         <item quantity="many">%d מכשירים זמינים</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה אחת (%d)</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">בכל %d שניות</item>
         <item quantity="one">בכל שנייה אחת (%d)</item>
@@ -107,12 +113,6 @@
         <item quantity="one">החיבור הוגבל עבור יישום %s</item>
         <item quantity="two">החיבור הוגבל עבור %s יישומים</item>
         <item quantity="many">החיבור הוגבל עבור %s יישומים</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">נא להמתין %d שניות ולנסות שוב</item>
-        <item quantity="one">נא להמתין שנייה %d ולנסות שוב</item>
-        <item quantity="two">נא להמתין %d שניות ולנסות שוב</item>
-        <item quantity="many">נא להמתין %d שניות ולנסות שוב</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d אנשים מחוברים</item>
@@ -342,29 +342,11 @@
         <item quantity="two">קיבלת %d התראות</item>
         <item quantity="many">קיבלת %d התראות</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d שעות</item>
-        <item quantity="one">%d שעה</item>
-        <item quantity="two">%d שעות</item>
-        <item quantity="many">%d שעות</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d שעות</item>
         <item quantity="one">שעה %d</item>
         <item quantity="two">%d שעות</item>
         <item quantity="many">%d שעות</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">"  שעות"</item>
-        <item quantity="one">"  שעה"</item>
-        <item quantity="two">"  שעות"</item>
-        <item quantity="many">"  שעות"</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d דקות</item>
-        <item quantity="one">דקה %d</item>
-        <item quantity="two">%d דקות</item>
-        <item quantity="many">%d דקות</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">"  דקות"</item>
@@ -408,18 +390,6 @@
         <item quantity="two">ימי חול: %d דקות</item>
         <item quantity="many">ימי חול: %d דקות</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" שעות"</item>
-        <item quantity="one">" שעה"</item>
-        <item quantity="two">" שעות"</item>
-        <item quantity="many">" שעות"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" דקות"</item>
-        <item quantity="one">" דקה"</item>
-        <item quantity="two">" דקות"</item>
-        <item quantity="many">" דקות"</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d סיכונים נמצאו</item>
         <item quantity="one">סיכון %d נמצא</item>
@@ -431,5 +401,41 @@
         <item quantity="one">רשת %d שותפה</item>
         <item quantity="two">%d רשתות שותפו</item>
         <item quantity="many">%d רשתות שותפו</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">מחוברים %1$d מכשירים</item>
+        <item quantity="one">מחובר מכשיר %1$d</item>
+        <item quantity="two">מחוברים %1$d מכשירים</item>
+        <item quantity="many">מחוברים %1$d מכשירים</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">%d שעה</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">"  שעות"</item>
+        <item quantity="one">"  שעה"</item>
+        <item quantity="two">"  שעות"</item>
+        <item quantity="many">"  שעות"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" שעות"</item>
+        <item quantity="one">" שעה"</item>
+        <item quantity="two">" שעות"</item>
+        <item quantity="many">" שעות"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" דקות"</item>
+        <item quantity="one">" דקה"</item>
+        <item quantity="two">" דקות"</item>
+        <item quantity="many">" דקות"</item>
     </plurals>
 </resources>

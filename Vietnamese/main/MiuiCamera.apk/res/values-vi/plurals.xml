@@ -3,14 +3,8 @@
     <plurals name="a_hour_ago">
         <item quantity="other">1 giờ trước</item>
     </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 giờ trước</item>
-    </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Nửa giờ trước</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Trong 1 giờ</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Trong nửa giờ</item>
@@ -96,12 +90,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%d giây</item>
-    </plurals>
-    <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Thiết bị của bạn quá nhiệt. Camera sẽ đóng trong %d giây. Ảnh hoặc video của bạn sẽ được lưu tự động.</item>
-    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s phút</item>
     </plurals>
@@ -114,7 +102,19 @@
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s ảnh</item>
     </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Thiết bị của bạn quá nhiệt. Camera sẽ đóng trong %d giây. Ảnh hoặc video của bạn sẽ được lưu tự động.</item>
+    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Hoàn tất chụp liên tiếp, đã chụp %1$s ảnh</item>
+    </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">%d giây</item>
     </plurals>
 </resources>

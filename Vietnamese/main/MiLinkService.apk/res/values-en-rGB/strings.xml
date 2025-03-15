@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Turn on WLAN and Bluetooth</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_3">Turn on WLAN</string>
+    <string name="appcirculate_toast_cancel">Cancelled</string>
+    <string name="camera_choose_device">Switch cameras</string>
+    <string name="car_card_seat_back_middle_seat">Centre (back)</string>
+    <string name="circulate_card_sticker_dressing_equipment">Customise device</string>
+    <string name="circulate_card_sticker_expend_contentDescription">Show customised devices</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">For transferring items and connecting devices via WLAN</string>
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Put both earphones in the case.
+2. Press and hold the button on the case.
+3. Finish pairing in Bluetooth settings or using a pop-up prompt on this device."</string>
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Put both earphones in the case.
+2. Press and hold the button on the case.
+3. Finish pairing in Bluetooth settings or using a pop-up prompt on this device."</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">WLAN signal shared with tablet</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">"Using phone's WLAN signal"</string>
+    <string name="circulate_title">Xiaomi Smart Hub</string>
+    <string name="circulate_tv_power_alter_text">"You've set your TV to switch off or turn its screen off. Remotes and TVs will disappear from here after the TV is switched off."</string>
+    <string name="close_auxiliary_wifi_hint_china">Turn off \"Dual band WLAN speed boost\" to be able to cast</string>
+    <string name="common_signin_button_text">Sign In</string>
+    <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
+    <string name="connect_settings_summary_global">Discover nearby devices signed in to your Xiaomi Account and add them to Xiaomi Smart Hub</string>
+    <string name="console_guide_subtitle_private">"Don't display floating notifications, incoming calls and other private items on external monitors"</string>
+    <string name="console_guide_subtitle_small_window">"Minimise the window that's being cast to be able to use other features of your phone"</string>
+    <string name="dialog_connect_verify_perssion">Authorise casting on your TV first</string>
+    <string name="dialog_connect_verify_perssion_fail">"Couldn't authorise casting on your TV. Wait a minute or two and try again."</string>
+    <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
+    <string name="dialog_only_suport_content">Stream photos, videos or music</string>
+    <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
+
+%2$d. View \"Help\" to learn more."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
+    <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
+    <string name="err_toast_msg_try_switch_network">Connect both your mobile device and computer to the same WLAN network</string>
+    <string name="exposed_dropdown_menu_content_description">Show drop-down menu</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="global_privacy_feature">Using minimised windows, casting with the screen off, and hiding private items.</string>
+    <string name="global_privacy_screencast">While recording or casting, the service providing this feature can capture any sensitive information that is displayed on your screen or played from your device, including sensitive information such as audio, passwords, payment info, photos and messages.</string>
+    <string name="global_privacy_tip"><Data>We need to collect necessary personal information to provide you with the basic services and optimise the casting process. You can learn how we handle the information we collect in our &lt;a href=%1$s>Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy in the Settings at any time.</Data></string>
+    <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
+Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
+Note: Older TV models might not support casting across different networks.
+%2$d. If you're using TVs, set-top boxes, or projectors of other brands, connect both your mobile device and external monitor to the same WLAN network.
+If the two devices can't be connected to the same network, turn on Miracast on your external monitor. The naming of Miracast functionality might vary."</string>
+    <string name="help_page_text_06_new_2">"%1$d. Make sure your mobile device and external monitor are connected to the same Wi-Fi network.
+%2$d. On some Xiaomi TVs, you can set up casting from the TV as well as customise device search and verification methods."</string>
+    <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
+    <string name="help_page_text_09_new_1">"Turn on casting in your device's Control centre, then search for an external monitor."</string>
+    <string name="help_page_text_10">If you want to cast photos, videos, games or presentations, you can use built-in casting features in the corresponding apps.</string>
+    <string name="help_page_text_17">"You can project items from your Xiaomi phone on most Xiaomi TV models with Bluetooth capabilities without turning on Miracast manually.
+If you need to turn on Miracast, press the [MENU] button and select My apps > Casting > Miracast."</string>
+    <string name="help_page_text_28">First, make sure that Miracast functionality is supported on your device. On some models, you can press the [MENU] button on the remote control and then select Settings > Connection > Network > Multiple screens.</string>
+    <string name="help_page_text_31">First, make sure that Miracast functionality is supported on your device. On some models, you can press the [SMART] button on the remote control and then select Casting > Wireless Display. Some models also support casting for games: Hi Cast > Cast games > Android.</string>
+    <string name="help_page_text_34">First, make sure that Miracast functionality is supported on your device. On some models, you can select Apps > Casting > Android device > Miracast.</string>
+    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks > WLAN Direct. This feature is turned on by default on various models.</string>
+    <string name="help_page_text_40">First, make sure that Miracast functionality is supported on your device. On some models, you can select Apps > Screen Mirroring.</string>
+    <string name="help_page_text_46">First, make sure that Miracast functionality is supported on your device. On some models, you can select Apps > Wireless Display.</string>
+    <string name="help_page_text_49">First, make sure that Miracast functionality is supported on your device. To turn this feature on, go to My Apps > Wi-Fi Display.</string>
+    <string name="help_page_text_52">First, make sure that Miracast functionality is supported on your device. On some models, you can turn this feature on in Settings > Networks > Multiple screens > Wireless Display.</string>
+    <string name="help_page_text_55">"If you can't connect to the network, make sure your external monitor supports Miracast functionality and it is turned on. On some models, this feature is called Wireless Display, Screen Mirroring or Multiple screens. View the information below to learn how to turn on Miracast.
+%1$d. If you encounter any issues, you can report them using our \"Services &amp; feedback\" app."</string>
+    <string name="help_page_text_55_global">"If you can't connect to the network, make sure your external monitor supports Miracast functionality and it is turned on. On some models, this feature is called Wireless Display, Screen Mirroring or Multiple screens.
+%1$d. If you encounter any issues, you can report them using our \"Services &amp; feedback\" app."</string>
+    <string name="icon_content_description">Dialogue Icon</string>
+    <string name="material_clock_toggle_content_description">Select a.m. or p.m.</string>
+    <string name="mtrl_picker_date_header_title">Select date</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_range_header_title">Select range</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="nfc_connect_failed_toast">"Couldn't cast. Try again."</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="privacy_permission_screencast_desc">While recording or casting, the service providing this feature can capture any sensitive information that is displayed on your screen or played from your device, including sensitive information such as audio, passwords, payment info, photos and messages</string>
+    <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
+    <string name="privacy_setting_show_authority">"Permissions' details"</string>
+    <string name="privacy_text_1"><Data>"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor.
+We shall protect your personal information in accordance with the relevant laws, regulations and privacy policies. Some features are provided by a third party service provider HappyCast. Before using this feature, read and agree to &lt;a href=%2$s>HappyCast Legal Statement&lt;/a> and &lt;a href=%1$s>HappyCast Privacy Policy&lt;/a>.
+To be able to work normally, this app needs to connect to the internet and requires the following permissions in order to collect your personal information:"</Data></string>
+    <string name="privacy_text_2"><Data>"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out or restrict permissions in the Settings in such cases.
+Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using this feature."</Data></string>
+    <string name="quick_settings_device_dialog_message">"If you turn this feature on, you'll be able to discover nearby TVs, speakers, and cars in Control centre. Turn on now?"</string>
+    <string name="scan_wifi_label_china">Connect to WLAN</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">"Don't display floating notifications, incoming calls and other private items on external monitors."</string>
+    <string name="screen_projection_characteristics_small_window_summary">"Minimise the window that's being cast to be able to use other features of your phone."</string>
+    <string name="screen_projection_characteristics_small_window_title">Minimise window</string>
+    <string name="screen_projection_sample_summary">Casting documents, games, photos and videos</string>
+    <string name="small_window">Minimise window</string>
+    <string name="small_window_not_supported">"Can't minimise this app while it's being cast"</string>
+    <string name="toast_msg_for_small_window">"You can minimise the window that's being cast to be able to use other features of your phone without interrupting the casting process."</string>
+    <string name="toast_title_for_small_window">Select \"Minimise window\" in the app</string>
+    <string name="upgrade_ver_latest">Current version is up-to-date</string>
+    <string name="upgrade_ver_latest1">Current version (%1$d) is up-to-date</string>
+    <string name="upgrade_ver_latest1s">Current version (%1$s) is up-to-date</string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="help_page_text_16">Xiaomi TV/Mi Projector</string>
+    <string name="appcirculate_toast_app_notstall">"Couldn't transfer. This app isn't installed on the phone."</string>
+    <string name="circulate_cta_premission_wlan_title">开启或关闭WLAN</string>
+    <string name="circulate_cta_user_agreement">Read and agree to our &lt;txt href=\"%1$s\">User Agreement&lt;/txt> and &lt;txt href=\"%2$s\">Privacy Policy&lt;/txt> before you continue.</string>
+    <string name="circulate_more_button_content_description">More</string>
+    <string name="connect_settings_presentation_password_error">Incorrect password</string>
+    <string name="connect_settings_presentation_password_title">Enter admin password</string>
+    <string name="message_connection_interrupted">Make sure your computer and tablet are within connection range and have Bluetooth and WLAN turned on. To continue, start the task on your computer again.</string>
+</resources>

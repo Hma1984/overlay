@@ -64,6 +64,14 @@
         <item quantity="other">%d emner valgt</item>
         <item quantity="one">%d emne valgt</item>
     </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">%1$d lykkedes, %2$s</item>
+        <item quantity="one">%1$d lykkedes, %2$s</item>
+    </plurals>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d mislykkedes.</item>
+        <item quantity="one">%1$d mislykkedes.</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutter siden</item>
         <item quantity="one">1 minut siden</item>

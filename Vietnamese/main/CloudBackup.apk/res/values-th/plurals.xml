@@ -33,12 +33,6 @@
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s สำรองข้อมูล (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d วันนับตั้งแต่การสำรองข้อมูลครั้งล่าสุด | ข้อมูลใหม่: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d วันนับตั้งแต่การสำรองข้อมูลครั้งล่าสุด</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">ครึ่งชั่วโมงผ่านมา</item>
     </plurals>
@@ -71,5 +65,11 @@
     </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">เหลืออีกประมาณ %s นาที</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d วันนับตั้งแต่การสำรองข้อมูลครั้งล่าสุด | ข้อมูลใหม่: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d วันนับตั้งแต่การสำรองข้อมูลครั้งล่าสุด</item>
     </plurals>
 </resources>

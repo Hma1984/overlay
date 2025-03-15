@@ -28,22 +28,19 @@
         <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">အလုပ်တာဝန် %d ခု ဖျက်လိုသလား။</item>
+        <item quantity="other">လုပ်ငန်း %dခုကို ဖျက်မလား?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">ဒေါင်းလုဒ် %1$d ခု ဖြုတ်ထားသည်</item>
+        <item quantity="other">ဒေါင်းလုဒ် %1$d ခုအား ဖယ်ရှားခဲ့သည်</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d ရက်</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d နာရီ</item>
     </plurals>
     <plurals name="durationMinutes">
         <item quantity="other">%1$d မိနစ်</item>
     </plurals>
     <plurals name="durationSeconds">
-        <item quantity="other">%1$d စက္ကန့်</item>
+        <item quantity="other">%1$d စက္ကန့်</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">လွန်ခဲ့သော နာရီဝက်က</item>
@@ -69,10 +66,7 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="other">အိုင်တမ် %s ခု</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">နောက်ထပ် %1$d ခု ပြပါ</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d နာရီ</item>
     </plurals>
 </resources>

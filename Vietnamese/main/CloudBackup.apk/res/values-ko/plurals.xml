@@ -33,12 +33,6 @@
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s 백업 (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">마지막 백업으로부터 %1$d일 | 새로운 데이터: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">마지막 백업으로부터 %d일</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30분 전</item>
     </plurals>
@@ -71,5 +65,11 @@
     </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">약 %s분 남음</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">마지막 백업으로부터 %1$d일 | 새로운 데이터: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">마지막 백업으로부터 %d일</item>
     </plurals>
 </resources>

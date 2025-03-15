@@ -168,35 +168,17 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">ביטול (%ds)</item>
-        <item quantity="one">ביטול (%ds)</item>
-        <item quantity="two">ביטול (%ds)</item>
-        <item quantity="many">ביטול (%ds)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">"קיבלת הזמנות לצ'אט קבוצה %d"</item>
         <item quantity="one">"קיבלת הזמנה לצ'אט קבוצה %d"</item>
         <item quantity="two">"קיבלת הזמנות לצ'אט קבוצה %d"</item>
         <item quantity="many">"קיבלת הזמנות לצ'אט קבוצה %d"</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s אנשים</item>
-        <item quantity="one">אדם %1$s</item>
-        <item quantity="two">%1$s אנשים</item>
-        <item quantity="many">%1$s אנשים</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s תוצאות עבור \"%2$s\"</item>
         <item quantity="one">תוצאה %1$s עבור \"%2$s\"</item>
         <item quantity="two">%1$s תוצאות עבור \"%2$s\"</item>
         <item quantity="many">%1$s תוצאות עבור \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d שניות</item>
-        <item quantity="one">שנייה %d</item>
-        <item quantity="two">%d שניות</item>
-        <item quantity="many">%d שניות</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s הודעות נשלחו</item>

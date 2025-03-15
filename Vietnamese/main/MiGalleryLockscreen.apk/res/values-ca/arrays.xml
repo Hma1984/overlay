@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feature_desc">
+        <item>Optimitzat per a usuaris internacionals per Xiaomi.eu</item>
+    </string-array>
+    <string-array name="month12">
+        <item>Gener</item>
+        <item>febrer</item>
+        <item>març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Setembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Desembre</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Mascle</item>
+        <item>Femella</item>
+    </string-array>
+</resources>

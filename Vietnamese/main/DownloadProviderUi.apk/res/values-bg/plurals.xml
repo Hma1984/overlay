@@ -37,8 +37,8 @@
         <item quantity="one">Преди %d мин</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Желаете ли да изтриете %d задачи?</item>
-        <item quantity="one">Желаете ли да изтриете %d задача?</item>
+        <item quantity="other">Да се прекратят ли %d задачи?</item>
+        <item quantity="one">Да се прекрати ли %d задача?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%1$d изтегляния са премахнати</item>
@@ -47,10 +47,6 @@
     <plurals name="durationDays">
         <item quantity="other">%1$d дни</item>
         <item quantity="one">%1$d ден</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d часа</item>
-        <item quantity="one">%1$d час</item>
     </plurals>
     <plurals name="durationMinutes">
         <item quantity="other">%1$d мин</item>
@@ -92,12 +88,8 @@
         <item quantity="other">Преди %d минути</item>
         <item quantity="one">Преди 1 минута</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="other">%s елемента</item>
-        <item quantity="one">%s елемент</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">Показване на още %1$d</item>
-        <item quantity="one">Показване на още %1$d</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d часа</item>
+        <item quantity="one">%1$d час</item>
     </plurals>
 </resources>

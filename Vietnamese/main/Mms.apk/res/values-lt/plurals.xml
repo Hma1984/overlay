@@ -168,35 +168,17 @@
         <item quantity="few">Prieš %d minutes</item>
         <item quantity="many">Prieš %d minutes</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Atšaukti (%dsek.)</item>
-        <item quantity="one">Atšaukti (%dsek.)</item>
-        <item quantity="few">Atšaukti (%dsek.)</item>
-        <item quantity="many">Atšaukti (%dsek.)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Gavote pakvietimus į %d grupių pokalbius</item>
         <item quantity="one">Gavote pakvietimą į %d grupės pokalbį</item>
         <item quantity="few">Gavote pakvietimus į %d grupių pokalbius</item>
         <item quantity="many">Gavote pakvietimus į %d grupių pokalbius</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s asmenų</item>
-        <item quantity="one">%1$s asmuo</item>
-        <item quantity="few">%1$s asmenys</item>
-        <item quantity="many">%1$s people</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s rezultatų \"%2$s\"</item>
         <item quantity="one">%1$s rezultatas \"%2$s\"</item>
         <item quantity="few">%1$s rezultatai \"%2$s\"</item>
         <item quantity="many">%1$s results for \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d sekundė</item>
-        <item quantity="one">%d sekundė</item>
-        <item quantity="few">%d sekundės</item>
-        <item quantity="many">%d sekundžių</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Išsiųsta %1$s žinučių</item>

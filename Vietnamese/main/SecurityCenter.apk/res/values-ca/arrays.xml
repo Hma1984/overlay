@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_repeat_type">
-        <item>Un cop</item>
+        <item>Una vegada</item>
         <item>Cada dia</item>
         <item>Dies feiners</item>
         <item>Entre setmana</item>
@@ -16,22 +16,56 @@
     <string-array name="app_behavior_type_menu">
         <item>Tots els registres</item>
         <item>Inici automàtic</item>
-        <item>Inici en cadena</item>
-        <item>Fent servir els permisos</item>
+        <item>Inici de la cadena</item>
+        <item>Utilitzant els permisos</item>
         <item>Accions sensibles</item>
+    </string-array>
+    <string-array name="app_initials_label">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>Jo</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>Pàg</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>" #"</item>
     </string-array>
     <string-array name="applock_password_types">
         <item>Patró</item>
         <item>PIN</item>
         <item>Contrasenya</item>
     </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Extra petita</item>
+        <item>Petita</item>
+        <item>Mitjana</item>
+        <item>Gran</item>
+        <item>Extra gran</item>
+        <item>XXL</item>
+    </string-array>
     <string-array name="cache_sort_type">
         <item>Mida</item>
         <item>Nom</item>
-    </string-array>
-    <string-array name="cellular_data_unit">
-        <item>GB</item>
-        <item>MB</item>
     </string-array>
     <string-array name="cellular_package_type">
         <item>Pla mensual</item>
@@ -40,25 +74,25 @@
     </string-array>
     <string-array name="daily_brand">
         <item>Personalitzat</item>
-        <item>Targeta de Xiaomi Fan</item>
-        <item>Targeta de Xiao Tiansheng</item>
-        <item>Targeta de Tencent King</item>
+        <item>Targeta Xiaomi Fan</item>
+        <item>Targeta Xiao Tiansheng</item>
+        <item>Targeta Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Personalitzat</item>
-        <item>Mi Mobile</item>
-        <item>Targeta de Xiaomi Fan</item>
+        <item>Mòbil Mi</item>
+        <item>Targeta Xiaomi Fan</item>
         <item>Targeta Tianshen</item>
         <item>Targeta Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Ahir (dades mòvils) "</item>
-        <item>"Avui (dades mòvils) "</item>
-        <item>"El mes passat (dades mòvils) "</item>
-        <item>"Aquest mes (dades mòvils) "</item>
+        <item>"Ahir (dades mòbils) "</item>
+        <item>"Avui (dades mòbils) "</item>
+        <item>"El mes passat (dades mòbils) "</item>
+        <item>"Aquest mes (dades mòbils) "</item>
         <item>"Ahir (Wi-Fi) "</item>
         <item>"Avui (Wi-Fi) "</item>
-        <item>"El mes passat(Wi-Fi) "</item>
+        <item>"El mes passat (Wi-Fi) "</item>
         <item>"Aquest mes (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
@@ -84,41 +118,21 @@
         <item>"Aquest mes: "</item>
     </string-array>
     <string-array name="debug_open_intercept">
-        <item>Serà possible accedir i editar arxius en el teu dispositiu fent servir un ordinador.</item>
-        <item>Es permetrà instal·lar aplicacions en el teu dispositiu sense el teu permís explícit.</item>
-        <item>Podràs monitorar i gravar remotament els continguts de la teva pantalla.</item>
-        <item>Serà possible accedir a la informació detallada del teu dispositiu.</item>
+        <item>Es podrà accedir i editar fitxers del dispositiu mitjançant un ordinador.</item>
+        <item>Es permetrà instal·lar aplicacions al dispositiu sense el vostre permís explícit.</item>
+        <item>Podreu supervisar i enregistrar el contingut de la pantalla de manera remota.</item>
+        <item>Es podrà accedir a la informació detallada sobre el vostre dispositiu.</item>
     </string-array>
-    <string-array name="exo_controls_playback_speeds">
-        <item>0,25x</item>
-        <item>0,5x</item>
-        <item>0,75x</item>
-        <item>Normal</item>
-        <item>1,25x</item>
-        <item>1,5x</item>
-        <item>2x</item>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Sí</item>
+        <item>No</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
-        <item>La més baixa</item>
+        <item>Més baix</item>
         <item>Baix</item>
         <item>Normal</item>
         <item>Alt</item>
-        <item>La més alta</item>
-    </string-array>
-    <string-array name="gb_voice_change_gender">
-        <item>@string/gb_voice_changer_gender_man</item>
-        <item>@string/gb_voice_changer_gender_female</item>
-    </string-array>
-    <string-array name="input_package_names">
-        <item>com.baidu.input_mi</item>
-        <item>com.iflytek.inputmethod.miui</item>
-        <item>com.sohu.inputmethod.sogou.xiaomi</item>
-    </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
+        <item>Més Alt</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Quan el dispositiu està bloquejat</item>
@@ -126,64 +140,16 @@
         <item>"Quan el dispositiu està bloquejat o un minut després de sortir de l'aplicació"</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Ús de dades mòbils "</item>
-        <item>"Ús del Wi-Fi "</item>
+        <item>"Ús mòbil "</item>
+        <item>"Ús de la Wi-Fi "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
-        <item>Important: és possible que diverses aplicacions del sistema deixin de funcionar correctament.</item>
-        <item>És possible que el disseny de texts, comptes i continguts no es mostrin correctament.</item>
-    </string-array>
-    <string-array name="operate_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-    </string-array>
-    <string-array name="operate_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="operate_memory_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-    </string-array>
-    <string-array name="operate_memory_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>Important: Diverses aplicacions del sistema poden deixar de funcionar correctament.</item>
+        <item>És possible que els dissenys de text, els comptes i el contingut no es mostrin correctament.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>"Mostra l'avís"</item>
         <item>Avisa i desactiva les dades mòbils</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice_new">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
-    </string-array>
-    <string-array name="pc_fast_charge_entry">
-        <item>10%</item>
-        <item>20%</item>
-        <item>30%</item>
-        <item>40%</item>
-        <item>50%</item>
-    </string-array>
-    <string-array name="pc_fast_charge_entry_value">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Per defecte</item>
@@ -194,18 +160,22 @@
         <item>Prioritzant el rendiment</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Llegeix totes les teves notificacions, incloent el contingut dels teus missatges de text i altres elements que poden contenir informació personal.</item>
-        <item>Restringeix els permisos de notificació per a algunes aplicacions</item>
-        <item>Simula la pulsació de notificacions i obre aplicacions</item>
-        <item>Activa i desactiva el Mode no molesteu</item>
+        <item>Llegir totes les notificacions, inclòs el contingut dels vostres missatges de text i altres elements que puguin contenir informació personal</item>
+        <item>Restringir els permisos de notificació per a algunes aplicacions</item>
+        <item>"Simular notificacions d'intervenció i obrir les aplicacions"</item>
+        <item>Activar i desactivar el mode No molestar</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
-        <item>Recull les dades sobre els teus interessos i conducta aprenent quines aplicacions fas servir i amb quina freqüència</item>
-        <item>"Accedeix als ajustaments d'idioma i relacionats amb l'operadora, a més d'altres dades"</item>
+        <item>Recollir les dades sobre els vostres interessos i comportament en aprenent quines aplicacions utilitzeu i amb quina freqüència les utilitzeu</item>
+        <item>Accedir a la configuració del vostre operador i de l’idioma, així com a altres detalls</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Les aplicacions de tercers no verificades poden causar diversos problemes i disminuir l'estabilitat del sistema."</item>
-        <item>Algunes aplicacions de tercers poden contenir malware que posi en perill les teves dades personals.</item>
+        <item>"Les aplicacions de tercers que no es verifiquen poden causar diversos problemes i disminuir l'estabilitat del sistema."</item>
+        <item>Algunes aplicacions de tercers poden contenir programari maliciós que posa en risc les vostres dades personals.</item>
+    </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Omissió</item>
+        <item>Tot</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Emmagatzematge intern</item>
@@ -223,12 +193,12 @@
     <string-array name="sort_title_new">
         <item>"Ordenant pel nom de l'aplicació"</item>
         <item>"Ordenant per l'ús més recent"</item>
-        <item>Ordenant per emmagatzematge utilitzat</item>
-        <item>"Ordenant per data d'instal·lació"</item>
+        <item>Ordenació per emmagatzematge utilitzat</item>
+        <item>"Classificació per temps d'instal·lació"</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>"Nom de l'aplicació"</item>
-        <item>Utilitzat recentment</item>
+        <item>Usat recentment</item>
         <item>Emmagatzematge utilitzat</item>
         <item>"Data d'instal·lació"</item>
     </string-array>
@@ -248,7 +218,7 @@
         <item>Pla de dades il·limitat</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Ús de dades mòbils "</item>
-        <item>"Ús del Wi-Fi "</item>
+        <item>"Ús mòbil "</item>
+        <item>"Ús de la Wi-Fi "</item>
     </string-array>
 </resources>

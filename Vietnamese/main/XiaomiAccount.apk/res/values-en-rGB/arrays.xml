@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_help_center">
+        <item>Help</item>
+        <item>Get Xiaomi Account help and support</item>
+        <item>Mi Account;Account;Xiaomi Account;Account help;Help center;Help centre</item>
+    </string-array>
+</resources>

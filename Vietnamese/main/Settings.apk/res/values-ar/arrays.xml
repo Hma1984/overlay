@@ -34,97 +34,6 @@
         <item>نهاية الأسبوع</item>
         <item>تخصيص</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>ا</item>
-        <item>ب</item>
-        <item>ت</item>
-        <item>د</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ك</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>ه</item>
-        <item>و</item>
-        <item>ي</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>ا</item>
-        <item>ب</item>
-        <item>ت</item>
-        <item>ث</item>
-        <item>ج</item>
-        <item>ح</item>
-        <item>خ</item>
-        <item>د</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ك</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>ه</item>
-        <item>و</item>
-        <item>ي</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>ا</item>
-        <item>ب</item>
-        <item>ت</item>
-        <item>ث</item>
-        <item>ج</item>
-        <item>ح</item>
-        <item>خ</item>
-        <item>د</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ك</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>ه</item>
-        <item>و</item>
-        <item>ي</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>
         <item>‏حجم الرسوم المتحركة ‎.5x</item>
@@ -143,11 +52,6 @@
         <item>بروتوكول مصادقة كلمات المرور</item>
         <item>‏بروتوكول CHAP</item>
         <item>‏بروتوكول مصادقة كلمات المرور أو بروتوكول CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>الموقع</item>
@@ -313,11 +217,6 @@
         <item>نسبة مئوية (بجانب الأيقونة)</item>
         <item>شريط التقدم</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>٠‏٪</item>
-        <item>٥٠٪</item>
-        <item>٪۱۰۰</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>غير محدد</item>
         <item>LTE</item>
@@ -403,20 +302,6 @@
         <item>تحسين سرعة الاتصال جوده الصوت (900ك.بت/ث)</item>
         <item>أفضل جهد (معدل البت التلقائي)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>استخدام اختيار النظام (تلقائي)</item>
-        <item>44.1 كيلو هرتز</item>
-        <item>48.0 كيلو هرتز</item>
-        <item>88.2 كيلو هرتز</item>
-        <item>96.0 كيلو هرتز</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>استخدام اختيار النظام (تلقائي)</item>
-        <item>44.1 كيلو هرتز</item>
-        <item>48.0 كيلو هرتز</item>
-        <item>88.2 كيلو هرتز</item>
-        <item>96.0 كيلو هرتز</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>SBC</item>
@@ -460,27 +345,11 @@
         <item>التشغيل على سماعة الأذن الطبية</item>
         <item>التشغيل على مكبر صوت الهاتف</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
-        <item>avrcp13</item>
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>‏AVRCP 1.6 (تلقائي)</item>
+        <item>‏AVRCP 1.5 (تلقائي)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>غير مفعَّل</item>
-        <item>Unicast</item>
-        <item>‏‫Unicast وBroadcast</item>
-    </string-array>
-    <string-array name="bluetooth_map_version_values">
-        <item>map12</item>
-        <item>map13</item>
-        <item>map14</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>‏MAP 1.2 (تلقائي)</item>
@@ -495,28 +364,16 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bt_hci_snoop_log_entries">
-        <item>غير مفعّل</item>
-        <item>تمّ تفعيل الفلترة</item>
-        <item>مفعّل</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>‏ترك رؤوس ACL فقط</item>
-        <item>‏فلترة حُزم وسائط A2DP</item>
-        <item>‏فلترة قناة بروتوكول RFCOMM</item>
+        <item>اترك عناوين ACL فقط</item>
+        <item>تصفية حزم وسائط A2DP</item>
+        <item>تصفية قناة RFCOMM</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>إيقاف</item>
-        <item>الملء بسلسلة من الأحرف</item>
-        <item>ترك الرأس فقط</item>
-        <item>الإزالة بالكامل</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>سجل مطوّل</item>
-        <item>تصحيح الأخطاء</item>
-        <item>معلومات</item>
-        <item>تحذير</item>
-        <item>خطأ</item>
+        <item>تعطيل</item>
+        <item>املأ بسلسلة من الأحرف</item>
+        <item>اترك فقط عنوان</item>
+        <item>إزالة بالكامل</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>١ ثانية</item>
@@ -548,14 +405,8 @@
         <item>كبير</item>
         <item>كبير جدًا</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>٢٥٪</item>
-        <item>٥٠٪</item>
-        <item>٧٥٪</item>
-        <item>٪۱۰۰</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>تم ضبط الإعداد من جانب التطبيق</item>
+        <item>تم ضبط الإعداد من جانب التطبيق.</item>
         <item>أبيض في أسود</item>
         <item>أسود في أبيض</item>
         <item>أصفر في أسود</item>
@@ -573,10 +424,6 @@
         <item>Cursive</item>
         <item>أحرف استهلالية صغيرة</item>
     </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>‏بطاقة RUIM/شريحة SIM</item>
-        <item>NV</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>الرئيسية فقط</item>
         <item>تلقائي</item>
@@ -587,15 +434,6 @@
         <item>رمز PIN</item>
         <item>كلمة مرور</item>
     </string-array>
-    <array name="click_bottom">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom08</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسَّنة</item>
         <item>الألوان الطبيعية تراها العين</item>
@@ -625,10 +463,6 @@
     <string-array name="connect_mode_entries">
         <item>التوافق</item>
         <item>سرعة عالية</item>
-    </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>داكن</item>
@@ -680,12 +514,6 @@
         <item>يسرع أداء الجهاز</item>
         <item>قد تبطئ أداء الجهاز</item>
     </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>٤.٥ بوصة</item>
         <item>٤.٠ بوصة</item>
@@ -706,24 +534,6 @@
         <item>عدم التحقق مطلقًا</item>
         <item>‏التحقق من محتوى DRM فقط</item>
         <item>التحقق دومًا</item>
-    </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>input_method_selector_show_automatically_title</item>
-        <item>input_method_selector_always_show_title</item>
-        <item>input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>عدم ايقاظ الشاشة</item>
@@ -768,22 +578,6 @@
         <item>بعد ٥ دقائق</item>
         <item>أبداً</item>
     </string-array>
-    <array name="long_press">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>قصيرة</item>
         <item>متوسطة</item>
@@ -822,14 +616,6 @@
         <item>بنفسجي</item>
         <item>أرجواني</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>صغير جداً</item>
-        <item>صغير</item>
-        <item>متوسط</item>
-        <item>كبير</item>
-        <item>كبير جداً</item>
-        <item>ضخم</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP وإصدارات سابقة</item>
         <item>Windows Vista وإصدارات أحدث</item>
@@ -837,8 +623,8 @@
         <item>لينكس</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>msd_pc_system_install_finish_summary_xp</item>
-        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>سيتم فتح وحدة تخزين USB تلقائيا عند وصلة بجهاز الكمبيوتر.</item>
         <item></item>
     </string-array>
@@ -858,16 +644,8 @@
 
 ملاحظة: فقط لـ Ubuntu 8.04!"</item>
     </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>msd_install_retry_reinstall_mac</item>
-        <item>msd_install_retry_connect</item>
-        <item>msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>msd_install_retry_connect</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_xp">
-        <item>msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_connect</item>
         <item>أعد تثبيت Mi PC Suite</item>
     </string-array>
     <string-array name="mvno_type_entries">
@@ -894,10 +672,6 @@
         <item>دائمًا</item>
         <item>إلا إذا كان هناك تطبيق دفع آخر مفتوحًا</item>
     </string-array>
-    <string-array name="nfc_payment_favor_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>رسم بياني</item>
         <item>نسبة مئوية (في الأيقونة)</item>
@@ -911,58 +685,6 @@
     <string-array name="notification_shade_shortcut_entries">
         <item>البحث</item>
         <item>الإعدادات</item>
-    </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>بدون محاكاة</item>
@@ -992,97 +714,6 @@
         <item>تقليل ضوضاء الميكرفون الواحد</item>
         <item>تقليل ضوضاء الميكرفون المزدوج</item>
     </string-array>
-    <array name="power_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_long_press">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick03</item>
-        <item>powerclick02</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>أداء</item>
         <item>متوازن</item>
@@ -1184,16 +815,6 @@
         <item>مشبع</item>
         <item>قياسية</item>
     </string-array>
-    <string-array name="screen_resolution_format">
-        <item>screen_resolution_ultrahigh_format</item>
-        <item>screen_resolution_high_format</item>
-        <item>screen_resolution_normal_format</item>
-    </string-array>
-    <string-array name="screen_resolution_text">
-        <item>2K</item>
-        <item>1080p</item>
-        <item>720p</item>
-    </string-array>
     <string-array name="screen_saturation_title">
         <item>مشرق</item>
         <item>عادي</item>
@@ -1207,49 +828,11 @@
         <item>١٠ دقائق</item>
         <item>أبدا</item>
     </string-array>
-    <string-array name="screen_zoom_level">
-        <item>صغير جداً</item>
-        <item>صغير</item>
-        <item>كبير</item>
-    </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>اسأل</item>
-        <item>عدم السماح مطلقًا</item>
-        <item>السماح دومًا</item>
-    </string-array>
-    <string-array name="select_gpo_version_summaries">
-        <item>متوقف</item>
-        <item>GPO4</item>
-        <item>GPO5</item>
-        <item>GPO6</item>
-    </string-array>
     <string-array name="select_gpo_version_titles">
         <item>متوقف</item>
         <item>GPO4</item>
         <item>GPO5</item>
         <item>GPO6</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>إيقاف</item>
-        <item>٦٤ كيلوبايت</item>
-        <item>٢٥٦ كيلوبايت</item>
-        <item>1 ميغابايت</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>إيقاف</item>
-        <item>٦٤ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>٢٥٦ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>1 ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>٤ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>8 ميغابايت لكل مخزن مؤقت للتسجيل</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>إيقاف</item>
-        <item>٦٤ كيلوبايت</item>
-        <item>٢٥٦ كيلوبايت</item>
-        <item>1 ميغابايت</item>
-        <item>٤ ميغابايت</item>
-        <item>8 ميغابايت</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>إيقاف</item>
@@ -1268,32 +851,12 @@
         <item>رسم منطقة قصاصة غير مستطيلة بالأزرق</item>
         <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>standard</item>
-        <item>total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>دائماً</item>
         <item>٣٠ دقيقة</item>
         <item>١ ساعة</item>
         <item>ساعتين</item>
         <item>٨ ساعات</item>
-    </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
-        <item>المنزل الذكي</item>
-        <item>بدون</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>المنزل الذكي</item>
@@ -1302,10 +865,6 @@
     <string-array name="startup_hips_action">
         <item>السماح</item>
         <item>رفض</item>
-    </string-array>
-    <string-array name="swipe_direction_values">
-        <item>1</item>
-        <item>0</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>أبدًا</item>
@@ -1327,31 +886,6 @@
         <item>وضع توفير الطاقة</item>
         <item>حالة المعالجة</item>
     </string-array>
-    <array name="three_drop">
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop02</item>
-        <item>threedrop03</item>
-        <item>threedrop04</item>
-        <item>threedrop05</item>
-        <item>threedrop06</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-    </array>
     <string-array name="time_format_entries">
         <item>١٢-ساعة ١:٠٠م</item>
         <item>٢٤-ساعة ١٣:٠٠</item>
@@ -1366,11 +900,6 @@
         <item>متوقّف</item>
         <item>اعتيادي</item>
         <item>الأقصى</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"استخدام بيانات الهاتف "</item>
@@ -1395,17 +924,6 @@
         <item>مشبع</item>
         <item>اللون الأصلي</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>60%</item>
-        <item>80%</item>
-        <item>100%</item>
-        <item>150%</item>
-        <item>200%</item>
-        <item>250%</item>
-        <item>300%</item>
-        <item>350%</item>
-        <item>400%</item>
-    </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>بطيء جدا</item>
         <item>بطيء</item>
@@ -1417,6 +935,12 @@
         <item>قياسي</item>
         <item>اللمس</item>
         <item>اللمس مباشرة</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>تحرك يسار</item>
+        <item>تحرك لأسفل</item>
+        <item>تحرك يمين</item>
+        <item>تحرك لأعلى</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>الشحن</item>
@@ -1437,12 +961,6 @@
         <item>من جهات الإتصال المفضلة فقط</item>
         <item>لا شيء</item>
     </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="vpn_proxy_settings">
         <item>بدون خادم وكيل</item>
         <item>يدوي</item>
@@ -1454,10 +972,6 @@
         <item>متصلة</item>
         <item>المهلة</item>
         <item>غير ناجح</item>
-    </string-array>
-    <string-array name="wapi_psk_type">
-        <item>wapi_psk_type_ascii</item>
-        <item>wapi_psk_type_hex</item>
     </string-array>
     <string-array name="wfd_status">
         <item>بدء جلسة…</item>
@@ -1478,18 +992,6 @@
         <item>نسبة مئوية (في الأيقونة)</item>
         <item>نسبة مئوية (بجانب الأيقونة في مركز الإشعارات)</item>
     </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>wifi_ap_choose_2G</item>
-        <item>wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>wifi_ap_ssid_off</item>
-        <item>wifi_ap_ssid_on</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>الجوّال</item>
@@ -1503,10 +1005,6 @@
         <item>الاتصال تلقائيا</item>
         <item>إتصال يدوي</item>
         <item>اسال دائماً</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>إرسال اسم الجهاز إلى الشبكة</item>
-        <item>عدم إرسال اسم الجهاز إلى الشبكة</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>لا</item>
@@ -1536,17 +1034,6 @@
         <item>متوفر</item>
         <item>خارج النطاق</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'‎"</item>
-    </string-array>
     <string-array name="wifi_privacy_entries">
         <item>استخدام MAC عشوائي</item>
         <item>استخدام جهاز MAC</item>
@@ -1555,12 +1042,6 @@
         <item>بلا خادم وكيل</item>
         <item>يدويًا</item>
         <item>إعداد الخادم الوكيل تلقائيًا</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wep</item>
-        <item>wifi_security_psk_generic</item>
-        <item>wifi_security_eap</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>ضعيفة</item>
@@ -1601,12 +1082,6 @@
         <item>تم حظرها</item>
         <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
     </string-array>
-    <string-array name="wifi_ttls_phase2_entries">
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
         <item>جارٍ البحث عن الشبكات…</item>
@@ -1629,5 +1104,137 @@
         <item>‏حجم الرسوم المتحركة 2x</item>
         <item>‏حجم الرسوم المتحركة 5x</item>
         <item>‏حجم الرسوم المتحركة 10x</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>٠‏٪</item>
+        <item>٥٠٪</item>
+        <item>٪۱۰۰</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>٢٥٪</item>
+        <item>٥٠٪</item>
+        <item>٧٥٪</item>
+        <item>٪۱۰۰</item>
+    </string-array>
+    <string-array name="select_gpo_version_summaries">
+        <item>متوقف</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'‎"</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>‏بطاقة RUIM/شريحة SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>صغير جداً</item>
+        <item>صغير</item>
+        <item>متوسط</item>
+        <item>كبير</item>
+        <item>كبير جداً</item>
+        <item>ضخم</item>
+    </string-array>
+    <string-array name="screen_zoom_level">
+        <item>صغير جداً</item>
+        <item>صغير</item>
+        <item>كبير</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
     </string-array>
 </resources>

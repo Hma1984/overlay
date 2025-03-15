@@ -204,14 +204,6 @@
         <item quantity="other">%d μηνύματα</item>
         <item quantity="one">%d μήνυμα</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">Η συνδρομή σας στο Τούρμπο παιχνιδιού θα λήξει σε %d ημέρες.</item>
         <item quantity="one">Η συνδρομή σας στο Τούρμπο παιχνιδιού θα λήξει σε %d ημέρα.</item>
@@ -248,14 +240,6 @@
         <item quantity="other">Συνδεθήκατε%d συνεχόμενες ημέρες</item>
         <item quantity="one">Συνδεθήκατε %d φορά</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d ώρες</item>
-        <item quantity="one">%d ώρα</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d λεπ</item>
-        <item quantity="one">%d λεπ</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Κατανοητό (%dδ)</item>
         <item quantity="one">Κατανοητό (%dδ)</item>
@@ -267,14 +251,6 @@
         <item quantity="one">"Σημείωση:
 ·Τα βελτιωμένα γραφικά δεν θα είναι διαθέσιμα όταν η Εξοικονόμηση μπαταρίας είναι ενεργοποιημένη ή η συσκευή σας υπερθερμαίνεται.
 ·Ο έξυπνος ρυθμός πλαισίου δείχνει τα καλύτερα αποτελέσματα όταν το παιχνίδι σας έχει ρυθμιστεί να εμφανίζει τουλάχιστον %d πλαίσιο ανά δευτερόλεπτο."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Σημείωση:
-· Τα βελτιωμένα γραφικά δεν θα είναι διαθέσιμα όταν η Εξοικονόμηση μπαταρίας είναι ενεργοποιημένη ή η συσκευή σας υπερθερμαίνεται.
-· Ο ενισχυμένος ρυθμός πλαισίου δείχνει τα καλύτερα αποτελέσματα όταν το παιχνίδι σας έχει ρυθμιστεί να εμφανίζει τουλάχιστον %d πλαίσια ανά δευτερόλεπτο."</item>
-        <item quantity="one">"Σημείωση:
-· Τα βελτιωμένα γραφικά δεν θα είναι διαθέσιμα όταν η Εξοικονόμηση μπαταρίας είναι ενεργοποιημένη ή η συσκευή σας υπερθερμαίνεται.
-· Ο ενισχυμένος ρυθμός πλαισίου δείχνει τα καλύτερα αποτελέσματα όταν το παιχνίδι σας έχει ρυθμιστεί να εμφανίζει τουλάχιστον %d πλαίσιο ανά δευτερόλεπτο."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Δοκιμάστε το Voice changer τώρα
@@ -316,10 +292,6 @@
         <item quantity="other">Αυτόματο χαμήλωμα φωτεινότητας οθόνης για εξοικονόμηση ενέργειας μετά από %d λεπτά αδράνειας</item>
         <item quantity="one">Αυτόματο χαμήλωμα φωτεινότητας οθόνης για εξοικονόμηση ενέργειας μετά από %d λεπτό αδράνειας</item>
     </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
@@ -359,10 +331,6 @@
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d κίνδυνοι,</item>
         <item quantity="one">%d κίνδυνος,</item>
-    </plurals>
-    <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans</item>
-        <item quantity="one">%d trojan</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d εφαρμογές</item>
@@ -560,10 +528,6 @@
         <item quantity="other">%2$d εφαρμογές συμπεριλαμβανομένης της %1$s ενδέχεται να είναι κακόβουλες</item>
         <item quantity="one">%2$d εφαρμογή συμπεριλαμβανομένης της %1$s ενδέχεται να είναι κακόβουλες</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d εφαρμογές εξαντλούν υπερβολικά τη μπαταρία</item>
         <item quantity="one">%d εφαρμογή εξαντλεί υπερβολικά τη μπαταρία</item>
@@ -572,14 +536,6 @@
         <item quantity="other">" ώρες"</item>
         <item quantity="one">" ώρα"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" λεπ"</item>
-        <item quantity="one">" λεπ"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-μέρες</item>
-        <item quantity="one">%d-μέρα</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
@@ -587,10 +543,6 @@
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Η μπαταρία της συσκευής σας έχει τελειώσει. Είσοδος σε Κατάσταση αδρανοποίησης σε %1$d δευτερόλεπτα.</item>
         <item quantity="one">Η μπαταρία της συσκευής σας έχει τελειώσει. Είσοδος σε Κατάσταση αδρανοποίησης σε %1$d δευτερόλεπτο.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Χαμηλή μπαταρία. Η συσκευή σας θα μεταβεί σε κατάσταση αδρανοποίησης σε %1$d δευτερόλεπτα. Η απόδοση και η ισχύς του σήματος ενδέχεται να μειωθούν ελαφρώς.</item>
-        <item quantity="one">Χαμηλή μπαταρία. Η συσκευή σας θα μεταβεί σε Κατάσταση αδρανοποίησης σε %1$d δευτερόλεπτο. Η απόδοση και η ισχύς του σήματος ενδέχεται να μειωθούν ελαφρώς.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s ημέρες</item>
@@ -656,21 +608,9 @@
         <item quantity="other">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτερόλεπτα</item>
         <item quantity="one">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτερόλεπτο</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s ώρες</item>
-        <item quantity="one">%s ώρα</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s λεπ</item>
-        <item quantity="one">%s λεπ</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">φορές</item>
         <item quantity="one">φορά</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d φορές</item>
-        <item quantity="one">%d φορά</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d στοιχεία με υψηλή κατανάλωση ενέργειας</item>
@@ -691,10 +631,6 @@
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ώρες "</item>
         <item quantity="one">"%d ώρα "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d λεπτά "</item>
-        <item quantity="one">"%d λεπτό "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Βελτιστοποιήστε τη χρήση της μπαταρίας σε %d σενάρια</item>
@@ -719,14 +655,6 @@
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Μπορείτε να βελτιστοποιήσετε %d αντικείμενα για εξοικονόμηση μπαταρίας</item>
         <item quantity="one">Μπορείτε να βελτιστοποιήσετε %d αντικείμενο για εξοικονόμηση μπαταρίας</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Προσθήκη %d λεπτών</item>
@@ -785,8 +713,8 @@
         <item quantity="one">%d εικόνα εφαρμογής κρύφτηκε</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d εικονίδια εφαρμογών δεν είναι κρυμμένα</item>
-        <item quantity="one">%d εικονίδιο εφαρμογής δεν είναι κρυμμένο</item>
+        <item quantity="other">%d εικόνες εφαρμογής δεν είναι κρυμμένες</item>
+        <item quantity="one">%d εικόνα εφαρμογής δεν είναι κρυμμένη</item>
     </plurals>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s εφαρμογές έχουν μόνιμη πρόσβαση</item>
@@ -912,14 +840,6 @@
         <item quantity="other">Επεξεργασία %1$d αδειών</item>
         <item quantity="one">Επεξεργασία %1$d άδειας</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> θραύσματα</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> θραύσμα</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Διαθέσιμες ενημέρωσεις για %d εφαρμογές.</item>
         <item quantity="one">Διαθέσιμη ενημέρωση για %d εφαρμογή.</item>
@@ -927,10 +847,6 @@
     <plurals name="summary_flow_verify">
         <item quantity="other">Δεν έγινε συγχρονισμός στατιστικών δεδομένων χρήσης παρόχου για %d ημέρες</item>
         <item quantity="one">Δεν έγινε συγχρονισμός στατιστικών δεδομένων χρήσης παρόχου για %d ημέρα</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%dδ)</item>
-        <item quantity="one">(%dδ)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d αντικείμενα ασφαλή</item>
@@ -990,8 +906,36 @@
         <item quantity="other">Επικίνδυνες εφαρμογές: %d</item>
         <item quantity="one">Επικίνδυνη εφαρμογή: %d</item>
     </plurals>
-    <plurals name="white_list_trojan_header">
-        <item quantity="other">Trojans: %d</item>
-        <item quantity="one">Trojan: %d</item>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d λεπ</item>
+        <item quantity="one">%d λεπ</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" λεπ"</item>
+        <item quantity="one">" λεπ"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ώρες</item>
+        <item quantity="one">%s ώρα</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s λεπ</item>
+        <item quantity="one">%s λεπ</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> θραύσματα</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> θραύσμα</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d λεπτά "</item>
+        <item quantity="one">"%d λεπτό "</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dδ)</item>
+        <item quantity="one">(%dδ)</item>
     </plurals>
 </resources>

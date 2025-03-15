@@ -204,14 +204,6 @@ Jos laitat mobiilidatan päälle uudestaan, operaattorisi saattaa veloittaa sinu
         <item quantity="other">%d viestiä</item>
         <item quantity="one">%d viesti</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">Game Turbo -jäsenyytesi vanhenee %d päivän kuluttua.</item>
         <item quantity="one">Game Turbo -jäsenyytesi vanhenee %d päivän kuluttua.</item>
@@ -248,14 +240,6 @@ Jos laitat mobiilidatan päälle uudestaan, operaattorisi saattaa veloittaa sinu
         <item quantity="other">Kirjauduttu %d kertaa peräkkäin</item>
         <item quantity="one">Kirjauduttu %d kerta</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d tuntia</item>
-        <item quantity="one">%d tunti</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Selvä (%ds)</item>
         <item quantity="one">Selvä (%ds)</item>
@@ -267,14 +251,6 @@ Jos laitat mobiilidatan päälle uudestaan, operaattorisi saattaa veloittaa sinu
         <item quantity="one">"Huomautus:
 ·Parannetut grafiikat eivät ole käytettävissä, kun virransäästö on päällä tai laitteesi on ylikuumentunut.
 ·Älykäs kuvataajuus näyttää parhaat tulokset, kun pelisi on asetettu näyttämään vähintään %d kuva sekunnissa."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Huomautus:
-· Parannetut grafiikat eivät ole käytettävissä, kun virransäästö on päällä tai laitteesi on ylikuumentunut.
-· Parannettu kuvataajuus näyttää parhaat tulokset, kun pelisi on asetettu näyttämään vähintään %d kuvaa sekunnissa."</item>
-        <item quantity="one">"Huomautus:
-· Parannetut grafiikat eivät ole käytettävissä, kun virransäästö on päällä tai laitteesi on ylikuumentunut.
-· Parannettu kuvataajuus näyttää parhaat tulokset, kun pelisi on asetettu näyttämään vähintään %d kuva sekunnissa."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Kokeile Äänenvaihtajaa nyt
@@ -315,10 +291,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">Vähennä näytön kirkkautta säästääksesi virtaa %d minuutin käyttämättömyyden jälkeen</item>
         <item quantity="one">Vähennä näytön kirkkautta säästääksesi virtaa %d minuutin käyttämättömyyden jälkeen</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Puoli tuntia sitten</item>
@@ -560,10 +532,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
         <item quantity="other">%2$d sovellusta, mukaan lukien %1$s, saattavat olla haitallisia</item>
         <item quantity="one">%2$d sovellus, mukaan lukien %1$s, saattaa olla haitallinen</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d sovellusta kuluttavat akkua</item>
         <item quantity="one">%d sovellus kuluttaa akkua</item>
@@ -572,14 +540,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
         <item quantity="other">" tuntia"</item>
         <item quantity="one">" tunti"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" minuuttia"</item>
-        <item quantity="one">" minuutti"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d päivän</item>
-        <item quantity="one">%d päivän</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d kohdetta</item>
         <item quantity="one">%d kohde</item>
@@ -587,10 +547,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Laitteesi akku on vähissä. Siirrytään horrostilaan %1$d sekunnin kuluttua.</item>
         <item quantity="one">Laitteesi akku on vähissä. Siirrytään horrostilaan %1$d sekunnin kuluttua.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Akku vähissä. Laitteesi siirtyy horrostilaan %1$d sekunnissa. Suorituskyky ja signaalin voimakkuus voivat heikentyä hieman.</item>
-        <item quantity="one">Akku vähissä. Laitteesi siirtyy horrostilaan %1$d sekunnissa. Suorituskyky ja signaalin voimakkuus voivat heikentyä hieman.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s päivää</item>
@@ -656,21 +612,9 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
         <item quantity="other">Laitteesta katkaistaan virta %d sekunnin kuluttua</item>
         <item quantity="one">Laitteesta katkaistaan virta %d sekunnin kuluttua</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s h</item>
-        <item quantity="one">%s h</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s min</item>
-        <item quantity="one">%s min</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">kertaa</item>
         <item quantity="one">kerran</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d kertaa</item>
-        <item quantity="one">%d kerran</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d suuren virrankulutuksen omaavaa kohdetta</item>
@@ -691,10 +635,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d t "</item>
         <item quantity="one">"%d t "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min "</item>
-        <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Optimoi akun käyttö %d skenaariossa</item>
@@ -719,14 +659,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Voit optimoida %d kohdetta akun säästämiseksi</item>
         <item quantity="one">Voit optimoida %d kohteen akun säästämiseksi</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Lisää %d minuuttia</item>
@@ -912,14 +844,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
         <item quantity="other">Muokataan %1$d lupaa</item>
         <item quantity="one">Muokataan %1$d lupa</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> pirstaletta</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> pirstale</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Gt</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Gt</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Päivityksiä saatavilla %d sovellukselle.</item>
         <item quantity="one">Päivitys saatavilla %d sovellukselle.</item>
@@ -927,10 +851,6 @@ Voit saada %d päivän ilmaiskokeilun nyt!"</item>
     <plurals name="summary_flow_verify">
         <item quantity="other">Operaattorin datan käyttötilastoja ei ole synkronoitu %d päivään</item>
         <item quantity="one">Operaattorin datan käyttötilastoja ei ole synkronoitu %d päivään</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%ds)</item>
-        <item quantity="one">(%ds)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d turvallista kohdetta</item>
@@ -993,5 +913,33 @@ Pidä tauko!"</item>
     <plurals name="white_list_trojan_header">
         <item quantity="other">Troijalaista: %d</item>
         <item quantity="one">Troijalainen: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" minuuttia"</item>
+        <item quantity="one">" minuutti"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> pirstaletta</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> pirstale</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Gt</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Gt</item>
     </plurals>
 </resources>

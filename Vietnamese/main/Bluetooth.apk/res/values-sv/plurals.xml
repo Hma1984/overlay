@@ -64,6 +64,14 @@
         <item quantity="other">%d objekt valda</item>
         <item quantity="one">%d objekt vald</item>
     </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">%1$d lyckades, %2$s</item>
+        <item quantity="one">%1$d lyckades, %2$s</item>
+    </plurals>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d misslyckades.</item>
+        <item quantity="one">%1$d misslyckades.</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuter sedan</item>
         <item quantity="one">1 minut sedan</item>

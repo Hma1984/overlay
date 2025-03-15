@@ -1,134 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>Й</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Щ</item>
-        <item>Ъ</item>
-        <item>Ы</item>
-        <item>Ь</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ё</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>Й</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Щ</item>
-        <item>Ъ</item>
-        <item>Ы</item>
-        <item>Ь</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ё</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>Й</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Щ</item>
-        <item>Ъ</item>
-        <item>Ы</item>
-        <item>Ь</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="aqi_detail_title">
         <item>Хороший</item>
-        <item>Хорошее</item>
-        <item>Умеренное</item>
+        <item>Приемлемый</item>
+        <item>Нездоровый для чувствительных</item>
         <item>Нездоровый</item>
-        <item>Очень вредно</item>
+        <item>Очень нездоровый</item>
         <item>Опасный</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>ИКВ %1$s</item>
@@ -140,12 +18,19 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Хороший</item>
-        <item>Хорошее</item>
-        <item>Умеренное</item>
-        <item>Вредно</item>
-        <item>Очень вредно</item>
-        <item>Опасно</item>
+        <item>Приемлемый</item>
+        <item>Легко загрязненный</item>
+        <item>Нездоровый</item>
+        <item>Очень нездоровый</item>
+        <item>Опасный</item>
         <item>Вне индекса</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;2 баллов</item>
+        <item>&lt;6.0 км/ч</item>
+        <item>&lt;1.7 м/с</item>
+        <item>&lt;3.7 миль/ч</item>
+        <item>&lt;3.2 уз</item>
     </string-array>
     <string-array name="hot_city">
         <item>Пекин</item>
@@ -176,6 +61,15 @@
         <item>Умеренный</item>
         <item>Слабый</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Отличный</item>
+        <item>Хороший</item>
+        <item>Слабо загрязненный</item>
+        <item>Умеренно загрязненный</item>
+        <item>Сильно загрязненный</item>
+        <item>Опасно загрязненный</item>
+        <item>Вне индекса</item>
+    </string-array>
     <string-array name="realtime_humidity_status">
         <item>Сухо</item>
         <item>Комфортно</item>
@@ -183,7 +77,7 @@
     </string-array>
     <string-array name="realtime_pressure_status">
         <item>Высокое</item>
-        <item>Умеренное</item>
+        <item>Нормальное</item>
         <item>Низкое</item>
     </string-array>
     <string-array name="realtime_temperature_status">
@@ -194,42 +88,35 @@
         <item>Жарко</item>
     </string-array>
     <string-array name="realtime_uv_level">
-        <item>Низкий</item>
+        <item>Слабый</item>
         <item>Умеренный</item>
-        <item>Высокий</item>
-        <item>Очень высокий</item>
-        <item>Опасный</item>
-    </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
+        <item>Сильный</item>
+        <item>Очень сильный</item>
+        <item>Значительный</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
         <item>Облачно</item>
         <item>Пасмурно</item>
-        <item>Дымка</item>
-        <item>Очень сильный ливень</item>
+        <item>Туман</item>
         <item>Сильный ливень</item>
         <item>Ливень</item>
+        <item>Ливень</item>
         <item>Гроза</item>
-        <item>Ливни</item>
+        <item>Дождь</item>
         <item>Сильный дождь</item>
         <item>Умеренный дождь</item>
         <item>Небольшой дождь</item>
         <item>Мокрый снег</item>
         <item>Метель</item>
-        <item>Снегопад</item>
+        <item>Снег</item>
         <item>Сильный снег</item>
         <item>Умеренный снег</item>
         <item>Небольшой снег</item>
         <item>Сильная пыльная буря</item>
         <item>Пыльная буря</item>
         <item>Небольшая пыльная буря</item>
-        <item>Пыльная буря</item>
+        <item>Ветрено</item>
         <item>Град</item>
         <item>Пыль</item>
         <item>Смог</item>
@@ -263,11 +150,108 @@
         <item>Мили в час</item>
         <item>Узлы</item>
     </string-array>
+    <string-array name="wind_unit_no_translate">
+        <item>км/ч</item>
+        <item>м/с</item>
+        <item>миль/ч</item>
+        <item>уз</item>
+    </string-array>
     <string-array name="wind_unit_replace">
         <item>Баллы: %1$s</item>
         <item>%1$s км/ч</item>
         <item>%1$s м/с</item>
         <item>%1$s миль/ч</item>
         <item>%1$s уз</item>
+    </string-array>
+    <string-array name="apk_size_byte_unit">
+        <item>%.1f Б</item>
+        <item>%.1f Кб</item>
+        <item>%.1f Мб</item>
+        <item>%.1f Гб</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
     </string-array>
 </resources>

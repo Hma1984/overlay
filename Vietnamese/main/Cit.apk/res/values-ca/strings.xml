@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AudioOnOff">\u0009Àudio Activat/Desactivat</string>
+    <string name="AudioStatus">"\u0009\u0009Estat de l'àudio"</string>
+    <string name="SAROnOff">\u0009SAR Activat/Desactivat</string>
+    <string name="Sensor1_Status">\u0009\u0009Sensor1_Estat</string>
+    <string name="Sensor2_Status">\u0009\u0009Sensor2_Estat</string>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="auto_bottom_left_high_speaker">Tweeter inferior del costat esquerre</string>
+    <string name="auto_bottom_left_low_speaker">Woofer inferior del costat esquerre</string>
+    <string name="auto_bottom_right_low_speaker">Woofer inferior dret</string>
+    <string name="auto_frontflash_description">Si tots els flaixos frontals estan encesos cliqueu positivament; altrament cliqueu error</string>
+    <string name="auto_frontflash_title">Validació del flaix frontal</string>
+    <string name="auto_rearflash_description">Si tots els flaixos posteriors estan encesos cliqueu positivament; altrament cliqueu error</string>
+    <string name="auto_rearflash_title">Validació del flaix posterior</string>
+    <string name="auto_top_left_high_speaker">Tweeter superior esquerre</string>
+    <string name="auto_top_left_low_speaker">Woofer superior esquerre</string>
+    <string name="auto_top_right_low_speaker">Woofer superior dret</string>
+    <string name="aux_mic_check_record_tip">Enregistrant, digueu alguna cosa a AUX MIC a la part inferior del dispositiu</string>
+    <string name="battery_auto_plug_wirelee_summary">"El carregador sense fil s'ha connectat correctament, la prova ha passat"</string>
+    <string name="battery_third_connector">Tensió del connector de la bateria</string>
+    <string name="bottom_speaker_title">"Validació de l'altaveu inferior"</string>
+    <string name="cit_DP_check_summary">"El cable d'USB C a DisplayPort hauria d'estar connectat durant el procés de prova"</string>
+    <string name="cit_DP_in_start_test">"Si us plau, inseriu el cable d'USB C a DisplayPort per començar la prova"</string>
+    <string name="cit_DP_plug_err">"Detecció del canvi de connexió del dispositiu 
+ La lectura del valor del node subjacent ha fallat 
+ No s'ha obtingut cap valor"</string>
+    <string name="cit_DP_plug_fail">"Detecció del canvi de connexió del dispositiu 
+ La lectura del valor del node subjacent ha fallat 
+ Connecteu el cable convertidor d'USB C a DisplayPort per iniciar la prova"</string>
+    <string name="cit_DP_plug_out_fail">"Detecció del canvi de connexió del dispositiu 
+ La lectura del valor del node subjacent ha fallat 
+ Prova errònia
+"</string>
+    <string name="cit_DP_plug_pass">"Detecció del canvi de connexió del dispositiu 
+ Lectura correcta del valor del node subjacent 
+ Comproveu que la pantalla es veu bé i cliqueu el botó corresponent"</string>
+    <string name="cit_USB3_2GEN1_check_summary">Cal inserir dispositius compatibles amb USB 3.2 GEN1 durant les proves</string>
+    <string name="cit_USB3_2_check_summary">"Els dispositius compatibles amb USB3.2 s'han d'inserir durant les proves"</string>
+    <string name="cit_USB3_in_start_test">Inseriu el botó %1$s-dispositius habilitats i comenceu a provar</string>
+    <string name="cit_USB3_plug_fail">El dispositiu de prova no admet %1$s i la prova va suspendre</string>
+    <string name="cit_USB3_plug_out_test_fail">"El dispositiu s'ha retirat, la prova falla
+És possible que l'equip de prova no sigui compatible%1$sEs recomana tornar a provar l'equip de substitució"</string>
+    <string name="cit_USB3_plug_pass">%1$s passi, si us plau, traieu els dispositius</string>
+    <string name="cit_USB3_plug_re_plugin">"%1$s La prova s'ha acabat, si us plau, no repeteixis la prova"</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Mou el dispositiu ràpidament en una direcció. A continuació es mostren els valors de les coordenades X ， Y ， Z. (quan el dispositiu està en moviment: X representa l'esquerra / la dreta, y representa la part davantera / posterior, la z representa cap amunt i cap avall).
+Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</string>
+    <string name="cit_audio_hw_check_summary">"Comprovació del maquinari d'àudio"</string>
+    <string name="cit_audio_hw_check_tips">Prova en procés</string>
+    <string name="cit_audio_hw_check_title">"Comprovació del maquinari d'àudio"</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">"Prova de retroalimentació de l'altaveu del micròfon auxiliar"</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">"Prova de retroalimentació de l'altaveu del micròfon posterior"</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">"Prova de retroalimentació de l'altaveu del micròfon posterior"</string>
+    <string name="cit_audio_lb_check_track_tip">Ara reproduint la gravació, comproveu si hi ha so</string>
+    <string name="cit_audio_lb_mainmic_to_speaker_title">"Prova de retroalimentació de l'altaveu del micròfon principal"</string>
+    <string name="cit_audio_lb_sidebottommic_to_speaker_title">"Prova de retroalimentació de l'altaveu del micròfon inferior lateral"</string>
+    <string name="cit_audio_lb_sidetopmic_to_speaker_title">"Prova de retroalimentació de l'altaveu del micròfon superior lateral"</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Prova de retroalimentació del micròfon auxiliar al receptor.
+
+Agafeu el dispositiu com si estiguéssiu fent una trucada, parleu amb el micròfon auxiliar, haureu de sentir la veu del receptor"</string>
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Prova de retroalimentació del micròfon posterior al receptor.
+
+Agafeu el dispositiu com si estiguéssiu fent una trucada, parleu amb el micròfon posterior, haureu de sentir la veu del receptor"</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Prova de retroalimentació del micròfon posterior a l'altaveu.
+
+Parleu al micròfon posterior, hauríeu de sentir la veu de l'altaveu"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_speaker">"Prova de retroalimentació del micròfon principal a l'altaveu.
+
+Parla amb el micròfon principal, hauries de sentir la veu de l'altaveu"</string>
+    <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Prova de retroalimentació del micròfon inferior lateral a l'altaveu.
+
+Parleu al micròfon lateral inferior, hauríeu de sentir la veu de l'altaveu"</string>
+    <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Prova de retroalimentació del micròfon superior lateral a l'altaveu.
+
+Parleu al micròfon superior lateral, hauríeu de sentir la veu de l'altaveu"</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Prova de comentaris del micròfon superior al receptor.
+
+Agafeu el dispositiu com si estiguéssiu fent una trucada, parleu amb el micròfon superior, haureu de sentir la veu del receptor"</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Prova de comentaris dels altaveus del micròfon superior</string>
+    <string name="cit_btn_security_test_summary">"1.Si us plau, feu clic al botó i espereu una estona, presteu atenció a comprovar l'estat de la xarxa
+2.Si apareix Actualització correcta, vol dir que el certificat widevine s'ha actualitzat correctament.
+3.Si apareix Error d'actualització del certificat, vol dir que el certificat widevine s'ha actualitzat Error.
+4.Aquesta eina no s'utilitza com a prova habitual.
+5. Actualment aquesta eina només funciona amb XiaoMi Pad 6"</string>
+    <string name="cit_btn_security_test_text">Actualització correcta</string>
+    <string name="cit_btn_security_text">Actualització del certificat Widevine</string>
+    <string name="cit_btn_security_text_title">Actualització de certificats de seguretat</string>
+    <string name="cit_camera_check_summary">"Instruccions de prova:
+
+1.Toqueu el botó Càmera de sota per entrar a la interfície de vista prèvia de la càmera
+2.Toqueu el botó de l'obturador
+3.El sistema desarà la foto automàticament després de la captura
+4.La foto que heu fet s'ha de mostrar a la pantalla, toqueu Aprovar per completar la prova."</string>
+    <string name="cit_camera_hardware_check">La detecció de funcions relacionades amb el maquinari de la càmera està en curs, espereu ....</string>
+    <string name="cit_camera_rearsub">Prova de la subcàmera en curs, espereu....</string>
+    <string name="cit_charger_main_ibat">Corrent de la bateria principal</string>
+    <string name="cit_charger_second_ibat">Corrent de la bateria secundària</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Manteniu el dispositiu tancat per al calibratge</string>
+    <string name="cit_digital_hall_sensor_cali_title">Prova de calibratge de la sala digital</string>
+    <string name="cit_digital_hall_sensor_check_title">"Detecció d'obertura i tancament"</string>
+    <string name="cit_display_check_title_N8">Mostra</string>
+    <string name="cit_esim_check_summary">"A continuació es mostra l'estat de l'eSIM i la visualització correcta de l'estat de l'eSIM indica que la prova ha passat"</string>
+    <string name="cit_esim_check_title">targeta eSIM</string>
+    <string name="cit_esim_eid_error">"incompliment de l'eID"</string>
+    <string name="cit_esim_mode_general_summary">Admet la commutació eSIM/SIM2</string>
+    <string name="cit_esim_mode_number">Mode eSIM:</string>
+    <string name="cit_esim_mode_single_summary">No és compatible amb la commutació eSIM/SIM2</string>
+    <string name="cit_esim_serial_number">Targeta eSIM:</string>
+    <string name="cit_esim_state_absent">eSIM no activada</string>
+    <string name="cit_esim_state_ready">eSIM habilitat</string>
+    <string name="cit_flash_timeout_tip">"La prova s'ha esgotat, torneu a introduir la prova flash"</string>
+    <string name="cit_front_sub_camera_check_title_fold">Càmera frontal de subpantalla</string>
+    <string name="cit_front_ultra_camera_check_title">Càmera frontal Ultra</string>
+    <string name="cit_high_accdata_sensor_check_summary">"Els valors de les coordenades X, Y, Z, haurien d'aparèixer a continuació. Si us plau, col·loqueu el telèfon a l'escriptori abans de realitzar la prova."</string>
+    <string name="cit_high_accdata_sensor_check_title">Acceleròmetre alt</string>
+    <string name="cit_high_accdata_sensor_graph_title">"Gràfic d'acceleròmetre alt"</string>
+    <string name="cit_horn_motor_test">Prova del motor de la botzina</string>
+    <string name="cit_lcdlight_title">Prova de contrallum</string>
+    <string name="cit_led_change">Seleccioneu el mode estroboscòpic led</string>
+    <string name="cit_led_negative">negatiu</string>
+    <string name="cit_lpd_test">Prova LPD</string>
+    <string name="cit_modem_hardware_title">Prova de maquinari del mòdem</string>
+    <string name="cit_pixeworks_chip_check_title">Comprovació de xip Pixeworks Iris 7</string>
+    <string name="cit_proximity_sensor_check_second_screen_title">Segon sensor de proximitat</string>
+    <string name="cit_reverse_charge_check_summary">"Connecteu el dispositiu de càrrega inversa via OTG per carregar l'altre dispositiu"</string>
+    <string name="cit_soft_light_check_title">Llum suau</string>
+    <string name="cit_tele_5x_cali">Telecamera PdfOffset Calibració</string>
+    <string name="cit_tele_5x_cali_reset">Restableix</string>
+    <string name="cit_tele_5x_cali_reset_success_toast">"Restablir l'èxit"</string>
+    <string name="cit_tele_5x_cali_success_toast">Èxit de calibratge</string>
+    <string name="cit_tele_5x_cali_tip">"1. Confirmat que el problema és causat pel desenfocament ultra-teleobjectiu;
+2. Feu clic al botó Calibra;
+3. Determineu si el problema de desenfocament de focus ultra-teleobjectiu ha millorat abans i després del calibratge;
+4. Si el problema no millora, feu clic a Restableix botó;"</string>
+    <string name="cit_tool_bluetooth_dbam">Introduïu el mode de prova DBAM de Bluetooth</string>
+    <string name="cit_tool_current_size">Mida actual</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">sol·licita la ubicació</string>
+    <string name="cit_tool_gps_path_loss_title">Eina de prova de Gnss pathloss</string>
+    <string name="cit_tool_wlan_circular_capture">Captura circular</string>
+    <string name="cit_tool_wlan_clear">neteja</string>
+    <string name="cit_tool_wlan_export">Exporta</string>
+    <string name="cit_tool_wlan_rxbe_test">Rx: ser</string>
+    <string name="cit_tool_wlan_sar_test_title">Eina Wifi-SAR</string>
+    <string name="cit_tool_wlan_tx_be">Tx: ser</string>
+    <string name="cit_tool_wlan_tx_be_gI">Interval de guàrdia:</string>
+    <string name="cit_tool_wlan_update_ap_list">Actualitza la llista AP</string>
+    <string name="cit_touch_panel_test_title_N8">Sensor tàctil</string>
+    <string name="cit_tt_cali_bin_check_title">Detecció de contingut del fitxer de calibratge de xip</string>
+    <string name="cit_tt_chip_detection_title">Detecció de xip Tian-tong al lloc</string>
+    <string name="cit_tt_description">"S'estan detectant funcions relacionades amb el xip, no feu servir el telèfon."</string>
+    <string name="cit_tt_rx_check_title">Detecció del camí de recepció del xip RX</string>
+    <string name="cit_tt_tx_check_title">Detecció del camí de transmissió del xip TX</string>
+    <string name="cold_light_title">Llum freda</string>
+    <string name="edittextdisplay">"Benvinguts a l'eina SAR !!!"</string>
+    <string name="edittextdisplayf">"Els permisos s'han reduït !!!"</string>
+    <string name="enrollment_error_tip">"L'estratègia de control de la targeta d'entrada digital està activada, assegureu-vos que les empremtes digitals estiguin clares i netes o sortiu de l'element de prova actual i torneu a iniciar la prova."</string>
+    <string name="headset_plug_check_tip">Inicieu la reproducció, valideu el funcionament dels auriculars i traieu-vos-els quan finalitzeu la prova</string>
+    <string name="main_mic_check_record_tip">Enregistrant, digues alguna cosa a MIC a la part inferior del dispositiu</string>
+    <string name="mic_reopen_tip">Torneu a introduir aquest element de prova per provar-lo</string>
+    <string name="mtb_tool_modem_cdma_manager">Gerent de CDMA Cap</string>
+    <string name="password_enroll_error">"El vostre telèfon té contrasenya, no es pot registrar la informació de l'empremta digital"</string>
+    <string name="radio_info_data_connected">Connectat</string>
+    <string name="radio_info_data_disconnected">Desconnectat</string>
+    <string name="remove_finger">treure el dit de prova</string>
+    <string name="sar_algo_data_check_description">Sar Algo Recollida de Dades</string>
+    <string name="sar_mtk_test_title">"Prova d'autenticació Sar Mtk"</string>
+    <string name="sar_sensor_collect_data_self_cali">Auto calibratge</string>
+    <string name="sar_sensor_collect_test_summary">"Gireu el dispositiu i poseu-lo al dispositiu
+Feu clic al botó Inicia l'adquisició de dades
+Controleu l'aparell a prop i allunyat del dispositiu"</string>
+    <string name="sar_sensor_test_err_angle">El dispositiu no està situat en angle recte</string>
+    <string name="sar_sensor_test_next_step">Control del deflector a prop del dispositiu</string>
+    <string name="sar_sensor_test_summary">"Gireu el dispositiu, poseu-lo al dispositiu
+Feu clic al botó Inicia la calibració
+Després de calibrar l'èxit, controleu l'aparell a prop i allunyat del dispositiu"</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="sidebottom_mic_check_record_tip">Enregistrant, digueu alguna cosa pel MIC de la part inferior del dispositiu</string>
+    <string name="sidetop_mic_check_record_tip">Enregistrant, digueu alguna cosa pel MIC de la part superior del dispositiu</string>
+    <string name="soft_light_title">Llum suau</string>
+    <string name="test_aux_mic">MIC AUXILIAR</string>
+    <string name="test_back_handset">"Prova de l'auricular posterior"</string>
+    <string name="test_first_flash">Primera prova de flaix</string>
+    <string name="test_flash">Prova de flaix</string>
+    <string name="test_front_handset">Prova del telèfon frontal</string>
+    <string name="test_horn_motor_summary">"Sentiràs dos números aleatoris
+Si us plau, fes clic al botó adequat segons el número que escoltes
+Seleccioneu el botó correcte segons les diferents condicions de vibració"</string>
+    <string name="test_integration_speaker">"Prova d'integració d'altaveus"</string>
+    <string name="test_integration_summary">"Els sis altaveus estan passant l'àudio en seqüència. Preste atenció a l'àudio i determina si és anormal, mantenint un estat de pantalla vertical"</string>
+    <string name="test_second_flash">Segona prova de flaix</string>
+    <string name="test_sidebottom_mic">Micròfon inferior</string>
+    <string name="test_sidetop_mic">Micròfon superior</string>
+    <string name="test_sub_front_camera">Càmera frontal de subpantalla</string>
+    <string name="tips_not_placed_right_angle">El dispositiu no està situat en angle recte</string>
+    <string name="top_high_speaker_title">Prova de tweeter superior</string>
+    <string name="top_low_speaker_title">Prova de woofer superior</string>
+    <string name="top_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part superior del dispositiu</string>
+    <string name="top_speaker_title">"Validació de l'altaveu superior"</string>
+    <string name="warm_light_title">Llum càlida</string>
+    <string name="wifi_power_test_testing">Prova de potència Wifi...</string>
+</resources>

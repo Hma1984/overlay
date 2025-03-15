@@ -58,25 +58,19 @@
         <item quantity="other">Trinti %d užduočių?</item>
         <item quantity="one">Trinti %d užduotį?</item>
         <item quantity="few">Trinti %d užduotis?</item>
-        <item quantity="many">Trinti %d užduočių?</item>
+        <item quantity="many">Trinti %d užduoties?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%1$d atsisiuntimų pašalinta</item>
         <item quantity="one">%1$d atsisiuntimas pašalintas</item>
         <item quantity="few">%1$d atsisiuntimai pašalinti</item>
-        <item quantity="many">%1$d atsisiuntimų pašalinta</item>
+        <item quantity="many">%1$d atsisiuntimo pašalinta</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d dienų</item>
         <item quantity="one">%1$d diena</item>
         <item quantity="few">%1$d dienos</item>
-        <item quantity="many">%1$d dienų</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d val.</item>
-        <item quantity="one">%1$d val.</item>
-        <item quantity="few">%1$d val.</item>
-        <item quantity="many">%1$d val.</item>
+        <item quantity="many">%1$d dienos</item>
     </plurals>
     <plurals name="durationMinutes">
         <item quantity="other">%1$d min.</item>
@@ -138,16 +132,10 @@
         <item quantity="few">Prieš %d minutes</item>
         <item quantity="many">Prieš %d minutes</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="other">%s elementai</item>
-        <item quantity="one">%s elementas</item>
-        <item quantity="few">%s elementų</item>
-        <item quantity="many">%s elementai</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">Rodyti dar %1$d</item>
-        <item quantity="one">Rodyti dar %1$d</item>
-        <item quantity="few">Rodyti dar %1$d</item>
-        <item quantity="many">Rodyti dar %1$d</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d val.</item>
+        <item quantity="one">%1$d val.</item>
+        <item quantity="few">%1$d val.</item>
+        <item quantity="many">%1$d val.</item>
     </plurals>
 </resources>

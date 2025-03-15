@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Thủ công</item>
-        <item>Mỗi %d phút</item>
-        <item>Mỗi giờ</item>
-        <item>Mỗi %d giờ</item>
-        <item>Mỗi %d giờ</item>
-    </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Cung Bảo Bình</item>
     </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Cung Bạch Dương</item>
-    </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Cung Cự Giải</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Cung Ma Kết</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Chỉ sự kiện này</item>
@@ -52,30 +37,6 @@
         <item>libra</item>
         <item>Cung Thiên Bình</item>
     </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Không</item>
-        <item>Lịch Âm</item>
-        <item>Lịch Hồi giáo</item>
-        <item>Lịch Do Thái</item>
-        <item>Lịch Nhật Bản</item>
-        <item>Lịch Ba Tư</item>
-        <item>Lịch Ấn Độ</item>
-        <item>Lịch Phật Giáo</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Tháng 1</item>
-        <item>Tháng 2</item>
-        <item>Tháng 3</item>
-        <item>Tháng 4</item>
-        <item>Tháng 5</item>
-        <item>Tháng 6</item>
-        <item>Tháng 7</item>
-        <item>Tháng 8</item>
-        <item>Tháng 9</item>
-        <item>Tháng 10</item>
-        <item>Tháng 11</item>
-        <item>Tháng 12</item>
-    </string-array>
     <string-array name="open_alarm_repeating_labels">
         <item>Chỉ cho lần này</item>
         <item>Đặt nhắc nhở lặp lại</item>
@@ -88,11 +49,6 @@
         <item>Tắt</item>
         <item>Đối với tất cả sự kiện</item>
         <item>Đối với sự kiện nhạy cảm với thời gian</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Luôn luôn</item>
@@ -176,7 +132,7 @@
         <item>Th 5</item>
         <item>Th 6</item>
         <item>Th 7</item>
-        <item>CN</item>
+        <item>Cn</item>
     </string-array>
     <string-array name="repeat_countdown">
         <item>Không bao giờ</item>
@@ -232,12 +188,6 @@
         <item>Có thể</item>
         <item>Không</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Không phản hồi</item>
-        <item>Chấp nhận</item>
-        <item>Quyết định sau</item>
-        <item>Từ chối</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Cung Nhân Mã</item>
@@ -249,6 +199,77 @@
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Cung Kim Ngưu</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Cung Xử Nữ</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>CN</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Trong suốt</item>
+        <item>Nền trắng</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>Cn</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Cung Bạch Dương</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Cung Ma Kết</item>
+    </string-array>
+    <string-array name="account_sync_frequency">
+        <item>Thủ công</item>
+        <item>Mỗi %d phút</item>
+        <item>Mỗi giờ</item>
+        <item>Mỗi %d giờ</item>
+        <item>Mỗi %d giờ</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>Không</item>
+        <item>Lịch Âm</item>
+        <item>Lịch Hồi giáo</item>
+        <item>Lịch Do Thái</item>
+        <item>Lịch Nhật Bản</item>
+        <item>Lịch Ba Tư</item>
+        <item>Lịch Ấn Độ</item>
+        <item>Lịch Phật Giáo</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Không phản hồi</item>
+        <item>Chấp nhận</item>
+        <item>Quyết định sau</item>
+        <item>Từ chối</item>
     </string-array>
     <string-array name="timezone_labels_v3">
         <item>Quần đảo Marshall</item>
@@ -342,31 +363,5 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-    </string-array>
-    <string-array name="virgo_info">
-        <item>virgo</item>
-        <item>Cung Xử Nữ</item>
-    </string-array>
-    <string-array name="week_header_name">
-        <item>CN</item>
-        <item>T2</item>
-        <item>T3</item>
-        <item>T4</item>
-        <item>T5</item>
-        <item>T6</item>
-        <item>T7</item>
-    </string-array>
-    <string-array name="widget_style_list">
-        <item>Trong suốt</item>
-        <item>Nền trắng</item>
-    </string-array>
-    <string-array name="year_view_week_header_name">
-        <item>CN</item>
-        <item>T2</item>
-        <item>T3</item>
-        <item>T4</item>
-        <item>T5</item>
-        <item>T6</item>
-        <item>T7</item>
     </string-array>
 </resources>

@@ -308,24 +308,6 @@ Pakartotinai įjungus mobiliuosius duomenis, jūsų operatorius gali jus papildo
         <item quantity="few">%d žinutės</item>
         <item quantity="many">%d žinučių</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-        <item quantity="few">%1$s:</item>
-        <item quantity="many">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-        <item quantity="few">%1$s</item>
-        <item quantity="many">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-        <item quantity="few">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="many">Your Game Turbo membership will expire in %d days.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">Jūsų Turbo žaidimų narystė nustos galioti už %d dienų. Atnaujinkite ją, kad ir toliau mėgautumėtės žaidimais.</item>
         <item quantity="one">Jūsų Turbo žaidimų narystė nustos galioti už %d dienos. Atnaujinkite ją, kad ir toliau mėgautumėtės žaidimais.</item>
@@ -374,18 +356,6 @@ Pakartotinai įjungus mobiliuosius duomenis, jūsų operatorius gali jus papildo
         <item quantity="few">Įsiregistruota %d kartus</item>
         <item quantity="many">Įsiregistruota %d karto</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d val.</item>
-        <item quantity="one">%d val.</item>
-        <item quantity="few">%d val.</item>
-        <item quantity="many">%d val.</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
-        <item quantity="few">%d min.</item>
-        <item quantity="many">%d min.</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Supratau (%ds)</item>
         <item quantity="one">Supratau (%ds)</item>
@@ -405,20 +375,6 @@ Pakartotinai įjungus mobiliuosius duomenis, jūsų operatorius gali jus papildo
         <item quantity="many">"Pastaba:
 ·Paryškinti vizualiniai efektai neveiks, kai įjungtas energijos taupymas arba įrenginys perkaitęs.
 ·Išmanusis kadrų dažnis rodo geriausius rezultatus, kai jūsų žaidimas nustatytas rodyti mažiausiai %d kadrų per sekundę."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Pastaba:
-·Paryškinti vizualiniai efektai neveiks, kai įjungtas energijos taupymas arba įrenginys perkaitęs.
-·Kadrų dažnio paryškinimas rodo geriausius rezultatus, kai jūsų žaidimas nustatytas rodyti mažiausiai %d kadrus per sekundę."</item>
-        <item quantity="one">"Pastaba:
-·Paryškinti vizualiniai efektai neveiks, kai įjungtas energijos taupymas arba įrenginys perkaitęs.
-·Kadrų dažnio paryškinimas rodo geriausius rezultatus, kai jūsų žaidimas nustatytas rodyti mažiausiai %d kadrą per sekundę."</item>
-        <item quantity="few">"Pastaba:
-·Paryškinti vizualiniai efektai neveiks, kai įjungtas energijos taupymas arba įrenginys perkaitęs.
-·Kadrų dažnio paryškinimas rodo geriausius rezultatus, kai jūsų žaidimas nustatytas rodyti mažiausiai %d kadrus per sekundę."</item>
-        <item quantity="many">"Pastaba:
-·Paryškinti vizualiniai efektai neveiks, kai įjungtas energijos taupymas arba įrenginys perkaitęs.
-·Kadrų dažnio paryškinimas rodo geriausius rezultatus, kai jūsų žaidimas nustatytas rodyti mažiausiai %d kadrų per sekundę."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Išbandykite balso keitimo priemonę dabar
@@ -481,12 +437,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="one">Automatiškai sumažinti ekrano ryškumą siekiant taupyti energiją po %d minutės neaktyvumo</item>
         <item quantity="few">Automatiškai sumažinti ekrano ryškumą siekiant taupyti energiją po %d minučių neaktyvumo</item>
         <item quantity="many">Automatiškai sumažinti ekrano ryškumą siekiant taupyti energiją po %d minučių neaktyvumo</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-        <item quantity="few">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="many">"Congrats! You've unlocked %s Easter eggs."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prieš pusvalandį</item>
@@ -654,13 +604,13 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="other">Sujunkite bent %d taškų</item>
         <item quantity="one">Sujunkite bent %d tašką</item>
         <item quantity="few">Sujunkite bent %d taškus</item>
-        <item quantity="many">Sujunkite bent %d taškų</item>
+        <item quantity="many">Sujunkite bent %d taško</item>
     </plurals>
     <plurals name="lockpattern_recording_intro_header_new">
         <item quantity="other">Sujunkite bent %s taškų</item>
         <item quantity="one">Sujunkite bent %s tašką</item>
         <item quantity="few">Sujunkite bent %s taškus</item>
-        <item quantity="many">Sujunkite bent %s taškų</item>
+        <item quantity="many">Sujunkite bent %s taškus</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Palaukite %d sekundžių ir pabandykite dar kartą. "</item>
@@ -828,7 +778,7 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="other">Įveskite bent %d skaitmenų</item>
         <item quantity="one">Įveskite bent %d skaitmenį</item>
         <item quantity="few">Įveskite bent %d skaitmenis</item>
-        <item quantity="many">Įveskite bent %d skaitmenų</item>
+        <item quantity="many">Įveskite bent %d skaitmens</item>
     </plurals>
     <plurals name="om_locked_apps_title">
         <item quantity="other">%d užrakintų programų</item>
@@ -848,12 +798,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="few">%2$d programėlės, įskaitant %1$s, gali būti kenksmingos</item>
         <item quantity="many">%2$d programėlės, įskaitant %1$s, gali būti kenksmingos</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="few">+%d</item>
-        <item quantity="many">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d programų sekina akumuliatorių</item>
         <item quantity="one">%d programa sekina akumuliatorių</item>
@@ -866,18 +810,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="few">" val."</item>
         <item quantity="many">" val."</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
-        <item quantity="few">" min."</item>
-        <item quantity="many">" min."</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d dienos</item>
-        <item quantity="one">%d diena</item>
-        <item quantity="few">%d dienos</item>
-        <item quantity="many">%d dienų</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elementų</item>
         <item quantity="one">%d elementas</item>
@@ -889,12 +821,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="one">Jūsų įrenginio akumuliatorius išseko. Pereinama į užmigdymo režimą po %1$d sek.</item>
         <item quantity="few">Jūsų įrenginio akumuliatorius išseko. Pereinama į užmigdymo režimą po %1$d sek.</item>
         <item quantity="many">Jūsų įrenginio akumuliatorius išseko. Pereinama į užmigdymo režimą po %1$d sek.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Senka baterija. Įrenginys persijungs į užmigdymo režimą po %1$d sekundžių. Sparta ir signalo stiprumas gali šiek tiek sumažėti.</item>
-        <item quantity="one">Senka baterija. Įrenginys persijungs į užmigdymo režimą po %1$d sekundės. Sparta ir signalo stiprumas gali šiek tiek sumažėti.</item>
-        <item quantity="few">Senka baterija. Įrenginys persijungs į užmigdymo režimą po %1$d sekundžių. Sparta ir signalo stiprumas gali šiek tiek sumažėti.</item>
-        <item quantity="many">Senka baterija. Įrenginys persijungs į užmigdymo režimą po %1$d sekundžių. Sparta ir signalo stiprumas gali šiek tiek sumažėti.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dienų</item>
@@ -992,29 +918,11 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="few">Jūsų įrenginys bus išjungtas po %d sek.</item>
         <item quantity="many">Jūsų įrenginys bus išjungtas po %d sek.</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s val.</item>
-        <item quantity="one">%s val.</item>
-        <item quantity="few">%s val.</item>
-        <item quantity="many">%s val.</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s min.</item>
-        <item quantity="one">%s min.</item>
-        <item quantity="few">%s min.</item>
-        <item quantity="many">%s min.</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">kartų</item>
         <item quantity="one">kartą</item>
         <item quantity="few">kartus</item>
         <item quantity="many">kartus</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d kartų</item>
-        <item quantity="one">%d kartą</item>
-        <item quantity="few">%d kartus</item>
-        <item quantity="many">%d kartų</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d elementai su didelėmis energijos sąnaudomis</item>
@@ -1045,12 +953,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="one">"%d val. "</item>
         <item quantity="few">"%d val. "</item>
         <item quantity="many">"%d val. "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min. "</item>
-        <item quantity="one">"%d min. "</item>
-        <item quantity="few">"%d min. "</item>
-        <item quantity="many">"%d minutė "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Optimizuokite akumuliatoriaus naudojimą %d scenarijų</item>
@@ -1087,18 +989,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="one">Galite optimizuoti %d elementą, kad būtų taupoma akumuliatoriaus energija</item>
         <item quantity="few">Galite optimizuoti %d elementus, kad būtų taupoma akumuliatoriaus energija</item>
         <item quantity="many">Galite optimizuoti %d elementus, kad būtų taupoma akumuliatoriaus energija</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-        <item quantity="few">%d ℃</item>
-        <item quantity="many">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
-        <item quantity="few">%d mAh</item>
-        <item quantity="many">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Pridėti %d minučių</item>
@@ -1299,10 +1189,10 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="many">Optimizuota %d elementų su didelėmis energijos sąnaudomis</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Gamyklinis duomenų atstatymas (%ds)</item>
-        <item quantity="one">Gamyklinis duomenų atstatymas (%ds)</item>
-        <item quantity="few">Gamyklinis duomenų atstatymas (%ds)</item>
-        <item quantity="many">Gamyklinis duomenų atstatymas (%ds)</item>
+        <item quantity="other">Gamyklinis atstatymas (%ds)</item>
+        <item quantity="one">Gamyklinis atstatymas (%ds)</item>
+        <item quantity="few">Gamyklinis atstatymas (%ds)</item>
+        <item quantity="many">Gamyklinis atstatymas (%ds)</item>
     </plurals>
     <plurals name="result_sign_header">
         <item quantity="other">Rasta %d neoficialių programų</item>
@@ -1376,18 +1266,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="few">Redaguojama leidimų: %1$d</item>
         <item quantity="many">Redaguojama leidimų: %1$d</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentų</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentas</item>
-        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentai</item>
-        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentų</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="few">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="many">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Galima atnaujinti %d programų.</item>
         <item quantity="one">Galima atnaujinti %d programą.</item>
@@ -1399,12 +1277,6 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="one">Tiekėjo duomenų vartojimo ataskaita nesinchronizuota %d dieną</item>
         <item quantity="few">Tiekėjo duomenų vartojimo ataskaita nesinchronizuota %d dienas</item>
         <item quantity="many">Nesinchronizavote tiekėjo duomenų naudojimo apskaitos jau %d dienas</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%dsek.)</item>
-        <item quantity="one">(%dsek.)</item>
-        <item quantity="few">(%dsek.)</item>
-        <item quantity="many">(%dsek.)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elementų saugūs</item>
@@ -1446,7 +1318,7 @@ Išbandykite nemokamą %d-ių dienų bandomąją versiją!"</item>
         <item quantity="other">Sujunkite bent %s taškų</item>
         <item quantity="one">Sujunkite bent %s tašką</item>
         <item quantity="few">Sujunkite bent %s taškus</item>
-        <item quantity="many">Sujunkite bent %s taškų</item>
+        <item quantity="many">Sujunkite bent %s taškus</item>
     </plurals>
     <plurals name="unlock_set_unlock_pin_summary_new">
         <item quantity="other">Įveskite %s skaitmenų</item>
@@ -1499,5 +1371,53 @@ Pailsėkite!"</item>
         <item quantity="one">Trojos arkliai: %d</item>
         <item quantity="few">Trojos arkliai: %d</item>
         <item quantity="many">Trojos arkliai: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+        <item quantity="few">" min."</item>
+        <item quantity="many">" min."</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s val.</item>
+        <item quantity="one">%s val.</item>
+        <item quantity="few">%s val.</item>
+        <item quantity="many">%s val.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+        <item quantity="few">%s min.</item>
+        <item quantity="many">%s min.</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentų</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentas</item>
+        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentai</item>
+        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentų</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min. "</item>
+        <item quantity="one">"%d min. "</item>
+        <item quantity="few">"%d min. "</item>
+        <item quantity="many">"%d minutė "</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dsek.)</item>
+        <item quantity="one">(%dsek.)</item>
+        <item quantity="few">(%dsek.)</item>
+        <item quantity="many">(%dsek.)</item>
     </plurals>
 </resources>

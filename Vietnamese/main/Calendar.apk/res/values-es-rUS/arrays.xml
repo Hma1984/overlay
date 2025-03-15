@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Manual</item>
-        <item>Cada %d minutos</item>
-        <item>Cada hora</item>
-        <item>Cada %d horas</item>
-        <item>Cada %d horas</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Ninguno</item>
+        <item>Calendario islámico</item>
+        <item>Calendario nacional de la India</item>
+        <item>Calendario de Vikram</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Acuario</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Aries</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Cáncer</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Capricornio</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Solo este evento</item>
         <item>Todos los eventos de la serie</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Solo por esta vez</item>
-        <item>Desactivar recordatorio recurrente</item>
+        <item>Apagar una vez</item>
+        <item>Siempre apagado</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Hacia adelante</item>
         <item>Hacia atrás</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>A la hora del evento</item>
+        <item>5 minutos antes</item>
+        <item>15 minutos antes</item>
+        <item>30 minutos antes</item>
+        <item>1 hora antes</item>
+        <item>4 horas antes</item>
+        <item>1 día antes</item>
+        <item>2 días antes</item>
+        <item>1 semana antes</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Solo este evento</item>
@@ -43,56 +47,30 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Géminis</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>leo</item>
-        <item>Leo</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>libra</item>
-        <item>Libra</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Ninguno</item>
-        <item>Calendario chino tradicional</item>
-        <item>Calendario islámico</item>
-        <item>Calendario hebreo</item>
-        <item>Calendario japonés</item>
-        <item>Calendario persa</item>
-        <item>Calendario indio</item>
-        <item>Calendario budista</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Enero</item>
-        <item>Febrero</item>
-        <item>Marzo</item>
-        <item>Abril</item>
-        <item>Mayo</item>
-        <item>Junio</item>
-        <item>Julio</item>
-        <item>Agosto</item>
-        <item>Septiembre</item>
-        <item>Octubre</item>
-        <item>Noviembre</item>
-        <item>Diciembre</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Solo por esta vez</item>
-        <item>Establecer recordatorio recurrente</item>
+        <item>Activar una vez</item>
+        <item>Siempre encendido</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Piscis</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
-        <item>Desactivado</item>
+        <item>Apagado</item>
         <item>Para todos los eventos</item>
         <item>Para eventos sensibles al tiempo</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Siempre</item>
@@ -232,25 +210,22 @@
         <item>Tal vez</item>
         <item>No</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>No responder</item>
-        <item>Aceptar</item>
-        <item>Decidir más tarde</item>
-        <item>Rechazar</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Sagitario</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Escorpión</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Tauro</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Islas Marshall</item>
         <item>Islas Midway</item>
         <item>Hawái</item>
@@ -259,13 +234,13 @@
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>Hora de la Montaña</item>
+        <item>Tiempo de la montaña</item>
         <item>Centroamérica</item>
-        <item>Hora Central</item>
+        <item>Tiempo del centro</item>
         <item>Ciudad de México</item>
         <item>Saskátchewan</item>
         <item>Bogotá</item>
-        <item>Hora del Este</item>
+        <item>Hora del este</item>
         <item>Venezuela</item>
         <item>Hora del Atlántico (Barbados)</item>
         <item>Hora del Atlántico (Canadá)</item>
@@ -276,23 +251,20 @@
         <item>Buenos Aires</item>
         <item>Groenlandia</item>
         <item>Montevideo</item>
-        <item>Atlántico Medio</item>
+        <item>Atlántico medio</item>
         <item>Azores</item>
         <item>Cabo Verde</item>
         <item>Casablanca</item>
-        <item>Londres</item>
-        <item>Dublín</item>
-        <item>Ámsterdam</item>
-        <item>Berlín</item>
+        <item>Londres, Dublín</item>
+        <item>Ámsterdam, Berlín</item>
         <item>Belgrado</item>
         <item>Bruselas</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
         <item>Tiempo de África Occidental</item>
-        <item>Amán</item>
-        <item>Atenas</item>
-        <item>Estambul</item>
-        <item>Beirut</item>
+        <item>Amán, Jordania</item>
+        <item>Atenas, Estambul</item>
+        <item>Beirut, Líbano</item>
         <item>El Cairo</item>
         <item>Helsinki</item>
         <item>Jerusalén</item>
@@ -307,9 +279,9 @@
         <item>Tiflis</item>
         <item>Ereván</item>
         <item>Dubái</item>
-        <item>Kabúl</item>
-        <item>Karachi</item>
-        <item>Uralsk</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Oral</item>
         <item>Ekaterimburgo</item>
         <item>Calcuta</item>
         <item>Sri Lanka</item>
@@ -319,7 +291,6 @@
         <item>Krasnoyarsk</item>
         <item>Bangkok</item>
         <item>Pekín</item>
-        <item>Chongqing</item>
         <item>Hong Kong</item>
         <item>Macao</item>
         <item>Singapur</item>
@@ -328,14 +299,13 @@
         <item>Perth</item>
         <item>Taipéi</item>
         <item>Seúl</item>
-        <item>Tokio</item>
+        <item>Tokio, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaida</item>
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sídney</item>
-        <item>Canberra</item>
+        <item>Sídney, Camberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadán</item>
@@ -343,9 +313,33 @@
         <item>Fiyi</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="virgo_info">
-        <item>virgo</item>
-        <item>Virgo</item>
+    <string-array name="weather_forecasts">
+        <item>Despejado</item>
+        <item>Nublado</item>
+        <item>Muy nublado</item>
+        <item>Niebla</item>
+        <item>Tormenta intensa</item>
+        <item>Tormenta</item>
+        <item>Tormenta de arena ligera</item>
+        <item>Tormenta eléctrica</item>
+        <item>Chubascos</item>
+        <item>Lluvia intensa</item>
+        <item>Lluvia</item>
+        <item>Llovizna</item>
+        <item>Lluvia y nieve</item>
+        <item>Ventisca</item>
+        <item>Chubascos de nieve</item>
+        <item>Nieve intensa</item>
+        <item>Nieve</item>
+        <item>Nieve ligera</item>
+        <item>Tormenta de arena intensa</item>
+        <item>Tormenta de arena</item>
+        <item>Polvo</item>
+        <item>Tormenta de arena ligera</item>
+        <item>Granizo</item>
+        <item>Polvo</item>
+        <item>Bruma</item>
+        <item>Lluvia helada</item>
     </string-array>
     <string-array name="week_header_name">
         <item>DOM</item>
@@ -368,5 +362,10 @@
         <item>J</item>
         <item>V</item>
         <item>S</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Capricornio</item>
+        <item>22/12 - 19/1</item>
     </string-array>
 </resources>

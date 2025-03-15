@@ -8,30 +8,6 @@
         <item>심각</item>
         <item>위험</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-    </string-array>
     <string-array name="aqi_value">
         <item>좋음</item>
         <item>양호</item>
@@ -94,13 +70,6 @@
         <item>매우 강함</item>
         <item>심각함</item>
     </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
-    </string-array>
     <string-array name="weather_type">
         <item>맑음</item>
         <item>흐림</item>
@@ -139,16 +108,6 @@
         <item>남서</item>
         <item>서</item>
         <item>북서</item>
-    </string-array>
-    <string-array name="wind_direction_simple">
-        <item>N</item>
-        <item>NE</item>
-        <item>E</item>
-        <item>SE</item>
-        <item>S</item>
-        <item>SW</item>
-        <item>W</item>
-        <item>NW</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>보퍼트 풍력 계급</item>

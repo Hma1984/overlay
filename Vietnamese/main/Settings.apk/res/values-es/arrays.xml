@@ -2,24 +2,33 @@
 <resources>
     <string-array name="accessibility_button_gesture_selector_titles">
         <item>Botón</item>
-        <item>Gesto</item>
+        <item>Gestos</item>
     </string-array>
     <string-array name="accessibility_button_location_selector_titles">
-        <item>Flotando sobre otras aplicaciones</item>
+        <item>Mostrar sobre otras aplicaciones</item>
         <item>Barra de navegación</item>
     </string-array>
     <string-array name="accessibility_button_size_selector_titles">
         <item>Pequeño</item>
         <item>Grande</item>
     </string-array>
+    <string-array name="agps_network_entries">
+        <item>Red doméstica</item>
+        <item>Todas las redes</item>
+    </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>CALIENTE</item>
+        <item>TEMPLADO</item>
+        <item>FRÍO</item>
+    </string-array>
     <string-array name="ai_key_item_name">
-        <item>Hablar con el Asistente de Google</item>
+        <item>Habla con el Asistente de Google</item>
         <item>Abrir búsqueda en Google</item>
         <item>Abrir la cámara trasera</item>
         <item>Abrir la cámara frontal</item>
-        <item>Abrir la aplicación previa</item>
+        <item>Abrir aplicación anterior</item>
         <item>Activar la linterna</item>
-        <item>Activar el Modo lectura</item>
+        <item>Activar el modo Lectura</item>
         <item>Ninguno</item>
     </string-array>
     <string-array name="alarm_repeat_type">
@@ -36,9 +45,9 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animación desactivada</item>
-        <item>Escala de animación 0,5x</item>
+        <item>Escala de animación .5x</item>
         <item>Escala de animación 1x</item>
-        <item>Escala de animación 1,5x</item>
+        <item>Escala de animación 1.5x</item>
         <item>Escala de animación 2x</item>
         <item>Escala de animación 5x</item>
         <item>Escala de animación 10x</item>
@@ -52,11 +61,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP o CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Ubicación</item>
@@ -82,9 +86,9 @@
         <item>Enviar SMS/MMS</item>
         <item>Leer SMS/MMS</item>
         <item>Escribir SMS/MMS</item>
-        <item>Modificar la configuración</item>
+        <item>Modificar ajustes</item>
         <item>Dibujar en parte superior</item>
-        <item>Acceder a las notificaciones</item>
+        <item>Acceso a notificaciones</item>
         <item>Cámara</item>
         <item>Grabar audio</item>
         <item>Reproducir audio</item>
@@ -96,8 +100,8 @@
         <item>Volumen de la voz</item>
         <item>Volumen del tono</item>
         <item>Volumen de multimedia</item>
-        <item>Volumen de alarmas</item>
-        <item>Volumen de notificaciones</item>
+        <item>Volumen de alarma</item>
+        <item>Volumen de notificación</item>
         <item>Volumen de Bluetooth</item>
         <item>Mantener activo</item>
         <item>Ubicación</item>
@@ -109,12 +113,12 @@
         <item>Activar VPN</item>
         <item>Editar fondo de pantalla</item>
         <item>Proporcionar asistencia a estructura</item>
-        <item>Proporcionar asistencia a captura de pantalla</item>
+        <item>Asistente de captura de pantalla</item>
         <item>Leer el estado del teléfono</item>
         <item>Añadir buzón de voz</item>
         <item>Utilizar SIP</item>
         <item>Procesar llamada saliente</item>
-        <item>Huella digital</item>
+        <item>Huella dactilar</item>
         <item>Sensores corporales</item>
         <item>Leer difusiones móviles</item>
         <item>Ubicación simulada</item>
@@ -130,7 +134,7 @@
         <item>ubicación precisa</item>
         <item>GPS</item>
         <item>vibrar</item>
-        <item>consultar contactos</item>
+        <item>leer contactos</item>
         <item>modificar los contactos</item>
         <item>leer el registro de llamadas</item>
         <item>modificar el registro de llamadas</item>
@@ -145,11 +149,11 @@
         <item>recibir SMS</item>
         <item>recibir SMS de emergencia</item>
         <item>recibir MMS</item>
-        <item>recibir WAP Push</item>
+        <item>recibir WAP</item>
         <item>enviar SMS</item>
         <item>leer SMS ICC</item>
         <item>escribir SMS ICC</item>
-        <item>modificar la configuración</item>
+        <item>Modificar ajustes</item>
         <item>dibujar en parte superior</item>
         <item>acceder a las notificaciones</item>
         <item>cámara</item>
@@ -163,12 +167,12 @@
         <item>volumen de la voz</item>
         <item>volumen del tono</item>
         <item>volumen de multimedia</item>
-        <item>volumen de alarmas</item>
+        <item>volumen de alarma</item>
         <item>volumen de las notificaciones</item>
         <item>volumen de Bluetooth</item>
         <item>mantener activo</item>
         <item>controlar ubicación</item>
-        <item>supervisar ubicación de alta potencia</item>
+        <item>supervisar ubicación precisa</item>
         <item>obtener estadísticas de uso</item>
         <item>silenciar/activar micrófono</item>
         <item>mostrar notificación emergente</item>
@@ -176,12 +180,12 @@
         <item>activar VPN</item>
         <item>editar fondo de pantalla</item>
         <item>proporcionar asistencia a estructura</item>
-        <item>proporcionar asistencia a captura de pantalla</item>
+        <item>ayuda para captura de pantalla</item>
         <item>leer el estado del teléfono</item>
         <item>añadir buzón de voz</item>
         <item>utilizar SIP</item>
         <item>procesar llamada saliente</item>
-        <item>huella digital</item>
+        <item>Huella dactilar</item>
         <item>sensores corporales</item>
         <item>leer difusiones móviles</item>
         <item>ubicación simulada</item>
@@ -193,8 +197,8 @@
         <item>volumen de accesibilidad</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Límite estándar</item>
-        <item>Sin procesos en segundo plano</item>
+        <item>Predeterminado</item>
+        <item>Ningún proceso</item>
         <item>Máximo 1 proceso</item>
         <item>Máximo 2 procesos</item>
         <item>Máximo 3 procesos</item>
@@ -206,14 +210,14 @@
         <item>Detallado</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
-        <item>De más de 30 días de antigüedad</item>
-        <item>De más de 60 días de antigüedad</item>
-        <item>De más de 90 días de antigüedad</item>
+        <item>Más de 30 días</item>
+        <item>Más de 60 días</item>
+        <item>Más de 90 días</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
         <item>Porcentaje (en el icono)</item>
-        <item>Porcentaje (al lado del icono)</item>
+        <item>Porcentaje (junto al icono)</item>
         <item>Barra superior</item>
     </string-array>
     <string-array name="battery_indicator_style_summaries">
@@ -221,11 +225,6 @@
         <item>Porcentaje (en el icono)</item>
         <item>Porcentaje (al lado del icono)</item>
         <item>Barra de progreso</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0 %</item>
-        <item>50 %</item>
-        <item>100 %</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>No especificado</item>
@@ -247,39 +246,39 @@
         <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
-        <item>Modo alta calidad (Por defecto)</item>
+        <item>El modo de calidad usado por aptX Adaptative</item>
         <item>Modo baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
-        <item>Modo alta calidad (Por defecto)</item>
+        <item>Modo alta calidad</item>
         <item>Modo baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar preferencia del sistema (predeterminado)</item>
-        <item>16 bits por muestra</item>
-        <item>24 bits por muestra</item>
-        <item>32 bits por muestra</item>
+        <item>Usar selección de sistema (predeterminado)</item>
+        <item>16 bits/muestra</item>
+        <item>24 bits/muestra</item>
+        <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usar preferencia del sistema (predeterminado)</item>
-        <item>16 bits por muestra</item>
-        <item>24 bits por muestra</item>
-        <item>32 bits por muestra</item>
+        <item>Usar selección de sistema (predeterminado)</item>
+        <item>16 bits/muestra</item>
+        <item>24 bits/muestra</item>
+        <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usar preferencia del sistema (predeterminado)</item>
+        <item>Canal de sonido usado en la reproducción</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usar preferencia del sistema (predeterminado)</item>
+        <item>Predeterminado del sistema</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Se ha optimizado para la calidad del audio</item>
-        <item>Equilibrar la calidad del audio y la de la conexión</item>
-        <item>Se ha optimizado para la calidad de la conexión</item>
+        <item>Optimizado para calidad de audio</item>
+        <item>Audio y calidad de conexión balanceados</item>
+        <item>Optimizado para calidad de conexión</item>
         <item>Mejor esfuerzo (tasa de bits flexible)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
@@ -299,41 +298,43 @@
         <item>Latencia alta (300-500ms)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Optimizado para latencia baja</item>
+        <item>Optmizado para latencia baja</item>
         <item>Optimizado para calidad de conexión</item>
         <item>Audio y calidad de conexión balanceados</item>
         <item>Optimizado para calidad de audio</item>
-        <item>Mejor esfuerzo (Bit rate automático)</item>
+        <item>Códec de audio de alta resolución y baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optimizado para latencia baja (256kbps)</item>
+        <item>Optmizado para latencia baja (256kbps)</item>
         <item>Optimizado para calidad de conexión (400kbps)</item>
         <item>Audio y calidad de conexión balanceados (500/560kbps)</item>
         <item>Optimizado para calidad de audio (900kbps)</item>
-        <item>Mejor esfuerzo (Bit rate automático)</item>
+        <item>Mejor esfuerzo (Tasa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usar preferencia del sistema (predeterminado)</item>
-        <item>44,1 kHz</item>
-        <item>48 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96 kHz</item>
+        <item>Usar preferencia del sistema (por defecto)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usar preferencia del sistema (predeterminado)</item>
-        <item>44,1 kHz</item>
-        <item>48 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96 kHz</item>
+        <item>Usar preferencia del sistema (por defecto)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Usar preferencia de sistema (Por defecto)</item>
+        <item>Codec de sonido usado en la reproducción</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Audio aptX™ Adaptive de Qualcomm®</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
@@ -343,7 +344,7 @@
         <item>Deshabilitar códecs opcionales</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Usar preferencia del sistema (Por defecto)</item>
+        <item>Predeterminado del sistema</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -369,35 +370,24 @@
         <item>Reproducir en el audífono</item>
         <item>Reproducir en el altavoz del teléfono</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
-        <item>avrcp13</item>
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6 (predeterminado)</item>
-        <item>AVRCP 1.3</item>
-        <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4 (Por defecto)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
     </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>Disabled</item>
-        <item>Unicast</item>
-        <item>Unicast and Broadcast</item>
-    </string-array>
-    <string-array name="bluetooth_map_version_values">
-        <item>map12</item>
-        <item>map13</item>
-        <item>map14</item>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Sin cifrar (sin seguridad)</item>
+        <item>Pin de 4 dígitos (baja seguridad)</item>
+        <item>Pin de 16 dígitos (alta seguridad)</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (predeterminado)</item>
-        <item>MAP 1.3</item>
-        <item>MAP 1.4</item>
+        <item>MAP 1.2 (Por defecto)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Usar opción predeterminada del sistema: %1$d</item>
+        <item>Predeterminada del sistema: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -405,27 +395,23 @@
         <item>5</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Inhabilitado</item>
-        <item>Habilitado con filtros</item>
+        <item>Deshabilitado</item>
+        <item>Filtrado</item>
         <item>Habilitado</item>
+        <item>Encabezados filtrados habilitados</item>
+        <item>Activar Pkts multimedia filtrados</item>
+        <item>Perfiles habilitados filtrados</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Dejar solo los encabezados de LCA</item>
+        <item>Dejar solo los encabezados ACL</item>
         <item>Filtrar paquetes multimedia A2DP</item>
         <item>Filtrar canal RFCOMM</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>Inhabilitar</item>
+        <item>Deshabilitar</item>
         <item>Rellenar con cadena de caracteres</item>
         <item>Dejar solo el encabezado</item>
-        <item>Quitar por completo</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>Detallado</item>
-        <item>Depuración</item>
-        <item>Información</item>
-        <item>Advertencia</item>
-        <item>Error</item>
+        <item>Eliminar totalmente</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -446,22 +432,16 @@
     <string-array name="captioning_font_size_selector_summaries">
         <item>Tamaño de texto muy pequeño</item>
         <item>Tamaño de texto pequeño</item>
-        <item>Tamaño de texto por defecto</item>
+        <item>Tamaño de texto predeterminado</item>
         <item>Tamaño de texto grande</item>
         <item>Tamaño de texto muy grande</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Muy pequeño</item>
-        <item>Pequeño</item>
+        <item>Muy pequeña</item>
+        <item>Pequeña</item>
         <item>Medio</item>
         <item>Grande</item>
         <item>Muy grande</item>
-    </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Definido por la aplicación</item>
@@ -482,10 +462,6 @@
         <item>Cursiva</item>
         <item>Versalitas</item>
     </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Solo sistema doméstico</item>
         <item>Automático</item>
@@ -496,22 +472,13 @@
         <item>PIN</item>
         <item>Contraseña</item>
     </string-array>
-    <array name="click_bottom">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom08</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="color_mode_descriptions">
         <item>Colores mejorados</item>
-        <item>Colores naturales como en la vida real</item>
+        <item>Colores naturales como vistos con el ojo</item>
         <item>Colores optimizados para contenido digital</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrante (predeterminado)</item>
+        <item>Vibrante (por defecto)</item>
         <item>Natural</item>
         <item>Estándar</item>
     </string-array>
@@ -534,10 +501,6 @@
     <string-array name="connect_mode_entries">
         <item>Compatibilidad</item>
         <item>Alta velocidad</item>
-    </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>Oscuro</item>
@@ -563,19 +526,27 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivado</item>
-        <item>Mostrar áreas sobredibujadas</item>
-        <item>Mostrar áreas para deuteranomalía</item>
+        <item>Mostrar áreas sobrescritas</item>
+        <item>Mostrar áreas para Deuteranomalía</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>No verificar</item>
-        <item>Solicitar estado del certificado</item>
-        <item>Requerir estado del certificado</item>
+        <item>No validar</item>
+        <item>Solicitar estado de certificado</item>
+        <item>Pedir estado de certificado</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Desactivado</item>
+        <item>Ninguno</item>
         <item>Logcat</item>
-        <item>Systrace (gráficos)</item>
-        <item>Pila de llamadas en glGetError</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Grupo de llamadas en gIGetError</item>
+    </string-array>
+    <string-array name="enabled_networks_subsidy_locked_choices">
+        <item>Solo LTE</item>
+        <item>GSM/WCDMA/LTE</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Nativos</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>¿Reiniciar el dispositivo para aplicar este ajuste?</item>
@@ -589,12 +560,6 @@
         <item>Acelerar el rendimiento del dispositivo</item>
         <item>Podría reducir el rendimiento del dispositivo</item>
     </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 pulgadas</item>
         <item>4,0 pulgadas</item>
@@ -604,35 +569,25 @@
         <item>Desactivado</item>
         <item>Bajo</item>
         <item>Medio</item>
-        <item>Fuerte</item>
+        <item>Alto</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>No usar comprobación de HDCP</item>
-        <item>Usa comprobación de HDCP solo para contenido DRM</item>
-        <item>Usar siempre comprobación de HDCP</item>
+        <item>No usar nunca comprobación HDCP</item>
+        <item>Usar comprobación HDCP solo para contenido DRM</item>
+        <item>Usar siempre comprobación HDCP</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>No comprobar</item>
-        <item>Comprobar solo contenido con DRM</item>
+        <item>No comprobar nunca</item>
+        <item>Comprobar solo contenido DRM</item>
         <item>Comprobar siempre</item>
     </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>input_method_selector_show_automatically_title</item>
-        <item>input_method_selector_always_show_title</item>
-        <item>input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Nivel 0: Ninguno</item>
+        <item>Nivel 1: Error</item>
+        <item>Nivel 2: Atención</item>
+        <item>Nivel 3: Información</item>
+        <item>Nivel 4: Depuración</item>
+        <item>Nivel 5: Detallado</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>No activar la pantalla</item>
@@ -677,29 +632,13 @@
         <item>Después de 5 minutos</item>
         <item>Nunca</item>
     </string-array>
-    <array name="long_press">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>Corto</item>
         <item>Medio</item>
         <item>Largo</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Breve</item>
+        <item>Corto</item>
         <item>Medio</item>
         <item>Largo</item>
     </string-array>
@@ -731,14 +670,6 @@
         <item>Violeta</item>
         <item>Morado</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>XS</item>
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP o anterior</item>
         <item>Windows Vista o superior</item>
@@ -746,8 +677,8 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>msd_pc_system_install_finish_summary_xp</item>
-        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>El almacenamiento masivo USB se abrirá automáticamente cuando se conecte a un ordenador.</item>
         <item></item>
     </string-array>
@@ -761,21 +692,13 @@
         <item>Instalar herramienta: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Crear un directorio: mkdir /media/mtp</item>
         <item>Confirma los permisos de grupo de usuario en el actual grupo de usuario de fuse</item>
-        <item>Iniciar sesión de nuevo</item>
-        <item>Acceder al dispositivo montado: mtpfs /media/mtp por medio del Gestor de archivos; lo mismo para la carpeta local.</item>
+        <item>Iniciar la sesión otra vez</item>
+        <item>Accede al dispositivo montado: mtpfs /media/mtp por medio del Gestor de archivos; lo mismo para la carpeta local.</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>msd_install_retry_reinstall_mac</item>
-        <item>msd_install_retry_connect</item>
-        <item>msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>msd_install_retry_connect</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_xp">
-        <item>msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_connect</item>
         <item>Reinstalar Mi PC Suite</item>
     </string-array>
     <string-array name="mvno_type_entries">
@@ -788,7 +711,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="network_speed_slow_summary">
         <item>La red es lenta debido a exceso de tráfico</item>
         <item>La red es lenta debido a que la señal es débil</item>
-        <item>Moviendo…</item>
+        <item>Trasladando…</item>
     </string-array>
     <string-array name="nfc_notification_mode_summaries">
         <item>Tarjetas de pago, acceso y hogar inteligente</item>
@@ -800,11 +723,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="nfc_payment_favor">
         <item>Siempre</item>
-        <item>Excepto si hay otra aplicación para pagos abierta</item>
-    </string-array>
-    <string-array name="nfc_payment_favor_values">
-        <item>0</item>
-        <item>1</item>
+        <item>Excepto si hay otra aplicación de pago abierta</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gráfico</item>
@@ -820,60 +739,8 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Buscar</item>
         <item>Ajustes</item>
     </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-    </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Ninguna</item>
+        <item>Ninguno</item>
         <item>480p</item>
         <item>480p (seguro)</item>
         <item>720p</item>
@@ -884,12 +751,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>4K (seguro)</item>
         <item>4K (mejorado)</item>
         <item>4K (mejorado, seguro)</item>
-        <item>720p, 1080p (pantalla doble)</item>
+        <item>720p, 1080p (pantalla dual)</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>Colores completos</item>
         <item>Colores claros</item>
-        <item>Blanco y negro</item>
+        <item>Negro y blanco</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Permitir</item>
@@ -900,103 +767,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Supresor de ruido de micrófono simple</item>
         <item>Supresor de ruido de micrófono dual</item>
     </string-array>
-    <array name="power_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_long_press">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick03</item>
-        <item>powerclick02</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>Rendimiento</item>
         <item>Equilibrado</item>
     </string-array>
     <string-array name="preferred_app_entries">
-        <item>Launcher</item>
+        <item>Lanzador</item>
         <item>Marcador</item>
         <item>Mensajería</item>
         <item>Navegador</item>
@@ -1010,37 +786,42 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Preferencia: GSM o WCDMA</item>
         <item>Solo GSM</item>
         <item>Solo WCDMA</item>
-        <item>GSM o WCDMA (automático)</item>
-        <item>CDMA o EvDo (automático)</item>
+        <item>GSM/WCDMA auto</item>
+        <item>CDMA/EvDo auto</item>
         <item>CDMA sin EvDo</item>
         <item>Solo EvDo</item>
-        <item>CDMA, EvDo, GSM o WCDMA</item>
-        <item>CDMA y LTE o EvDo</item>
-        <item>GSM, WCDMA o LTE</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
         <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
         <item>LTE</item>
-        <item>LTE o WCDMA</item>
+        <item>LTE / WCDMA</item>
         <item>Solo TD-SCDMA</item>
-        <item>TD-SCDMA o WCDMA</item>
-        <item>LTE o TD-SCDMA</item>
-        <item>TD-SCDMA o GSM</item>
-        <item>LTE, TD-SCDMA o GSM</item>
-        <item>TD-SCDMA, GSM o WCDMA</item>
-        <item>LTE, TD-SCDMA o WCDMA</item>
-        <item>LTE, TD-SCDMA, GSM o WCDMA</item>
-        <item>TD-SCDMA, CDMA, EvDo, GSM o WCDMA</item>
-        <item>LTE, TD-SCDMA, CDMA, EvDo, GSM o WCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>Solo NR</item>
-        <item>NR o LTE</item>
-        <item>NR, LTE, CDMA o EvDo</item>
-        <item>NR, LTE, GSM o WCDMA</item>
-        <item>Mundial</item>
-        <item>NR, LTE o WCDMA</item>
-        <item>NR, LTE o TDSCDMA</item>
-        <item>NR, LTE, TDSCDMA o GSM</item>
-        <item>NR, LTE, TDSCDMA o WCDMA</item>
-        <item>NR, LTE, TDSCDMA, GSM o WCDMA</item>
-        <item>NR, LTE, TDSCDMA, CDMA, EvDo, GSM o WCDMA</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>Global</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Solo GSM</item>
+        <item>Solo WCDMA</item>
+        <item>LTE / WCDMA</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Almacenamiento interno</item>
@@ -1064,7 +845,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Estilo de mano derecha</item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Cálido</item>
+        <item>Caliente</item>
         <item>Estándar</item>
         <item>Frío</item>
     </string-array>
@@ -1083,24 +864,14 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Mostrar el menú</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Ajusta los colores según el contenido que se muestra</item>
+        <item>Ajustar los colores al contenido mostrado</item>
         <item>Mejorar siempre los colores</item>
         <item>El contraste permanecerá constante</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Vívido (recomendado)</item>
+        <item>Intenso (recomendado)</item>
         <item>Saturado</item>
         <item>Estándar</item>
-    </string-array>
-    <string-array name="screen_resolution_format">
-        <item>screen_resolution_ultrahigh_format</item>
-        <item>screen_resolution_high_format</item>
-        <item>screen_resolution_normal_format</item>
-    </string-array>
-    <string-array name="screen_resolution_text">
-        <item>2K</item>
-        <item>1080p</item>
-        <item>720p</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillante</item>
@@ -1115,70 +886,36 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>10 minutos</item>
         <item>Nunca</item>
     </string-array>
-    <string-array name="screen_zoom_level">
-        <item>XS</item>
-        <item>S</item>
-        <item>L</item>
-    </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Preguntar</item>
-        <item>No permitir nunca</item>
-        <item>Permitir siempre</item>
-    </string-array>
-    <string-array name="select_gpo_version_summaries">
-        <item>Desactivado</item>
-        <item>GPO4</item>
-        <item>GPO5</item>
-        <item>GPO6</item>
-    </string-array>
     <string-array name="select_gpo_version_titles">
         <item>Desactivado</item>
         <item>GPO4</item>
         <item>GPO5</item>
         <item>GPO6</item>
     </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Desactivado</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Desactivado</item>
-        <item>64 K/búfer de registro</item>
-        <item>256 K/búfer de registro</item>
-        <item>1 M/búfer de registro</item>
-        <item>4 M/búfer de registro</item>
-        <item>8 MB/búfer de registro</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Desactivado</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>8 MB</item>
+    <string-array name="select_logd_system_levels">
+        <item>Ninguno</item>
+        <item>Error</item>
+        <item>Atención</item>
+        <item>Información</item>
+        <item>Depuración</item>
+        <item>Detallado</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
-        <item>Todos los búferes de registro</item>
-        <item>Todo excepto búferes de registro de señal móvil</item>
-        <item>solo búfer de registro del kernel</item>
+        <item>Todos los registros</item>
+        <item>Todo excepto registros de señal móvil</item>
+        <item>Solo los registros del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivado</item>
         <item>Todo</item>
-        <item>Todo menos señal móvil</item>
-        <item>solo kernel</item>
+        <item>Todo excepto la señal móvil</item>
+        <item>Solo el kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desactivado</item>
-        <item>Dibujar región de recorte no rectangular en azul</item>
-        <item>Resaltar comandos de dibujo probados en verde</item>
-    </string-array>
-    <string-array name="silent_entries">
-        <item>standard</item>
-        <item>total</item>
+        <item>Dibuja un área azul no rectangular</item>
+        <item>Destacar comandos del diseño en verde</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Siempre</item>
@@ -1187,19 +924,8 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>2 horas</item>
         <item>8 horas</item>
     </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
     <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
+        <item>Hub Inteligente Xiaomi</item>
         <item>Hogar inteligente</item>
         <item>Ninguno</item>
     </string-array>
@@ -1210,10 +936,6 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
         <item>Denegar</item>
-    </string-array>
-    <string-array name="swipe_direction_values">
-        <item>1</item>
-        <item>0</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>Nunca</item>
@@ -1230,89 +952,48 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Sólido</item>
     </string-array>
     <string-array name="tare_modifiers_subfactors">
-        <item>Carga</item>
-        <item>Descanso</item>
-        <item>Modo de ahorro de energía</item>
+        <item>Cargando</item>
+        <item>Reposo</item>
+        <item>Modo ahorro de energía</item>
         <item>Estado del proceso</item>
     </string-array>
-    <array name="three_drop">
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop02</item>
-        <item>threedrop03</item>
-        <item>threedrop04</item>
-        <item>threedrop05</item>
-        <item>threedrop06</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-    </array>
     <string-array name="time_format_entries">
-        <item>12 horas 1:00 p.m.</item>
+        <item>12 horas 1:00 PM</item>
         <item>24 horas 13:00</item>
-        <item>Automático (basado en el idioma del sistema)</item>
+        <item>Automático (según el idioma del sistema)</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desactivado</item>
         <item>En pantalla como barras</item>
-        <item>En adb shell dumpsys gfxinfo</item>
+        <item>Volcado gfxinfo en ADB</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desactivado</item>
         <item>Normal</item>
         <item>Extremo</item>
     </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"Uso de datos móviles "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animación desactivada</item>
-        <item>Escala de animación 0,5x</item>
+        <item>Animaciones desactivadas</item>
+        <item>Escala de animación .5x</item>
         <item>Escala de animación 1x</item>
-        <item>Escala de animación 1,5x</item>
+        <item>Escala de animación 1.5x</item>
         <item>Escala de animación 2x</item>
         <item>Escala de animación 5x</item>
         <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Ajusta los colores según el contenido que se muestra</item>
+        <item>Ajustar colores según el contenido mostrado</item>
         <item>Mejorar siempre los colores</item>
-        <item>Restaura el color estándar del contenido de la pantalla con la calibración del color</item>
+        <item>Restaurar el color estándar de la pantalla con calibrado del color</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Vívido (recomendado)</item>
+        <item>Intenso (recomendado)</item>
         <item>Saturado</item>
         <item>Color original</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>60 %</item>
-        <item>80 %</item>
-        <item>100 %</item>
-        <item>150 %</item>
-        <item>200 %</item>
-        <item>250 %</item>
-        <item>300 %</item>
-        <item>350 %</item>
-        <item>400 %</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Muy lento</item>
@@ -1323,33 +1004,33 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="typing_style_entries">
         <item>Estándar</item>
-        <item>Tacto</item>
-        <item>Tacto directo</item>
+        <item>Pulsar</item>
+        <item>Toque directo</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mover a la izquierda</item>
+        <item>Mover hacia abajo</item>
+        <item>Mover a la derecha</item>
+        <item>Mover hacia arriba</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Carga</item>
+        <item>Cargando</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (Ethernet USB)</item>
+        <item>RNDIS (USB Ethernet)</item>
         <item>Fuente de audio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Preguntarme al conectar</item>
+        <item>Preguntar al conectar</item>
         <item>Solo carga</item>
         <item>Montar tarjeta SD</item>
     </string-array>
     <string-array name="vip_mode_text">
-        <item>De cualquier persona</item>
+        <item>De cualquiera</item>
         <item>Solo de contactos</item>
-        <item>Solo de personas destacadas</item>
+        <item>Solo de contactos destacados</item>
         <item>Ninguno</item>
-    </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
         <item>Ninguno</item>
@@ -1359,13 +1040,9 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Desconectado</item>
         <item>Iniciando...</item>
         <item>Conectando...</item>
-        <item>Conectada</item>
+        <item>Conectado</item>
         <item>Tiempo de espera superado</item>
         <item>Con error</item>
-    </string-array>
-    <string-array name="wapi_psk_type">
-        <item>wapi_psk_type_ascii</item>
-        <item>wapi_psk_type_hex</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Iniciando sesión…</item>
@@ -1384,21 +1061,15 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Gráfico</item>
         <item>Porcentaje (en el icono)</item>
-        <item>Porcentaje (al lado del icono en la Barra de notificaciones)</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>wifi_ap_choose_2G</item>
-        <item>wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>wifi_ap_ssid_off</item>
-        <item>wifi_ap_ssid_on</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wpa2</item>
+        <item>Porcentaje (junto al icono en barra de notificación)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Móvil</item>
+        <item>Solo Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
+        <item>Ims preferido</item>
         <item>Wi-Fi</item>
         <item>Móvil</item>
         <item>Solo Wi-Fi</item>
@@ -1407,21 +1078,27 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Wi-Fi</item>
         <item>Móvil</item>
     </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>Ims preferido</item>
+        <item>Wi-Fi</item>
+        <item>Móvil</item>
+    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Conectar automáticamente</item>
         <item>Conectar manualmente</item>
         <item>Preguntar siempre</item>
     </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>Enviar el nombre del dispositivo a la red</item>
-        <item>No enviar el nombre del dispositivo a la red</item>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automatico</item>
+        <item>Solo 5 GHz</item>
+        <item>Solo 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>No</item>
         <item>Sí</item>
     </string-array>
     <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
+        <item>Protocolo DHCP</item>
         <item>IP estática</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_entries">
@@ -1429,8 +1106,8 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Completo</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_summary_entries">
-        <item>Aumenta la velocidad usando datos móviles solo cuando la señal Wi-Fi sea débil</item>
-        <item>Combina Wi-Fi y datos móviles para aumentar la velocidad de conexión</item>
+        <item>Aumentar la velocidad usando datos móviles con señal Wi-Fi deficiente</item>
+        <item>Combinar Wi-Fi y datos móviles para aumentar la velocidad de conexión</item>
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>Detectar automáticamente</item>
@@ -1444,31 +1121,14 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Disponible</item>
         <item>Fuera del alcance</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Usar MAC aleatorio</item>
-        <item>Usar dispositivo MAC</item>
+        <item>Usar MAC aleatoria</item>
+        <item>Usar MAC del dispositivo</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Ninguno</item>
         <item>Manual</item>
-        <item>Proxy configurado automáticamente</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wep</item>
-        <item>wifi_security_psk_generic</item>
-        <item>wifi_security_eap</item>
+        <item>Configuración automática de proxy</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Mala</item>
@@ -1493,12 +1153,12 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Desconectado</item>
         <item>Con error</item>
         <item>Bloqueada</item>
-        <item>Inhabilitando conexión inestable temporalmente...</item>
+        <item>Desactivando temporalmente conexión inestable</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Buscando...</item>
-        <item>Estableciendo conexión con %1$s...</item>
+        <item>Conectando con %1$s...</item>
         <item>Autenticando con %1$s…</item>
         <item>Obteniendo dirección IP de %1$s...</item>
         <item>Conectado a %1$s</item>
@@ -1507,35 +1167,37 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>Desconectado</item>
         <item>Con error</item>
         <item>Bloqueada</item>
-        <item>Inhabilitando conexión inestable temporalmente...</item>
-    </string-array>
-    <string-array name="wifi_ttls_phase2_entries">
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
+        <item>Desactivando temporalmente conexión inestable</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
-        <item>Buscando…</item>
+        <item>Escaneando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
         <item>Obteniendo dirección IP…</item>
         <item>Conectado</item>
-        <item>Suspendida</item>
+        <item>Suspendido</item>
         <item>Desconectando…</item>
         <item>Desconectado</item>
-        <item>Error</item>
-        <item>Bloqueada</item>
-        <item>Evitando conexión deficiente temporalmente</item>
+        <item>Fallido</item>
+        <item>Bloqueado</item>
+        <item>Desactivando temporalmente conexión inestable</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animación desactivada</item>
-        <item>Escala de animación 0,5x</item>
+        <item>Animaciones desactivadas</item>
+        <item>Escala de animación .5x</item>
         <item>Escala de animación 1x</item>
-        <item>Escala de animación 1,5x</item>
+        <item>Escala de animación 1.5x</item>
         <item>Escala de animación 2x</item>
         <item>Escala de animación 5x</item>
         <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Tono de llamada</item>
+        <item>Multimedia</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Predeterminado</item>
+        <item>Compacto</item>
     </string-array>
 </resources>

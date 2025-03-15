@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cdma_system_select_choices">
+        <item>Iba plocha</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angličtina</item>
+        <item>Francúzština</item>
+        <item>Španielčina</item>
+        <item>Japončina</item>
+        <item>Kórejčina</item>
+        <item>čínština</item>
+        <item>Hebrejčina</item>
+    </string-array>
+</resources>

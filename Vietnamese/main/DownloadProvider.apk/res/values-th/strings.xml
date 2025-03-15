@@ -10,11 +10,9 @@
     <string name="download_queued">อยู่ในคิวแล้ว</string>
     <string name="download_remaining">เหลืออีก %s</string>
     <string name="download_running">กำลังดาวน์โหลด</string>
-    <string name="download_running_percent">กำลังดาวน์โหลด %s</string>
     <string name="download_unknown_title">&lt;ไม่มีชื่อ></string>
     <string name="notif_title_file_size">ทั้งหมด %1$d</string>
     <string name="notif_title_single_downloading">กำลังดาวน์โหลด %1$s</string>
-    <string name="notification_dld_msg">จัดการแอปที่กำลังถูกดาวน์โหลด</string>
     <string name="notification_download_complete">ดาวน์โหลดเรียบร้อย.</string>
     <string name="notification_download_failed">ไม่สามารถดาวน์โหลดรายการได้</string>
     <string name="notification_need_wifi_for_size">ไฟล์มีขนาดใหญ่เกินไป ต้องใช้ Wi-Fi เพื่อดาวน์โหลด</string>

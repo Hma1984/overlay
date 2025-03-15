@@ -45,7 +45,6 @@
     <string name="app_name">Digitalizador</string>
     <string name="app_remove_icon_description_content">O Digitalizador é um app de sistema. Você ainda conseguirá encontrá-lo nas Configurações ou digitalizar códigos com a Câmera, Navegador e Mi Wallet após remover o atalho na Tela inicial.</string>
     <string name="app_remove_icon_description_title">Remover \"Digitalizador\" da Tela inicial?</string>
-    <string name="auracast_code_title_key">Ouvir à transmissão de %s</string>
     <string name="back">Voltar</string>
     <string name="barcode_into_rectangle">Coloque o código dentro do quadro</string>
     <string name="birthday">Aniversário:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">Enviar e-mail</string>
     <string name="btn_send_message">Enviar SMS</string>
     <string name="camera_error_title">Erro na Câmera</string>
-    <string name="camera_string">Câmera</string>
-    <string name="camera_use">Para utilizar a câmera</string>
     <string name="cancel">Cancelar</string>
     <string name="choose_open_code_app">Selecione um app</string>
     <string name="choose_pay_title">Selecionar método de pagamento</string>
@@ -216,17 +213,15 @@
     <string name="miracast_switch_off">Display sem fios desativado</string>
     <string name="miracast_switch_tip">Ative o Display sem fios para usar este recurso</string>
     <string name="mishop">Mi Store</string>
-    <string name="miuix_access_state_desc">Selecionado</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
-    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
@@ -298,11 +293,8 @@
     <string name="open_web_url">Abrir no Navegador</string>
     <string name="pay_save_this_choose">Lembrar minha escolha</string>
     <string name="payment_text">Abrir com %s</string>
-    <string name="permissions_need">Permissões obrigatórias</string>
-    <string name="permissions_use">Permissões</string>
     <string name="phone">Telefone:</string>
     <string name="place_barcode_into_rectangle">Coloque o código dentro do quadro</string>
-    <string name="please_enable_bluetooth_retry">Ative o Bluetooth e tente novamente</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preparing_sd">Preparando armazenamento interno…</string>
@@ -337,8 +329,6 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">Espaço insuficiente no armazenamento interno. Libere algum espaço.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">Acessar e editar itens salvos no armazenamento do dispositivo</string>
-    <string name="storage_string">Acesso ao armazenamento</string>
     <string name="study_scan_result">Resultado</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>

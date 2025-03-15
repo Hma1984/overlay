@@ -2,7 +2,7 @@
 <resources>
     <string name="abc_action_bar_home_description">Přejít na plochu</string>
     <string name="abc_action_bar_up_description">Přejít nahoru</string>
-    <string name="abc_action_menu_overflow_description">Další možnosti</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
     <string name="abc_action_mode_done">Hotovo</string>
     <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
     <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
@@ -45,7 +45,6 @@
     <string name="app_name">Skener</string>
     <string name="app_remove_icon_description_content">Skener je systémová aplikace. Po odebrání zástupce z Domovské obrazovky budete aplikaci stále moci najít v Nastavení. Skenování kódů bude i nadále dostupné pomocí Fotoaparátu, Prohlížeče a Mi Peněženky.</string>
     <string name="app_remove_icon_description_title">Odebrat \"Skener\" z Domovské obrazovky?</string>
-    <string name="auracast_code_title_key">Poslouchat vysílání %s</string>
     <string name="back">Zpět</string>
     <string name="barcode_into_rectangle">Umístěte kód do rámečku</string>
     <string name="birthday">Narozeniny:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">Odeslat e-mail</string>
     <string name="btn_send_message">Odeslat SMS</string>
     <string name="camera_error_title">Chyba fotoaparátu</string>
-    <string name="camera_string">Fotoaparát</string>
-    <string name="camera_use">Pro používání fotoaparátu</string>
     <string name="cancel">Zrušit</string>
     <string name="choose_open_code_app">Vybrat aplikaci</string>
     <string name="choose_pay_title">Zvolte způsob platby</string>
@@ -216,7 +213,6 @@
     <string name="miracast_switch_off">Bezdrátový displej je vypnutý</string>
     <string name="miracast_switch_tip">Pro využití této funkce zapněte bezdrátový displej</string>
     <string name="mishop">Mi Store</string>
-    <string name="miuix_access_state_desc">Vybráno</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_action_mode_select_all">Vybrat vše</string>
     <string name="miuix_appcompat_action_mode_title_empty">Vybrat položky</string>
@@ -226,7 +222,6 @@
     <string name="miuix_appcompat_delete_description">Smazat</string>
     <string name="miuix_appcompat_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_deselect_all_description">Zrušit výběr</string>
-    <string name="miuix_appcompat_edit">Upravit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
     <string name="miuix_appcompat_search_input_description">Hledat</string>
     <string name="miuix_appcompat_select_all">Vybrat vše</string>
@@ -298,11 +293,8 @@
     <string name="open_web_url">Otevřít v prohlížeči</string>
     <string name="pay_save_this_choose">Zapamatovat</string>
     <string name="payment_text">Otevřít pomocí %s</string>
-    <string name="permissions_need">Povinná oprávnění</string>
-    <string name="permissions_use">Oprávnění</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Umístěte kód do rámečku</string>
-    <string name="please_enable_bluetooth_retry">Zapněte Bluetooth a zkuste to znovu</string>
     <string name="pm">odp.</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="preparing_sd">Příprava vnitřního úložiště…</string>
@@ -337,8 +329,6 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">Nedostatek místa ve vnitřním úložišti. Uvolněte místo.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">Přístup k položkám uloženým do úložiště zařízení a jejich úprava</string>
-    <string name="storage_string">Přístup k úložišti</string>
     <string name="study_scan_result">Výsledek</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Neděle</string>
@@ -413,8 +403,8 @@
     <string name="url_is_safety">Tato webová stránka je bezpečná</string>
     <string name="url_is_unknown">Nelze zkontrolovat, zda je tato webová stránka bezpečná</string>
     <string name="url_is_unsafety">Tato webová stránka není bezpečná</string>
-    <string name="v7_preference_off">Vypnuto</string>
-    <string name="v7_preference_on">Zapnuto</string>
+    <string name="v7_preference_off">Vypnutí</string>
+    <string name="v7_preference_on">ZAP</string>
     <string name="vender_info_translation_kingsoft">Poskytuje Kingsoft</string>
     <string name="waybill_num">"Objednávka: "</string>
     <string name="web">Web:</string>

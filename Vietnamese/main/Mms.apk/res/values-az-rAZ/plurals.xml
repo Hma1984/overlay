@@ -13,8 +13,8 @@
         <item quantity="one">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">%d saat içində</item>
-        <item quantity="one">%d saat daxilində</item>
+        <item quantity="other">%d saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat ərzində</item>
@@ -25,12 +25,12 @@
         <item quantity="one">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq içində</item>
-        <item quantity="one">%d dəq içində</item>
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
@@ -49,16 +49,16 @@
         <item quantity="one">%d mesaj sinxronlaşdırılmadı</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$s seçili söhbət silinsin?</item>
-        <item quantity="one">%1$s seçili söhbət silinsin?</item>
+        <item quantity="other">Seçilmiş %1$s danışıq silinsin?</item>
+        <item quantity="one">Seçilmiş %1$s danışıq silinsin?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d element seçildi</item>
-        <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
     </plurals>
     <plurals name="delivery_toast_body_more_plurals">
-        <item quantity="other">Mesaj %1$s və digər %2$d şəxs tərəfindən alındı</item>
-        <item quantity="one">Mesaj %1$s və digər %2$d şəxs tərəfindən alındı</item>
+        <item quantity="other">%1$s və digər %2$d nəfər mesajı aldı</item>
+        <item quantity="one">%1$s və digər %2$d nəfər mesajı aldı</item>
     </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">%d kontakta göndərilə bilmədi</item>
@@ -89,12 +89,32 @@
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">İndi</item>
-        <item quantity="one">İndi</item>
+        <item quantity="other">İndicə</item>
+        <item quantity="one">İndicə</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
-        <item quantity="other">%2$s by %1$d adamlar kimi nişanlandı</item>
-        <item quantity="one">%2$s by %1$d adamlar kimi nişanlandı</item>
+        <item quantity="other">%1$d nəfər %2$s olaraq işarələdi</item>
+        <item quantity="one">%1$d nəfər %2$s olaraq işarələdi</item>
+    </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Səsli mesajlar ən çox %1$4d san uzunluqda ola bilər</item>
+        <item quantity="one">Səsli mesajlar ən çox %1$4d san uzunluqda ola bilər</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">%1$4d MB-a qədər fayllar göndərin</item>
+        <item quantity="one">%1$4d MB-a qədər fayllar göndərin</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">%1$4d kontakta qədər mesaj göndər</item>
+        <item quantity="one">%1$4d kontakta qədər mesaj göndər</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Mesajlarda ən çox %1$4d simvol ola bilər</item>
+        <item quantity="one">Mesajlarda ən çox %1$4d simvol ola bilər</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Videolar ən çox %1$4d san uzunluqda ola bilər</item>
+        <item quantity="one">Videolar ən çox %1$4d san uzunluqda ola bilər</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mesaj</item>
@@ -112,25 +132,13 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Geri çək (%ds)</item>
-        <item quantity="one">Geri çək (%ds)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
-        <item quantity="other">Qrup söhbəti dəvətindən %d aldınız</item>
-        <item quantity="one">Qrup söhbəti dəvətindən %d aldınız</item>
-    </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s nəfər</item>
-        <item quantity="one">%1$s nəfər</item>
+        <item quantity="other">%d qrup söhbəti üçün dəvət aldınız</item>
+        <item quantity="one">%d qrup söhbəti üçün dəvət aldınız</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%2$s axtarışı üçün %1$s nəticə</item>
-        <item quantity="one">%2$s axtarışı üçün %1$s nəticə</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d saniyə</item>
-        <item quantity="one">%d saniyə</item>
+        <item quantity="other">\"%2$s\" üçün %1$s nəticə</item>
+        <item quantity="one">\"%2$s\" üçün %1$s nəticə</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s mesaj göndərildi</item>
@@ -155,5 +163,9 @@
     <plurals name="to_count">
         <item quantity="other">%d alıcı</item>
         <item quantity="one">%d alıcı</item>
+    </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Ürək döyüntüsü: %1$d döyüntü/dəq (%2$s)</item>
+        <item quantity="one">Ürək döyüntüsü: %1$d döyüntü/dəq (%2$s)</item>
     </plurals>
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Počet zbývajících pokusů, po jejichž vyčerpání bude SIM karta uzamčena: %d.</item>
+        <item quantity="one">Máte ještě %d pokus. Poté bude SIM karta uzamčena.</item>
+    </plurals>
+</resources>

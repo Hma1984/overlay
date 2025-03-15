@@ -1,67 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d dias antes do evento</item>
-        <item quantity="one">%d dia antes do evento</item>
+        <item quantity="other">%d dias antes</item>
+        <item quantity="one">%d dia antes</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Em %1$d dias às %2$s</item>
         <item quantity="one">Em %1$d dia às %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d dias antes do evento às %2$s</item>
-        <item quantity="one">%1$d dia antes do evento às %2$s</item>
+        <item quantity="other">%1$d dias antes às %2$s</item>
+        <item quantity="one">%1$d dia antes às %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d horas antes do evento</item>
-        <item quantity="one">%d hora antes do evento</item>
+        <item quantity="other">%d horas antes</item>
+        <item quantity="one">%d hora antes</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d minutos antes do evento</item>
-        <item quantity="one">%d minuto antes do evento</item>
+        <item quantity="other">%d minutos antes</item>
+        <item quantity="one">%d minuto antes</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d semanas antes do evento</item>
-        <item quantity="one">%d semana antes do evento</item>
+        <item quantity="other">%d semanas antes</item>
+        <item quantity="one">%d semana antes</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d hora atrás</item>
-        <item quantity="one">%d hora atrás</item>
+        <item quantity="other">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em %d hora</item>
-        <item quantity="one">Em %d hora</item>
+        <item quantity="other">Em 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
-        <item quantity="one">Em %d min</item>
+        <item quantity="other">em %d mins</item>
+        <item quantity="one">em 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
-        <item quantity="one">%d min atrás</item>
+        <item quantity="other">%d mins atrás</item>
+        <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="after_num_minutes">
-        <item quantity="other">Em %d min</item>
+        <item quantity="other">Em %d mins</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="anniversary_day">
@@ -69,12 +62,12 @@
         <item quantity="one">%1$s dia</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Comemoração: %3$d anos de %2$s em %1$d dias</item>
-        <item quantity="one">Comemoração: %3$d ano de %2$s em %1$d dias</item>
+        <item quantity="other">Aniversário: %2$d anos de %1$s em %3$d dias</item>
+        <item quantity="one">Aniversário: %2$d ano de %1$s em %3$d dias</item>
     </plurals>
     <plurals name="anniversary_notify_title">
-        <item quantity="other">Comemoração: %2$d anos de %1$s</item>
-        <item quantity="one">Comemoração: %2$d ano de %1$s</item>
+        <item quantity="other">Aniversário: %2$d anos de %1$s</item>
+        <item quantity="one">Aniversário: %2$d ano de %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">%1$s anos</item>
@@ -90,19 +83,11 @@
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s anos</item>
-        <item quantity="one">%1$s anos</item>
-    </plurals>
-    <plurals name="birthday_notification_text_days_later">
-        <item quantity="other">%1$s dias até o %4$s (%5$s)</item>
-        <item quantity="one">%1$s dia até o %4$s (%5$s)</item>
-    </plurals>
-    <plurals name="count_down_days_unit">
-        <item quantity="other">dias</item>
-        <item quantity="one">dia</item>
+        <item quantity="one">%1$s ano</item>
     </plurals>
     <plurals name="countdown_day">
         <item quantity="other">Faltam %1$s dias</item>
-        <item quantity="one">Faltam %1$s dia</item>
+        <item quantity="one">Falta %1$s dia</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d dias depois</item>
@@ -120,13 +105,9 @@
         <item quantity="other">%1$d dias antes</item>
         <item quantity="one">%1$d dia antes</item>
     </plurals>
-    <plurals name="delete_select_dup_events_title">
-        <item quantity="other">Você está tentando excluir eventos recorrentes. Excluir %d eventos com todas as suas repetições agora?</item>
-        <item quantity="one">Você está tentando excluir um evento recorrente. Excluir %d evento com todas as suas repetições agora?</item>
-    </plurals>
-    <plurals name="delete_select_event_title">
-        <item quantity="other">Excluir %d eventos agora?</item>
-        <item quantity="one">Excluir %d evento agora?</item>
+    <plurals name="day_index">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d dia</item>
     </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">Você pode inserir até %1$d dias</item>
@@ -138,19 +119,19 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
+    </plurals>
+    <plurals name="hide_completed_notes">
+        <item quantity="other">Ocultar %d tarefas concluídas</item>
+        <item quantity="one">Ocultar %d tarefa concluída</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
@@ -158,59 +139,46 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Dia %1$d (esperado)</item>
+        <item quantity="one">Dia %1$d (esperado)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Dia %1$d</item>
+        <item quantity="one">Dia %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Próximo período em %1$d dias</item>
+        <item quantity="one">Próximo período em %1$d dia</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
+    <plurals name="notes_custom_repeat_days">
+        <item quantity="other">dias</item>
+        <item quantity="one">dia</item>
     </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%d convites</item>
-        <item quantity="one">%d convite</item>
-    </plurals>
-    <plurals name="n_day_before">
-        <item quantity="other">%d dias atrás</item>
-        <item quantity="one">%d dia atrás</item>
-    </plurals>
-    <plurals name="n_day_later">
-        <item quantity="other">Em %d dias</item>
-        <item quantity="one">Em %d dia</item>
+    <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">semanas</item>
+        <item quantity="one">semana</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-    <plurals name="other_num_events">
-        <item quantity="other">%d outros eventos</item>
-        <item quantity="one">%d outro evento</item>
-    </plurals>
-    <plurals name="other_num_todo_events">
-        <item quantity="other">%d outras tarefas</item>
-        <item quantity="one">%d outra tarefa</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_day">
+    <plurals name="num_picker_hint">
         <item quantity="other">" dias"</item>
         <item quantity="one">" dia"</item>
     </plurals>
-    <plurals name="reminder_custom_unit_hour">
-        <item quantity="other">" horas"</item>
-        <item quantity="one">" hora"</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_minute">
-        <item quantity="other">" minutos"</item>
-        <item quantity="one">" minuto"</item>
-    </plurals>
-    <plurals name="reminder_later_toast">
-        <item quantity="other">Próximo lembrete em %1$d minutos</item>
-        <item quantity="one">Próximo lembrete em %1$d minuto</item>
+    <plurals name="other_num_events">
+        <item quantity="other">%d mais eventos</item>
+        <item quantity="one">%d mais evento</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
-        <item quantity="other">a casa %1$s no dia %2$s</item>
-        <item quantity="one">a casa %1$s no dia %2$s</item>
+        <item quantity="other">a cada %1$s no dia %2$s</item>
+        <item quantity="one">a cada %1$s no dia %2$s</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$d dias</item>
@@ -228,21 +196,41 @@
         <item quantity="other">%1$d anos</item>
         <item quantity="one">%1$d ano</item>
     </plurals>
-    <plurals name="today_has_num_event">
-        <item quantity="other">%d eventos planejados para hoje</item>
-        <item quantity="one">%d evento planejado para hoje</item>
+    <plurals name="show_completed_notes">
+        <item quantity="other">Mostrar %d tarefas concluídas</item>
+        <item quantity="one">Mostrar %d tarefa concluída</item>
     </plurals>
-    <plurals name="today_num_events">
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Você não registrou por %1$d dias. Registre seus períodos para obter previsões mais precisas.</item>
+        <item quantity="one">Você não registrou por %1$d dia. Registre seus períodos para obter previsões mais precisas.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Este período dura um total de %1$d dias</item>
+        <item quantity="one">Este período dura um total de %1$d dia</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">%1$dº dia deste ciclo menstrual</item>
+        <item quantity="one">%1$dº dia deste ciclo menstrual</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">%1$dº dia do período</item>
+        <item quantity="one">%1$dº dia do período</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d dias até o próximo período</item>
+        <item quantity="one">%1$d dia até o próximo período</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Dia estimado do período: %1$d</item>
+        <item quantity="one">Dia estimado do período: %1$d</item>
+    </plurals>
+    <plurals name="today_has_num_event">
         <item quantity="other">%d eventos hoje</item>
         <item quantity="one">%d evento hoje</item>
     </plurals>
-    <plurals name="travel_time_range_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-    </plurals>
-    <plurals name="travel_time_range_mins">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">Viagem de %2$s minutos até %1$s.</item>
+        <item quantity="one">Viagem de %2$s minuto até %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">SEMANA %d</item>
@@ -252,17 +240,25 @@
         <item quantity="other">%1$s dias</item>
         <item quantity="one">%1$s dia</item>
     </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
     <plurals name="widget_normal_agenda_going_counts">
         <item quantity="other">%d eventos em andamento</item>
         <item quantity="one">%d evento em andamento</item>
     </plurals>
     <plurals name="widget_normal_agenda_next_minutes">
-        <item quantity="other">Próximo evento em %d min</item>
-        <item quantity="one">Próximo evento em %d min</item>
+        <item quantity="other">Próximo evento em %d minutos</item>
+        <item quantity="one">Próximo evento em %d minuto</item>
     </plurals>
     <plurals name="widget_normal_agenda_tomorrow_total">
         <item quantity="other">%d eventos amanhã</item>
         <item quantity="one">%d evento amanhã</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">Semana %d</item>
+        <item quantity="one">Semana %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d dias úteis</item>

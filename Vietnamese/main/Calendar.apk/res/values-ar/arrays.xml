@@ -1,130 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>يدوي</item>
-        <item>كل %d دقيقة</item>
-        <item>كل ساعة</item>
-        <item>كل %d ساغات</item>
-        <item>كل %d ساعات</item>
-    </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>ا</item>
-        <item>ب</item>
-        <item>ت</item>
-        <item>د</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ك</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>ه</item>
-        <item>و</item>
-        <item>ي</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>ا</item>
-        <item>ب</item>
-        <item>ت</item>
-        <item>ث</item>
-        <item>ج</item>
-        <item>ح</item>
-        <item>خ</item>
-        <item>د</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ك</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>ه</item>
-        <item>و</item>
-        <item>ي</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>ا</item>
-        <item>ب</item>
-        <item>ت</item>
-        <item>ث</item>
-        <item>ج</item>
-        <item>ح</item>
-        <item>خ</item>
-        <item>د</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ك</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>ه</item>
-        <item>و</item>
-        <item>ي</item>
-        <item>\#</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>بدون</item>
+        <item>التقويم الهجري</item>
+        <item>التقويم الوطني الهندي</item>
+        <item>تقويم فيكرام</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>برج الدلو</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>برج الحمل</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>برج السرطان</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>برج الجدي</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>هذا الحدث فقط</item>
         <item>جميع الأحداث في هذه السلسلة</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>فقط هذه المرة</item>
-        <item>إيقاف التذكير المكرر</item>
+        <item>إيقاف مرة</item>
+        <item>إيقاف دائما</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>بعد</item>
         <item>قبل</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>في وقت الحدث</item>
+        <item>قبل ٥ دقائق</item>
+        <item>قبل ١٥ دقيقة</item>
+        <item>قبل ٣٠ دقيقة</item>
+        <item>قبل ساعة</item>
+        <item>قبل ٤ ساعات</item>
+        <item>قبل ١ يوم</item>
+        <item>قبل ٢ أيام</item>
+        <item>قبل ١ اسبوع</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>هذا الحدث فقط</item>
@@ -134,56 +47,54 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>برج الجوزاء</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>محرم</item>
+        <item>صفر</item>
+        <item>ربيع الأول</item>
+        <item>ربيع الثاني</item>
+        <item>جمادى الأول</item>
+        <item>جمادى الثاني</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان</item>
+        <item>شوال</item>
+        <item>ذو القعدة</item>
+        <item>ذو الحجة</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>برج الأسد</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>برج الميزان</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>بدون</item>
-        <item>التقويم الصيني التقليدي</item>
-        <item>التقويم الهجري</item>
-        <item>التقويم العبري</item>
-        <item>التقويم الياباني</item>
-        <item>التقويم الفارسي</item>
-        <item>التقويم الهندي</item>
-        <item>التقويم البوذي</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>يناير</item>
-        <item>فبراير</item>
-        <item>مارس</item>
-        <item>أبريل</item>
-        <item>مايو</item>
-        <item>يونيو</item>
-        <item>يوليو</item>
-        <item>أغسطس</item>
-        <item>سبتمبر</item>
-        <item>أكتوبر</item>
-        <item>نوفمبر</item>
-        <item>ديسمبر</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>فقط هذه المرة</item>
-        <item>تعيين تذكير مكرر</item>
+        <item>تشغيل مرة</item>
+        <item>تشغيل دائما</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>الأحد</item>
+        <item>الإثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>برج الحوت</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>متوقف</item>
         <item>لكل الأحداث</item>
         <item>للأحداث الحساسة للوقت</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>دائمًا</item>
@@ -323,25 +234,22 @@
         <item>ربما</item>
         <item>لا</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>تجاهل</item>
-        <item>قبول</item>
-        <item>الرد لاحقا</item>
-        <item>رفض</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>برج القوس</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>برج العقرب</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>برج الثور</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>جزر مارشال</item>
         <item>جزيرة ميدواي</item>
         <item>هاواي</item>
@@ -371,19 +279,16 @@
         <item>الأزور</item>
         <item>الرأس الأخضر</item>
         <item>الدار البيضاء</item>
-        <item>لندن</item>
-        <item>دبلن</item>
-        <item>أمستردام</item>
-        <item>برلين</item>
+        <item>لندن، دبلن</item>
+        <item>أمستردام، برلين</item>
         <item>بلغراد</item>
         <item>بروكسل</item>
         <item>سراييفو</item>
         <item>ويندهوك</item>
         <item>وقت غرب أفريقيا</item>
-        <item>عمان</item>
-        <item>أثينا</item>
-        <item>اسطنبول</item>
-        <item>بيروت</item>
+        <item>عمان، الأردن</item>
+        <item>أثينا، إسطنبول</item>
+        <item>بيروت، لبنان</item>
         <item>القاهرة</item>
         <item>هلسنكي</item>
         <item>القدس</item>
@@ -399,7 +304,7 @@
         <item>يريفان</item>
         <item>دبي</item>
         <item>كابل</item>
-        <item>كراتشي</item>
+        <item>إسلام آباد، كراتشي</item>
         <item>أورالسك</item>
         <item>يكاترينبورغ</item>
         <item>كلكتا</item>
@@ -410,7 +315,6 @@
         <item>كراسنويارسك</item>
         <item>بانكوك</item>
         <item>بكين</item>
-        <item>تشونغتشينغ</item>
         <item>هونغ كونغ</item>
         <item>ماكاو</item>
         <item>سنغافورة</item>
@@ -419,14 +323,13 @@
         <item>بيرث</item>
         <item>تايبيه</item>
         <item>سيول</item>
-        <item>طوكيو</item>
+        <item>طوكيو، أوساكا</item>
         <item>ياكوتسك</item>
         <item>أديليد</item>
         <item>داروين</item>
         <item>بريسبان</item>
         <item>هوبارت</item>
-        <item>سيدني</item>
-        <item>كانبيرا</item>
+        <item>سيدني، كانبيرا</item>
         <item>فلاديفوستوك</item>
         <item>غوام</item>
         <item>ماجادان</item>
@@ -437,9 +340,38 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>برج العذراء</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>صافٍ</item>
+        <item>غائم</item>
+        <item>غيوم خفيفة</item>
+        <item>ضباب</item>
+        <item>عاصفة ثقيلة</item>
+        <item>عاصفة</item>
+        <item>عاصفة خفيفة</item>
+        <item>عاصفة رعدية</item>
+        <item>أمطار خفيفة</item>
+        <item>أمطار غزيرة</item>
+        <item>مطر</item>
+        <item>أمطار خفيفة</item>
+        <item>أمطار وثلوج</item>
+        <item>عاصفة ثلجية عنيفة</item>
+        <item>ثلوج</item>
+        <item>ثلوج كثيفة</item>
+        <item>ثلج</item>
+        <item>ثلوج خفيفة</item>
+        <item>عاصفة رملية قوية</item>
+        <item>عاصفة رملية</item>
+        <item>غبار</item>
+        <item>عاصفة رملية خفيفة</item>
+        <item>حبات برد</item>
+        <item>غبار</item>
+        <item>ضباب</item>
+        <item>أمطار متجمدة</item>
     </string-array>
     <string-array name="week_header_name">
-        <item>الاحد</item>
+        <item>الأحد</item>
         <item>الاثنين</item>
         <item>الثلاثاء</item>
         <item>الاربعاء</item>
@@ -459,5 +391,92 @@
         <item>خ</item>
         <item>ج</item>
         <item>س</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>برج الحمل</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>برج الجدي</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>تشايترا</item>
+        <item>فايساكها</item>
+        <item>جايستا</item>
+        <item>آشادا</item>
+        <item>شرافانا</item>
+        <item>بادرا</item>
+        <item>آسوين</item>
+        <item>كآرتيكا</item>
+        <item>مارغاسيرا</item>
+        <item>بوشيا</item>
+        <item>ماغها</item>
+        <item>فالغونا</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
     </string-array>
 </resources>

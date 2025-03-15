@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informace o účtu</item>
+        <item>Zobrazte svou profilovou fotku a spravujte informace o účtu</item>
+        <item>Osobní údaje; profilová fotka; přezdívka; informace o účtu; Xiaomi ID; ID; Xiaomi účet; účet</item>
+    </string-array>
+</resources>

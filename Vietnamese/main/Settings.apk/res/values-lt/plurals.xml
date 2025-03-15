@@ -108,6 +108,12 @@
         <item quantity="few">Pasiekiami %d įrenginiai</item>
         <item quantity="many">Pasiekiama %d įrenginių</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekundžių</item>
+        <item quantity="one">%d sekundė</item>
+        <item quantity="few">%d sekundės</item>
+        <item quantity="many">%d sekundžių</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Kas %d sekundžių</item>
         <item quantity="one">Kas %d sekundę</item>
@@ -125,12 +131,6 @@
         <item quantity="one">Apriboti %s programos ryšį</item>
         <item quantity="few">Apriboti %s programų ryšį</item>
         <item quantity="many">Apriboti %s programų ryšį</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Palaukite %d sek. ir bandykite vėl.</item>
-        <item quantity="one">Palaukite %d sek. ir bandykite vėl.</item>
-        <item quantity="few">Palaukite %d sek. ir bandykite vėl.</item>
-        <item quantity="many">Palaukite %d sek. ir bandykite vėl.</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d prisijungusių asmenų</item>
@@ -222,12 +222,6 @@
         <item quantity="few">Palaukite %d sekundžių ir bandykite dar kartą.</item>
         <item quantity="many">Palaukite %d sekundžių ir bandykite dar kartą.</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s, %2$s</item>
-        <item quantity="one">%1$s, %2$s</item>
-        <item quantity="few">%1$s, %2$s</item>
-        <item quantity="many">%1$s, %2$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Daugiausia %d procesų</item>
         <item quantity="one">Daugiausia %d procesas</item>
@@ -299,6 +293,12 @@
         <item quantity="one">Jums liko %1$d žingsnis iki klaidų ataskaitos pateikimo.</item>
         <item quantity="few">Jums liko %1$d žingsniai iki klaidų ataskaitos pateikimo.</item>
         <item quantity="many">Jums liko %1$d žingsnių iki klaidų ataskaitos pateikimo.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d programų gali naudoti neribotus duomenis</item>
+        <item quantity="one">%d programa gali naudoti neribotus duomenis</item>
+        <item quantity="few">%d programos gali naudoti neribotus duomenis</item>
+        <item quantity="many">%d programos gali naudoti neribotus duomenis</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d programų negali rodyti pranešimų</item>
@@ -372,29 +372,11 @@
         <item quantity="few">Gauti %d pranešimai</item>
         <item quantity="many">Gauta %d pranešimų</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d val.</item>
-        <item quantity="one">%d val.</item>
-        <item quantity="few">%d val.</item>
-        <item quantity="many">%d val.</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d valandų</item>
         <item quantity="one">%d valanda</item>
         <item quantity="few">%d valandos</item>
         <item quantity="many">%d valandų</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">" val."</item>
-        <item quantity="one">" val."</item>
-        <item quantity="few">" val."</item>
-        <item quantity="many">" val."</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
-        <item quantity="few">%d min.</item>
-        <item quantity="many">%d min.</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" min."</item>
@@ -438,18 +420,6 @@
         <item quantity="few">Savaitės dienomis: %d minutes</item>
         <item quantity="many">Savaitės dienomis: %d minučių</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" val."</item>
-        <item quantity="one">" val."</item>
-        <item quantity="few">" val."</item>
-        <item quantity="many">" val."</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
-        <item quantity="few">" min."</item>
-        <item quantity="many">" min."</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">Rasta %d pavojų</item>
         <item quantity="one">Rastas %d pavojus</item>
@@ -461,5 +431,47 @@
         <item quantity="one">Bendrinamas %d tinklas</item>
         <item quantity="few">Bendrinami %d tinklai</item>
         <item quantity="many">Bendrinama %d tinklų</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Prijungta įrenginių: %1$d</item>
+        <item quantity="one">Prijungta įrenginių: %1$d</item>
+        <item quantity="few">Prijungta įrenginių: %1$d</item>
+        <item quantity="many">Prijungta įrenginių: %1$d</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s, %2$s</item>
+        <item quantity="few">%1$s, %2$s</item>
+        <item quantity="many">%1$s, %2$s</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" val."</item>
+        <item quantity="one">" val."</item>
+        <item quantity="few">" val."</item>
+        <item quantity="many">" val."</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" val."</item>
+        <item quantity="one">" val."</item>
+        <item quantity="few">" val."</item>
+        <item quantity="many">" val."</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+        <item quantity="few">" min."</item>
+        <item quantity="many">" min."</item>
     </plurals>
 </resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Cellulare</item>
+        <item>Lavoro</item>
+        <item>Fax lavoro</item>
+        <item>Fax casa</item>
+        <item>Cercapersone</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>dati</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>LAN</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Per effettuare chiamate e inviare messaggi tramite Wi-Fi, chiedi prima al tuo operatore di impostare questo servizio. Dopodiché, attiva di nuovo la funzione Chiamate Wi-Fi nelle impostazioni. (Codice di errore: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>"Si è verificato un problema con la registrazione delle chiamate Wi‑Fi con l'operatore: %1$s"</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Riprova</item>
+        <item></item>
+        <item></item>
+        <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+        <item></item>
+        <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+        <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+        <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+        <item>"Troppo veloce! Impossibile riconoscere l'impronta digitale"</item>
+        <item>"Muovi un po' il dito e riprova"</item>
+        <item>Solleva il dito e rimettilo nuovamente sullo scanner</item>
+        <item>"Mantieni il dito sullo scanner un po' più a lungo"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Sposta leggermente il dito</item>
+        <item>Questa impronta digitale è già stata aggiunta, cambia dito</item>
+    </string-array>
+    <string-array name="required_apps_managed_device">
+        <item>com.android.settings</item>
+        <item>com.android.contacts</item>
+        <item>com.android.dialer</item>
+        <item>com.android.stk</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.android.thememanager</item>
+    </string-array>
+    <string-array name="required_apps_managed_profile">
+        <item>com.android.contacts</item>
+        <item>com.android.settings</item>
+        <item>com.android.systemui</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+    </string-array>
+    <string-array name="required_apps_managed_user">
+        <item>com.android.settings</item>
+        <item>com.android.systemui</item>
+        <item>com.android.contacts</item>
+        <item>com.android.dialer</item>
+        <item>com.android.stk</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+    </string-array>
+</resources>

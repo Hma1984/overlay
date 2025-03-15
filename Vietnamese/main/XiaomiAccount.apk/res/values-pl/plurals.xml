@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Znaleziono %d wyników</item>
+        <item quantity="one">Znaleziono %d wynik</item>
+        <item quantity="few">Znaleziono %d wyniki</item>
+    </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d osób</item>
+        <item quantity="one">%d osoba</item>
+        <item quantity="few">%d osoby</item>
+    </plurals>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">" kroków"</item>
+        <item quantity="one">" krok"</item>
+        <item quantity="few">" kroki"</item>
+    </plurals>
+</resources>

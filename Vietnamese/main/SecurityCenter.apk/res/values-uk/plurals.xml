@@ -308,24 +308,6 @@
         <item quantity="few">%d повідомлення</item>
         <item quantity="many">%d повідомлень</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-        <item quantity="few">%1$s:</item>
-        <item quantity="many">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-        <item quantity="few">%1$s</item>
-        <item quantity="many">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-        <item quantity="few">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="many">Your Game Turbo membership will expire in %d days.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">Термін дії вашого членства в Game Turbo закінчиться через %d днів. Продовжіть зараз, щоб насолоджуватися необмеженими іграми.</item>
         <item quantity="one">Термін дії вашого членства в Game Turbo закінчиться через %d день. Продовжіть зараз, щоб насолоджуватися необмеженими іграми.</item>
@@ -374,18 +356,6 @@
         <item quantity="few">Відмічено %d рази</item>
         <item quantity="many">Відмічено %d разів</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d год</item>
-        <item quantity="one">%d год</item>
-        <item quantity="few">%d год</item>
-        <item quantity="many">%d год</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d хв</item>
-        <item quantity="one">%d хв</item>
-        <item quantity="few">%d хв</item>
-        <item quantity="many">%d хв</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Зрозуміло (%d сек)</item>
         <item quantity="one">Зрозуміло (%d сек)</item>
@@ -405,20 +375,6 @@
         <item quantity="many">"Нататка.
 Покращені візуальні ефекти будуть недоступні, якщо увімкнений режим \"Економія енергії\" або ваш пристрій перегрівся.
 Розумна частота кадрів дає найкращі результати, якщо в грі налаштовано відображення не менше %d кадрів за секунду."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Нататка.
-Покращені візуальні ефекти будуть недоступні, якщо увімкнений режим \"Економія енергії\" або ваш пристрій перегрівся.
-Покращена частота кадрів дає найкращі результати, якщо в грі налаштовано відображення не менше %d кадрів за секунду."</item>
-        <item quantity="one">"Нататка.
-Покращені візуальні ефекти будуть недоступні, якщо увімкнений режим \"Економія енергії\" або ваш пристрій перегрівся.
-Покращена частота кадрів дає найкращі результати, якщо в грі налаштовано відображення не менше %d кадрів за секунду."</item>
-        <item quantity="few">"Нататка.
-Покращені візуальні ефекти будуть недоступні, якщо увімкнений режим \"Економія енергії\" або ваш пристрій перегрівся.
-Покращена частота кадрів дає найкращі результати, якщо в грі налаштовано відображення не менше %d кадрів за секунду."</item>
-        <item quantity="many">"Нататка.
-Покращені візуальні ефекти будуть недоступні, якщо увімкнений режим \"Економія енергії\" або ваш пристрій перегрівся.
-Покращена частота кадрів дає найкращі результати, якщо в грі налаштовано відображення не менше %d кадрів за секунду."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Спробуйте програму Зміна голосу зараз,
@@ -481,12 +437,6 @@
         <item quantity="one">Автоматично зменшувати яскравість екрана для заощадження енергії після %d хв бездіяльності</item>
         <item quantity="few">Автоматично зменшувати яскравість екрана для заощадження енергії після %d хв бездіяльності</item>
         <item quantity="many">Автоматично зменшувати яскравість екрана для заощадження енергії після %d хв бездіяльності</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-        <item quantity="few">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="many">"Congrats! You've unlocked %s Easter eggs."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
@@ -848,12 +798,6 @@
         <item quantity="few">%2$d програми, включаючи \"%1$s\", може бути шкідливою</item>
         <item quantity="many">%2$d програм, включаючи \"%1$s\", може бути шкідливою</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="few">+%d</item>
-        <item quantity="many">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d програм розряджають батарею</item>
         <item quantity="one">%d програма розряджає батарею</item>
@@ -866,18 +810,6 @@
         <item quantity="few">" год"</item>
         <item quantity="many">" год"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" хв"</item>
-        <item quantity="one">" хв"</item>
-        <item quantity="few">" хв"</item>
-        <item quantity="many">" хв"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d днів</item>
-        <item quantity="one">%d день</item>
-        <item quantity="few">%d дні</item>
-        <item quantity="many">%d днів</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">"%d об'єктів"</item>
         <item quantity="one">"%d об'єкт"</item>
@@ -885,16 +817,10 @@
         <item quantity="many">"%d об'єктів"</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
-        <item quantity="other">Батарея пристрою розряджена. Вхід в режим глибокого сну через %1$d секуд.</item>
-        <item quantity="one">Батарея пристрою розряджена. Вхід в режим глибокого сну через %1$d секуду.</item>
-        <item quantity="few">Батарея пристрою розряджена. Вхід в режим глибокого сну через %1$d секуди.</item>
-        <item quantity="many">Батарея пристрою розряджена. Вхід в режим глибокого сну через %1$d секуд.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Низький заряд батареї. Ваш пристрій перейде в режим глибокого сну через %1$d секунд. Продуктивність та потужність сигналу можуть трохи знизитися.</item>
-        <item quantity="one">Низький заряд батареї. Ваш пристрій перейде в режим глибокого сну через %1$d секунду. Продуктивність та потужність сигналу можуть трохи знизитися.</item>
-        <item quantity="few">Низький заряд батареї. Ваш пристрій перейде в режим глибокого сну через %1$d секунди. Продуктивність та потужність сигналу можуть трохи знизитися.</item>
-        <item quantity="many">Низький заряд батареї. Ваш пристрій перейде в режим глибокого сну через %1$d секунд. Продуктивність та потужність сигналу можуть трохи знизитися.</item>
+        <item quantity="other">Батарея пристрою розряджена. Вхід в режим гібернації через %1$d секуд.</item>
+        <item quantity="one">Батарея пристрою розряджена. Вхід в режим гібернації через %1$d секуду.</item>
+        <item quantity="few">Батарея пристрою розряджена. Вхід в режим гібернації через %1$d секуди.</item>
+        <item quantity="many">Батарея пристрою розряджена. Вхід в режим гібернації через %1$d секуд.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s днів</item>
@@ -992,29 +918,11 @@
         <item quantity="few">Пристрій буде відключено через %d сек</item>
         <item quantity="many">Пристрій буде відключено через %d сек</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s год</item>
-        <item quantity="one">%s год</item>
-        <item quantity="few">%s год</item>
-        <item quantity="many">%s год</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s хв</item>
-        <item quantity="one">%s хв</item>
-        <item quantity="few">%s хв</item>
-        <item quantity="many">%s хв</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">рази</item>
         <item quantity="one">раз</item>
         <item quantity="few">рази</item>
         <item quantity="many">раз</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d разів</item>
-        <item quantity="one">%d раз</item>
-        <item quantity="few">%d рази</item>
-        <item quantity="many">%d разів</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">"%d об/'єктів з високим енергоспоживанням"</item>
@@ -1045,12 +953,6 @@
         <item quantity="one">"%d год "</item>
         <item quantity="few">"%d год "</item>
         <item quantity="many">"%d год "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d хв "</item>
-        <item quantity="one">"%d хв "</item>
-        <item quantity="few">"%d хв "</item>
-        <item quantity="many">"%d хв "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Оптимізувати використання батареї у %d сценаріях</item>
@@ -1087,18 +989,6 @@
         <item quantity="one">"Ви можете оптимізувати %d об'єкт, щоб заощадити заряд батареї"</item>
         <item quantity="few">"Ви можете оптимізувати %d об'єкта, щоб заощадити заряд батареї"</item>
         <item quantity="many">"Ви можете оптимізувати %d об'єктів, щоб заощадити заряд батареї"</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-        <item quantity="few">%d ℃</item>
-        <item quantity="many">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d мАг</item>
-        <item quantity="one">%d мАг</item>
-        <item quantity="few">%d мАг</item>
-        <item quantity="many">%d мАг</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Додати %d хвилин</item>
@@ -1376,18 +1266,6 @@
         <item quantity="few">Зміна %1$d дозволів</item>
         <item quantity="many">Зміна %1$d дозволів</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагментів</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
-        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмента</item>
-        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагментів</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
-        <item quantity="few">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
-        <item quantity="many">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Доступні оновлення програм: %d</item>
         <item quantity="one">Доступні оновлення програм: %d</item>
@@ -1399,12 +1277,6 @@
         <item quantity="one">Статистика трафіку не синхронізована з оператором %d день</item>
         <item quantity="few">Статистика трафіку не синхронізована з оператором %d дні</item>
         <item quantity="many">Статистика трафіку не синхронізована з оператором %d днів</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%d сек)</item>
-        <item quantity="one">(%d сек)</item>
-        <item quantity="few">(%d сек)</item>
-        <item quantity="many">(%d сек)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">Захищено: %1$d</item>
@@ -1499,5 +1371,65 @@
         <item quantity="one">Трояни: %d</item>
         <item quantity="few">Трояни: %d</item>
         <item quantity="many">Трояни: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d год</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d год</item>
+        <item quantity="many">%d год</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" хв"</item>
+        <item quantity="one">" хв"</item>
+        <item quantity="few">" хв"</item>
+        <item quantity="many">" хв"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s год</item>
+        <item quantity="one">%s год</item>
+        <item quantity="few">%s год</item>
+        <item quantity="many">%s год</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s хв</item>
+        <item quantity="one">%s хв</item>
+        <item quantity="few">%s хв</item>
+        <item quantity="many">%s хв</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагментів</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
+        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмента</item>
+        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагментів</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d хв "</item>
+        <item quantity="one">"%d хв "</item>
+        <item quantity="few">"%d хв "</item>
+        <item quantity="many">"%d хв "</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d мАг</item>
+        <item quantity="one">%d мАг</item>
+        <item quantity="few">%d мАг</item>
+        <item quantity="many">%d мАг</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
+        <item quantity="few">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
+        <item quantity="many">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%d сек)</item>
+        <item quantity="one">(%d сек)</item>
+        <item quantity="few">(%d сек)</item>
+        <item quantity="many">(%d сек)</item>
     </plurals>
 </resources>

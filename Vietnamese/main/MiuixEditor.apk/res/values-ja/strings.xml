@@ -12,5 +12,4 @@
     <string name="frequent_phrases">よく使用するフレーズ</string>
     <string name="query">検索</string>
     <string name="select">選択</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

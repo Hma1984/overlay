@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ble_package_names">
+    <string-array name="ble_profile_mi_band">
+        <item>Vibracija kod poziva</item>
+        <item>Vibracija kod primljene poruke</item>
+        <item>Vibracija kod alarma</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Snimi fotografiju</item>
+        <item>Pronađi telefon</item>
+        <item>Pronađi MiKey</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Upotreba odabira sustava (zadano)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>Mi Fit</item>
-        <item>Mi VR</item>
-        <item>Xiaomi Wear</item>
+        <item>" | Aktivno"</item>
+        <item>" | Aktivno (mediji)"</item>
+        <item>" | Aktivno (telefon)"</item>
     </string-array>
 </resources>

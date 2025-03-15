@@ -204,18 +204,6 @@
         <item quantity="other">%d съобщения</item>
         <item quantity="one">%d съобщение</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">Членството Ви за Game Turbo ще изтече след %d дни. Подновете сега и играйте с удоволствие.</item>
         <item quantity="one">Членството Ви за Game Turbo ще изтече след %d ден. Подновете сега и играйте с удоволствие.</item>
@@ -248,14 +236,6 @@
         <item quantity="other">Регистриран %d дни подред</item>
         <item quantity="one">Регистриран %d път</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d часа</item>
-        <item quantity="one">%d час</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d минути</item>
-        <item quantity="one">%d минута</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Разбрах (%dсек)</item>
         <item quantity="one">Разбрах (%dсек)</item>
@@ -267,14 +247,6 @@
         <item quantity="one">"Забележка:
 ·Подобрените визуални ефекти няма да са налични, когато режимът за запазване на батерията е включен или устройството ви е прегряло.
 ·Интелигентната скорост на кадрите показва най-добри резултати, когато играта ви е настроена да показва поне %d кадър в секунда."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Забележка:
-· Подобрените визуални ефекти няма да са налични, когато режимът за Икономия на батерията е включен или устройството Ви е прегряло.
-· Подобрената скорост на кадрите показва най-добри резултати, когато играта Ви е настроена да показва поне %d кадъра в секунда."</item>
-        <item quantity="one">"Забележка:
-· Подобрените визуални ефекти няма да са налични, когато режимът за Икономия на батерията е включен или устройството Ви е прегряло.
-· Подобрената скорост на кадрите показва най-добри резултати, когато играта Ви е настроена да показва поне %d кадър в секунда."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Изпробвайте Промяна на гласа сега,
@@ -315,10 +287,6 @@
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">Автоматично намаляване на яркостта на екрана с цел икономия на енергия след %d минути неактивност</item>
         <item quantity="one">Автоматично намаляване на яркостта на екрана с цел икономия на енергия след %d минута неактивност</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Преди половин час</item>
@@ -560,10 +528,6 @@
         <item quantity="other">%2$d приложения, включително %1$s може да са вредни</item>
         <item quantity="one">%2$d приложение, включително %1$s може да е вредно</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d приложения изтощават батерията</item>
         <item quantity="one">%d приложение изтощава батерията</item>
@@ -572,14 +536,6 @@
         <item quantity="other">" часа"</item>
         <item quantity="one">" час"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" мин"</item>
-        <item quantity="one">" мин"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-дневна</item>
-        <item quantity="one">%d-дневна</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d елемента</item>
         <item quantity="one">%d елемент</item>
@@ -587,10 +543,6 @@
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Нямате батерия. Влизане в Режим Хибернация след %1$d секунди.</item>
         <item quantity="one">Нямате батерия. Влизане в Режим Хибернация след %1$d секунда.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Слаба батерия. Устройството ще премине в режим на хибернация след %1$d секунди. Възможно е оперативността и силата на сигнала да са леко намалени.</item>
-        <item quantity="one">Слаба батерия. Устройството ще премине в режим на хибернация след %1$d секунда. Възможно е оперативността и силата на сигнала да са леко намалени.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s дни</item>
@@ -656,21 +608,9 @@
         <item quantity="other">Вашето устройство ще се изключи след %d сек</item>
         <item quantity="one">Вашето устройство ще се изключи след %d сек</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s часа</item>
-        <item quantity="one">%s час</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s мин</item>
-        <item quantity="one">%s мин</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">пъти</item>
         <item quantity="one">път</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d</item>
-        <item quantity="one">%d</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d елемента с висока консумация на енергия</item>
@@ -691,10 +631,6 @@
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d часа "</item>
         <item quantity="one">"%d час "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин. "</item>
-        <item quantity="one">"%d мин. "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Оптимизиране на употребата на батерията в %d сценария</item>
@@ -719,14 +655,6 @@
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Можете да оптимизирате %d елемента, за да спестите батерия</item>
         <item quantity="one">Можете да оптимизирате %d елемент, за да спестите батерия</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Добавени %d минути</item>
@@ -912,14 +840,6 @@
         <item quantity="other">Редактиране на %1$d разрешения</item>
         <item quantity="one">Редактиране на %1$d разрешение</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмента</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Налични са актуал. за %d прил.</item>
         <item quantity="one">Налична е актуал. за %d прил.</item>
@@ -927,10 +847,6 @@
     <plurals name="summary_flow_verify">
         <item quantity="other">Не сте синхронизирали информацията за използвани мобилни данни от оператора за %d дни</item>
         <item quantity="one">Не сте синхронизирали информацията за използвани мобилни данни от оператора за %d ден</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%dс)</item>
-        <item quantity="one">(%dс)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d обекта са защитени</item>
@@ -953,8 +869,8 @@
         <item quantity="one">%d приложение</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">Не са добавени %d игри</item>
-        <item quantity="one">Не е добавена %d игра</item>
+        <item quantity="other">Не могат да се добавят %d игри</item>
+        <item quantity="one">Не може да се добави %d игра</item>
     </plurals>
     <plurals name="unlock_set_unlock_pattern_summary_new">
         <item quantity="other">Свържете поне %s точки</item>
@@ -993,5 +909,37 @@
     <plurals name="white_list_trojan_header">
         <item quantity="other">Троянски коне: %d</item>
         <item quantity="one">Троянски кон: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" мин"</item>
+        <item quantity="one">" мин"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s мин</item>
+        <item quantity="one">%s мин</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмента</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин. "</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dс)</item>
+        <item quantity="one">(%dс)</item>
     </plurals>
 </resources>

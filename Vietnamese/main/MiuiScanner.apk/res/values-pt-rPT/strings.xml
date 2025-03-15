@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Escolher uma app</string>
+    <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
     <string name="abc_capital_off">DESATIVADO</string>
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -25,7 +25,7 @@
     <string name="abc_searchview_description_submit">Enviar consulta</string>
     <string name="abc_searchview_description_voice">Pesquisa por voz</string>
     <string name="abc_shareactionprovider_share_with">Partilhar com</string>
-    <string name="abc_shareactionprovider_share_with_application">Partilhar com a app %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Partilhar com a aplicação %s</string>
     <string name="abc_toolbar_collapse_description">Reduzir</string>
     <string name="about_title">Sobre</string>
     <string name="access_sd_fail">Não foi possível aceder ao cartão SD</string>
@@ -45,7 +45,6 @@
     <string name="app_name">Digitalizador</string>
     <string name="app_remove_icon_description_content">O Digitalizador é uma aplicação de sistema. Ainda conseguirá encontrá-lo nas Definições ou digitalizar códigos com a Câmara, Navegador e Mi Wallet após remover o atalho no Ecrã inicial.</string>
     <string name="app_remove_icon_description_title">Remover \"Digitalizador\" do Ecrã inicial?</string>
-    <string name="auracast_code_title_key">Ouvir à transmissão de %s</string>
     <string name="back">Voltar</string>
     <string name="barcode_into_rectangle">Alinhar o código com o quadrado</string>
     <string name="birthday">Aniversário:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">Enviar email</string>
     <string name="btn_send_message">Enviar SMS</string>
     <string name="camera_error_title">Erro da câmara</string>
-    <string name="camera_string">Câmara</string>
-    <string name="camera_use">Para utilizar a câmara</string>
     <string name="cancel">Cancelar</string>
     <string name="choose_open_code_app">Selecione uma aplicação</string>
     <string name="choose_pay_title">Selecionar método de pagamento</string>
@@ -216,7 +213,6 @@
     <string name="miracast_switch_off">Wireless Display desligado</string>
     <string name="miracast_switch_tip">Ligue o Wireless Display para utilizar esta funcionalidade</string>
     <string name="mishop">Mi Store</string>
-    <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -226,7 +222,6 @@
     <string name="miuix_appcompat_delete_description">Eliminar</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
-    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
@@ -298,11 +293,8 @@
     <string name="open_web_url">Abrir no Navegador</string>
     <string name="pay_save_this_choose">Lembrar a minha escolha</string>
     <string name="payment_text">Abrir com %s</string>
-    <string name="permissions_need">Permissões obrigatórias</string>
-    <string name="permissions_use">Permissões</string>
     <string name="phone">Telefone:</string>
     <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
-    <string name="please_enable_bluetooth_retry">Ligue o Bluetooth e tente novamente</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preparing_sd">A preparar o armazenamento interno…</string>
@@ -337,8 +329,6 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">Sem espaço suficiente no armazenamento interno. Liberte algum espaço.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">Acessar e editar itens guardados no armazenamento do dispositivo</string>
-    <string name="storage_string">Aceder ao armazenamento</string>
     <string name="study_scan_result">Resultado</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>

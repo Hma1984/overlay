@@ -140,30 +140,15 @@
         <item quantity="one">Пре 1 мин.</item>
         <item quantity="few">Пре %d минута</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Повуци (%ds)</item>
-        <item quantity="one">Повуци (%ds)</item>
-        <item quantity="few">Повуци (%ds)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Примили сте %d позива за групно ћаскање</item>
         <item quantity="one">Примили сте %d позив за групно ћаскање</item>
         <item quantity="few">Примили сте %d позива за групно ћаскање</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s особа</item>
-        <item quantity="one">%1$s особа</item>
-        <item quantity="few">%1$s особе</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s резултата за \"%2$s\"</item>
         <item quantity="one">%1$s резултат за \"%2$s\"</item>
         <item quantity="few">%1$s резултата за \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d секунди</item>
-        <item quantity="one">%d секунда</item>
-        <item quantity="few">%d секунде</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Послато %1$s порука</item>

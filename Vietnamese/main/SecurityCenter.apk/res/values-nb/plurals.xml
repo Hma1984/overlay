@@ -204,18 +204,6 @@ Hvis du skrur på mobildata igjen, kan leverandøren din belaste deg for ytterli
         <item quantity="other">%d meldinger</item>
         <item quantity="one">%d melding</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">Game Turbo-medlemskapet utløper om %d dager. Forny nå for å få sømløs gaming.</item>
         <item quantity="one">Game Turbo-medlemskapet utløper om %d dag. Forny nå for å få sømløs gaming.</item>
@@ -248,14 +236,6 @@ Hvis du skrur på mobildata igjen, kan leverandøren din belaste deg for ytterli
         <item quantity="other">Sjekket inn %d ganger på rad</item>
         <item quantity="one">Sjekket inn %d gang</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d t</item>
-        <item quantity="one">%d t</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Skjønner (%d s)</item>
         <item quantity="one">Skjønner (%d s)</item>
@@ -267,14 +247,6 @@ Hvis du skrur på mobildata igjen, kan leverandøren din belaste deg for ytterli
         <item quantity="one">"Merk:
 ·Forbedrede visuelle effekter er ikke tilgjengelige mens batterisparing er aktivert eller hvis enheten er overopphetet.
 ·Smart bildefrekvens oppnås når spillet er stilt inn til å vise minst %d bilde pr. sekund."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Merk:
-· Forbedrede visuelle effekter er ikke tilgjengelig når Batterisparer er aktivert eller enheten er overopphetet.
-· Forbedret bildefrekvens viser de beste resultatene når spillet er stilt inn til å vise minst %d bilder per sekund."</item>
-        <item quantity="one">"Merk:
-· Forbedrede visuelle effekter er ikke tilgjengelig når Batterisparer er aktivert eller enheten er overopphetet.
-· Forbedret bildefrekvens viser de beste resultatene når spillet er stilt inn til å vise minst %d bilde per sekund."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Prøv Stemmeskifter nå
@@ -316,10 +288,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
         <item quantity="other">Reduser skjermens lysstyrke automatisk for å spare strøm etter %d minutter med inaktivitet</item>
         <item quantity="one">Reduser skjermens lysstyrke automatisk for å spare strøm etter %d minutt med inaktivitet</item>
     </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">En halvtime siden</item>
         <item quantity="one">En halvtime siden</item>
@@ -329,8 +297,8 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
         <item quantity="one">    +%1$d tegn til</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">%d tillatelser</item>
-        <item quantity="one">%d tillatelse</item>
+        <item quantity="other">%d tilaltelser</item>
+        <item quantity="one">%d tilaltelser</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
         <item quantity="other">%d apper har ikke tillatelse til å autostarte</item>
@@ -560,10 +528,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
         <item quantity="other">%2$d apper, inkludert %1$s, kan være ondsinnede</item>
         <item quantity="one">%2$d app, inkludert %1$s, kan være ondsinnet</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d apper tapper batteri</item>
         <item quantity="one">%d app tapper batteri</item>
@@ -572,14 +536,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
         <item quantity="other">" t"</item>
         <item quantity="one">" t"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-dagers</item>
-        <item quantity="one">%d-dags</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elementer</item>
         <item quantity="one">%d element</item>
@@ -587,10 +543,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Enheten er tom for batteri. Går i dvalemodus om %1$d sekunder.</item>
         <item quantity="one">Enheten er tom for batteri. Går i dvalemodus om %1$d sekund.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Lavt batterinivå. Enheten går over i dvalemodus om %1$d sekunder. Ytelse og signalstyrke kan reduseres noe.</item>
-        <item quantity="one">Lavt batterinivå. Enheten går over i dvalemodus om %1$d sekund. Ytelse og signalstyrke kan reduseres noe.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dager</item>
@@ -656,21 +608,9 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
         <item quantity="other">Enheten din slås av om %d sek</item>
         <item quantity="one">Enheten din slås av om %d sek</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s t</item>
-        <item quantity="one">%s t</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s min</item>
-        <item quantity="one">%s min</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">ganger</item>
         <item quantity="one">gang</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d ganger</item>
-        <item quantity="one">%d gang</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d elementer med høyt strømforbruk</item>
@@ -691,10 +631,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d timer "</item>
         <item quantity="one">"%d time "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min "</item>
-        <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Optimaliser batteribruk i %d scenarier</item>
@@ -719,14 +655,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Du kan optimere %d elementer for å spare batteri</item>
         <item quantity="one">Du kan optimere %d element for å spare batteri</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Legg til %d minutter</item>
@@ -912,14 +840,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
         <item quantity="other">Redigerer %1$d tillatelser</item>
         <item quantity="one">Redigerer %1$d tillatelse</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmenter</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Oppdateringer tilgjengelig for %d apper.</item>
         <item quantity="one">Oppdateringer tilgjengelig for %d app.</item>
@@ -927,10 +847,6 @@ Du kan få en %d-dags gratis prøveversjon nå!"</item>
     <plurals name="summary_flow_verify">
         <item quantity="other">Har ikke synkronisert operatørens statistikk over databruk på %d dager</item>
         <item quantity="one">Har ikke synkronisert operatørens statistikk over databruk på %d dag</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%ds)</item>
-        <item quantity="one">(%ds)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d enheter sikre</item>
@@ -993,5 +909,29 @@ Ta en pause!"</item>
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojanere: %d</item>
         <item quantity="one">Trojan: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s t</item>
+        <item quantity="one">%s t</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmenter</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
     </plurals>
 </resources>

@@ -44,8 +44,7 @@
     <string name="app_details">Aplikacija:</string>
     <string name="app_name">Skener</string>
     <string name="app_remove_icon_description_content">Skener je sistemska aplikacija. Čeprav odstranite bližnjico na Začetnem zaslonu, boste jo še zmeraj lahko našli v Nastavitvah ali skenirali kode preko aplikacij Kamera, Brskalnik in Mi Denarnica.</string>
-    <string name="app_remove_icon_description_title">Želite odstraniti Skener iz Začetnega zaslona?</string>
-    <string name="auracast_code_title_key">Poslušajte oddajo %s</string>
+    <string name="app_remove_icon_description_title">Želite odstraniti \"Skener\" iz Začetnega zaslona?</string>
     <string name="back">Nazaj</string>
     <string name="barcode_into_rectangle">Postavite kodo znotraj okvira</string>
     <string name="birthday">Rojstni dan:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">Pošlji e-pošto</string>
     <string name="btn_send_message">Pošlji SMS</string>
     <string name="camera_error_title">Napaka kamere</string>
-    <string name="camera_string">Kamera</string>
-    <string name="camera_use">Za uporabo kamere</string>
     <string name="cancel">Prekliči</string>
     <string name="choose_open_code_app">Izberite aplikacijo</string>
     <string name="choose_pay_title">Izberi metodo plačila</string>
@@ -182,7 +179,7 @@
     <string name="friday_shortest">Pet</string>
     <string name="got_it">Razumem</string>
     <string name="import_contact">Uvozi stik</string>
-    <string name="impunity_declaration_content">Aplikacija Skener mora uporabiti vašo kamero in obdelovati slike, ki jih zajamete med uporabo aplikacije. Aplikacije Skener ne uporabljajte za zajemanje fotografij predmetov, ki vsebujejo vaše osebne podatke. S pritiskom na »Strinjam se« se strinjate z našim &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font> in aplikaciji Skener dovolite, da se poveže z internetom.</string>
+    <string name="impunity_declaration_content">Aplikacija Skener mora uporabiti vašo kamero in obdelovati slike, ki jih zajamete med uporabo aplikacije. Aplikacije Skener ne uporabljajte za zajemanje fotografij predmetov, ki vsebujejo vaše osebne podatke. S pritiskom na \"Strinjam se\" se strinjate z našim &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font> in aplikaciji Skener dovolite, da se poveže z internetom.</string>
     <string name="impunity_declaration_negative_text">Izhod</string>
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Omogoča Kuaidi 100</string>
@@ -216,8 +213,7 @@
     <string name="miracast_switch_off">Brezžični zaslon je izklopljen</string>
     <string name="miracast_switch_tip">Vklopite brezžični zaslon za uporabo te storitve</string>
     <string name="mishop">Mi Trgovina</string>
-    <string name="miuix_access_state_desc">Izbrano</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbiro</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
     <string name="miuix_appcompat_action_mode_title_empty">Izberite predmete</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -225,8 +221,7 @@
     <string name="miuix_appcompat_confirm_description">Potrdi</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Prekliči izbiro</string>
-    <string name="miuix_appcompat_deselect_all_description">Prekliči izbiro</string>
-    <string name="miuix_appcompat_edit">Uredi</string>
+    <string name="miuix_appcompat_deselect_all_description">Odznačite vse</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
     <string name="miuix_appcompat_search_input_description">Išči</string>
     <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -298,11 +293,8 @@
     <string name="open_web_url">Odpri v brskalniku</string>
     <string name="pay_save_this_choose">Zapomni si mojo izbiro</string>
     <string name="payment_text">Odpri z %s</string>
-    <string name="permissions_need">Obvezna dovoljenja</string>
-    <string name="permissions_use">Dovoljenja</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Postavite kodo znotraj okvira</string>
-    <string name="please_enable_bluetooth_retry">Vklopite Bluetooth in poskusite znova</string>
     <string name="pm">pop.</string>
     <string name="preference_copied">»%1$s« je bilo kopirano v odložišče.</string>
     <string name="preparing_sd">Pripravljanje notranjega pomnilnika…</string>
@@ -337,14 +329,12 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">Ni dovolj prostora v notranjem pomnilniku. Sprostite prostor.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">Dostop in urejanje elementov, shranjenih v pomnilniku naprave</string>
-    <string name="storage_string">Dostop do pomnilnika</string>
     <string name="study_scan_result">Rezultat</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">Ned</string>
-    <string name="switch_open">Vklopi</string>
+    <string name="switch_open">Vključi</string>
     <string name="taobao">Taobao</string>
     <string name="text_search">Išči</string>
     <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega prava</string>

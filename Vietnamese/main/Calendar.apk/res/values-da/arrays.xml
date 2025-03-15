@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Manuel</item>
-        <item>Hvert %d. minut</item>
-        <item>Hver time</item>
-        <item>Hver %d. time</item>
-        <item>Hver %d. time</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Ingen</item>
+        <item>Islamisk kalender</item>
+        <item>Indiens nationale kalender</item>
+        <item>Vikram-kalender</item>
     </string-array>
     <string-array name="aquarius_info">
-        <item>aquarius</item>
+        <item>vandmand</item>
         <item>Vandmanden</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Vædderen</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>cancer</item>
+        <item>krebs</item>
         <item>Krebsen</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Stenbukken</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Kun dette event</item>
         <item>Alle events i serien</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Kun for denne gang</item>
-        <item>Deaktivér gentagne påmindelser</item>
+        <item>Deaktivér én gang</item>
+        <item>Altid deaktiveret</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Forlæns</item>
         <item>Baglæns</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Når eventen begynder</item>
+        <item>5 minutter før</item>
+        <item>15 minutter før</item>
+        <item>30 minutter før</item>
+        <item>1 time før</item>
+        <item>4 timer før</item>
+        <item>1 dag før</item>
+        <item>2 dage før</item>
+        <item>1 uge før</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Kun dette event</item>
@@ -41,58 +45,42 @@
         <item>Alle events</item>
     </string-array>
     <string-array name="gemini_info">
-        <item>gemini</item>
+        <item>tvilling</item>
         <item>Tvillingerne</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="leo_info">
-        <item>leo</item>
+        <item>løve</item>
         <item>Løven</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
-        <item>libra</item>
+        <item>vægt</item>
         <item>Vægten</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Ingen</item>
-        <item>Traditionel kinesisk kalender</item>
-        <item>Islamisk kalender</item>
-        <item>Hebraisk kalender</item>
-        <item>Japansk kalender</item>
-        <item>Persisk kalender</item>
-        <item>Indisk kalender</item>
-        <item>Buddhistisk kalender</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Januar</item>
-        <item>Februar</item>
-        <item>Marts</item>
-        <item>April</item>
-        <item>Maj</item>
-        <item>Juni</item>
-        <item>Juli</item>
-        <item>August</item>
-        <item>September</item>
-        <item>Oktober</item>
-        <item>November</item>
-        <item>December</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Kun for denne gang</item>
-        <item>Indstil gentagne påmindelser</item>
+        <item>Aktivér én gang</item>
+        <item>Altid aktiveret</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Søndag</item>
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
     </string-array>
     <string-array name="pisces_info">
-        <item>pisces</item>
+        <item>fisk</item>
         <item>Fisken</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Fra</item>
         <item>For alle events</item>
         <item>For tidskritiske events</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Altid</item>
@@ -232,25 +220,22 @@
         <item>Måske</item>
         <item>Nej</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Svarer ikke</item>
-        <item>Acceptér</item>
-        <item>Beslut dig senere</item>
-        <item>Afvis</item>
-    </string-array>
     <string-array name="sagittarius_info">
-        <item>sagittarius</item>
+        <item>skytte</item>
         <item>Skytten</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>scorpio</item>
+        <item>skorpion</item>
         <item>Skorpionen</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
-        <item>taurus</item>
+        <item>tyr</item>
         <item>tyren</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Marshalløerne</item>
         <item>Midwayøerne</item>
         <item>Hawaii</item>
@@ -272,27 +257,24 @@
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Newfoundland</item>
-        <item>Brasilien</item>
+        <item>Brasília</item>
         <item>Buenos Aires</item>
-        <item>Grønland</item>
+        <item>Grækenland</item>
         <item>Montevideo</item>
-        <item>Midt-Atlanterhavet</item>
+        <item>Mid-Atlantic</item>
         <item>Azorerne</item>
-        <item>Kap Verde</item>
+        <item>Cape Verde</item>
         <item>Casablanca</item>
-        <item>London</item>
-        <item>Dublin</item>
-        <item>Amsterdam</item>
-        <item>Berlin</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
         <item>Beograd</item>
         <item>Bruxelles</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
         <item>West Africa Time</item>
-        <item>Amman</item>
-        <item>Athen</item>
-        <item>Istanbul</item>
-        <item>Beirut</item>
+        <item>Amman, Jordan</item>
+        <item>Athen, Istanbul</item>
+        <item>Beirut, Libanon</item>
         <item>Cairo</item>
         <item>Helsinki</item>
         <item>Jerusalem</item>
@@ -308,8 +290,8 @@
         <item>Jerevan</item>
         <item>Dubai</item>
         <item>Kabul</item>
-        <item>Karachi</item>
-        <item>"Ural'sk"</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
         <item>Jekaterinburg</item>
         <item>Kolkata</item>
         <item>Sri Lanka</item>
@@ -319,7 +301,6 @@
         <item>Krasnojarsk</item>
         <item>Bangkok</item>
         <item>Beijing</item>
-        <item>Chongqing</item>
         <item>Hongkong</item>
         <item>Macao</item>
         <item>Singapore</item>
@@ -328,14 +309,13 @@
         <item>Perth</item>
         <item>Taipei</item>
         <item>Seoul</item>
-        <item>Tokyo</item>
+        <item>Tokyo, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sydney</item>
-        <item>Canberra</item>
+        <item>Sydney, Canberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>
@@ -344,8 +324,37 @@
         <item>Tonga</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>virgo</item>
+        <item>jomfru</item>
         <item>Jomfruen</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Klart</item>
+        <item>Overskyet</item>
+        <item>Overskyet</item>
+        <item>Tåge</item>
+        <item>Kraftig storm</item>
+        <item>Storm</item>
+        <item>Let storm</item>
+        <item>Tordenvejr</item>
+        <item>Byge</item>
+        <item>Kraftig regn</item>
+        <item>Regn</item>
+        <item>Let regn</item>
+        <item>Regn og sne</item>
+        <item>Snestorm</item>
+        <item>Snebyger</item>
+        <item>Kraftigt snevejr</item>
+        <item>Sne</item>
+        <item>Let snevejr</item>
+        <item>Kraftig sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Støv</item>
+        <item>Let sandstorm</item>
+        <item>Hagl</item>
+        <item>Flyvende støv</item>
+        <item>Dis</item>
+        <item>Isslag</item>
     </string-array>
     <string-array name="week_header_name">
         <item>SØN</item>
@@ -361,12 +370,22 @@
         <item>Hvid baggrund</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>S</item>
-        <item>M</item>
-        <item>T</item>
-        <item>O</item>
-        <item>T</item>
-        <item>F</item>
-        <item>L</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>vædder</item>
+        <item>Vædderen</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>stenbuk</item>
+        <item>Stenbukken</item>
+        <item>22/12 - 19/1</item>
     </string-array>
 </resources>

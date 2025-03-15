@@ -51,10 +51,4 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d นาทีที่ผ่านมา</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">รวมทั้งหมด %1$d รายการ</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">เลือกไว้ %1$d รายการ</item>
-    </plurals>
 </resources>

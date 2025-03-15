@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animation_rate_entries">
+        <item>Wolna</item>
+        <item>Normalna</item>
+        <item>Szybka</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Tapety</item>
+        <item>Widżety</item>
+        <item>Opcje</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Domyślny</item>
+        <item>Niebieski</item>
+        <item>Zielony</item>
+        <item>Purpurowy</item>
+        <item>Brązowy</item>
+    </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Wyłączone</item>
+        <item>Wszędzie</item>
+        <item>Pod widżetami</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Wyłączone</item>
+        <item>Wszędzie</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Klasyczny</item>
+        <item>Przenikanie</item>
+        <item>Karuzela</item>
+        <item>Strona</item>
+        <item>Stos</item>
+        <item>Obrót</item>
+        <item>Kostka</item>
+    </string-array>
+</resources>

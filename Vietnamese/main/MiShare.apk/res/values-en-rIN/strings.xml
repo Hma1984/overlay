@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_send">Cancelled transfer</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">For transferring files using Bluetooth and WLAN</string>
+    <string name="error_msg_network_error_china">"Couldn't connect to the network. Check both devices' WLAN and Bluetooth connections."</string>
+    <string name="error_msg_wlan_error_china">"Couldn't connect. Reconnect to WLAN and try again."</string>
+    <string name="error_p2p_create_group_failure_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
+    <string name="error_p2p_recv_connect_timeout_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
+    <string name="error_permission_denied">To be able to use this feature, grant Xiaomi Share all the required permissions in the Settings.</string>
+    <string name="error_receive_file_service_disabled">Cancelled incoming transfer</string>
+    <string name="error_receive_user_cancel">Cancelled transfer</string>
+    <string name="error_receive_user_interrupted">The other person cancelled the transfer</string>
+    <string name="error_refuse_receive">Cancelled transfer</string>
+    <string name="error_send_file_service_disabled">Cancelled outgoing transfer</string>
+    <string name="error_slave_wifi_in_use">"Xiaomi Share won't work when dual Wi-Fi is on. Turn off dual Wi-Fi in the Settings and try again."</string>
+    <string name="error_slave_wifi_in_use_china">"Xiaomi Share won't work when dual WLAN is on. Turn off dual WLAN in the Settings and try again."</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="guide_title_1">Turn on Xiaomi Share on both devices</string>
+    <string name="help_content">"If you can't find the device you need, ask the other person to turn on Xiaomi Share."</string>
+    <string name="location_enabled">Xiaomi Share turned on location services to find devices nearby</string>
+    <string name="mishare_folder_in_file_explorer">File Manager > Xiaomi Share</string>
+    <string name="mishare_service_channel_desc">Notifications about Xiaomi Share processes</string>
+    <string name="mishare_settings_summary_international">"Xiaomi Share allows you to send items wirelessly to other nearby devices.
+This feature is supported by OPPO, vivo, realme, and other smartphone manufacturers. You can check the list of supported devices on the official website of any selected brand."</string>
+    <string name="mishare_state_protection">Turn on Xiaomi Share automatically</string>
+    <string name="mishare_state_protection_summary">Turn Xiaomi Share back on automatically when Bluetooth or Wi-Fi are turned back on</string>
+    <string name="mishare_state_protection_summary_china">Turn Xiaomi Share back on automatically when Bluetooth or WLAN are turned back on</string>
+    <string name="mishare_transefer_channel_desc">Notifications about items sent and received by Xiaomi Share</string>
+    <string name="miuix_appcompat_action_mode_select_all">Select All</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Select Items</string>
+    <string name="nfc_check_the_touch_device_china">To connect the devices, WLAN and Bluetooth should be turned on on the other device too. Check whether connection for the other device is allowed in Settings > Connection &amp; sharing > Connected devices and try again.</string>
+    <string name="nfc_connect_fail_lyra_secure">"You can turn on Xiaomi Share in your device's Control center."</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share is off</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">To connect the devices, turn on WLAN and Bluetooth on this device first. Turn on now?</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Couldn't connect to computer. Make sure you've turned on WLAN and Bluetooth on both your mobile device and computer, and that your computer is running Xiaomi PC Manager."</string>
+    <string name="nfc_wifi_and_bluetooth_china">Turn on WLAN and Bluetooth</string>
+    <string name="permission_apply_purpose">Allow Xiaomi Share to discover and connect to nearby devices for it to be able to transfer files.</string>
+    <string name="permission_denied_hint">Grant the required permissions to be able to use Xiaomi Share</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="privacy_authorize">Authorisation</string>
+    <string name="purpose">"Welcome to Xiaomi Share! You can use this app to transfer files between devices. We protect your personal information in accordance with the relevant laws, regulations, and policies.
+Before using Xiaomi Share, you must grant the following permissions, as well as allow it to collect the necessary personal information:"</string>
+    <string name="purpose_v12">Welcome to Xiaomi Share! You can use this app to transfer files between devices.</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Withdrawing consent to the Privacy Policy will also turn off Xiaomi Share</string>
+    <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
+    <string name="toast_auto_close_in_minutes">Xiaomi Share will turn off automatically in %d minutes</string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager now supports Xiaomi Share! You can find a list of supported computer models &lt;a href=%1$s>here&lt;/a>.</Data></string>
+    <string name="transfer_to_phone_summary">"Turn on Xiaomi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
+    <string name="transfer_to_phone_summary_new">Turn on Xiaomi Share in Control center to be able to easily send and receive items. After turning it on, you can share items with nearby devices for %d minutes before it turns off automatically.</string>
+    <string name="transfer_to_summary">"Turn on Xiaomi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
+    <string name="transfer_to_summary_new">Turn on Xiaomi Share in Control center to be able to easily send and receive items. After turning it on, you can share items with nearby devices for %d minutes before it turns off automatically.</string>
+    <string name="uwb_guide_summary_1">"If you can't find the target device, ask the other person to tap the Xiaomi Share toggle in their Control center."</string>
+    <string name="uwb_guide_title_1">Ask the other person to turn on Xiaomi Share</string>
+    <string name="uwb_setting_guide_summary">Beam uses UWB technology to recognise target devices wirelessly. Once the target device is recognised, its icon will come to the foreground.</string>
+    <string name="uwb_summary">Beam uses UWB technology to recognise target devices wirelessly. Transferring items between devices powered by UWB technology is faster and more convenient.</string>
+    <string name="wait_remote_receive_tips_china">"Make sure both devices' screens are on and they have WLAN and Bluetooth turned on."</string>
+    <string name="wifi_is_not_enabled_china">Turn on WLAN first</string>
+    <string name="withdraw_consent_message">"If you continue, you'll withdraw your consent to the Privacy Policy of Xiaomi Share. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Xiaomi Share provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Xiaomi Share services."</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="mi_drop">Xiaomi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
+</resources>

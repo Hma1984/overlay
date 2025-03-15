@@ -12,5 +12,4 @@
     <string name="frequent_phrases">Часто використовувані фрази</string>
     <string name="query">Пошук</string>
     <string name="select">Обрати</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

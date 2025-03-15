@@ -72,6 +72,10 @@
         <item quantity="other">%d tilgjengelige enheter</item>
         <item quantity="one">%d tilgjengelig enhet</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Hvert %d sekund</item>
         <item quantity="one">Hvert %d sekund</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">Begrenser tilkobling for %s apper</item>
         <item quantity="one">Begrenser tilkobling for %s app</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Wait for %d secs and try again</item>
-        <item quantity="one">Wait for %d sec and try again</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d personer tilkoblet</item>
@@ -148,10 +148,6 @@
         <item quantity="other">Vent i %d sekunder og prøv igjen.</item>
         <item quantity="one">Vent i %d sekunder og prøv igjen.</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s, %2$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Maks %d prosesser</item>
         <item quantity="one">Maks %d prosess</item>
@@ -199,6 +195,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Du er %1$d steg unna å rapportere feil.</item>
         <item quantity="one">Du er %1$d steg unna å rapportere feil.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d apper kan bruke ubegrenset med data</item>
+        <item quantity="one">1 app kan bruke ubegrenset med data</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d apper kan ikke vise varsler</item>
@@ -248,21 +248,9 @@
         <item quantity="other">Mottatt %d varsler</item>
         <item quantity="one">Mottatt %d varsel</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d t</item>
-        <item quantity="one">%d t</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d timer</item>
         <item quantity="one">%d time</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">" t"</item>
-        <item quantity="one">" t"</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" min"</item>
@@ -292,14 +280,6 @@
         <item quantity="other">Ukedager: %d minutter</item>
         <item quantity="one">Ukedager: %d minutt</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" t"</item>
-        <item quantity="one">" t"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d risikoer funnet</item>
         <item quantity="one">%d risiko funnet</item>
@@ -307,5 +287,29 @@
     <plurals name="wifi_share_count">
         <item quantity="other">Delte %d nettverk</item>
         <item quantity="one">Delte %d nettverk</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d enheter tilkoblet</item>
+        <item quantity="one">%1$d enhet tilkoblet</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" t"</item>
+        <item quantity="one">" t"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" t"</item>
+        <item quantity="one">" t"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
     </plurals>
 </resources>

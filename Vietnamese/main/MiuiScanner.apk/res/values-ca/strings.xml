@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">"Navega fins a la pàgina d'inici"</string>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
@@ -45,7 +45,6 @@
     <string name="app_name">Escàner</string>
     <string name="app_remove_icon_description_content">"Escàner és una aplicació del sistema. Després d’eliminar la drecera a la Pantalla d'inici, el podreu trobar a la Configuració o als codis d’escaneig mitjançant la Càmera, el Navegador i Moneder Mi."</string>
     <string name="app_remove_icon_description_title">"Voleu eliminar \"Escàner\" de la Pantalla d'inici?"</string>
-    <string name="auracast_code_title_key">"Escolta l'emissió de %s"</string>
     <string name="back">Enrere</string>
     <string name="barcode_into_rectangle">"Poseu el codi a l'interior del marc"</string>
     <string name="birthday">Aniversari:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">Enviar correu electrònic</string>
     <string name="btn_send_message">Enviar SMS</string>
     <string name="camera_error_title">Error de la càmera</string>
-    <string name="camera_string">Càmera</string>
-    <string name="camera_use">Per utilitzar la càmera</string>
     <string name="cancel">Cancel·la</string>
     <string name="choose_open_code_app">Seleccionar una aplicació</string>
     <string name="choose_pay_title">Seleccioneu el mètode de pagament</string>
@@ -216,17 +213,15 @@
     <string name="miracast_switch_off">Opcions de la pantalla sense fils desactivades</string>
     <string name="miracast_switch_tip">Activeu la funció de pantalla sense fils per poder-la utilitzar</string>
     <string name="mishop">Mi Store</string>
-    <string name="miuix_access_state_desc">Seleccionat</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar tot</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·leu</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Deseleccionar tot</string>
+    <string name="miuix_appcompat_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
-    <string name="miuix_appcompat_edit">Edita</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
@@ -291,18 +286,15 @@
     <string name="noon">Migdia</string>
     <string name="not_insert_contact">No es pot afegir el contacte</string>
     <string name="not_recommend_access_web_url">Aneu-hi de totes maneres</string>
-    <string name="not_set">No definit</string>
+    <string name="not_set">Sense definir</string>
     <string name="note">Notes:</string>
     <string name="now_state">"Estat actual: "</string>
     <string name="once">Només un cop</string>
     <string name="open_web_url">Obrir al navegador</string>
     <string name="pay_save_this_choose">Recordeu la meva selecció</string>
     <string name="payment_text">Obriu amb %s</string>
-    <string name="permissions_need">Permisos obligatoris</string>
-    <string name="permissions_use">Permisos</string>
     <string name="phone">Telèfon:</string>
     <string name="place_barcode_into_rectangle">"Poseu el codi a l'interior del marc"</string>
-    <string name="please_enable_bluetooth_retry">Activeu el Bluetooth i proveu-ho de nou</string>
     <string name="pm">p. m.</string>
     <string name="preference_copied">"\"%1$s\" s'ha copiat al porta-retalls"</string>
     <string name="preparing_sd">Preparant memòria interna…</string>
@@ -337,8 +329,6 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">No hi ha prou espai a la memòria interna. Allibereu espai.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">"Accediu i editeu els elements desats a l'emmagatzematge del dispositiu"</string>
-    <string name="storage_string">"Accedir a l'emmagatzematge"</string>
     <string name="study_scan_result">Resultat</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">diumenge</string>

@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>လက်ဖြင့်</item>
-        <item>%d မိနစ် တစ်ကြိမ်</item>
-        <item>တစ်နာရီတစ်ကြိမ်</item>
-        <item>%d နာရီ တစ်ကြိမ်</item>
-        <item>%d နာရီ တစ်ကြိမ်</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>တစ်ခုမျှမရှိပါ</item>
+        <item>အစ္စလမ်ပြက္ခဒိန်</item>
+        <item>အိန္ဒိယအမျိုးသားပြက္ခဒိန်</item>
+        <item>ဗီကရန်ပြက္ခဒိန်</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>ကုမ်ရာသီဖွား</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>မဿိရာသီဖွား</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>ကရကဋ်ရာသီဖွား</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>မကာရရာသီဖွား</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>ဤလုပ်ငန်းစဉ်သာ</item>
         <item>ဤစီးရီးရှိ လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>ယခုတစ်ကြိမ်သာ</item>
-        <item>ထပ်ကျော့သတိပေးချက်ပိတ်ရန်</item>
+        <item>တစ်ကြိမ်ပိတ်ရန်</item>
+        <item>အမြဲပိတ်ရန်</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>ရှေ့သို့</item>
         <item>နောက်သို့</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>ပွဲစဉ်အချိန်တွင်</item>
+        <item>၅ မိနစ်မတိုင်ခင်က</item>
+        <item>၁၅ မိနစ် မတိုင်မီ</item>
+        <item>မိနစ် ၃၀ မတိုင်မီ</item>
+        <item>၁ နာရီ မတိုင်မီ</item>
+        <item>၄ နာရီ မတိုင်မီ</item>
+        <item>၁ရက် မတိုင်ခင်က</item>
+        <item>၂ ရက်မတိုင်ခင်က</item>
+        <item>၁ ပတ်မတိုင်ခင်က</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>ဤလုပ်ငန်းစဉ်သာ</item>
@@ -43,56 +47,40 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>မေထုန်ရာသီဖွား</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>သိဟ်ရာသီဖွား</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>တူရာသီဖွား</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>တစ်ခုမျှမရှိပါ</item>
-        <item>တရုတ်ရိုးရာပြက္ခဒိန်</item>
-        <item>အစ္စလမ်ပြက္ခဒိန်</item>
-        <item>ဟီဘရူးပြက္ခဒိန်</item>
-        <item>ဂျပန်ပြက္ခဒိန်</item>
-        <item>ပါရှားပြက္ခဒိန်</item>
-        <item>အိန္ဒိယပြက္ခဒိန်</item>
-        <item>ဗုဒ္ဓပြက္ခဒိန်</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>ဇန်နဝါရီ</item>
-        <item>ဖေဖော်ဝါရီ</item>
-        <item>မတ်</item>
-        <item>ဧပြီ</item>
-        <item>မေ</item>
-        <item>ဇွန်</item>
-        <item>ဇူလိုင်</item>
-        <item>သြဂုတ်</item>
-        <item>စက်တင်ဘာ</item>
-        <item>အောက်တိုဘာ</item>
-        <item>နိုဝင်ဘာ</item>
-        <item>ဒီဇင်ဘာ</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>ယခုတစ်ကြိမ်သာ</item>
-        <item>ထပ်ကျော့သတိပေးချက်သတ်မှတ်ရန်</item>
+        <item>တစ်ကြိမ်ဖွင့်ရန်</item>
+        <item>အမြဲဖွင့်ရန်</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>တနင်္ဂနွေ</item>
+        <item>တနင်္လာ</item>
+        <item>အင်္ဂါ</item>
+        <item>ဗုဒ္ဓဟူး</item>
+        <item>ကြာသာပတေး</item>
+        <item>သောကြာ</item>
+        <item>စနေ</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>မိန်ရာသီဖွား</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>ပိတ်ရန်</item>
         <item>ပွဲစဉ်အားလုံးအတွက်</item>
         <item>အချိန်အကန့်အသတ်ရှိသော ပွဲစဉ်များအတွက်</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>အမြဲတမ်း</item>
@@ -232,26 +220,23 @@
         <item>ဖြစ်ကောင်းဖြစ်နိုင်သည်</item>
         <item>မဟုတ်ပါ</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>မတုံ့ပြန်ရန်</item>
-        <item>လက်ခံရန်</item>
-        <item>နောက်မှဆုံးဖြတ်ရန်</item>
-        <item>ငြင်းပယ်ရန်</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>ဓနုရာသီဖွား</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>ဗြိစ္ဆာရာသီဖွား</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>ပြဿိ</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
-        <item>မာရှယ်ကျွန်းများ</item>
+    <string-array name="timezone_labels">
+        <item>မာရှယ် ကျွန်းများ</item>
         <item>မစ်ဝေးကျွန်း</item>
         <item>ဟာဝိုင်အီ</item>
         <item>အလက်စကား</item>
@@ -260,44 +245,41 @@
         <item>အရီဇိုးနား</item>
         <item>ချီဝါးဝါး</item>
         <item>တောင်ပေါ်စံတော်ချိန်</item>
-        <item>အမေရိကအလယ်ပိုင်း</item>
+        <item>အမေရိက အလယ်ပိုင်း</item>
         <item>အလယ်ပိုင်း စံတော်ချိန်</item>
         <item>မက္ကစီကိုမြို့</item>
-        <item>ဆက်စကက်ချီဝန်</item>
-        <item>ဘိုဂိုတာ</item>
-        <item>အရှေ့ပိုင်းစံတော်ချိန်</item>
+        <item>ဆက်စ်ကက်ချီဝန်</item>
+        <item>ဘိုဂိုထာ</item>
+        <item>အရှေ့ပိုင်း စံတော်ချိန်</item>
         <item>ဗင်နီဇွဲလား</item>
-        <item>အတ္တလန္တိတ် စံတော်ချိန် (ဘာဘေးဒိုစ်)</item>
+        <item>အတ္တလန္တိတ် စံတော်ချိန် (ဘာဘာဒိုစ်)</item>
         <item>အတ္တလန္တိတ် စံတော်ချိန် (ကနေဒါ)</item>
         <item>မန်းနာဝုစ်</item>
         <item>ဆန်တီယာဂို</item>
         <item>နယူးဖောင်လန်</item>
         <item>ဘရာဇီးလီယား</item>
-        <item>ဗျူနိုအေးရိစ်</item>
+        <item>ဘူနော့စ် အိုင်ရီစ်</item>
         <item>ဂရင်းလန်း</item>
         <item>မွန်တယ်ဗီဒို</item>
         <item>အတ္တလန္တိတ်-အလယ်ပိုင်း</item>
         <item>အဇိုးရီးစ်</item>
-        <item>ကိတ်ဗာဒေ</item>
+        <item>ကိပ်ဗာဒီ</item>
         <item>ကာဆာဘလန်ကာ</item>
-        <item>လန်ဒန်</item>
-        <item>ဒူဘလင်</item>
-        <item>အမ်စတာဒမ်</item>
-        <item>ဘာလင်</item>
-        <item>ဘယ်ဂရိတ်</item>
+        <item>လန်ဒန်၊ ဒူဘလင်</item>
+        <item>အမ်စတာဒန်၊ ဘာလင်</item>
+        <item>ဘယ်လ်ဂရိတ်</item>
         <item>ဘရူးဆဲ</item>
         <item>ဆာရာဂျေဗို</item>
-        <item>ဝင်းဒဟို့</item>
-        <item>အနောက်အာဖရိကစံတော်ချိန်</item>
-        <item>အန်မန်</item>
-        <item>အေသင်</item>
-        <item>အစ္စတန်ဘူ</item>
-        <item>ဘေရုထ်</item>
+        <item>ဝင်းဟို့ခ်</item>
+        <item>အာဖရိက အနောက်ပိုင်း စံတော်ချိန်</item>
+        <item>အမ်မန်၊ ဂျော်ဒန်</item>
+        <item>အေသင်၊ အစ္စတန်ဘူ</item>
+        <item>ဘာရတ်၊ လက်ဘနွမ်</item>
         <item>ကိုင်ရို</item>
         <item>ဟယ်စင်ကီ</item>
         <item>ဂျေရုစလမ်</item>
         <item>မင့်စ်ခ်</item>
-        <item>ဟရာရေ</item>
+        <item>ဟရာရီ</item>
         <item>ဘက်ဂ္ဂဒက်</item>
         <item>မော်စကို</item>
         <item>ကူဝိတ်</item>
@@ -308,44 +290,71 @@
         <item>ဟာရေဗန်</item>
         <item>ဒူဘိုင်း</item>
         <item>ကာဘူး</item>
-        <item>ကရာချီ</item>
+        <item>အစ္စမာဘတ်၊ ကရာချီ</item>
         <item>အူရတ်</item>
         <item>ယက်ကာတရင်ဘတ်</item>
-        <item>ကာလကတ္တား</item>
-        <item>သီရိလင်္ကာ</item>
-        <item>ကက်သမန်ဒူ</item>
+        <item>ကလ္လကတ္တား</item>
+        <item>သီရိလင်ကာ</item>
+        <item>ကဒ်သမန်ဒူ</item>
         <item>အက်စတာနာ</item>
         <item>ရန်ကုန်</item>
-        <item>ကရာစနိုယာ(စ်)</item>
+        <item>ကရာနိုယာစ်</item>
         <item>ဘန်ကောက်</item>
-        <item>ပေကျင်း</item>
-        <item>ချုံကင်း</item>
+        <item>ဘေကျင်း</item>
         <item>ဟောင်ကောင်</item>
         <item>မကာအို</item>
         <item>စင်္ကာပူ</item>
-        <item>အိုင်ကာ့(စ်)</item>
-        <item>ကွာလာလမ်ပူ</item>
-        <item>ပါ့(သ်)</item>
+        <item>အိုင်ကာ့စ်</item>
+        <item>ကွာလာလန်ပူ</item>
+        <item>ပက်သ်</item>
         <item>တိုင်ပေ</item>
-        <item>ဆိုး(လ်)</item>
-        <item>တိုကျို</item>
-        <item>ယာကွတ်(စ်)</item>
+        <item>ဆိုးလ်</item>
+        <item>တိုကျို၊ အိုဆာကာ</item>
+        <item>ယာကွတ်စ်</item>
         <item>အဒယ်လိုင်ဒယ်</item>
         <item>ဒါဝင်</item>
         <item>ဘရစ္စဘိန်း</item>
         <item>ဟိုဘတ်</item>
-        <item>ဆစ်ဒနီ</item>
-        <item>ကန်ဘာရာ</item>
+        <item>ဆစ်ဒနီ၊ ကင်ဘာရာ</item>
         <item>ဗလက်ဒီဗိုစတော့</item>
         <item>ဂွမ်</item>
         <item>မက်ဂါဒန်</item>
-        <item>အော့ကလန်</item>
+        <item>အော်ခ်လန်</item>
         <item>ဖီဂျီ</item>
         <item>တွန်ဂါ</item>
     </string-array>
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>ကန်ရာသီဖွား</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>ရှင်းလင်းမည်</item>
+        <item>မိုးအုံ့</item>
+        <item>တိမ်ထူထပ်</item>
+        <item>မြူ</item>
+        <item>ပြင်းထန်သော မုန်တိုင်း</item>
+        <item>မုန်တိုင်း</item>
+        <item>အားနည်းသော မုန်တိုင်း</item>
+        <item>မိုးကြိုးမုန်တိုင်း</item>
+        <item>တစ်ပြိုက်နှစ်ပြိုက် မိုး</item>
+        <item>မိုးကြီးသော</item>
+        <item>မိုး</item>
+        <item>မိုးအနည်းငယ်ရွာသွန်း</item>
+        <item>မိုးနှင့် နှင်း</item>
+        <item>နှင်းမုန်တိုင်း</item>
+        <item>ဆီးနှင်းတစ်ပြိုက်နှစ်ပြိုက် ကျမည်</item>
+        <item>နှင်းသည်းထန်စွာကျ</item>
+        <item>ဆီးနှင်း</item>
+        <item>ဆီးနှင်းအနည်းငယ်ကျ</item>
+        <item>ပြင်းထန်သော သဲမုန်တိုင်း</item>
+        <item>သဲမုန်တိုင်း</item>
+        <item>ဖုန်</item>
+        <item>အားနည်းသော သဲမုန်တိုင်း</item>
+        <item>မိုးသီး</item>
+        <item>လွင့်မျောနေသော ဖုန်မှုန့်</item>
+        <item>မြူဆိုင်း</item>
+        <item>ရေခဲမိုး</item>
     </string-array>
     <string-array name="week_header_name">
         <item>နွေ</item>
@@ -361,12 +370,22 @@
         <item>အဖြူနောက်ခံ</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>နွေ</item>
-        <item>လာ</item>
-        <item>ဂါ</item>
-        <item>ဟူး</item>
-        <item>တေး</item>
-        <item>သော</item>
-        <item>နေ</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>မဿိရာသီဖွား</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>မကာရရာသီဖွား</item>
+        <item>22/12 - 19/1</item>
     </string-array>
 </resources>

@@ -51,10 +51,4 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d분 전</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">총 %1$d개 항목</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">%1$d개 항목 선택됨</item>
-    </plurals>
 </resources>

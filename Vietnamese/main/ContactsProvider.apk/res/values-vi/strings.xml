@@ -12,7 +12,7 @@
     <string name="default_directory">Liên hệ</string>
     <string name="local_invisible_directory">Khác</string>
     <string name="low_memory_toast">Không thể tiếp tục sử dụng do không đủ bộ nhớ.</string>
-    <string name="pound_search_tip">Nhập 1 số phía sau # để tìm kiếm liên hệ</string>
+    <string name="pound_search_tip">Nhập số sau dấu # để tìm liên hệ</string>
     <string name="provider_label">Liên hệ</string>
     <string name="sharedUserLabel">Ứng dụng Lõi Android</string>
     <string name="sim_state_changed">Thẻ SIM đã thay đổi</string>

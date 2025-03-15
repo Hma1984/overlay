@@ -33,12 +33,6 @@
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s個のバックアップ (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">前回のバックアップから%1$d 日 | 新しいデータ: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">前回のバックアップから %d 日</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30分前</item>
     </plurals>
@@ -71,5 +65,11 @@
     </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">残り約%s分</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">前回のバックアップから%1$d 日 | 新しいデータ: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">前回のバックアップから %d 日</item>
     </plurals>
 </resources>

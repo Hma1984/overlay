@@ -44,14 +44,6 @@
         <item quantity="other">%1$s back-ups (%2$s)</item>
         <item quantity="one">%1$s back-up (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d dagen sinds de laatste back-up | Nieuwe gegevens: %2$s</item>
-        <item quantity="one">%1$d dag sinds de laatste back-up | Nieuwe gegevens: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d dagen sinds de laatste back-up</item>
-        <item quantity="one">%d dag sinds de laatste back-up</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
@@ -95,5 +87,13 @@
     <plurals name="session_time_remain">
         <item quantity="other">Ongeveer %s min. resterend</item>
         <item quantity="one">Ongeveer %s min. resterend</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dagen sinds de laatste back-up | Nieuwe gegevens: %2$s</item>
+        <item quantity="one">%1$d dag sinds de laatste back-up | Nieuwe gegevens: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d dagen sinds de laatste back-up</item>
+        <item quantity="one">%d dag sinds de laatste back-up</item>
     </plurals>
 </resources>

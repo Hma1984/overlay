@@ -72,6 +72,10 @@
         <item quantity="other">%d kullanılabilir cihaz</item>
         <item quantity="one">%d kullanılabilir cihaz</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Her %d saniyede</item>
         <item quantity="one">Her %d saniyede</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s uygulamanın bağlantısı kısıtlandı</item>
         <item quantity="one">%s uygulamanın bağlantısı kısıtlandı</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">%d sn. bekleyin ve tekrar deneyin</item>
-        <item quantity="one">%d sn. bekleyin ve tekrar deneyin</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d kişi bağlandı</item>
@@ -148,10 +148,6 @@
         <item quantity="other">%d saniye bekledikten sonra yeniden deneyin.</item>
         <item quantity="one">%d saniye bekledikten sonra yeniden deneyin.</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s, %2$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">En çok %d işlem</item>
         <item quantity="one">En çok %d işlem</item>
@@ -199,6 +195,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Hata bildiriminden yalnızca %1$d adım uzaklıktasınız.</item>
         <item quantity="one">Hata bildiriminden yalnızca %1$d adım uzaklıktasınız.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d uygulama sınırsız veri kullanabilir</item>
+        <item quantity="one">1 uygulama sınırsız veri kullanabilir</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d uygulama bildirim görüntüleyemiyor</item>
@@ -248,21 +248,9 @@
         <item quantity="other">%d bildirim alındı</item>
         <item quantity="one">%d bildirim alındı</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d sa.</item>
-        <item quantity="one">%d sa.</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d saat</item>
         <item quantity="one">%d saat</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">" sa."</item>
-        <item quantity="one">" sa."</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d dk.</item>
-        <item quantity="one">%d dk.</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" dk."</item>
@@ -292,14 +280,6 @@
         <item quantity="other">Hafta içi: %d dakika</item>
         <item quantity="one">Hafta içi: %d dakika</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" sa."</item>
-        <item quantity="one">" sa."</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" dk."</item>
-        <item quantity="one">" dk."</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d risk bulundu</item>
         <item quantity="one">%d risk bulundu</item>
@@ -307,5 +287,29 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d paylaşılan ağ</item>
         <item quantity="one">%d paylaşılan ağ</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz bağlandı</item>
+        <item quantity="one">%1$d cihaz bağlandı</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">%d sa.</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" sa."</item>
+        <item quantity="one">" sa."</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" sa."</item>
+        <item quantity="one">" sa."</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" dk."</item>
+        <item quantity="one">" dk."</item>
     </plurals>
 </resources>

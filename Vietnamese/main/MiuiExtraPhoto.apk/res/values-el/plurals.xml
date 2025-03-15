@@ -68,12 +68,4 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">%1$d αντικείμενα συνολικά</item>
-        <item quantity="one">%1$d αντικείμενο συνολικά</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">Επιλέχθηκαν %1$d αντικείμενα</item>
-        <item quantity="one">Επιλέχθηκε %1$d αντικείμενο</item>
-    </plurals>
 </resources>

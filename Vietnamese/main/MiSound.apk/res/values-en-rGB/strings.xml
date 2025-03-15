@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolby_dax_geq_title">Graphic equaliser</string>
+    <string name="equalizer">Equaliser</string>
+    <string name="exposed_dropdown_menu_content_description">Show drop-down menu</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="hearing_assist_tips_message_one">%d. Live in-ear monitor toggle is available in Control centre. You can add it there.</string>
+    <string name="icon_content_description">Dialogue Icon</string>
+    <string name="material_clock_toggle_content_description">Select a.m. or p.m.</string>
+    <string name="mtrl_picker_date_header_title">Select date</string>
+    <string name="mtrl_picker_range_header_title">Select range</string>
+    <string name="music_customized_sound_summary">Customise volume according to your auditory perception</string>
+    <string name="music_dirac_control">Optimise audio quality</string>
+    <string name="music_dirac_mode_piston_color">Colour Edition</string>
+    <string name="music_equalizer">Equaliser</string>
+    <string name="music_headset_optimization">Sound optimisation</string>
+    <string name="music_open_customized_sound_summary">Customise volume according to your auditory perception</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="sound_id_default_effect_name">Personalised sound %s</string>
+    <string name="sound_id_delete_effect_dialog_msg">Delete this personalised sound permanently?</string>
+    <string name="sound_id_delete_effect_dialog_title">Delete personalised sound</string>
+    <string name="sound_id_effect_completed">Created personalised sound successfully</string>
+    <string name="sound_id_effect_edit_delete">Delete personalised sound</string>
+    <string name="sound_id_function_description">Personalise the EQ curve based on your preferences</string>
+    <string name="sound_id_function_name">Personalised sound</string>
+    <string name="sound_id_no_effect_msg">"Don't use personalised sound"</string>
+    <string name="sound_id_notice_headset_change_msg2">"Looks like you're using a different pair of earphones. Make sure this personalised sound matches this pair of earphones."</string>
+    <string name="sound_id_select_music_note">To personalise sound, listen to the demos. Each of them will be played with two sets of effects for you to choose from.</string>
+    <string name="sound_id_test_exit_note">"This test isn't finished yet. You won't be able to personalise sound if you stop now. Stop the test anyway?"</string>
+    <string name="sound_id_test_finish_note">You finished the test. Create personalised sound based on the results now?</string>
+    <string name="ear_canal_scan_function_name">Experience optimised sound based on your ear shape</string>
+    <string name="ear_scan_effect_desp_one">Optimised sound based on your ear shape</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+</resources>

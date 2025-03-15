@@ -44,14 +44,6 @@
         <item quantity="other">%1$s نسخه پشتیبان (%2$s)</item>
         <item quantity="one">%1$s نسخه پشتیبان (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d روز از آخرین پشتیبان‌گیری | داده‌های جدید: %2$s</item>
-        <item quantity="one">%1$d روز از آخرین پشتیبان‌گیری | داده‌های جدید: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d روز از آخرین پشتیبان‌گیری</item>
-        <item quantity="one">%d روز از آخرین پشتیبان‌گیری</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
@@ -95,5 +87,13 @@
     <plurals name="session_time_remain">
         <item quantity="other">حدود %s دقیقه مانده است</item>
         <item quantity="one">حدود %s دقیقه مانده است</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d روز از آخرین پشتیبان‌گیری | داده‌های جدید: %2$s</item>
+        <item quantity="one">%1$d روز از آخرین پشتیبان‌گیری | داده‌های جدید: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d روز از آخرین پشتیبان‌گیری</item>
+        <item quantity="one">%d روز از آخرین پشتیبان‌گیری</item>
     </plurals>
 </resources>

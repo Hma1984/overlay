@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Rankinis</item>
-        <item>Kas %d minučių</item>
-        <item>Kas valandą</item>
-        <item>Kas %d valandas</item>
-        <item>Kas %d valandų</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Nėra</item>
+        <item>Islamiškas kalendorius</item>
+        <item>Indijos nacionalinis kalendorius</item>
+        <item>Vikramo kalendorius</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Vandenis</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Avinas</item>
+        <item>1-20 - 2-18</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Vėžys</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Ožiaragis</item>
+        <item>6-22 - 7-22</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Tik šį įvykį</item>
         <item>Visus įvykius iš serijos</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Tik šį kartą</item>
-        <item>Išjungti pakartotinį priminimą</item>
+        <item>Išjungti kartą</item>
+        <item>Visada išjungta</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Pirmyn</item>
         <item>Atgal</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Įvykio laiku</item>
+        <item>Prieš 5 minutes</item>
+        <item>Prieš 15 minučių</item>
+        <item>Prieš 30 minučių</item>
+        <item>Prieš 1 valandą</item>
+        <item>Prieš 4 valandas</item>
+        <item>Prieš dieną</item>
+        <item>Prieš 2 dienas</item>
+        <item>Prieš savaitę</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Tik šį įvykį</item>
@@ -43,56 +47,40 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Dvyniai</item>
+        <item>5-21 - 6-21</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>Liūtas</item>
+        <item>7-23 - 8-22</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Svarstyklės</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Joks</item>
-        <item>Tradicinis kinų kalendorius</item>
-        <item>Islamiškas kalendorius</item>
-        <item>Hebrajų kalendorius</item>
-        <item>Japonų kalendorius</item>
-        <item>Persų kalendorius</item>
-        <item>Indų kalendorius</item>
-        <item>Budistų kalendorius</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Sausis</item>
-        <item>Vasaris</item>
-        <item>Kovas</item>
-        <item>Balandis</item>
-        <item>Gegužė</item>
-        <item>Birželis</item>
-        <item>Liepa</item>
-        <item>Rugpjūtis</item>
-        <item>Rugsėjis</item>
-        <item>Spalis</item>
-        <item>Lapkritis</item>
-        <item>Gruodis</item>
+        <item>9-23 - 10-23</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Tik šį kartą</item>
-        <item>Nustatyti pakartotinį priminimą</item>
+        <item>Įjungti kartą</item>
+        <item>Visada įjungta</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Sekmadienis</item>
+        <item>Pirmadienis</item>
+        <item>Antradienis</item>
+        <item>Trečiadienis</item>
+        <item>Ketvirtadienis</item>
+        <item>Penktadienis</item>
+        <item>Šeštadienis</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Žuvys</item>
+        <item>2-19 - 3-20</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Išjungta</item>
         <item>Visiems įvykiams</item>
         <item>Nuo laikotarpio priklausantiems įvykiams</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Visada</item>
@@ -232,25 +220,22 @@
         <item>Galbūt</item>
         <item>Ne</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Neatsakyti</item>
-        <item>Priimti</item>
-        <item>Nuspręsti vėliau</item>
-        <item>Atmesti</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Šaulys</item>
+        <item>11-23 - 12-21</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Skorpionas</item>
+        <item>10-24 - 11-22</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Jautis</item>
+        <item>4-20 - 5-20</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Maršalo salos</item>
         <item>Midvėjaus atolas</item>
         <item>Havajai</item>
@@ -259,9 +244,9 @@
         <item>Tichuana</item>
         <item>Arizona</item>
         <item>Čihuahua</item>
-        <item>MST (Kalnų standartinis laikas)</item>
+        <item>MST (Kalnų Standartinis Laikas)</item>
         <item>Centrinė Amerika</item>
-        <item>CST (Centrinis standartinis laikas)</item>
+        <item>CST (Centrinis Standartinis Laikas)</item>
         <item>Meksikas</item>
         <item>Saskačevanas</item>
         <item>Bogota</item>
@@ -280,19 +265,16 @@
         <item>Azorai</item>
         <item>Žaliasis Kyšulys</item>
         <item>Kasablanka</item>
-        <item>Londonas</item>
-        <item>Dublinas</item>
-        <item>Amsterdamas</item>
-        <item>Berlynas</item>
+        <item>Londonas, Dublinas</item>
+        <item>Amsterdamas, Berlynas</item>
         <item>Belgradas</item>
         <item>Briuselis</item>
         <item>Sarajevas</item>
         <item>Vindhukas</item>
         <item>Vakarų Afrikos laikas</item>
-        <item>Amanas</item>
-        <item>Atėnai</item>
-        <item>Stambulas</item>
-        <item>Beirutas</item>
+        <item>Amanas, Jordanas</item>
+        <item>Atėnai, Stambulas</item>
+        <item>Beirutas, Libanas</item>
         <item>Kairas</item>
         <item>Helsinkis</item>
         <item>Jeruzalė</item>
@@ -308,7 +290,7 @@
         <item>Jerevanas</item>
         <item>Dubajus</item>
         <item>Kabulas</item>
-        <item>Karačis</item>
+        <item>Islamabadas, Karačis</item>
         <item>Oralas</item>
         <item>Jekaterinburgas</item>
         <item>Kalkuta</item>
@@ -319,7 +301,6 @@
         <item>Krasnojarskas</item>
         <item>Bankokas</item>
         <item>Pekinas</item>
-        <item>Čongčingas</item>
         <item>Honkongas</item>
         <item>Makao</item>
         <item>Singapūras</item>
@@ -328,14 +309,13 @@
         <item>Pertas</item>
         <item>Taipėjus</item>
         <item>Seulas</item>
-        <item>Tokijas</item>
+        <item>Tokijas, Osaka</item>
         <item>Jakutskas</item>
         <item>Adelaidė</item>
         <item>Darvinas</item>
         <item>Brisbenas</item>
         <item>Hobartas</item>
-        <item>Sidnėjus</item>
-        <item>Kanbera</item>
+        <item>Sidnėjus, Kanbera</item>
         <item>Vladivostokas</item>
         <item>Guamas</item>
         <item>Magadanas</item>
@@ -346,6 +326,35 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Mergelė</item>
+        <item>8-23 - 9-22</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Giedra</item>
+        <item>Debesuota</item>
+        <item>Apsiniaukę</item>
+        <item>Rūkas</item>
+        <item>Didelė audra</item>
+        <item>Audra</item>
+        <item>Lengva audra</item>
+        <item>Perkūnija</item>
+        <item>Liūtis</item>
+        <item>Stiprus lietus</item>
+        <item>Lietus</item>
+        <item>Dulksna</item>
+        <item>Šlapdriba</item>
+        <item>Pūga</item>
+        <item>Sniego liūtis</item>
+        <item>Smarkus sniegas</item>
+        <item>Sniegas</item>
+        <item>Lengvas sniegas</item>
+        <item>Stipri smėlio audra</item>
+        <item>Smėlio audra</item>
+        <item>Dulkės</item>
+        <item>Silpna smėlio audra</item>
+        <item>Kruša</item>
+        <item>Dulkėta</item>
+        <item>Migla</item>
+        <item>Lijundra</item>
     </string-array>
     <string-array name="week_header_name">
         <item>SK</item>
@@ -368,5 +377,15 @@
         <item>K</item>
         <item>P</item>
         <item>Š</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Avinas</item>
+        <item>3-21 - 4-19</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Ožiaragis</item>
+        <item>12-22 - 1-19</item>
     </string-array>
 </resources>

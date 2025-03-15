@@ -8,15 +8,9 @@
     <string name="abc_activitychooserview_choose_application">Velg en app</string>
     <string name="abc_capital_off">AV</string>
     <string name="abc_capital_on">PÅ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">slett</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
     <string name="abc_menu_function_shortcut_label">Funksjon+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">mellomrom</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Meny+</string>
     <string name="abc_search_hint">Søk</string>
     <string name="abc_searchview_description_clear">Slett søket</string>
@@ -33,8 +27,6 @@
     <string name="activate_esim_tips">Kunne ikke aktivere. Prøv igjen.</string>
     <string name="activating_esim_tips">Aktiverer…</string>
     <string name="address_dialing_introduction">Du kan bruke denne appen til å ringe, se samtalehistorikk og administrere kontakter.</string>
-    <string name="after_sales_support">After-sales support</string>
-    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">Ettermiddag</string>
     <string name="agree">Enig</string>
     <string name="agree_and_next">Godta</string>
@@ -52,8 +44,6 @@
     <string name="ai_button_single_press_desc">Trykk på AI-knappen for å se Mi AI-snarveier</string>
     <string name="ai_button_title">AI-knapp</string>
     <string name="album_introduction">Du kan bruke denne appen for å administrere, redigere, og forskjønne bilder og videoer.</string>
-    <string name="am">AM</string>
-    <string name="app_battery_usage">"For checking individual apps' battery usage"</string>
     <string name="app_name">Provisjoner</string>
     <string name="application_package_introduction">Pakkeinstallasjonsprogram brukes til å installere tredjepartsapper, inkludert skanning før installasjon og anbefalingstjenester for apper etter installasjon.</string>
     <string name="application_permissions">Apptillatelser</string>
@@ -74,9 +64,7 @@
     <string name="carousel_setting">Konfigurer låseskjermen din</string>
     <string name="carousel_setting_sub">Bakgrunnsbildekarusellen viser deg nye historier hver gang du låse opp enheten din</string>
     <string name="carrier_introduction_china">For å gi deg bedre tjenester kan prosesser som kjøres på enheten (inkludert SystemHelper, RegService og operatørtjenester) fra tid til annen sende informasjon knyttet til enheten og SIM-kortet (inkludert IMEI, IMSI, MSISDN, MEID, ICCID, MAC-adresse, systemversjon, Android-versjon, enhetsmodell og grunnleggende maskinvarespesifikasjoner), samt omtrentlig stedsinformasjon (inkludert region, koordinater, områdeidentifikator og basestasjons-ID) til operatøren via WLAN, mobildatanettverk eller gratis SMS-meldinger. Operatøren påtar seg å analysere relevant informasjon utelukkende for å forbedre kvaliteten på tjenestene eller for å tilby tilpassede tjenester eller teknologier, og å ikke avsløre relevant informasjon til tredjeparter i noen form som kan identifisere deg personlig. Den spesifikke operatøroppgaven skal gå foran. Ta kontakt med operatøren din angående kostnadene ved å bruke denne tjenesten.</string>
-    <string name="carrier_introduction_china_rothko">For å forbedre kvaliteten på tjenestene vi leverer til deg kan programmene som kjøres på denne enheten (herunder SystemHelper-, RegService og Carrier-tjenestene) sende informasjon om denne enheten eller SIM-kortet ditt (herunder IMEI, IMSI, MSISDN, MEID, ICCID, MAC-adresse, systemversjon, Android-versjon, enhetsmodell, grunnleggende maskinvarekonfigurasjon og telefonnummer), samt din omtrentlige plassering (herunder region, koordinater, nabolagsidentifikator og basestasjons-ID) til operatøren din via WLAN, mobilnettverk eller SMS. Når du ringer, vil DCService kobles til nettverket. Mobiloperatører garanterer at denne informasjonen bare vil bli brukt til analysering, forbedring av tjenestene og levering av tilpassede tjenester eller tilpasset teknologi, og at den aldri vil bli delt med andre på en måte som kan gjøre det mulig å identifisere deg personlig. Se erklæringen fra den aktuelle leverandøren for ytterligere informasjon. Du kan spørre operatøren om eventuelle relaterte tjenestegebyrer.</string>
     <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to the &lt;a href=%1$s>Mi Smart Hub Privacy Policy&lt;/a >.&lt;/Data>"</string>
-    <string name="check_box_label_new"><Data>Du kan bruke Xiaomi Sammenkobling for å kontrollere og overføre data på tvers av enheter. Godta Xiaomi Sammenkoblings &lt;a href=%1$s>personvernerklæring&lt;/a> før du bruker funksjonene. Denne appen må kobles til internett og krever følgende tillatelser:</Data></string>
     <string name="clearable_edittext_clear_description">Fjern</string>
     <string name="clock_introduction">Du kan bruke denne appen til å se tid, samt til å bruke tidtaker, verdensklokke, stoppeklokke, angi alarmer og mer.</string>
     <string name="close">Lukk</string>
@@ -90,7 +78,6 @@
     <string name="congratulation_swipe">Dra opp for å åpne systemet</string>
     <string name="congratulation_title">Oppsettet er fullført</string>
     <string name="content_description_complete">Fullført</string>
-    <string name="content_description_start">Start</string>
     <string name="content_introduction">Innholdssenter samler innhold og tjenester fra flere kanaler. Her kan du lese artikler, se på videoer, se daglige fremhevede elementer og motta innholdsanbefalinger.</string>
     <string name="continue_to_enable_accessibility">Hold to fingre nede for å tillate tilgjengelighet.</string>
     <string name="cookies_content_one">Når du trykker på bilder og historier i Bakgrunnskarusell, åpner vi de fullstendige versjonene i nettleseren. Taboola, den pålitelige tredjepartsinnholdsleverandøren vår, kan deretter anbefale ekstra innhold og annonser som er skreddersydd for dine interesser. Hvis du godtar å aktivere denne funksjonen, plasserer Taboola informasjonskapsler på enheten din via nettleseren, som forklart i Taboolas &lt;a href =%1$s>retningslinjer for informasjonskapsler&lt;/a>. Hvis du avviser bruk av informasjonskapsler, vil Bakgrunnskarusell-elementer fortsatt vises på låseskjermen, og fullstendige historier blir åpnet i nettleseren, men ekstra anbefalinger blir ikke spesielt utvalgt for deg. Du kan endre preferansene når som helst under Innstillinger.</string>
@@ -98,16 +85,11 @@
     <string name="cookies_title">Tilpasset innhold og informasjonskapsler</string>
     <string name="copy">Kopiér</string>
     <string name="data_traffic_enable_dialog_title">Hvis du ikke er koblet til Wi-Fi akkurat nå, vil enheten bruke mobildata. Bruk av mobildata kan medføre ekstra operatørkostnader.</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Tradisjonell kinesisk kalender</string>
     <string name="date_time_picker_dialog_title">Angi dato og tid</string>
-    <string name="desc_extra_fingerprint" />
-    <string name="desc_extra_international_fingerprint" />
+    <string name="default_font">Standard</string>
     <string name="desc_fingerprint">Bruk fingeravtrykket ditt til å låse opp enheten din, bekrefte Mi Pay-transaksjoner eller for å logge inn på apper og tjenester.</string>
     <string name="desc_international_fingerprint">Bruk fingeravtrykket ditt til å låse opp enheten din eller for å logge inn på apper og tjenester.</string>
-    <string name="device_information_usage_desc">Med denne tjenesten kan du vise enhetsinformasjon, koble enheten til nettverk og konfigurere enhetens funksjoner.</string>
     <string name="diagnose_report">Send diagnosedata for å lokalisere og analysere systemproblemer og forbedre brukeropplevelsen. Slike data kan inneholde personlig informasjon (f.eks. IP, plassering osv.)</string>
     <string name="disageement_abnormal_download">Hvis du ikke godtar å gi slike tillatelser eller dele og laste opp personlig informasjon, vil du ikke kunne bruke denne tjenesten.</string>
     <string name="disagree">Avbryt</string>
@@ -124,100 +106,42 @@
     <string name="disagreement_location_service_abnormal">Hvis du ikke godtar å gi disse tillatelsene, kan du ikke bruke stedstjenester. Du kan slå stedstjenester på eller av når som helst i Innstillinger > Personvern.</string>
     <string name="disagreement_mi_account_abnormal">Hvis du ikke godtar å gi disse tillatelsene, kan du ikke bruke Mi-kontotjenester. Du kan slå Mi-kontotjenester på eller av når som helst i Innstillinger > Mi-konto.</string>
     <string name="disagreement_service_not_working_properly">Hvis du ikke godtar å gi disse tillatelsene, kan du ikke bruke denne appen.</string>
-    <string name="disagreement_service_not_working_properly_settings">Hvis du ikke godtar disse tillatelsen, vil ikke tjenesten fungere normalt.</string>
     <string name="disagreement_service_not_working_properly_with_media_storage">Hvis du velger å ikke gi disse tillatelsene, vil ikke tjenesten fungere normalt.</string>
     <string name="disagreement_terminate_bluetooth">Hvis du ikke vil gi disse tillatelsene, vil du ikke kunne bruke Bluetooth. Du kan aktivere og deaktivere i Innstillinger > Bluetooth.</string>
     <string name="disagreement_terminate_miuidaemon">Vi bruker tillatelsene bare når du begynner å overføre data fra enheten din når skjermen er skadet. Hvis du ikke godtar å gi disse tillatelsene, kan du ikke bruke denne appen.</string>
     <string name="disagreement_terminate_service">Hvis du ikke godtar å gi slike tillatelser eller dele og laste opp personlig informasjon, vil du ikke kunne bruke denne appen. I så fall kan du velge å avinstallere, logge ut eller begrense tillatelser under Innstillinger.</string>
     <string name="download_introduction">Nedlastinger er en app levert av Xunlei som brukes til nedlasting og administrering av nedlastet innhold (inkludert innhold fra App Store, videoer, systemoppdateringer, temaer og nettleserinnhold) for brukere av Xiaomi-enheter.</string>
     <string name="early_morning">Morgen</string>
-    <string name="empty" />
     <string name="enable_accessibility_canceled">Tilgjengelighet kansellert.</string>
     <string name="enable_accessibility_dialog_message">Du har slått på TalkBack ved å trykke på skjermen med 2 fingre i mer enn 10 sekunder. TalkBack gir tilbakemeldinger til personer med synshemming. Hvis du har skrudd den på, kan du klikke på avbrytknappen, og deretter dobbeltklikke på skjermen.</string>
     <string name="enable_accessibility_dialog_negative_btn">Avbryt</string>
-    <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="enable_or_disable_bluetooth">Aktivere og deaktivere Bluetooth</string>
     <string name="eras_ad">e.Kr.</string>
     <string name="eras_bc">f.Kr.</string>
     <string name="evening">Ettermiddag</string>
     <string name="expand_button_title">Avansert</string>
     <string name="fast_application_introduction">Rammeverk for hurtige appers tjenester er et grunnleggende tjenesterammeverk som støtter hurtig appdistribusjon og drift.</string>
-    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d. MMM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d. MMM yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Standard tekststørrelse</string>
     <string name="font_hint_normal">Øk tekststørrelse</string>
     <string name="font_settings_sub_title">Velg systemskrifttype</string>
     <string name="font_settings_title">Skrifttypeinnstillinger</string>
-    <string name="font_size_title">Tekststørrelse</string>
-    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
-    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">Hoveddel</string>
     <string name="font_use_case_title_example">Tittel</string>
     <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
-    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
-For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">Fredag</string>
     <string name="friday_short">Fre</string>
     <string name="friday_shortest">Fre</string>
     <string name="game_introduction">Plug-in for spill gjør at du kan logge inn, opprette bestillinger, fullføre betalinger, bruke kuponger og delta i kampanjehendelser.</string>
-    <string name="get_imei_information">Access IMEI</string>
-    <string name="get_imei_information_settings">Tilgang til enhetens unike identifikator (IMEI)</string>
-    <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">Klassisk</string>
     <string name="home_settings_poco_launcher">App-skuff</string>
     <string name="home_settings_title">Velg standardstarter</string>
-    <string name="image_brain_configuration_service">Konfigurasjonstjeneste for Xiaomi Imaging Engine</string>
     <string name="ime_privacy_policy">Personverninnstillinger for valgt tastatur</string>
     <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se personverninnstillinger for dette tastaturet på %s.</string>
     <string name="ims_introduction">IMS-tjenesten gir grunnleggende kommunikasjonsevner og brukes til HD-lyd og HD-videosamtaler.</string>
@@ -227,24 +151,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="interconnection_communication_introduction">Xiaomi Internettkommunikasjonstjenester lar deg oppdage, koble til og kommunisere med andre Xiaomi-enheter.</string>
     <string name="interconnection_service_global_item_title">Xiaomi Sammenkobling</string>
     <string name="interconnection_service_global_label">&lt;Data>Med Xiaomi Sammenkobling kan enhetene dine samhandle trådløst. Ved å slå denne bryteren på godtar du Xiaomi Sammenkoblings &lt;a href=%1$s>personvernerklæring&lt;/a >.&lt;/Data></string>
-    <string name="interconnection_service_permission1">Aktiver og deaktiver Bluetooth</string>
-    <string name="interconnection_service_permission10">For å oppdage enheter i nærheten</string>
-    <string name="interconnection_service_permission11">Overfør data mellom enheter</string>
-    <string name="interconnection_service_permission12">For overføring av data mellom tilkoblede enheter</string>
-    <string name="interconnection_service_permission13">Få tilgang til skjerminnhold</string>
-    <string name="interconnection_service_permission14">For å få tilgang til skjerminnhold under opptak eller strømming, inkludert sensitiv informasjon som bl.a. lyd, passord, betalingspassord, bilder, meldinger osv.</string>
-    <string name="interconnection_service_permission15">Tilgang til anropshistorikk</string>
-    <string name="interconnection_service_permission16">For overføring av anrop på tvers av enheter under skjermspeiling</string>
-    <string name="interconnection_service_permission17">Få tilgang til listen over installerte apper</string>
-    <string name="interconnection_service_permission18">For å få tilgang til listen over programmer som er installert på en mobilenhet og skjermspeiling på datamaskiner</string>
-    <string name="interconnection_service_permission2">For tilkobling og overføring av data mellom to enheter</string>
-    <string name="interconnection_service_permission3">Aktiver og deaktiver WLAN</string>
-    <string name="interconnection_service_permission4">For overføring av data mellom to enheter via WLAN</string>
-    <string name="interconnection_service_permission5">Ta opp lyd</string>
-    <string name="interconnection_service_permission6">For opptak av lyd fra enheten ved strømming og speiling</string>
-    <string name="interconnection_service_permission7">Få tilgang til og redigere filer på denne enheten</string>
-    <string name="interconnection_service_permission8">For strømming og overføring av innhold fra denne enheten</string>
-    <string name="interconnection_service_permission9">Få tilgang til enhetsidentifikator</string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -318,9 +224,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
-    <string name="interconnection_service_summary_china_new">%1$s Hvilke Xiaomi Sammenkobling-funksjonene som er tilgjengelige på enheten din kan variere grunnet forskjeller i systemversjoner og enhetsmodeller. Se vår offisielle nettside (%2$s) for ytterligere informasjon.</string>
     <string name="interconnection_service_summary_global">Funksjonene i Xiaomi Sammenkobling kan variere avhengig av enhetens modell og systemversjonen. Gå til systemets offisielle nettside for å lese mer.</string>
-    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">Hvis enheten går tapt, vil du ikke kunne hindre andre mot å bruke den og få tilgang til dine data, med mindre du har aktivert en skjermlås. Vil du fortsatt ignorere dette?</string>
     <string name="item_facerecognition">Ansiktsopplåsning</string>
     <string name="item_fingerprint">Fingeravtrykk</string>
@@ -328,28 +232,13 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="item_lock_screen_password_only">Skjermlås</string>
     <string name="item_return">Angi</string>
     <string name="item_skip">Hopp over</string>
-    <string name="kind_tip_details_inner_details">Unngå å trykke på skjermen med skarpe gjenstander (pennespisser, negler el. lign.) når du bruker eller bærer enheten. Før enheten legges sammen, må du være sikker på at den innvendige skjermen er fri for harde gjenstander som f.eks. kort, mynter og nøkler.</string>
-    <string name="kind_tip_details_inner_title">Ikke trykk på den innvendige skjermen med skarpe eller harde gjenstander.</string>
-    <string name="kind_tip_details_pocket_details">Legg sammen enheten når du ikke bruker den. Unngå at den innvendige skjermen kommer i kontakt med skarpe eller harde gjenstander i vesken eller lommen.</string>
-    <string name="kind_tip_details_pocket_title">Ikke legg en ikke-sammenlagt enhet rett i vesken eller lommen</string>
-    <string name="kind_tip_details_protective_details_cn">Den innvendige skjermen på denne enheten er dekket av en spesiell beskyttende film. Denne skal bare skiftes ut med profesjonelt utstyr. Ikke ta av eller skift ut den innvendige skjermen på egen hånd, da det kan skade den innvendige skjermen og påvirke garantien. Hvis du må skifte ut skjermbeskyttelsen på den innvendige skjermen, må du kontkate Xiaomis ettersalgsservice.</string>
-    <string name="kind_tip_details_protective_details_global">Den innvendige skjermen på denne enheten er dekket av en spesiell beskyttende film. Hvis den fjernes eller skiftes ut, kan det medføre skade på den innvendige skjermen.</string>
-    <string name="kind_tip_details_protective_title">Ikke ta av beskyttelsesfilmen på den innvendige skjermen selv</string>
-    <string name="kind_tip_subtitle">Denne enheten er utstyrt med en sammenleggbar skjerm. For å unngå skade og sikre at skjermen fungerer slik den skal må du ta følgende forholdsregler ved bruk.</string>
-    <string name="kind_tip_title">Obs</string>
-    <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Deler plasseringsinformasjon med nødhjelpsetater</string>
     <string name="language_picker_other_languages_title">Flere språk</string>
     <string name="language_settings">Velg språk</string>
-    <string name="layout_size_huge">XL</string>
-    <string name="layout_size_large">Stor</string>
-    <string name="layout_size_normal">Vanlig</string>
     <string name="locale_picker_other_locale_title">Flere regioner</string>
     <string name="locale_picker_title">Velg din region</string>
-    <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">I henhold til loven kan mobiloperatører innhente plasseringsinformasjonen til mobilenheter for å samsvare med kravene til nødhjelpsetater (brannvesen og politi) som arbeider for sikkerhet og nødhjelp.</string>
     <string name="location_introduction">Stedstjenester tilbyr en rekke stedsbaserte tjenester basert på din stedsinformasjon.</string>
-    <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">Nødhjelpsetater kan innhente din gjeldende plassering ved forespørsel</string>
     <string name="lockscreen_introduction">Bakgrunnskarusellen gjør at du kan få nye bilder til låseskjermen daglig.</string>
     <string name="media_storage_devices">Medielagringsenheter</string>
@@ -359,10 +248,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="midnight">Natt</string>
     <string name="mint_keyboard_oobe_checkbox">Jeg har lest og samtykket i personvernerklæringen for Mint-tastatur</string>
     <string name="mint_keyboard_oobe_terms">Personvernerklæring for Mint-tastatur</string>
-    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">Du er ikke koblet til internett. Se personvernerklæringen på %s.</string>
     <string name="miui_provision">Første konfigurering</string>
-    <string name="miui_settings">Innstillinger</string>
     <string name="miui_terms_no_network">Du er ikke koblet til internett. Se brukeravtalen på %s.</string>
     <string name="miuix_access_state_desc">Valgt</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Fjern alle valg</string>
@@ -374,7 +261,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="miuix_appcompat_delete_description">Slett</string>
     <string name="miuix_appcompat_deselect_all">Fjern alle valg</string>
     <string name="miuix_appcompat_deselect_all_description">Fjern alle valg</string>
-    <string name="miuix_appcompat_edit">Rediger</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Avbryt</string>
     <string name="miuix_appcompat_search_input_description">Søk</string>
     <string name="miuix_appcompat_select_all">Velg alle</string>
@@ -392,42 +278,20 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="monday">Mandag</string>
     <string name="monday_short">Man</string>
     <string name="monday_shortest">Man</string>
-    <string name="month_april">April</string>
-    <string name="month_april_short">Apr</string>
-    <string name="month_april_shortest">Apr</string>
-    <string name="month_august">August</string>
-    <string name="month_august_short">Aug</string>
-    <string name="month_august_shortest">Aug</string>
     <string name="month_december">Desember</string>
     <string name="month_december_short">Des</string>
     <string name="month_december_shortest">Des</string>
     <string name="month_february">Februar</string>
-    <string name="month_february_short">Feb</string>
-    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Januar</string>
-    <string name="month_january_short">Jan</string>
-    <string name="month_january_shortest">Jan</string>
     <string name="month_july">Juli</string>
-    <string name="month_july_short">Jul</string>
-    <string name="month_july_shortest">Jul</string>
     <string name="month_june">Juni</string>
-    <string name="month_june_short">Jun</string>
-    <string name="month_june_shortest">Jun</string>
     <string name="month_march">Mars</string>
-    <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Mai</string>
     <string name="month_may_short">Mai</string>
     <string name="month_may_shortest">Mai</string>
-    <string name="month_november">November</string>
-    <string name="month_november_short">Nov</string>
-    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Oktober</string>
     <string name="month_october_short">Okt</string>
     <string name="month_october_shortest">Okt</string>
-    <string name="month_september">September</string>
-    <string name="month_september_short">Sep</string>
-    <string name="month_september_shortest">Sep</string>
     <string name="more">Mer</string>
     <string name="morning">Morgen</string>
     <string name="move_data_dialog_box_le">Dette tillater bruk av mobildata og GPS-tilkobling basert på brukerens forespørsel. Synkronisering av kontoer og andre elementer kan kreve bruk av mobildata, avhengig av smarttelefonens spesifikasjoner.</string>
@@ -449,7 +313,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="noon">Midt på dagen</string>
     <string name="not_set">Ikke angitt</string>
     <string name="note_introduction">Denne appen gjør at du kan opprette, se og redigere notater.</string>
-    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">Grunnleggende innstillinger</string>
     <string name="other_settings_ad_dialog_agree">Aktiver</string>
     <string name="other_settings_ad_dialog_content">Når personlig tilpasset annonseanbefaling er deaktivert, ser du fortsatt samme antall annonser som når funksjonen er aktivert. Men annonsene vil da ikke være relevante siden de ikke er basert på dine personlige preferanser.</string>
@@ -466,7 +329,6 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="other_settings_auto_update_summary">Systemet velger det beste tidspunktet å laste ned og installere oppdateringer på. Enheten startes på nytt automatisk for å ta i bruk endringene.</string>
     <string name="other_settings_auto_update_summary_v1">Tillat systemet å velge det beste tidspunktet å laste ned og installere oppdateringer på. Enheten startes på nytt automatisk for å ta i bruk endringene.</string>
     <string name="other_settings_enhanced_lockscreen">Bakgrunnskarusell</string>
-    <string name="other_settings_enhanced_lockscreen_for_india">Glance for Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Personvernerklæring</string>
     <string name="other_settings_enhanced_lockscreen_summary">Få organiserte bilder og historier levert til låseskjermen daglig. %1$s og %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Lisensavtale for sluttbrukere</string>
@@ -477,16 +339,15 @@ Du kan deaktivere automatiske oppdateringer i GetApps > Innstillinger > Automati
     <string name="other_settings_location_summary">Tillat apper og nettsteder å få tilgang til plasseringsinformasjon for å gi stedsbaserte tjenester.</string>
     <string name="other_settings_quality_service">System-Daemon-tillatelser</string>
     <string name="other_settings_quality_service_summary">System-Daemon brukes til å forbedre systemets stabilitet og ytelse. For å kunne jobbe normalt trenger denne tjenesten tillatelser til å få tilgang til og lagre elementer på enhetens lagringsplass.</string>
-    <string name="other_settings_upload_debug_log_detail">"Bidra til å forbedre brujerioolevelsen ved å automatisk sende data om diagnostikk, enheten og bruk av appen til Xiaomi. Det vil bidra til å forbedre batteriets levetid, systemet og appens stabilitet, m.m.
-Dataene du sender vil inneholde generell informasjon om enheten og hvordan du brujer den (f.eks. batterinivået, system- og appaktivitet og feil). Dataene brukes til å forbedre Xiaomi-enhetene.
-Hvis du deaktiverer denne funksjonen, vil det ikke påvirke enhetens evne til å sende opplysningene som kreves for viktige tjenester som f.eks. systemoppdateringer og sikkerhet.
-Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsdata og skjermlås > Personvern > Bruk og diagnostikk."</string>
+    <string name="other_settings_upload_debug_log_detail">"Bidra til å forbedre opplevelsen ved å sende diagnose-, enhets- og appbruksdata til Xiaomi automatisk. Dette bidrar til å forbedre batterilevetiden, system- og app-stabiliteten og mer.
+Dataene du sender inneholder generell informasjon om enheten din og hvordan du bruker den (f.eks. batterinivå, system- og appaktivitet og feil). Dataene blir brukt til å forbedre enheter.
+Hvis du deaktiverer denne funksjonen, kan enheten fortsatt sende informasjon som er nødvendig for viktige tjenester som systemoppdateringer og sikkerhet.
+Du kan kontrollere denne funksjonen under Innstillinger > Passord &amp; Sikkerhet > Personvern > Bruk og diagnostikk."</string>
     <string name="other_settings_upload_debug_log_summary">Bidra til å forbedre opplevelsen ved å sende diagnose-, enhets- og appbruksdata til Xiaomi automatisk. Dette bidrar til å forbedre batterilevetiden, system- og app-stabiliteten og mer.</string>
     <string name="other_settings_upload_debug_log_title">Send bruks- og diagnosedata</string>
     <string name="other_settings_user_experience">Brukeropplevelsesprogram</string>
     <string name="other_settings_user_experience_summary">Hjelp oss med å forbedre produktene og tjenestene våre ved å dele bruksstatistikken din og analyser med oss.</string>
     <string name="other_settings_user_experience_summary_index">Vis detaljer</string>
-    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">Tilgang til kalender</string>
     <string name="permission_access_calendar_fast_application_summary">For å tillate hurtige apper å få tilgang til kalenderen;</string>
     <string name="permission_account">Få tilgang til kontoer på enheten</string>
@@ -520,8 +381,6 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="permission_download_introduction">For å bufre nedlastede elementer og lagre dem på enheten</string>
     <string name="permission_enable_disable_bluetooth_summary">For å finne enheter i nærheten for å koble til og overføre data</string>
     <string name="permission_fast_pairing">For å kunne finne enheter i nærheten, må Mi Link koble seg til internett og krever følgende tillatelser:</string>
-    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
-    <string name="permission_get_imei_information_summary_settings">For å vise enhetsinformasjon og spesifikasjoner</string>
     <string name="permission_imei_service">For å få tilgang til IMEI for å kunne tilby bedre tjenester i tilknytning til enheten</string>
     <string name="permission_interaction_introduction">For å lagre bilder og videoer på enheten</string>
     <string name="permission_location">Få tilgang til plasseringsinformasjon:</string>
@@ -554,11 +413,9 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="permission_read_call_records">Rediger anropshistorikk</string>
     <string name="permission_read_call_records_introduction">For å legge til elementer i anropshistorikk og slette blokkerte anrop</string>
     <string name="permission_read_contacts">Tilgang til kontakter</string>
-    <string name="permission_read_contacts_introduction">For verifying your identity</string>
     <string name="permission_read_device_store">Tilgang til enhetslagring</string>
     <string name="permission_read_device_store_summary">For å få tilgang til nedlastede kildefiler og kildekonfigurasjonsfiler;</string>
     <string name="permission_read_message">Få tilgang til tekstmeldinger</string>
-    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">For tilgang til notater og vedlegg</string>
     <string name="permission_read_send_message">Sende og motta SMS</string>
     <string name="permission_read_send_message_fast_application_summary">For å tillate hurtige apper å sende og motta SMS;</string>
@@ -585,7 +442,6 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="permission_recording">Spille inn anrop og lyd:</string>
     <string name="permission_recording_introduction">For å ta opp lyd mens du tar opp video</string>
     <string name="permission_screen_shoot_introduction">For tilgang til og lagring av skjermopptak</string>
-    <string name="permission_send_message">Send SMS</string>
     <string name="permission_use_camera">Tilgang til kamera</string>
     <string name="permission_use_camera_camera_summary">For å ta bilder, spille inn videoer og bruke blits;</string>
     <string name="permission_use_camera_desktop_summary">For å bestemme om lommelyktfunksjonen skal støttes;</string>
@@ -601,14 +457,11 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="permission_write_device_store_summary">For å hurtigbufre nedlastede kildekonfigurasjonsfiler.</string>
     <string name="permission_xunlei_introduction">For å logge inn og administrere systemkontoer for å kunne tilby Xunlei-tjenester</string>
     <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
-    <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(Inkludert POCO Launchers personvernerklæring og brukeravtale)</string>
     <string name="poco_launcher_privacy_policy">POCO Launcher personvernerklæring</string>
     <string name="poco_launcher_user_agreement">POCO Launcher brukeravtale</string>
     <string name="position_header">Deler plasseringsinformasjon</string>
     <string name="position_subheading">Plasseringsinformasjon</string>
-    <string name="power_and_performance">Battery and performance</string>
-    <string name="power_and_performance_introduction">This service provides basic battery management, usage statistics, power saving features, and more.</string>
     <string name="pref_title_data_slot">Foretrukket data-SIM-kort</string>
     <string name="pref_title_voice_slot">Foretrukket stemme-SIM-kort</string>
     <string name="preference_copied">«%1$s» er kopiert til utklippstavlen.</string>
@@ -620,16 +473,12 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="privacy_provision_title">Personvern</string>
     <string name="privacy_refuse">Ikke godta</string>
     <string name="privacy_title">Brukervilkår og personvernerklæring</string>
-    <string name="prompt_fingerprint">Avansert databeskyttelse er aktivert for kontoen din. Angi en skjermlås for denne enheten.</string>
     <string name="protect_persoanl_info_statement">Vi beskytter personopplysningene dine i henhold til relevante lover, forskrifter og personvernerklæringer.</string>
     <string name="provision_back">Tilbake</string>
-    <string name="provision_complete_text">Fortsett</string>
     <string name="provision_inputmethod_policy_description">&lt;Data>Vis &lt;a href=%1$s>Personvernerklæringen&lt;/a > for ditt valgte tastatur.&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">Personvernerklæring</string>
     <string name="provision_next">Neste</string>
     <string name="provision_skip_underline">Hopp over</string>
-    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
-    <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Anbefalt</string>
     <string name="recorder_introduction">Du kan bruke denne appen til å ta opp lyd og sikkerhetskopiere opptak til skyen.</string>
     <string name="refuse_cookie">Avvis informasjonskapsler</string>
@@ -638,18 +487,10 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
 \u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
     <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
-    <string name="require_device_information_statement">For å kunne bruke grunnleggende tjenester kreves følgende tillatelser:</string>
     <string name="require_miuidaemon_authority_statement">For å gi oss tillatelse til å tilby deg denne tjenesten må du gi oss følgende tillatelser for at vi skal kunne innhente personopplysningene dine:</string>
     <string name="require_network_and_authority_statement">For å kunne fungere normalt må denne tjenesten koble seg til internett og krever følgende tillatelser:</string>
     <string name="require_network_authority_statement">For å kunne fungere normalt må denne tjenesten koble seg til internett og krever følgende tillatelser:</string>
     <string name="require_network_authority_statement_dual">For å kunne fungere normalt må denne tjenesten koble seg til internett og krever følgende tillatelser:</string>
-    <string name="require_telephone_imei">Les IMEI og IMSI</string>
-    <string name="require_telephone_imei_summary">For tilgang til IMEI</string>
-    <string name="require_telephone_location">Tilgang til plassering</string>
-    <string name="require_telephone_location_summary">For å få tilgang til omtrentlig plassering og levering av posisjonsbaserte tjenester for nettverksoptimalisering</string>
-    <string name="require_telephone_statement">For å kunne levere grunnleggende tjenester kreves følgende tillatelser:</string>
-    <string name="sample_text_summary">Xiaomi bygger hele tiden fantastiske produkter til gode priser, slik at alle i verden kan få bedre liv gjennom innovativ teknologi.</string>
-    <string name="sample_text_title">Eksempeltekst.</string>
     <string name="saturday">Lørdag</string>
     <string name="saturday_short">Lør</string>
     <string name="saturday_shortest">Lør</string>
@@ -658,20 +499,17 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="security_introduction">Du kan bruke denne appen til å fjerne alt søppel på enheten, finne og nøytralisere virus, optimalisere ytelsen for spill, spare batteri, behandle apper, tillatelser og mer.</string>
     <string name="security_mobile_account_introduction">For å logge inn og administrere systemkontoer</string>
     <string name="select_font_modele_tips">Du kan når som helst velge en ny skrifttype i Temaer</string>
-    <string name="send">Send</string>
     <string name="service_agreement">Jeg har lest og godtatt vilkårene og betingelsene.</string>
     <string name="service_company_adjust_content">Xunlei brukeravtale for nettverkstjenester</string>
     <string name="service_fast_pairing_policy">&lt;Data>Les og godta &lt;a href=%1$s>Mi Links personvernerklæring&lt;/a >før du fortsetter&lt;/Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet kommunikasjonstjenester</string>
     <string name="service_location_share_policy">&lt;Data>Les og godta &lt;a href=%1$s>personvernerklæring for stedstjenester&lt;/a >før du fortsetter&lt;/Data></string>
     <string name="service_mi_account">Mi-konto</string>
-    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">Kontakter og telefon</string>
     <string name="service_name_album">Galleri</string>
     <string name="service_name_application_package">Pakkeinstallerer</string>
     <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">Sikkerhetskopier</string>
-    <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Kalkulator</string>
     <string name="service_name_camera">Kamera</string>
     <string name="service_name_carrier">Erklæring om operatørtjenester</string>
@@ -680,16 +518,13 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="service_name_content_center">Innholdssenter</string>
     <string name="service_name_download">Nedlastinger</string>
     <string name="service_name_fast_application">Rammeverk for hurtigapper</string>
-    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">Plug-in for spill</string>
     <string name="service_name_google_service">Erklæring om Google-tjenester</string>
     <string name="service_name_ims">IMS-tjeneste</string>
     <string name="service_name_location">Stedstjenester</string>
     <string name="service_name_lockscreen">Bakgrunnskarusell</string>
     <string name="service_name_message">Meldinger</string>
-    <string name="service_name_note">Notater</string>
     <string name="service_name_phone_service">电话服务</string>
-    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">Opptaker</string>
     <string name="service_name_screen_recording">Skjermopptaker</string>
     <string name="service_name_security">Sikkerhet</string>
@@ -699,12 +534,10 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="service_policy_adjust_content">Xunlei Personvernerklæring</string>
     <string name="service_policy_download">&lt;Data>Les og godta &lt;a href=%1$s>Xunleis personvernerklæring&lt;/a > og &lt;a href=%1$s>Xunlei brukeravtale for nettverkstjenester&lt;/a > før du fortsetter.&lt;/Data></string>
     <string name="service_privacy_index">Personvernerklæring</string>
-    <string name="service_security_over_r">&lt;Data>Les og godta &lt;a href=%1$s>personvernerklæringen&lt;/a>.&lt;br/>&lt;br/>I henhold til Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>-standardene vil en engangstillatelse bli trukket tilbake innen en angitt periode (rundt &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>) etter at den tilsvarende appen slutter å kjøre. Hvis du åpner appen i løpet av denne korte tidsperioden, trekkes tillatelsen tilbake.&lt;/Data></string>
     <string name="service_sim_activation">SIM-kortaktivering</string>
     <string name="servicestate_title">Erklæring om grunnleggende tjenester</string>
     <string name="setting_locale">Innstilling av region…</string>
     <string name="shut_down">Lukk</string>
-    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">Ser etter SIM-kort…</string>
     <string name="sim_card_detecting_check">Finner ikke SIM-kortet. Kontroller at SIM-kortet er riktig installert og at du har dekning på saldoen.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Tillate å koble til mobildatanettverk? Hvis du gjør dette, vil SIM-kortet som du har satt inn brukes til å koble til mobildatanettverk.</string>
@@ -716,55 +549,35 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="sim_card_detection_mobile_not_available">SIM-kort kunne ikke koble til nettverk</string>
     <string name="sim_card_detection_sb_esim">Aktiver eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Ikke aktivert</string>
-    <string name="sim_card_do_not_select_dial_card">Select SIM card when dialing</string>
     <string name="sim_dectection_next">Fortsett</string>
     <string name="sim_redetection">Sjekk igjen</string>
     <string name="sim_scard_detecting_check_mobile_not_available">SIM-kortet ditt kunne ikke koble til en gyldig internettleverandør. Sikre at du har nok midler på balansen og prøv igjen.</string>
     <string name="skip_gesture_guide_dialog_message">Sørg for at du vet hvordan å bruke fullskjermbevegelser før du velger dette alternativet.</string>
     <string name="skip_gesture_guide_dialog_negative_btn">Avbryt</string>
-    <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Fullskjermbevegelser</string>
     <string name="skip_underline">Hopp over dette trinnet</string>
     <string name="start_up_slogan">Yours alone</string>
-    <string name="startup_page_text_hint">Fold ut for å aktivere enheten</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="study_full_screen_gesture_text">Lær navigasjonsbevegelser</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_not_set">Ikke satt</string>
     <string name="sunday">Søndag</string>
     <string name="sunday_short">Søn</string>
     <string name="sunday_shortest">Søn</string>
     <string name="system_navigation_mode">Systemnavigeringsmodus</string>
-    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
-    <string name="system_update_title">System updates</string>
     <string name="systemdesktop_introduction">Tilleggsprogrammet for startskjerm gir deg grunnleggende funksjoner som startskjerm, systemgrensesnitt og skjermbilder.</string>
     <string name="term_condition_detail">Få fantastiske bilder og spennende historier levert på låseskjermen daglig. Denne funksjonen bruker ikke opplysningene dine for tilpasning uten ditt samtykke. Les og godta tredjepartsinnholdsleverandørens &lt;a href =%1$s>personvernerklæring&lt;/a> og &lt;a href =%2$s>brukeravtale&lt;/a> før du bruker denne funksjonen.</string>
-    <string name="terms_and_statement_title">Vilkår og betingelser</string>
-    <string name="terms_of_label_period">". "</string>
-    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Vilkår og betingelser</string>
-    <string name="terms_of_use_label_MSA">MSA</string>
-    <string name="terms_of_use_label_Mistore">Mi Store</string>
     <string name="terms_of_use_label_RMS">Tillatelsesbehandling</string>
     <string name="terms_of_use_label_ai_assistant">AI-assistent</string>
     <string name="terms_of_use_label_app_vault">Apphvelv</string>
     <string name="terms_of_use_label_back">Sikkerhetskopieringstjeneste</string>
     <string name="terms_of_use_label_ble">Fusjonert posisjonsleverandør</string>
-    <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
     <string name="terms_of_use_label_communication_service">Xiaomi Internet kommunikasjonstjenester</string>
-    <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
     <string name="terms_of_use_label_finddevice">Finn enhet</string>
     <string name="terms_of_use_label_game">Spill</string>
     <string name="terms_of_use_label_home">Startskjerm</string>
     <string name="terms_of_use_label_htmlViewer">HTML-visning</string>
-    <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
-    <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">Liggende visning</string>
-    <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Mi-konto</string>
-    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
-    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">OS AI-innstilling</string>
     <string name="terms_of_use_label_package">Pakkeinstallerer</string>
     <string name="terms_of_use_label_parallel_windows">Parallelle vinduer</string>
@@ -772,7 +585,6 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="terms_of_use_label_power_detection">Strømdetektor</string>
     <string name="terms_of_use_label_power_performance">Batteri og ytelse</string>
     <string name="terms_of_use_label_quickapp">Hurtigapper</string>
-    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Sikkert element-applikasjon</string>
     <string name="terms_of_use_label_simcard">SIM-aktiveringstjeneste</string>
     <string name="terms_of_use_label_smart_service">Smarttjenester</string>
@@ -780,13 +592,9 @@ Du kan kontrollere denne funksjonen fra Innstillinger > Fingeravtrykk, ansiktsda
     <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">Selvregistreringstjeneste</string>
     <string name="terms_of_use_label_translation">Oversettelsestjeneste</string>
-    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Systemoppdateringstjeneste (ser etter oppdateringer på nett og varsler om nye versjoner)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Før du bruker systemet, må du lese og godta vår brukeravtale og personvernerklæring. Vi vil beskytte dine personlige opplysninger i samsvar med gjeldende lover, forskrifter og retningslinjer for personvern. Når enheten din er aktivert, kobler følgende tjenester seg til nettverket og får tilgang til posisjonen din:</string>
-    <string name="terms_of_use_label_use_network_china">Før du bruker systemet må du lese og godta &lt;a href=\"%1$s\">brukeravtalen&lt;/a> og &lt;a href=\"%2$s\">personvernerklæringen&lt;/a>. Vi vill beskytte personopplysningene dine i samsvar med gjeldende lover, forskrifter og personvererklæringer.</string>
-    <string name="terms_of_use_label_use_network_china_append">Når enheten er aktivert, kobles følgende tjenester til nettverket:</string>
     <string name="terms_of_use_label_wallpaper">Bakgrunn</string>
-    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Du må samtykke i vår Facemoji-personvernpolicy før du bruker denne funksjonen."</string>
@@ -798,17 +606,14 @@ Du må samtykke i vår Kika-personvernpolicy før du bruker denne funksjonen."</
 Du må samtykke i personvernerklæringen for Mint-tastatur før du bruker denne funksjonen."</string>
     <string name="terms_of_use_lable_gms">Google Play-tjenester</string>
     <string name="terms_of_use_lable_smart_cards">Smartkort</string>
-    <string name="terms_of_use_lable_vsimcore">MConnService</string>
     <string name="terms_of_use_lable_xmsf">Xiaomi rammeverk for tjenesten</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji-personvernpolicy</string>
     <string name="terms_privacy_policy_input_method_kika">Kika-personvernpolicy</string>
     <string name="the_anniversary_of_lifting_martial_law">Årsdagen for heving av unntakstilstand</string>
     <string name="the_anti_aggression_day">Antivoldsdagen</string>
-    <string name="the_arbor_day">Arbor Day</string>
     <string name="the_armed_forces_day">De væpnede styrkers dag</string>
     <string name="the_armys_day">PLA-dagen</string>
     <string name="the_childrens_day">Barnas dag</string>
-    <string name="the_chinese_youth_day">Ungdomsdagen</string>
     <string name="the_christmas_day">Jul</string>
     <string name="the_double_ninth_festival">Den doble niende festen</string>
     <string name="the_dragon_boat_festival">Dragebåtfesten</string>
@@ -846,8 +651,6 @@ Du må samtykke i personvernerklæringen for Mint-tastatur før du bruker denne 
     <string name="thursday_short">Tor</string>
     <string name="thursday_shortest">Tor</string>
     <string name="time_picker_dialog_title">Angi tid</string>
-    <string name="time_picker_label_hour">T</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="title_fingerprint">Angi skjermlås</string>
     <string name="title_set_fingerprint">Skjermlås</string>
     <string name="today">I dag</string>
@@ -874,8 +677,14 @@ Du må samtykke i personvernerklæringen for Mint-tastatur før du bruker denne 
     <string name="wednesday_shortest">Ons</string>
     <string name="welcome">Velkommen</string>
     <string name="withdraw_consent">Hvis du trekker tilbake samtykket, blir Bakgrunnskarusell-tjenestene deaktivert.</string>
-    <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
-    <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">I går</string>
     <string name="zone_picker_title">Velg tidssone</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="service_name_note">Notater</string>
+    <string name="the_chinese_youth_day">Ungdomsdagen</string>
+    <string name="time_picker_label_hour">T</string>
 </resources>

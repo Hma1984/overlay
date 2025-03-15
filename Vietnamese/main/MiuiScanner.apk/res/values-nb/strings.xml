@@ -45,7 +45,6 @@
     <string name="app_name">Skanner</string>
     <string name="app_remove_icon_description_content">Skanner er en systemapp. Du kan fortsatt finne den under Innstillinger eller skanne koder ved hjelp av Kamera, Nettleser og Mi Wallet etter at du har fjernet snarveien på startskjermen.</string>
     <string name="app_remove_icon_description_title">Fjerne «Skanner» fra startskjermen?</string>
-    <string name="auracast_code_title_key">Lytt til %ss strøm</string>
     <string name="back">Tilbake</string>
     <string name="barcode_into_rectangle">Sett koden på innsiden av rammen</string>
     <string name="birthday">Fødselsdag:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">Send e-post</string>
     <string name="btn_send_message">Send SMS</string>
     <string name="camera_error_title">Kamerafeil</string>
-    <string name="camera_string">Kamera</string>
-    <string name="camera_use">For å bruke kameraet</string>
     <string name="cancel">Avbryt</string>
     <string name="choose_open_code_app">Velg en app</string>
     <string name="choose_pay_title">Velg betalingsmetode</string>
@@ -76,7 +73,7 @@
     <string name="copy_web_url">Kopier URL</string>
     <string name="crop_cancel_description">Avbryt</string>
     <string name="crop_done_description">Ferdig</string>
-    <string name="cta_purpose">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk skanneren til å ta bilder av objektene som inneholder personopplysninger om deg. Ved å trykke på \"Godta\" samtykker du til personvernerklæringen vår og tillater at Skanner kobles til internett.</string>
+    <string name="cta_purpose">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk skanneren til å ta bilder av objektene som inneholder personopplysninger om deg. Ved å trykke på \"Godta\" samtykker du vil personvernerklæringen vår og tillater at Skanner kobles til internett.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -182,7 +179,7 @@
     <string name="friday_shortest">Fre</string>
     <string name="got_it">Skjønner</string>
     <string name="import_contact">Importer kontakt</string>
-    <string name="impunity_declaration_content">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk skanneren til å ta bilder av objektene som inneholder personopplysninger om deg. Ved å trykke på \"Godta\" samtykker du til &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">personvernerklæringen&lt;/a>&lt;/font> vår og tillater at Skanner kobles til internett.</string>
+    <string name="impunity_declaration_content">Skanner må bruke kameraet ditt og behandle bildene du tar mens du bruker appen. Ikke bruk Skanner til å ta bilder av ting som inneholder personlige opplysninger om deg. Ved å trykke på «Godta», samtykker du i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">personvernerklæringen&lt;/a>&lt;/font> vår og tillater at Skanner kobler til internett.</string>
     <string name="impunity_declaration_negative_text">Avslutt</string>
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Drevet av Kuaidi 100</string>
@@ -212,21 +209,19 @@
     <string name="miracast_connect_fail">Kunne ikke strømme. Prøv igjen.</string>
     <string name="miracast_connecting">Caster…</string>
     <string name="miracast_details">Skann QR-kode for å strømme</string>
-    <string name="miracast_message">Strøm til %s?</string>
+    <string name="miracast_message">Caste til %s?</string>
     <string name="miracast_switch_off">Trådløs visning er av</string>
     <string name="miracast_switch_tip">Skru på trådløs visning for å bruke denne funksjonen</string>
     <string name="mishop">Mi Store</string>
-    <string name="miuix_access_state_desc">Valgt</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Fjern alle valg</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Avmarker</string>
     <string name="miuix_appcompat_action_mode_select_all">Velg alle</string>
     <string name="miuix_appcompat_action_mode_title_empty">Velg elementer</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mer</string>
     <string name="miuix_appcompat_cancel_description">Avbryt</string>
     <string name="miuix_appcompat_confirm_description">Bekreft</string>
     <string name="miuix_appcompat_delete_description">Slett</string>
-    <string name="miuix_appcompat_deselect_all">Fjern alle valg</string>
+    <string name="miuix_appcompat_deselect_all">Avmarker</string>
     <string name="miuix_appcompat_deselect_all_description">Fjern alle valg</string>
-    <string name="miuix_appcompat_edit">Rediger</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Avbryt</string>
     <string name="miuix_appcompat_search_input_description">Søk</string>
     <string name="miuix_appcompat_select_all">Velg alle</string>
@@ -298,11 +293,8 @@
     <string name="open_web_url">Åpne i Nettleser</string>
     <string name="pay_save_this_choose">Husk valget mitt</string>
     <string name="payment_text">Åpne med %s</string>
-    <string name="permissions_need">Obligatoriske tillatelser</string>
-    <string name="permissions_use">Tillatelser</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Sett koden på innsiden av rammen</string>
-    <string name="please_enable_bluetooth_retry">Aktiver Bluetooth og prøv igjen</string>
     <string name="pm">PM</string>
     <string name="preference_copied">«%1$s» er kopiert til utklippstavlen.</string>
     <string name="preparing_sd">Klargjør intern lagring…</string>
@@ -337,8 +329,6 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">Ikke nok plass på intern lagring. Frigjør plass.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">Få tilgang til og rediger elementer som er lagret til enhetslagring</string>
-    <string name="storage_string">Tilgang til lagring</string>
     <string name="study_scan_result">Resultat</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Søndag</string>

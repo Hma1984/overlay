@@ -2,21 +2,21 @@
 <resources>
     <string-array name="alarm_repeat_type">
         <item>Una volta</item>
-        <item>Tutti i giorni</item>
-        <item>Giorni lavorativi</item>
-        <item>Giorni feriali</item>
+        <item>Ogni giorno</item>
+        <item>Festivi</item>
+        <item>Infrasettimanale</item>
         <item>Personalizza</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Una volta</item>
         <item>Ogni giorno</item>
-        <item>Giorni feriali</item>
+        <item>Infrasettimanale</item>
         <item>Personalizza</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
-        <item>Tutti i registri</item>
+        <item>Tutti i dati</item>
         <item>Avvio automatico</item>
-        <item>Avvio a catena</item>
+        <item>Catena di avvio</item>
         <item>Utilizzo dei permessi</item>
         <item>Azioni sensibili</item>
     </string-array>
@@ -25,13 +25,17 @@
         <item>PIN</item>
         <item>Password</item>
     </string-array>
-    <string-array name="cache_sort_type">
-        <item>Dimensioni</item>
-        <item>Nome</item>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Media</item>
+        <item>Largo</item>
+        <item>Molto grande</item>
+        <item>XXL</item>
     </string-array>
-    <string-array name="cellular_data_unit">
-        <item>GB</item>
-        <item>MB</item>
+    <string-array name="cache_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
     </string-array>
     <string-array name="cellular_package_type">
         <item>Piano mensile</item>
@@ -39,23 +43,23 @@
         <item>Piano giornaliero</item>
     </string-array>
     <string-array name="daily_brand">
-        <item>Personalizzata</item>
+        <item>Personalizza</item>
         <item>Xiaomi Fan card</item>
-        <item>Scheda Xiao Tiansheng</item>
-        <item>Scheda Tencent King</item>
+        <item>Carta Xiao Tiansheng</item>
+        <item>Carta Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
-        <item>Personalizzato</item>
-        <item>Mi Mobile</item>
+        <item>Personalizza</item>
+        <item>Telefono Mi</item>
         <item>Xiaomi Fan card</item>
-        <item>Tianshen card</item>
-        <item>Tencent card</item>
+        <item>Carta Tianshen</item>
+        <item>Carta Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Ieri (connessione dati) "</item>
-        <item>"Oggi (connessione dati) "</item>
-        <item>"Ultimo mese (connessione dati) "</item>
-        <item>"Questo mese (connessione dati) "</item>
+        <item>"Ieri (dati) "</item>
+        <item>"Oggi (dati) "</item>
+        <item>"Ultimo mese (dati) "</item>
+        <item>"Questo mese (dati) "</item>
         <item>"Ieri (Wi-Fi) "</item>
         <item>"Oggi (Wi-Fi) "</item>
         <item>"Ultimo mese (Wi-Fi) "</item>
@@ -64,7 +68,7 @@
     <string-array name="date_of_traffic">
         <item>"Ieri "</item>
         <item>"Oggi "</item>
-        <item>"Mese scorso "</item>
+        <item>"Ultimo mese "</item>
         <item>"Questo mese "</item>
     </string-array>
     <string-array name="date_of_traffic_cmcc">
@@ -75,7 +79,7 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Ieri: "</item>
         <item>"Oggi: "</item>
-        <item>"Mese scorso: "</item>
+        <item>"Ultimo mese: "</item>
         <item>"Questo mese: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -85,127 +89,59 @@
     </string-array>
     <string-array name="debug_open_intercept">
         <item>Sarà possibile accedere e modificare i file sul dispositivo utilizzando un computer.</item>
-        <item>Installare applicazioni sul dispositivo senza il tuo esplicito consenso sarà consentito.</item>
-        <item>Sarai in grado di monitorare e registrare i contenuti dello schermo in remoto.</item>
+        <item>"L'installazione di app sul tuo dispositivo senza la tua esplicita autorizzazione sarà consentita."</item>
+        <item>Sarai in grado di monitorare e registrare il contenuto dello schermo da remoto.</item>
         <item>Sarà possibile accedere alle informazioni dettagliate sul dispositivo.</item>
     </string-array>
-    <string-array name="exo_controls_playback_speeds">
-        <item>0,25x</item>
-        <item>0,5x</item>
-        <item>0,75x</item>
-        <item>Normale</item>
-        <item>1,25x</item>
-        <item>1,5x</item>
-        <item>2x</item>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Sì</item>
+        <item>No</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
-        <item>Minima</item>
+        <item>Più basso</item>
         <item>Bassa</item>
         <item>Normale</item>
         <item>Alta</item>
-        <item>Massima</item>
-    </string-array>
-    <string-array name="gb_voice_change_gender">
-        <item>@string/gb_voice_changer_gender_man</item>
-        <item>@string/gb_voice_changer_gender_female</item>
-    </string-array>
-    <string-array name="input_package_names">
-        <item>com.baidu.input_mi</item>
-        <item>com.iflytek.inputmethod.miui</item>
-        <item>com.sohu.inputmethod.sogou.xiaomi</item>
-    </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
+        <item>Migliore</item>
     </string-array>
     <string-array name="lock_mode">
-        <item>Quando il dispositivo è bloccato</item>
-        <item>"Quando il dispositivo è bloccato o dopo aver chiuso l'app"</item>
-        <item>"Quando il dispositivo è bloccato o 1 minuto dopo aver chiuso l'app"</item>
+        <item>Dopo aver bloccato lo schermo</item>
+        <item>"Quando il dispositivo è bloccato o dopo l'uscita dall'app"</item>
+        <item>"Quando il dispositivo è bloccato o 1 minuto dopo l'uscita dall'app"</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Utilizzo dati mobili "</item>
-        <item>"Utlizzo Wi-Fi "</item>
+        <item>"Utilizzo dati "</item>
+        <item>"Utilizzo Wi-Fi "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
-        <item>Importante: più app di sistema potrebbero smettere di funzionare correttamente.</item>
-        <item>Layout di testo, account e contenuti potrebbero non essere visualizzati correttamente.</item>
-    </string-array>
-    <string-array name="operate_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-    </string-array>
-    <string-array name="operate_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="operate_memory_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-    </string-array>
-    <string-array name="operate_memory_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>Importante: Più applicazioni di sistema potrebbero smettere di funzionare correttamente.</item>
+        <item>I layout di testo, gli account e il contenuto potrebbero non essere visualizzati correttamente.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostra avviso</item>
-        <item>Avvisa e disattiva la connessione dati mobile</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice_new">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
-    </string-array>
-    <string-array name="pc_fast_charge_entry">
-        <item>10%</item>
-        <item>20%</item>
-        <item>30%</item>
-        <item>40%</item>
-        <item>50%</item>
-    </string-array>
-    <string-array name="pc_fast_charge_entry_value">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
+        <item>Avvisa e disattiva i dati</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Predefinita</item>
         <item>Priorità alle prestazioni</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">
-        <item>Modalità di controllo della temperatura predefinita</item>
+        <item>Uso della mod. predefinita di controllo della temperatura</item>
         <item>Priorità alle prestazioni</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Leggere tutte le notifiche, incluso il contenuto dei messaggi di testo e altri elementi che potrebbero contenere informazioni personali</item>
-        <item>Limitare i permessi di notifica per alcune app</item>
-        <item>Simulare il tocco delle notifiche e aprire le app</item>
-        <item>Attivare e disattivare ND</item>
+        <item>Leggi tutte le tue notifiche, incluso il contenuto dei tuoi messaggi di testo e altri elementi che potrebbero contenere informazioni personali</item>
+        <item>Limita i permessi di notifica per alcune app</item>
+        <item>Simula il tocco sulla notifica e apre le app</item>
+        <item>Attiva e disattiva la mod. ND</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
-        <item>Raccogliere i dati sui tuoi interessi e comportamenti imparando quali app usi e con quale frequenza le usi</item>
-        <item>"Accedere alle tue impostazioni relative alla lingua e all'operatore e ad altri dettagli"</item>
+        <item>Raccoglie i dati sui tuoi interessi e comportamenti imparando quali app usi e quanto spesso le usi</item>
+        <item>Accede alle impostazioni relative al tuo operatore e alla lingua, così come ad altri dettagli</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>Le app di terze parti non verificate potrebbero causare diversi problemi e ridurre la stabilità del sistema.</item>
-        <item>Alcune app di terze parti potrebbero contenere malware che mettono a rischio i tuoi dati personali.</item>
+        <item>Le applicazioni di terze parti che non sono verificate potrebbero causare problemi e ridurre la stabilità del sistema.</item>
+        <item>Alcune app di terze parti possono contenere malware che mettono a rischio i tuoi dati personali.</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Memoria interna</item>
@@ -217,38 +153,53 @@
         <item>Mai</item>
     </string-array>
     <string-array name="sms_report_type">
-        <item>Utilizzo dei dati</item>
+        <item>Utilizzo Dati</item>
         <item>Saldo telefonico</item>
     </string-array>
     <string-array name="sort_title_new">
         <item>Ordina per nome app</item>
-        <item>Ordina per utilizzate più di recente</item>
-        <item>Ordina per memoria utilizzata</item>
+        <item>Ordina per frequenza di utilizzo</item>
+        <item>Ordina per memoria usata</item>
         <item>Ordina per data di installazione</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Nome app</item>
-        <item>Utilizzata di recente</item>
+        <item>Frequenza di utilizzo</item>
         <item>Memoria utilizzata</item>
-        <item>Data e ora di installazione</item>
+        <item>Data di installazione</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
-        <item>Disattiva e avvisami</item>
-        <item>Avvisami solo</item>
+        <item>Disattiva e notifica</item>
+        <item>Notifica soltanto</item>
     </string-array>
     <string-array name="title_app_info">
-        <item>"Fonte d'installazione"</item>
-        <item>"Tempo d'installazione"</item>
-        <item>"Ultima fonte d'installazione"</item>
-        <item>"Ultimo tempo d'installazione"</item>
+        <item>Fonte installazione</item>
+        <item>Data di installazione</item>
+        <item>Ultima fonte aggiornamento</item>
+        <item>Data ultimo aggiornamento</item>
     </string-array>
     <string-array name="traffic_package_type">
         <item>Piano dati mensile</item>
-        <item>Piano dati giornaliero</item>
+        <item>Piano tariffario giornaliero</item>
         <item>Piano dati illimitato</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Utilizzo della connessione dati "</item>
-        <item>"Utlizzo Wi-Fi "</item>
+        <item>"Utilizzo dati "</item>
+        <item>"Utilizzo Wi-Fi "</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normale</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>0</item>
     </string-array>
 </resources>

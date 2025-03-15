@@ -10,11 +10,9 @@
     <string name="download_queued">На чекању</string>
     <string name="download_remaining">Још %s</string>
     <string name="download_running">Преузимање</string>
-    <string name="download_running_percent">Преузимање %s</string>
     <string name="download_unknown_title">&lt;Без наслова></string>
     <string name="notif_title_file_size">%1$d укупно</string>
     <string name="notif_title_single_downloading">Преузимање %1$s</string>
-    <string name="notification_dld_msg">Управљај апликацијама које су преузете</string>
     <string name="notification_download_complete">Преузимање је успешно.</string>
     <string name="notification_download_failed">Не могу преузети ставкe.</string>
     <string name="notification_need_wifi_for_size">Потребан Wi-Fi за величину преузимања.</string>

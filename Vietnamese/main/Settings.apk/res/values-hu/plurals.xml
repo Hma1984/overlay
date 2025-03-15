@@ -9,16 +9,16 @@
         <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
-        <item quantity="one">Half an hour ago</item>
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">%d órán belül</item>
         <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
-        <item quantity="one">In half an hour</item>
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Azonnal</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Immediately</item>
-        <item quantity="one">Immediately</item>
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
@@ -72,6 +72,10 @@
         <item quantity="other">%d elérhető készülék</item>
         <item quantity="one">%d elérhető készülék</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Minden %d. másodperc</item>
         <item quantity="one">Minden %d. másodperc</item>
@@ -83,10 +87,6 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s alkalmazás kapcsolata korlátozva</item>
         <item quantity="one">%s alkalmazás kapcsolata korlátozva</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">Várjon %d mp-et, és próbálja meg újra</item>
-        <item quantity="one">Várjon %d mp-et, és próbálja meg újra</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d felhasználó csatlakozott</item>
@@ -148,10 +148,6 @@
         <item quantity="other">Várjon %d másodpercet, majd próbálja újra.</item>
         <item quantity="one">Várjon %d másodpercet, majd próbálja újra.</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s, %2$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Legfeljebb %d folyamat</item>
         <item quantity="one">Legfeljebb %d folyamat</item>
@@ -199,6 +195,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">%1$d lépésre van a hibajelentéstől.</item>
         <item quantity="one">%1$d lépésre van a hibajelentéstől.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d alkalmazás rendelkezik korlátlan adathozzáféréssel</item>
+        <item quantity="one">1 alkalmazás rendelkezik korlátlan adathozzáféréssel</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d alkalmazás nem jeleníthet meg értesítéseket</item>
@@ -248,21 +248,9 @@
         <item quantity="other">%d értesítés érkezett</item>
         <item quantity="one">%d értesítés érkezett</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d óra</item>
-        <item quantity="one">%d óra</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d óra</item>
         <item quantity="one">%d óra</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">" ó"</item>
-        <item quantity="one">" ó"</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d perc</item>
-        <item quantity="one">%d perc</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" p"</item>
@@ -292,14 +280,6 @@
         <item quantity="other">Hétköznapokon: %d perc</item>
         <item quantity="one">Hétköznapokon: %d perc</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" ó"</item>
-        <item quantity="one">" ó"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" p"</item>
-        <item quantity="one">" p"</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d kockázat található</item>
         <item quantity="one">%d kockázat található</item>
@@ -307,5 +287,29 @@
     <plurals name="wifi_share_count">
         <item quantity="other">%d hálózat megosztva</item>
         <item quantity="one">%d hálózat megosztva</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d készülék csatlakoztatva</item>
+        <item quantity="one">%1$d készülék csatlakoztatva</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" ó"</item>
+        <item quantity="one">" ó"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" ó"</item>
+        <item quantity="one">" ó"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" p"</item>
+        <item quantity="one">" p"</item>
     </plurals>
 </resources>

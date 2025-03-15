@@ -112,25 +112,13 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">پس گرفتن (%dثانیه)</item>
-        <item quantity="one">پس گرفتن (%dثانیه)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">شما %d دعوت‌نامه گروه گپ دریافت کرده‌اید</item>
         <item quantity="one">شما %d دعوت‌نامه گروه گپ دریافت کرده‌اید</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s نفر</item>
-        <item quantity="one">%1$s نفر</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s نتیجه برای \"%2$s\"</item>
         <item quantity="one">%1$s نتیجه برای \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d ثانیه</item>
-        <item quantity="one">%d ثانیه</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s پیام ارسال شد</item>

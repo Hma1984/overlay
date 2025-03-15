@@ -18,7 +18,6 @@
     <string name="app_name">סורק</string>
     <string name="app_remove_icon_description_content">הסורק הוא יישום מערכת. לאחר הסרת הקיצור ממסך הבית עדיין ניתן יהיה למצוא אותו תחת ההגדרות, או לסרוק קודים באמצעות מצלמה, דפדפן וארנק Mi.</string>
     <string name="app_remove_icon_description_title">להסיר את הסורק ממסך הבית?</string>
-    <string name="auracast_code_title_key">להאזין לשידור של %s</string>
     <string name="back">חזרה</string>
     <string name="barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
     <string name="birthday">יום הולדת:</string>
@@ -26,8 +25,6 @@
     <string name="btn_send_email">שליחת הודעת דוא\"ל</string>
     <string name="btn_send_message">שליחת SMS</string>
     <string name="camera_error_title">שגיאת מצלמה</string>
-    <string name="camera_string">מצלמה</string>
-    <string name="camera_use">לשימוש במצלמה</string>
     <string name="cancel">ביטול</string>
     <string name="choose_open_code_app">בחר אפליקציה</string>
     <string name="choose_pay_title">בחר שיטת תשלום</string>
@@ -187,17 +184,15 @@
     <string name="miracast_switch_off">התצוגה האלחוטית כבויה</string>
     <string name="miracast_switch_tip">הפעל את התצוגה האלחוטית על מנת שתוכל להשתמש בתכונה זו</string>
     <string name="mishop">חנות Mi</string>
-    <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
+    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
-    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>
@@ -268,11 +263,8 @@
     <string name="open_web_url">פתיחה בדפדפן</string>
     <string name="pay_save_this_choose">זכור את הבחירה שלי</string>
     <string name="payment_text">פתיחה באמצעות %s</string>
-    <string name="permissions_need">הרשאות חובה</string>
-    <string name="permissions_use">הרשאות</string>
     <string name="phone">טלפון:</string>
     <string name="place_barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
-    <string name="please_enable_bluetooth_retry">נא להפעיל את Bluetooth ולנסות שוב</string>
     <string name="pm">PM</string>
     <string name="preparing_sd">מכין אחסון פנימי…</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
@@ -304,8 +296,6 @@
     <string name="setting_use_last_choose">זכור בחירה קודמת</string>
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">אין מספיק מקום באחסון הפנימי. אנא פנה מקום.</string>
-    <string name="storage_permissions_use">גישה ועריכה של פריטים ששמורים באחסון המכשיר</string>
-    <string name="storage_string">גישה לאחסון</string>
     <string name="study_scan_result">תוצאה</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>

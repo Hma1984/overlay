@@ -45,7 +45,6 @@
     <string name="app_name">Skaner</string>
     <string name="app_remove_icon_description_content">Skaner to aplikacja systemowa. Nadal będziesz mógł ją znaleźć w Ustawieniach lub zeskanować kody za pomocą aparatu, przeglądarki i Mi Portfela po usunięciu skrótu z ekranu głównego.</string>
     <string name="app_remove_icon_description_title">Usunąć \"Skaner\" z ekranu głównego?</string>
-    <string name="auracast_code_title_key">Posłuchaj transmisji %s</string>
     <string name="back">Wstecz</string>
     <string name="barcode_into_rectangle">Umieść kod wewnątrz ramki</string>
     <string name="birthday">Urodziny:</string>
@@ -53,8 +52,6 @@
     <string name="btn_send_email">Wyślij e-mail</string>
     <string name="btn_send_message">Wyślij SMS</string>
     <string name="camera_error_title">Błąd aparatu</string>
-    <string name="camera_string">Aparat</string>
-    <string name="camera_use">Do korzystania z aparatu</string>
     <string name="cancel">Anuluj</string>
     <string name="choose_open_code_app">Wybierz aplikację</string>
     <string name="choose_pay_title">Wybierz formę płatności</string>
@@ -216,7 +213,6 @@
     <string name="miracast_switch_off">Ekran bezprzewodowy jest wyłączony</string>
     <string name="miracast_switch_tip">Włącz ekran bezprzewodowy, aby korzystać z tej funkcji</string>
     <string name="mishop">Mi Sklep</string>
-    <string name="miuix_access_state_desc">Wybrane</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
     <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
     <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
@@ -224,9 +220,8 @@
     <string name="miuix_appcompat_cancel_description">Anuluj</string>
     <string name="miuix_appcompat_confirm_description">Potwierdź</string>
     <string name="miuix_appcompat_delete_description">Usuń</string>
-    <string name="miuix_appcompat_deselect_all">Odznacz wszystko</string>
+    <string name="miuix_appcompat_deselect_all">Odznacz</string>
     <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
-    <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
     <string name="miuix_appcompat_search_input_description">Szukaj</string>
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
@@ -298,11 +293,8 @@
     <string name="open_web_url">Otwórz w Przeglądarce</string>
     <string name="pay_save_this_choose">Zapamiętaj mój wybór</string>
     <string name="payment_text">Otwórz za pomocą %s</string>
-    <string name="permissions_need">Uprawnienia obowiązkowe</string>
-    <string name="permissions_use">Uprawnienia</string>
     <string name="phone">Telefon:</string>
     <string name="place_barcode_into_rectangle">Umieść kod wewnątrz ramki</string>
-    <string name="please_enable_bluetooth_retry">Włącz Bluetooth i spróbuj ponownie</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
     <string name="preparing_sd">Przygotowywanie pamięci wewnętrznej…</string>
@@ -337,8 +329,6 @@
     <string name="setting_wechat">WeChat</string>
     <string name="spaceIsLow_content">Brak miejsca w pamięci wewnętrznej. Usuń niepotrzebne dane.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_permissions_use">Uzyskaj dostęp i edytuj elementy zapisane w pamięci urządzenia</string>
-    <string name="storage_string">Dostęp do pamięci</string>
     <string name="study_scan_result">Wynik</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Niedziela</string>

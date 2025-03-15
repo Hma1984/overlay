@@ -53,11 +53,6 @@
         <item>CHAP</item>
         <item>PAPまたはCHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
     <string-array name="app_ops_labels">
         <item>位置情報</item>
         <item>位置情報</item>
@@ -222,11 +217,6 @@
         <item>パーセンテージ（アイコン横）</item>
         <item>プログレスバー</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>指定なし</item>
         <item>LTE</item>
@@ -312,20 +302,6 @@
         <item>オーディオ品質に最適化 (900kbps)</item>
         <item>できる限りより良い音質を提供する (自動ビットレート)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>システムの選択（デフォルト）を使用</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>システムの選択（デフォルト）を使用</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>システムの選択を使用 (デフォルト)</item>
         <item>SBC</item>
@@ -369,27 +345,11 @@
         <item>補聴器で再生</item>
         <item>スマートフォンのスピーカーで再生</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
-        <item>avrcp13</item>
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6（デフォルト）</item>
+        <item>AVRCP 1.5（デフォルト）</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>無効</item>
-        <item>ユニキャスト</item>
-        <item>ユニキャストとブロードキャスト</item>
-    </string-array>
-    <string-array name="bluetooth_map_version_values">
-        <item>map12</item>
-        <item>map13</item>
-        <item>map14</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2（デフォルト）</item>
@@ -413,22 +373,15 @@
         <item>有効 (プロファイルはフィルター処理されます)</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>ACL ヘッダーのみを残す</item>
-        <item>A2DP メディア パケットをフィルタ</item>
-        <item>RFCOMM チャネルをフィルタ</item>
+        <item>ACLヘッダーのみを残す</item>
+        <item>A2DPメディアパケットをフィルタリング</item>
+        <item>RFCOMMチャンネルをフィルタリング</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>無効にする</item>
-        <item>文字列を入力</item>
+        <item>無効</item>
+        <item>文字列で埋める</item>
         <item>ヘッダーのみを残す</item>
         <item>完全に削除</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>詳細</item>
-        <item>デバッグ</item>
-        <item>情報</item>
-        <item>警告</item>
-        <item>エラー</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1秒</item>
@@ -460,12 +413,6 @@
         <item>大</item>
         <item>極大</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>アプリによる設定</item>
         <item>黒地に白</item>
@@ -477,17 +424,13 @@
     <string-array name="captioning_typeface_selector_titles">
         <item>デフォルト</item>
         <item>Sans Serif</item>
-        <item>Sans Serif コンデンス</item>
+        <item>Sans Serif Condensed</item>
         <item>Sans Serif 固定幅</item>
         <item>Serif</item>
         <item>Serif 固定幅</item>
         <item>カジュアル</item>
         <item>草書体</item>
         <item>スモールキャピタル</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM / SIM</item>
-        <item>NV</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>ホームのみ</item>
@@ -499,15 +442,6 @@
         <item>PIN</item>
         <item>パスワード</item>
     </string-array>
-    <array name="click_bottom">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom08</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="color_mode_descriptions">
         <item>拡張色</item>
         <item>目に自然な色</item>
@@ -537,10 +471,6 @@
     <string-array name="connect_mode_entries">
         <item>互換モード</item>
         <item>高速モード</item>
-    </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>ダーク</item>
@@ -592,12 +522,6 @@
         <item>デバイスのパフォーマンスを高速化します</item>
         <item>デバイスのパフォーマンスが遅くなる場合があります</item>
     </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5インチ</item>
         <item>4.0インチ</item>
@@ -618,24 +542,6 @@
         <item>チェックしない</item>
         <item>DRMコンテンツのみをチェック</item>
         <item>常にチェック</item>
-    </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>input_method_selector_show_automatically_title</item>
-        <item>input_method_selector_always_show_title</item>
-        <item>input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>スリープを解除しない</item>
@@ -680,22 +586,6 @@
         <item>5分後</item>
         <item>しない</item>
     </string-array>
-    <array name="long_press">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>短め</item>
         <item>中</item>
@@ -734,14 +624,6 @@
         <item>紫</item>
         <item>赤紫</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>XS</item>
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XPおよびそれ以前のバージョン</item>
         <item>Windows Vistaおよびそれ以降のバージョン</item>
@@ -749,8 +631,8 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>msd_pc_system_install_finish_summary_xp</item>
-        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>USBマスストレージはパソコンに接続すると自動的に開きます。</item>
         <item></item>
     </string-array>
@@ -769,16 +651,8 @@
         <item>"デバイスをアンインストール： fusermount -u /media/mtp
 注：Ubuntu 8.04 環境下のみ"</item>
     </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>msd_install_retry_reinstall_mac</item>
-        <item>msd_install_retry_connect</item>
-        <item>msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>msd_install_retry_connect</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_xp">
-        <item>msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_connect</item>
         <item>Mi PC Suiteを再インストール</item>
     </string-array>
     <string-array name="mvno_type_entries">
@@ -805,10 +679,6 @@
         <item>常時</item>
         <item>別の決済アプリが起動されている場合を除く</item>
     </string-array>
-    <string-array name="nfc_payment_favor_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>グラフィック</item>
         <item>パーセンテージ（アイコン内）</item>
@@ -823,58 +693,6 @@
         <item>検索</item>
         <item>設定</item>
     </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>なし</item>
         <item>480p</item>
@@ -887,7 +705,7 @@
         <item>4K（セキュア）</item>
         <item>4K（アップスケール）</item>
         <item>4K（アップスケール、セキュア）</item>
-        <item>720p、1080p（デュアル スクリーン）</item>
+        <item>720p、1080p（デュアルスクリーン）</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>フルカラー</item>
@@ -903,97 +721,6 @@
         <item>シングルマイクノイズ抑制</item>
         <item>デュアルマイクノイズ抑制</item>
     </string-array>
-    <array name="power_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_long_press">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick03</item>
-        <item>powerclick02</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>パフォーマンス</item>
         <item>バランス</item>
@@ -1095,16 +822,6 @@
         <item>彩度調整</item>
         <item>標準</item>
     </string-array>
-    <string-array name="screen_resolution_format">
-        <item>screen_resolution_ultrahigh_format</item>
-        <item>screen_resolution_high_format</item>
-        <item>screen_resolution_normal_format</item>
-    </string-array>
-    <string-array name="screen_resolution_text">
-        <item>2K</item>
-        <item>1080p</item>
-        <item>720p</item>
-    </string-array>
     <string-array name="screen_saturation_title">
         <item>鮮明</item>
         <item>標準</item>
@@ -1118,49 +835,11 @@
         <item>10分</item>
         <item>しない</item>
     </string-array>
-    <string-array name="screen_zoom_level">
-        <item>XS</item>
-        <item>S</item>
-        <item>L</item>
-    </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>確認する</item>
-        <item>許可しない</item>
-        <item>常に許可する</item>
-    </string-array>
-    <string-array name="select_gpo_version_summaries">
-        <item>オフ</item>
-        <item>GPO4</item>
-        <item>GPO5</item>
-        <item>GPO6</item>
-    </string-array>
     <string-array name="select_gpo_version_titles">
         <item>オフ</item>
         <item>GPO4</item>
         <item>GPO5</item>
         <item>GPO6</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>OFF</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>OFF</item>
-        <item>64 K / ログバッファ</item>
-        <item>256 K / ログバッファ</item>
-        <item>1 M / ログバッファ</item>
-        <item>4 M / ログバッファ</item>
-        <item>8 M / ログバッファ</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>OFF</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>8 M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>OFF</item>
@@ -1179,32 +858,12 @@
         <item>非矩形クリップ領域を青で描画</item>
         <item>テスト済み描画コマンドを緑でハイライト表示</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>standard</item>
-        <item>total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>常時</item>
         <item>30分</item>
         <item>1時間</item>
         <item>2時間</item>
         <item>8時間</item>
-    </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
-        <item>スマートホーム</item>
-        <item>なし</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>スマートホーム</item>
@@ -1213,10 +872,6 @@
     <string-array name="startup_hips_action">
         <item>許可</item>
         <item>拒否</item>
-    </string-array>
-    <string-array name="swipe_direction_values">
-        <item>1</item>
-        <item>0</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>なし</item>
@@ -1238,31 +893,6 @@
         <item>省電力モード</item>
         <item>プロセスの状態</item>
     </string-array>
-    <array name="three_drop">
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop02</item>
-        <item>threedrop03</item>
-        <item>threedrop04</item>
-        <item>threedrop05</item>
-        <item>threedrop06</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-    </array>
     <string-array name="time_format_entries">
         <item>12時間制 午後1:00</item>
         <item>24時間制 13:00</item>
@@ -1277,11 +907,6 @@
         <item>オフ</item>
         <item>標準</item>
         <item>極度</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"モバイルデータ使用量 "</item>
@@ -1306,17 +931,6 @@
         <item>彩度調整</item>
         <item>元の色</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>60%</item>
-        <item>80%</item>
-        <item>100%</item>
-        <item>150%</item>
-        <item>200%</item>
-        <item>250%</item>
-        <item>300%</item>
-        <item>350%</item>
-        <item>400%</item>
-    </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>非常に遅い</item>
         <item>遅い</item>
@@ -1328,6 +942,12 @@
         <item>標準</item>
         <item>タッチ</item>
         <item>ダイレクトタッチ</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>左に移動</item>
+        <item>下に移動</item>
+        <item>右に移動</item>
+        <item>上に移動</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>充電</item>
@@ -1348,12 +968,6 @@
         <item>星付きの連絡先からのみ</item>
         <item>なし</item>
     </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="vpn_proxy_settings">
         <item>なし</item>
         <item>手動</item>
@@ -1365,10 +979,6 @@
         <item>接続されました</item>
         <item>タイムアウト</item>
         <item>失敗しました</item>
-    </string-array>
-    <string-array name="wapi_psk_type">
-        <item>wapi_psk_type_ascii</item>
-        <item>wapi_psk_type_hex</item>
     </string-array>
     <string-array name="wfd_status">
         <item>セッションを開始しています…</item>
@@ -1389,18 +999,6 @@
         <item>パーセンテージ（アイコン内）</item>
         <item>パーセンテージ（通知シェード内のアイコン横）</item>
     </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>wifi_ap_choose_2G</item>
-        <item>wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>wifi_ap_ssid_off</item>
-        <item>wifi_ap_ssid_on</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>モバイル</item>
@@ -1414,10 +1012,6 @@
         <item>自動的に接続する</item>
         <item>手動で接続する</item>
         <item>毎回確認する</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>ネットワークにデバイス名を送信する</item>
-        <item>ネットワークにデバイス名を送信しない</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>いいえ</item>
@@ -1447,17 +1041,6 @@
         <item>利用可能</item>
         <item>圏外</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
     <string-array name="wifi_privacy_entries">
         <item>ランダムなMACを使用</item>
         <item>デバイスのMACを使用</item>
@@ -1466,12 +1049,6 @@
         <item>なし</item>
         <item>手動</item>
         <item>プロキシを自動設定</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wep</item>
-        <item>wifi_security_psk_generic</item>
-        <item>wifi_security_eap</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>弱</item>
@@ -1512,12 +1089,6 @@
         <item>ブロック中</item>
         <item>接続不良により一時的に無効</item>
     </string-array>
-    <string-array name="wifi_ttls_phase2_entries">
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
         <item>スキャン中…</item>
@@ -1540,5 +1111,15 @@
         <item>アニメーション スケール 2x</item>
         <item>アニメーション スケール 5x</item>
         <item>アニメーション スケール 10x</item>
+    </string-array>
+    <string-array name="select_gpo_version_summaries">
+        <item>オフ</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM / SIM</item>
+        <item>NV</item>
     </string-array>
 </resources>

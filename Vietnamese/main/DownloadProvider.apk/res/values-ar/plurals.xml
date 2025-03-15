@@ -16,14 +16,6 @@
         <item quantity="few">%d ملفات في الانتظار</item>
         <item quantity="many">%d ملف في الانتظار</item>
     </plurals>
-    <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">جارٍ تنزيل %1$d ملف</item>
-        <item quantity="zero">جارٍ تنزيل %1$d ملف</item>
-        <item quantity="one">جارٍ تنزيل %1$d ملف</item>
-        <item quantity="two">جارٍ تنزيل %1$d ملفات</item>
-        <item quantity="few">جارٍ تنزيل %1$d ملفات</item>
-        <item quantity="many">جارٍ تنزيل %1$d ملف</item>
-    </plurals>
     <plurals name="notification_download_failed_more">
         <item quantity="other">تعذر تنزيل %1$d عنصر</item>
         <item quantity="zero">تعذر تنزيل %1$d عنصر</item>
@@ -31,13 +23,5 @@
         <item quantity="two">تعذر تنزيل %1$d عناصر</item>
         <item quantity="few">تعذر تنزيل %1$d عناصر</item>
         <item quantity="many">تعذر تنزيل %1$d عنصر</item>
-    </plurals>
-    <plurals name="notification_download_success_more">
-        <item quantity="other">تم تنزيل %1$d ملف</item>
-        <item quantity="zero">تم تنزيل %1$d ملف</item>
-        <item quantity="one">تم تنزيل %1$d ملف</item>
-        <item quantity="two">تم تنزيل %1$d ملفات</item>
-        <item quantity="few">تم تنزيل %1$d ملفات</item>
-        <item quantity="many">تم تنزيل %1$d ملف</item>
     </plurals>
 </resources>

@@ -256,16 +256,6 @@
         <item quantity="one">%d порука</item>
         <item quantity="few">%d поруке</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-        <item quantity="few">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-        <item quantity="few">%1$s</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">Ваше Game Turbo чланство истиче за %d дана.</item>
         <item quantity="one">Ваше Game Turbo чланство истиче за %d дан.</item>
@@ -311,16 +301,6 @@
         <item quantity="one">Пријављено %d пут</item>
         <item quantity="few">Пријављено %d дана заредом</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d часова</item>
-        <item quantity="one">%d час</item>
-        <item quantity="few">%d часа</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">%d мин.</item>
-        <item quantity="few">%d мин.</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Схватам (%ds)</item>
         <item quantity="one">Схватам (%ds)</item>
@@ -336,17 +316,6 @@
         <item quantity="few">"Напомена:
 ·Побољшани визуелни прикази неће бити доступни када је укључена Уштеда батерије или када је уређај прегрејан.
 ·Паметна брзина кадрова показује најбоље резултате када је игра подешена да приказује најмање %d кадра по секунди."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"Напомена:
-· Побољшани визуелни прикази неће бити доступни када је укључена Уштеда батерије или када је уређај прегрејан.
-· Повећани број слика показује најбоље резултате када је игра подешена да приказује најмање %d слика у секунди."</item>
-        <item quantity="one">"Напомена:
-· Побољшани визуелни прикази неће бити доступни када је укључена Уштеда батерије или када је уређај прегрејан.
-· Повећани број слика показује најбоље резултате када је игра подешена да приказује најмање %d слика у секунди."</item>
-        <item quantity="few">"Напомена:
-· Побољшани визуелни прикази неће бити доступни када је укључена Уштеда батерије или када је уређај прегрејан.
-· Повећани број слика показује најбоље резултате када је игра подешена да приказује најмање %d слике у секунди."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Испробајте Промену гласа сада
@@ -398,11 +367,6 @@
         <item quantity="other">Аутоматски смањи светлину екрана ради уштеде енергије након %d минута неактивности</item>
         <item quantity="one">Аутоматски смањи светлину екрана ради уштеде енергије након %d минута неактивности</item>
         <item quantity="few">Аутоматски смањи светлину екрана ради уштеде енергије након %d минута неактивности</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-        <item quantity="few">"Congrats! You've unlocked %s Easter eggs."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Пре пола сата</item>
@@ -704,11 +668,6 @@
         <item quantity="one">%2$d апликација укључујући %1$s могу бити злонамерне</item>
         <item quantity="few">%2$d апликације укључујући %1$s могу бити злонамерне</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="few">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d апликација празне батерију</item>
         <item quantity="one">%d апликација празни батерију</item>
@@ -719,16 +678,6 @@
         <item quantity="one">" ч"</item>
         <item quantity="few">" ч"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" мин."</item>
-        <item quantity="one">" мин."</item>
-        <item quantity="few">" мин."</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-дневни</item>
-        <item quantity="one">%d-дневни</item>
-        <item quantity="few">%d-дневни</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d ставки</item>
         <item quantity="one">%d ставка</item>
@@ -738,11 +687,6 @@
         <item quantity="other">Батерија уређаја је празна. Приступање режиму хибернације за %1$d секунди.</item>
         <item quantity="one">Батерија уређаја је празна. Приступање режиму хибернације за %1$d секунду.</item>
         <item quantity="few">Батерија уређаја је празна. Приступање режиму хибернације за %1$d секунде.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Слаба батерија. Уређај ће се пребацити у Режим хибернације за %1$d секунди. Перформансе и јачина сигнала могу бити мало смањени.</item>
-        <item quantity="one">Слаба батерија. Уређај ће се пребацити у Режим хибернације за %1$d секунду. Перформансе и јачина сигнала могу бити мало смањени.</item>
-        <item quantity="few">Слаба батерија. Уређај ће се пребацити у Режим хибернације за %1$d секунде. Перформансе и јачина сигнала могу бити мало смањени.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s дана</item>
@@ -824,25 +768,10 @@
         <item quantity="one">Уређај ће се искључити за %d сек.</item>
         <item quantity="few">Уређај ће се искључити за %d сек.</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s часова</item>
-        <item quantity="one">%s час</item>
-        <item quantity="few">%s часа</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s мин.</item>
-        <item quantity="one">%s мин.</item>
-        <item quantity="few">%s мин.</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">пута</item>
         <item quantity="one">пут</item>
         <item quantity="few">пута</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d пута</item>
-        <item quantity="one">%d пут</item>
-        <item quantity="few">%d пута</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d ставки са великом потрошњом енергије</item>
@@ -868,11 +797,6 @@
         <item quantity="other">"%d сати "</item>
         <item quantity="one">"%d сат "</item>
         <item quantity="few">"%d сата "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин "</item>
-        <item quantity="one">"%d мин "</item>
-        <item quantity="few">"%d мин. "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">Оптимизуј коришћење батерије у %d сценарија</item>
@@ -903,16 +827,6 @@
         <item quantity="other">Можете оптимизовати %d ставки ради уштеде батерије</item>
         <item quantity="one">Можете оптимизовати %d ставку ради уштеде батерије</item>
         <item quantity="few">Можете оптимизовати %d ставке ради уштеде батерије</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-        <item quantity="few">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
-        <item quantity="few">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Додај %d минута</item>
@@ -1144,16 +1058,6 @@
         <item quantity="one">Уређивање %1$d дозволе</item>
         <item quantity="few">Уређивање %1$d дозволе</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмената</item>
-        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
-        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмента</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="few">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Доступно је ажурирање за %d апликација.</item>
         <item quantity="one">Доступно је ажурирање за %d апликацију.</item>
@@ -1163,11 +1067,6 @@
         <item quantity="other">Ваша статистика коришћења података није синхронизована с вашим оператором %d дана</item>
         <item quantity="one">Ваша статистика коришћења података није синхронизована с вашим оператором %d дан</item>
         <item quantity="few">Ваша статистика коришћења података није синхронизована с вашим оператором %d дана</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%ds)</item>
-        <item quantity="one">(%ds)</item>
-        <item quantity="few">(%ds)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d ставки је безбедно</item>
@@ -1246,5 +1145,40 @@
         <item quantity="other">Тројанских коња: %d</item>
         <item quantity="one">Тројански коњ: %d</item>
         <item quantity="few">Тројанска коња: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d часова</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" мин."</item>
+        <item quantity="one">" мин."</item>
+        <item quantity="few">" мин."</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s часова</item>
+        <item quantity="one">%s час</item>
+        <item quantity="few">%s часа</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+        <item quantity="few">%s мин.</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмената</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
+        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмента</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин "</item>
+        <item quantity="one">"%d мин "</item>
+        <item quantity="few">"%d мин. "</item>
     </plurals>
 </resources>

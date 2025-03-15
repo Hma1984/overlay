@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Tem %d tentativas restantes antes do SIM ficar bloqueado</item>
+        <item quantity="one">Tem %d tentativa restante antes do SIM ficar bloqueado</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d ficheiros</item>
+        <item quantity="one">%1$s + %2$d ficheiro</item>
+    </plurals>
+</resources>

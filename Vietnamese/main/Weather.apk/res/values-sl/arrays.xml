@@ -1,74 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aqi_detail_title">
-        <item>Zelo dobra</item>
-        <item>Dobra</item>
-        <item>Sprejemljiva</item>
-        <item>Slaba</item>
-        <item>Zelo slaba</item>
-        <item>Izredno slaba</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+        <item>Dobro</item>
+        <item>Sprejemljivo</item>
+        <item>Zmerno</item>
+        <item>Nezdravo</item>
+        <item>Hudo</item>
+        <item>Nevarno</item>
     </string-array>
     <string-array name="aqi_value">
-        <item>Zelo dobra</item>
-        <item>Dobra</item>
-        <item>Sprejemljiva</item>
-        <item>Slaba</item>
-        <item>Zelo slaba</item>
-        <item>Izredno slaba</item>
-        <item>Nevarna</item>
+        <item>Dobro</item>
+        <item>Sprejemljivo</item>
+        <item>Zmerno</item>
+        <item>Nezdravo</item>
+        <item>Hudo</item>
+        <item>Nevarno</item>
+        <item>Preko indeksa</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Sila 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
     </string-array>
     <string-array name="hot_city">
-        <item>Peking</item>
-        <item>Šanghaj</item>
-        <item>Hong Kong</item>
-        <item>Tajpej</item>
-        <item>Džakarta</item>
-        <item>Delhi</item>
-        <item>Mumbaj</item>
-        <item>Moskva</item>
-        <item>Čenaj</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapur</item>
-        <item>Berlin</item>
-        <item>Rim</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokio</item>
-        <item>Pariz</item>
-        <item>Bangkok</item>
-        <item>Seul</item>
-        <item>Kuala Lumpur</item>
+        <item>Ljubljana</item>
+        <item>Maribor</item>
+        <item>Celje</item>
+        <item>Kranj</item>
+        <item>Koper</item>
+        <item>Novo Mesto</item>
+        <item>Ptuj</item>
+        <item>Zagorje ob Savi</item>
+        <item>Kamnik</item>
+        <item>Jesenice</item>
+        <item>Nova Gorica</item>
+        <item>Domzale</item>
+        <item>Skofja Loka</item>
+        <item>Murska Sobota</item>
+        <item>Izola</item>
+        <item>Postojna</item>
+        <item>Logatec</item>
+        <item>Kocevje</item>
+        <item>Vrhnika</item>
+        <item>Slovenj Gradec</item>
+        <item>Zgornje Jezersko</item>
+        <item>Izlake</item>
     </string-array>
     <string-array name="minute_rain_array">
         <item>Močno</item>
         <item>Zmerno</item>
-        <item>Rahlo</item>
+        <item>Lahko</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Izvrstno</item>
+        <item>Dobro</item>
+        <item>Malo onesnaženo</item>
+        <item>Zmerno onesnaženo</item>
+        <item>Močno onesnaženo</item>
+        <item>Kritično onesnaženo</item>
+        <item>Nad indeksom</item>
     </string-array>
     <string-array name="realtime_humidity_status">
         <item>Suho</item>
@@ -76,53 +68,46 @@
         <item>Vlažno</item>
     </string-array>
     <string-array name="realtime_pressure_status">
-        <item>Visok</item>
-        <item>Zmeren</item>
-        <item>Nizek</item>
+        <item>Visoko</item>
+        <item>Zmerno</item>
+        <item>Nizko</item>
     </string-array>
     <string-array name="realtime_temperature_status">
         <item>Mrzlo</item>
-        <item>Hladno</item>
         <item>Prijetno</item>
+        <item>Udobno</item>
         <item>Toplo</item>
         <item>Vroče</item>
     </string-array>
     <string-array name="realtime_uv_level">
-        <item>Nizek</item>
-        <item>Zmeren</item>
-        <item>Visok</item>
-        <item>Zelo visok</item>
-        <item>Izredno visok</item>
-    </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
+        <item>Nizko</item>
+        <item>Zmerno</item>
+        <item>Visoko</item>
+        <item>Zelo visoko</item>
+        <item>Hudo</item>
     </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
-        <item>Pretežno oblačno</item>
         <item>Oblačno</item>
-        <item>Meglica</item>
-        <item>Huda nevihta</item>
+        <item>Oblačno</item>
+        <item>Megla</item>
+        <item>Močna nevihta</item>
         <item>Naliv</item>
         <item>Nevihta</item>
-        <item>Neurje</item>
+        <item>Nevihta z grmenjem</item>
         <item>Ploha</item>
         <item>Močan dež</item>
         <item>Zmeren dež</item>
         <item>Rahel dež</item>
-        <item>Sodra</item>
-        <item>Snežni vihar</item>
-        <item>Snežna ploha</item>
+        <item>Žled</item>
+        <item>Snežna nevihta</item>
+        <item>Snežne plohe</item>
         <item>Močan sneg</item>
         <item>Zmeren sneg</item>
         <item>Rahel sneg</item>
-        <item>Huda peščena nevihta</item>
-        <item>Peščena nevihta</item>
-        <item>Rahla peščena nevihta</item>
+        <item>Močan peščeni vihar</item>
+        <item>Peščeni vihar</item>
+        <item>Rahel peščeni vihar</item>
         <item>Prašni vihar</item>
         <item>Toča</item>
         <item>Prah</item>
@@ -152,16 +137,16 @@
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Beaufortova lestvica</item>
-        <item>Kilometri na uro (km/h)</item>
-        <item>Metri na sekundo (m/s)</item>
-        <item>Milje na uro (milj/h)</item>
-        <item>Vozli (vz)</item>
+        <item>Kilometrov na uro (km/h)</item>
+        <item>Metrov na sekundo (m/s))</item>
+        <item>Milj na uro (mph)</item>
+        <item>Vozlov (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>Moč %1$s</item>
-        <item>%1$s km/h</item>
-        <item>%1$s m/s</item>
-        <item>%1$s milj/h</item>
-        <item>%1$s kn</item>
+        <item>Sila %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
     </string-array>
 </resources>

@@ -57,6 +57,9 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d個の利用可能なデバイス</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d秒</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">%d秒ごと</item>
     </plurals>
@@ -65,9 +68,6 @@
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">%s個のアプリの接続が制限されました</item>
-    </plurals>
-    <plurals name="fivega_info">
-        <item quantity="other">%d 秒待ってから再試行してください</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d人が接続済み</item>
@@ -114,10 +114,6 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d秒後にもう一度お試しください。</item>
     </plurals>
-    <plurals name="lockscreen_quick_affordances_summary">
-        <item quantity="other">%1$s、%2$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">最大で%dつのプロセス</item>
     </plurals>
@@ -155,6 +151,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">バグを報告するまで、あと%1$dステップです。</item>
     </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d 個のアプリがモバイルデータを無制限に使用可能</item>
+        <item quantity="one">1 個のアプリがモバイルデータを無制限に使用可能</item>
+    </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d個のアプリが通知を表示できません</item>
     </plurals>
@@ -191,17 +191,8 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">受信した通知%d件</item>
     </plurals>
-    <plurals name="usage_state_hour">
-        <item quantity="other">%d時間</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d時間</item>
-    </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other">時間</item>
-    </plurals>
-    <plurals name="usage_state_minute">
-        <item quantity="other">%d分</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">分</item>
@@ -224,16 +215,32 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">平日：%d分</item>
     </plurals>
-    <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" 時間"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" 分"</item>
-    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d件のリスクが見つかりました</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d個のネットワークを共有済み</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d個のデバイスが接続されています</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s、%2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d時間</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">時間</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d分</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" 時間"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" 分"</item>
     </plurals>
 </resources>

@@ -7,10 +7,7 @@
         <item quantity="many">Гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d гадзін таму</item>
-        <item quantity="one">%d гадзіну таму</item>
-        <item quantity="few">%d гадзіны таму</item>
-        <item quantity="many">%d гадзін таму</item>
+        <item quantity="other">%d гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -19,10 +16,7 @@
         <item quantity="many">Паўгадзіны таму</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Праз %d гадзін</item>
-        <item quantity="one">Праз %d гадзіну</item>
-        <item quantity="few">Праз %d гадзіны</item>
-        <item quantity="many">Праз %d гадзін</item>
+        <item quantity="other">Праз %d гадзіну</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Праз паўгадзіны</item>
@@ -39,8 +33,6 @@
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Праз %d хв.</item>
         <item quantity="one">Праз %d хв.</item>
-        <item quantity="few">Праз %d хв.</item>
-        <item quantity="many">Праз %d хв.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>
@@ -49,10 +41,8 @@
         <item quantity="many">Толькі што</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d хвілін таму</item>
-        <item quantity="one">%d хвіліну таму</item>
-        <item quantity="few">%d хвіліны таму</item>
-        <item quantity="many">%d хвілін таму</item>
+        <item quantity="other">%d хв. таму</item>
+        <item quantity="one">%d хв. таму</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Выдаліць %d задач?</item>
@@ -63,19 +53,13 @@
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">Выдалена %1$d спамповак</item>
         <item quantity="one">Выдалена %1$d спампоўка</item>
-        <item quantity="few">Выдалены %1$d спампоўкі</item>
+        <item quantity="few">Выдалена %1$d спампоўкі</item>
         <item quantity="many">Выдалена %1$d спамповак</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d дзён</item>
         <item quantity="one">%1$d дзень</item>
-        <item quantity="few">%1$d дзень</item>
-        <item quantity="many">%1$d дні</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d гадз.</item>
-        <item quantity="one">%1$d гадз.</item>
-        <item quantity="few">%1$d гадз.</item>
+        <item quantity="few">%1$d дні</item>
         <item quantity="many">%1$d дзён</item>
     </plurals>
     <plurals name="durationMinutes">
@@ -127,10 +111,10 @@
         <item quantity="many">Толькі што</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">"%d аб'екта выдзеленая"</item>
+        <item quantity="other">"%d аб'екта выдзеленыя"</item>
         <item quantity="one">"%d аб'ект выдзелены"</item>
-        <item quantity="few">"%d аб'екты выдзелены"</item>
-        <item quantity="many">"%d аб'ектаў выдзелена"</item>
+        <item quantity="few">"%d аб'екты выдзелена"</item>
+        <item quantity="many">"%d аб'ектаў выдзеленыя"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хвілін таму</item>
@@ -139,15 +123,14 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">"%s аб'ектаў"</item>
-        <item quantity="one">"%s аб'ектаў"</item>
-        <item quantity="few">"%s аб'ектаў"</item>
-        <item quantity="many">"%s аб'ектаў"</item>
+        <item quantity="other">%1$d элементаў</item>
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
     </plurals>
-    <plurals name="show_more">
-        <item quantity="other">Паказаць яшчэ %1$d</item>
-        <item quantity="one">Паказаць яшчэ %1$d</item>
-        <item quantity="few">Паказаць яшчэ %1$d</item>
-        <item quantity="many">Паказаць яшчэ %1$d</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d г.</item>
+        <item quantity="one">%1$d г.</item>
+        <item quantity="few">%1$d г.</item>
+        <item quantity="many">%1$d г.</item>
     </plurals>
 </resources>

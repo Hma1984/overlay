@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">قبل %d يوم من الحدث</item>
-        <item quantity="zero">قبل %d يوم من الحدث</item>
-        <item quantity="one">قبل %d يوم من الحدث</item>
-        <item quantity="two">قبل %d أيام من الحدث</item>
-        <item quantity="few">قبل %d أيام من الحدث</item>
-        <item quantity="many">قبل %d يوم من الحدث</item>
+        <item quantity="other">قبل %d يوم</item>
+        <item quantity="zero">قبل %d يوم</item>
+        <item quantity="one">قبل %d يوم</item>
+        <item quantity="two">قبل %d أيام</item>
+        <item quantity="few">قبل %d أيام</item>
+        <item quantity="many">قبل %d يوم</item>
     </plurals>
     <plurals name="Ndays_after_at">
-        <item quantity="other">بعد %1$d يوم، الساعة %2$s</item>
-        <item quantity="zero">بعد %1$d يوم، الساعة %2$s</item>
-        <item quantity="one">بعد %1$d يوم، الساعة %2$s</item>
-        <item quantity="two">بعد %1$d أيام، الساعة %2$s</item>
-        <item quantity="few">بعد %1$d أيام، الساعة %2$s</item>
-        <item quantity="many">بعد %1$d يوم، الساعة %2$s</item>
+        <item quantity="other">خلال %1$d يوم على الساعة %2$s</item>
+        <item quantity="zero">خلال %1$d أيام على الساعة %2$s</item>
+        <item quantity="one">خلال %1$d يوم على الساعة %2$s</item>
+        <item quantity="two">خلال %1$d أيام على الساعة %2$s</item>
+        <item quantity="few">خلال %1$d أيام على الساعة %2$s</item>
+        <item quantity="many">خلال %1$d يوم على الساعة %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">قبل %1$d يوم من الحدث في الساعة %2$s</item>
-        <item quantity="zero">قبل %1$d يوم من الحدث في الساعة %2$s</item>
-        <item quantity="one">قبل %1$d يوم من الحدث في الساعة %2$s</item>
-        <item quantity="two">قبل %1$d أيام من الحدث في الساعة %2$s</item>
-        <item quantity="few">قبل %1$d أيام من الحدث في الساعة %2$s</item>
-        <item quantity="many">قبل %1$d يوم من الحدث في الساعة %2$s</item>
+        <item quantity="other">قبل %1$d يوم في الساعة %2$s</item>
+        <item quantity="zero">قبل %1$d يوم في الساعة %2$s</item>
+        <item quantity="one">قبل %1$d يوم في الساعة %2$s</item>
+        <item quantity="two">قبل %1$d أيام في الساعة %2$s</item>
+        <item quantity="few">قبل %1$d أيام في الساعة %2$s</item>
+        <item quantity="many">قبل %1$d يوم في الساعة %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">قبل %d ساعة من الحدث</item>
-        <item quantity="zero">قبل %d ساعة من الحدث</item>
-        <item quantity="one">قبل %d ساعة من الحدث</item>
-        <item quantity="two">قبل %d ساعات من الحدث</item>
-        <item quantity="few">قبل %d ساعات من الحدث</item>
-        <item quantity="many">قبل %d ساعة من الحدث</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">قبل %d دقيقة من الحدث</item>
-        <item quantity="zero">قبل %d دقيقة من الحدث</item>
-        <item quantity="one">قبل %d دقيقة من الحدث</item>
-        <item quantity="two">قبل %d دقائق من الحدث</item>
-        <item quantity="few">قبل %d دقائق من الحدث</item>
-        <item quantity="many">قبل %d دقيقة من الحدث</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">قبل %d أسبوع من الحدث</item>
-        <item quantity="zero">قبل %d أسبوع من الحدث</item>
-        <item quantity="one">قبل %d أسبوع من الحدث</item>
-        <item quantity="two">قبل %d أسابيع من الحدث</item>
-        <item quantity="few">قبل %d أسابيع من الحدث</item>
-        <item quantity="many">قبل %d أسبوع من الحدث</item>
+        <item quantity="other">قبل %d أسبوع</item>
+        <item quantity="zero">قبل %d أسبوع</item>
+        <item quantity="one">قبل %d أسبوع</item>
+        <item quantity="two">قبل %d أسابيع</item>
+        <item quantity="few">قبل %d أسابيع</item>
+        <item quantity="many">قبل %d أسبوع</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">منذ ساعة واحدة</item>
@@ -57,12 +57,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">قبل %d ساعة</item>
-        <item quantity="zero">قبل %d ساعة</item>
-        <item quantity="one">قبل %d ساعة</item>
-        <item quantity="two">قبل %d ساعات</item>
-        <item quantity="few">قبل %d ساعات</item>
-        <item quantity="many">قبل %d ساعة</item>
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -73,12 +73,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">بعد %d ساعة</item>
-        <item quantity="zero">بعد %d ساعة</item>
-        <item quantity="one">بعد %d ساعة</item>
-        <item quantity="two">بعد %d ساعات</item>
-        <item quantity="few">بعد %d ساعات</item>
-        <item quantity="many">بعد %d ساعة</item>
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -97,12 +97,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">بعد %d دق</item>
-        <item quantity="zero">بعد %d دق</item>
-        <item quantity="one">بعد %d دق</item>
-        <item quantity="two">بعد %d دق</item>
-        <item quantity="few">بعد %d دق</item>
-        <item quantity="many">بعد %d دق</item>
+        <item quantity="other">في %d دق</item>
+        <item quantity="zero">في %d دق</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دق</item>
+        <item quantity="few">في %d دق</item>
+        <item quantity="many">في %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -113,12 +113,12 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">قبل %d دقيقة</item>
-        <item quantity="zero">قبل %d دقيقة</item>
-        <item quantity="one">قبل %d دقيقة</item>
-        <item quantity="two">قبل %d دقائق</item>
-        <item quantity="few">قبل %d دقائق</item>
-        <item quantity="many">قبل %d دقيقة</item>
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دقائق</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
     </plurals>
     <plurals name="after_num_minutes">
         <item quantity="other">بعد %d دق</item>
@@ -137,12 +137,12 @@
         <item quantity="many">%1$s يوم</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">ذكرى سنوية: باقي %1$d أيام وتمر %3$d سنوات على %2$s</item>
-        <item quantity="zero">ذكرى سنوية: باقي %1$d أيام وتمر %3$d سنوات على %2$s</item>
-        <item quantity="one">ذكرى سنوية: باقي %1$d يوم وتمر %3$d سنة على %2$s</item>
-        <item quantity="two">ذكرى سنوية: باقي %1$d أيام وتمر %3$d سنوات على %2$s</item>
-        <item quantity="few">ذكرى سنوية: باقي %1$d أيام وتمر %3$d سنوات على %2$s</item>
-        <item quantity="many">ذكرى سنوية: باقي %1$d أيام وتمر %3$d سنوات على %2$s</item>
+        <item quantity="other">ذكرى سنوية: باقي %3$d يوم وتمر %2$d سنة على %1$s</item>
+        <item quantity="zero">ذكرى سنوية: باقي %3$d يوم وتمر %2$d سنة على %1$s</item>
+        <item quantity="one">ذكرى سنوية: باقي %3$d يوم وتمر %2$d سنة على %1$s</item>
+        <item quantity="two">ذكرى سنوية: باقي %3$d أيام وتمر %2$d سنوات على %1$s</item>
+        <item quantity="few">ذكرى سنوية: باقي %3$d أيام وتمر %2$d سنوات على %1$s</item>
+        <item quantity="many">ذكرى سنوية: باقي %3$d يوم وتمر %2$d سنة على %1$s</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">ذكرى سنوية: مرت %2$d سنة على %1$s</item>
@@ -153,28 +153,28 @@
         <item quantity="many">ذكرى سنوية: مرت %2$d سنة على %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
-        <item quantity="other">%1$s سنوات</item>
+        <item quantity="other">%1$s سنة</item>
         <item quantity="zero">%1$s سنة</item>
         <item quantity="one">%1$s سنة</item>
         <item quantity="two">%1$s سنوات</item>
         <item quantity="few">%1$s سنوات</item>
-        <item quantity="many">%1$s سنوات</item>
+        <item quantity="many">%1$s سنة</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d days since</item>
-        <item quantity="zero">%1$d days since</item>
+        <item quantity="other">%1$d يوم منذ</item>
+        <item quantity="zero">%1$d يوم منذ</item>
         <item quantity="one">%1$d يوم منذ</item>
-        <item quantity="two">%1$d days since</item>
-        <item quantity="few">%1$d days since</item>
-        <item quantity="many">%1$d days since</item>
+        <item quantity="two">%1$d أيام منذ</item>
+        <item quantity="few">%1$d أيام منذ</item>
+        <item quantity="many">%1$d يوم منذ</item>
     </plurals>
     <plurals name="birthday_event_description_days_later">
-        <item quantity="other">%1$d days until</item>
-        <item quantity="zero">%1$d days until</item>
-        <item quantity="one">%1$d day until</item>
-        <item quantity="two">%1$d days until</item>
-        <item quantity="few">%1$d days until</item>
-        <item quantity="many">%1$d days until</item>
+        <item quantity="other">%1$d يوم حتى</item>
+        <item quantity="zero">%1$d يوم حتى</item>
+        <item quantity="one">%1$d يوم حتى</item>
+        <item quantity="two">%1$d أيام حتى</item>
+        <item quantity="few">%1$d أيام حتى</item>
+        <item quantity="many">%1$d يوم حتى</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">الـ %1$s</item>
@@ -184,29 +184,13 @@
         <item quantity="few">الـ %1$s</item>
         <item quantity="many">الـ %1$s</item>
     </plurals>
-    <plurals name="birthday_notification_text_days_later">
-        <item quantity="other">%1$s أيام ل%4$s (%5$s)</item>
-        <item quantity="zero">%1$s أيام ل%4$s (%5$s)</item>
-        <item quantity="one">%1$s يوم ل%4$s (%5$s)</item>
-        <item quantity="two">%1$s أيام ل%4$s (%5$s)</item>
-        <item quantity="few">%1$s أيام ل%4$s (%5$s)</item>
-        <item quantity="many">%1$s أيام ل%4$s (%5$s)</item>
-    </plurals>
-    <plurals name="count_down_days_unit">
-        <item quantity="other">يوم</item>
-        <item quantity="zero">يوم</item>
-        <item quantity="one">يوم</item>
-        <item quantity="two">أيام</item>
-        <item quantity="few">أيام</item>
-        <item quantity="many">يوم</item>
-    </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">باقي %1$s يوم</item>
-        <item quantity="zero">باقي %1$s يوم</item>
-        <item quantity="one">باقي %1$s يوم</item>
-        <item quantity="two">باقي %1$s أيام</item>
-        <item quantity="few">باقي %1$s أيام</item>
-        <item quantity="many">باقي %1$s يوم</item>
+        <item quantity="other">بقي %1$s أيام</item>
+        <item quantity="zero">بقي %1$s يوم</item>
+        <item quantity="one">بقي %1$s يوم</item>
+        <item quantity="two">بقي %1$s أيام</item>
+        <item quantity="few">بقي %1$s أيام</item>
+        <item quantity="many">بقي %1$s أيام</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">بعد %1$d يوم</item>
@@ -240,21 +224,13 @@
         <item quantity="few">قبل %1$d أيام</item>
         <item quantity="many">قبل %1$d يوم</item>
     </plurals>
-    <plurals name="delete_select_dup_events_title">
-        <item quantity="other">أنت تحاول حذف حدث متكرر. هل تريد حذف %d حدث مع كل تكراراته الآن؟</item>
-        <item quantity="zero">أنت تحاول حذف حدث متكرر. هل تريد حذف %d حدث مع كل تكراراته الآن؟</item>
-        <item quantity="one">أنت تحاول حذف حدث متكرر. هل تريد حذف %d حدث مع كل تكراراته الآن؟</item>
-        <item quantity="two">أنت تحاول حذف حدث متكرر. هل تريد حذف %d أحداث مع كل تكراراته الآن؟</item>
-        <item quantity="few">أنت تحاول حذف حدث متكرر. هل تريد حذف %d حدث مع كل تكراراته الآن؟</item>
-        <item quantity="many">أنت تحاول حذف حدث متكرر. هل تريد حذف %d حدث مع كل تكراراته الآن؟</item>
-    </plurals>
-    <plurals name="delete_select_event_title">
-        <item quantity="other">هل ترغب في حذف %d حدث الآن؟</item>
-        <item quantity="zero">هل ترغب في حذف %d حدث الآن؟</item>
-        <item quantity="one">هل ترغب في حذف %d حدث الآن؟</item>
-        <item quantity="two">هل ترغب في حذف %d أحداث الآن؟</item>
-        <item quantity="few">هل ترغب في حذف %d أحداث الآن؟</item>
-        <item quantity="many">هل ترغب في حذف %d حدث الآن؟</item>
+    <plurals name="day_index">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
     </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">يمكنك إدخال ما يصل إلى %1$d يوم</item>
@@ -265,12 +241,12 @@
         <item quantity="many">يمكنك إدخال ما يصل إلى %1$d يوم</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="other">يمكن تعيين ما يصل إلى %d تذكير</item>
-        <item quantity="zero">يمكن تعيين ما يصل إلى %d تذكير</item>
-        <item quantity="one">يمكن تعيين ما يصل إلى %d تذكير</item>
-        <item quantity="two">يمكن تعيين ما يصل إلى %d تذكيرات</item>
-        <item quantity="few">يمكن تعيين ما يصل إلى %d تذكيرات</item>
-        <item quantity="many">يمكن تعيين ما يصل إلى %d تذكير</item>
+        <item quantity="other">يمكن إعداد ما يصل إلى %d تذكير</item>
+        <item quantity="zero">يمكن إعداد ما يصل إلى %d تذكير</item>
+        <item quantity="one">يمكن إعداد ما يصل إلى %d تذكير</item>
+        <item quantity="two">يمكن إعداد ما يصل إلى %d تذكيرات</item>
+        <item quantity="few">يمكن إعداد ما يصل إلى %d تذكيرات</item>
+        <item quantity="many">يمكن إعداد ما يصل إلى %d تذكير</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -279,6 +255,14 @@
         <item quantity="two">منذ نصف ساعة</item>
         <item quantity="few">منذ نصف ساعة</item>
         <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="hide_completed_notes">
+        <item quantity="other">إخفاء %d مهمة مكتملة</item>
+        <item quantity="zero">إخفاء %d مهمة مكتملة</item>
+        <item quantity="one">إخفاء %d مهمة مكتملة</item>
+        <item quantity="two">إخفاء %d مهام مكتملة</item>
+        <item quantity="few">إخفاء %d مهام مكتملة</item>
+        <item quantity="many">إخفاء %d مهمة مكتملة</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">خلال ١ ساعة</item>
@@ -320,6 +304,30 @@
         <item quantity="few">الآن</item>
         <item quantity="many">الآن</item>
     </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">اليوم %1$d (متوقع)</item>
+        <item quantity="zero">اليوم %1$d (متوقع)</item>
+        <item quantity="one">اليوم %1$d (متوقع)</item>
+        <item quantity="two">اليوم %1$d (متوقع)</item>
+        <item quantity="few">اليوم %1$d (متوقع)</item>
+        <item quantity="many">اليوم %1$d (متوقع)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">اليوم %1$d</item>
+        <item quantity="zero">اليوم %1$d</item>
+        <item quantity="one">اليوم %1$d</item>
+        <item quantity="two">اليوم %1$d</item>
+        <item quantity="few">اليوم %1$d</item>
+        <item quantity="many">اليوم %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">الدورة القادمة بعد %1$d يوم</item>
+        <item quantity="zero">الدورة القادمة بعد %1$d يوم</item>
+        <item quantity="one">الدورة القادمة بعد %1$d يوم</item>
+        <item quantity="two">الدورة القادمة بعد %1$d أيام</item>
+        <item quantity="few">الدورة القادمة بعد %1$d أيام</item>
+        <item quantity="many">الدورة القادمة بعد %1$d يوم</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">تم تحديد %d عنصر</item>
         <item quantity="zero">تم تحديد %d عنصر</item>
@@ -328,37 +336,21 @@
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="zero">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="two">+%d</item>
-        <item quantity="few">+%d</item>
-        <item quantity="many">+%d</item>
+    <plurals name="notes_custom_repeat_days">
+        <item quantity="other">يوم</item>
+        <item quantity="zero">يوم</item>
+        <item quantity="one">يوم</item>
+        <item quantity="two">أيام</item>
+        <item quantity="few">أيام</item>
+        <item quantity="many">يوم</item>
     </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%d دعوة</item>
-        <item quantity="zero">%d دعوة</item>
-        <item quantity="one">%d دعوة</item>
-        <item quantity="two">%d دعوات</item>
-        <item quantity="few">%d دعوات</item>
-        <item quantity="many">%d دعوة</item>
-    </plurals>
-    <plurals name="n_day_before">
-        <item quantity="other">قبل %d يوم</item>
-        <item quantity="zero">قبل %d يوم</item>
-        <item quantity="one">قبل %d يوم</item>
-        <item quantity="two">قبل %d أيام</item>
-        <item quantity="few">قبل %d أيام</item>
-        <item quantity="many">قبل %d يوم</item>
-    </plurals>
-    <plurals name="n_day_later">
-        <item quantity="other">بعد %d يوم</item>
-        <item quantity="zero">بعد %d يوم</item>
-        <item quantity="one">بعد %d يوم</item>
-        <item quantity="two">بعد %d أيام</item>
-        <item quantity="few">بعد %d أيام</item>
-        <item quantity="many">بعد %d يوم</item>
+    <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">أسبوع</item>
+        <item quantity="zero">أسبوع</item>
+        <item quantity="one">أسبوع</item>
+        <item quantity="two">أسابيع</item>
+        <item quantity="few">أسابيع</item>
+        <item quantity="many">أسبوع</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>
@@ -368,23 +360,7 @@
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
     </plurals>
-    <plurals name="other_num_events">
-        <item quantity="other">%d حدث آخر</item>
-        <item quantity="zero">%d حدث أخر</item>
-        <item quantity="one">%d حدث آخر</item>
-        <item quantity="two">%d أحداث أخرى</item>
-        <item quantity="few">%d أحداث أخرى</item>
-        <item quantity="many">%d حدث آخر</item>
-    </plurals>
-    <plurals name="other_num_todo_events">
-        <item quantity="other">%d مهمة أخرى</item>
-        <item quantity="zero">%d مهمة أخرى</item>
-        <item quantity="one">%d مهمة أخرى</item>
-        <item quantity="two">%d مهام أخرى</item>
-        <item quantity="few">%d مهام أخرى</item>
-        <item quantity="many">%d مهمة أخرى</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_day">
+    <plurals name="num_picker_hint">
         <item quantity="other">" يوم"</item>
         <item quantity="zero">" يوم"</item>
         <item quantity="one">" يوم"</item>
@@ -392,34 +368,18 @@
         <item quantity="few">" أيام"</item>
         <item quantity="many">" يوم"</item>
     </plurals>
-    <plurals name="reminder_custom_unit_hour">
-        <item quantity="other">" ساعة"</item>
-        <item quantity="zero">" ساعة"</item>
-        <item quantity="one">" ساعة"</item>
-        <item quantity="two">" ساعات"</item>
-        <item quantity="few">" ساعات"</item>
-        <item quantity="many">" ساعة"</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_minute">
-        <item quantity="other">" دقيقة"</item>
-        <item quantity="zero">" دقيقة"</item>
-        <item quantity="one">" دقيقة"</item>
-        <item quantity="two">" دقائق"</item>
-        <item quantity="few">" دقائق"</item>
-        <item quantity="many">" دقيقة"</item>
-    </plurals>
-    <plurals name="reminder_later_toast">
-        <item quantity="other">التذكير التالي بعد %1$d دقيقة</item>
-        <item quantity="zero">التذكير التالي بعد %1$d دقيقة</item>
-        <item quantity="one">التذكير التالي بعد %1$d دقيقة</item>
-        <item quantity="two">التذكير التالي بعد %1$d دقائق</item>
-        <item quantity="few">التذكير التالي بعد %1$d دقائق</item>
-        <item quantity="many">التذكير التالي بعد %1$d دقيقة</item>
+    <plurals name="other_num_events">
+        <item quantity="other">%d حدث آخر</item>
+        <item quantity="zero">%d حدث آخر</item>
+        <item quantity="one">%d حدث آخر</item>
+        <item quantity="two">%d أحداث أخرى</item>
+        <item quantity="few">%d أحداث أخرى</item>
+        <item quantity="many">%d حدث آخر</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">كل %1$s في اليوم %2$s</item>
-        <item quantity="zero">كل %1$s في اليوم %2$s</item>
-        <item quantity="one">كل %1$s في اليوم %2$s</item>
+        <item quantity="zero">كل %1$s في يوم %2$s</item>
+        <item quantity="one">كل %1$s في %2$s</item>
         <item quantity="two">كل %1$s في اليوم %2$s</item>
         <item quantity="few">كل %1$s في اليوم %2$s</item>
         <item quantity="many">كل %1$s في اليوم %2$s</item>
@@ -456,37 +416,77 @@
         <item quantity="few">%1$d سنوات</item>
         <item quantity="many">%1$d سنة</item>
     </plurals>
-    <plurals name="today_has_num_event">
-        <item quantity="other">%d حدث مخطط لهذا اليوم</item>
-        <item quantity="zero">%d حدث مخطط لهذا اليوم</item>
-        <item quantity="one">%d حدث مخطط لهذا اليوم</item>
-        <item quantity="two">%d أحداث مخططه لهذا اليوم</item>
-        <item quantity="few">%d أحداث مخططه لهذا اليوم</item>
-        <item quantity="many">%d حدث مخطط لهذا اليوم</item>
+    <plurals name="show_completed_notes">
+        <item quantity="other">إظهار %d مهمة مكتملة</item>
+        <item quantity="zero">إظهار %d مهمة مكتملة</item>
+        <item quantity="one">إظهار %d مهمة مكتملة</item>
+        <item quantity="two">إظهار %d مهام مكتملة</item>
+        <item quantity="few">إظهار %d مهام مكتملة</item>
+        <item quantity="many">إظهار %d مهمة مكتملة</item>
     </plurals>
-    <plurals name="today_num_events">
+    <plurals name="subtitle_add_record">
+        <item quantity="other">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="zero">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="one">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="two">لم تسجلي دورتك الشهرية لـ %1$d أيام. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="few">لم تسجلي دورتك الشهرية لـ %1$d أيام. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="many">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">استمرت هذه الدورة الشهرية %1$d يوم</item>
+        <item quantity="zero">استمرت هذه الدورة الشهرية %1$d يوم</item>
+        <item quantity="one">استمرت هذه الدورة الشهرية %1$d يوم</item>
+        <item quantity="two">استمرت هذه الدورة الشهرية %1$d أيام</item>
+        <item quantity="few">استمرت هذه الدورة الشهرية %1$d أيام</item>
+        <item quantity="many">استمرت هذه الدورة الشهرية %1$d يوم</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="zero">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="one">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="two">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="few">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="many">اليوم %1$d لموعد الدورة الشهرية</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="zero">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="one">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="two">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="few">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="many">اليوم %1$d للدورة الشهرية</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+        <item quantity="zero">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+        <item quantity="one">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+        <item quantity="two">%1$d أيام لموعد الدورة الشهرية القادمة</item>
+        <item quantity="few">%1$d أيام لموعد الدورة الشهرية القادمة</item>
+        <item quantity="many">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="zero">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="one">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="two">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="few">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="many">اليوم %1$d المتوقع للدورة الشهرية</item>
+    </plurals>
+    <plurals name="today_has_num_event">
         <item quantity="other">%d حدث لليوم</item>
         <item quantity="zero">%d حدث لليوم</item>
         <item quantity="one">%d حدث لليوم</item>
         <item quantity="two">%d أحداث لليوم</item>
-        <item quantity="few">%d أخداث لليوم</item>
+        <item quantity="few">%d أحداث لليوم</item>
         <item quantity="many">%d حدث لليوم</item>
     </plurals>
-    <plurals name="travel_time_range_hours">
-        <item quantity="other">%d ساعة</item>
-        <item quantity="zero">%d ساعة</item>
-        <item quantity="one">%d ساعة</item>
-        <item quantity="two">%d ساعات</item>
-        <item quantity="few">%d ساعات</item>
-        <item quantity="many">%d ساعة</item>
-    </plurals>
-    <plurals name="travel_time_range_mins">
-        <item quantity="other">%d دقيقة</item>
-        <item quantity="zero">%d دقيقة</item>
-        <item quantity="one">%d دقيقة</item>
-        <item quantity="two">%d دقائق</item>
-        <item quantity="few">%d دقائق</item>
-        <item quantity="many">%d دقيقة</item>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s دقيقة بالسيارة إلى %1$s.</item>
+        <item quantity="zero">%2$s دقيقة بالسيارة إلى %1$s.</item>
+        <item quantity="one">%2$s دقيقة بالسيارة إلى %1$s.</item>
+        <item quantity="two">%2$s دقائق بالسيارة إلى %1$s.</item>
+        <item quantity="few">%2$s دقائق بالسيارة إلى %1$s.</item>
+        <item quantity="many">%2$s دقيقة بالسيارة إلى %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">الأسبوع %d</item>
@@ -497,20 +497,28 @@
         <item quantity="many">الأسبوع %d</item>
     </plurals>
     <plurals name="widget_countdown_day">
-        <item quantity="other">%1$s أيام</item>
-        <item quantity="zero">%1$s أيام</item>
+        <item quantity="other">%1$s يوم</item>
+        <item quantity="zero">%1$s يوم</item>
         <item quantity="one">%1$s يوم</item>
         <item quantity="two">%1$s أيام</item>
         <item quantity="few">%1$s أيام</item>
-        <item quantity="many">%1$s أيام</item>
+        <item quantity="many">%1$s يوم</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
     </plurals>
     <plurals name="widget_normal_agenda_going_counts">
-        <item quantity="other">%d حدث قادم</item>
-        <item quantity="zero">%d حدث قادم</item>
-        <item quantity="one">%d حدث قادم</item>
-        <item quantity="two">%d أحداث قادمة</item>
-        <item quantity="few">%d أحداث قادمة</item>
-        <item quantity="many">%d حدث قادم</item>
+        <item quantity="other">%d حدث جاري</item>
+        <item quantity="zero">%d حدث جاري</item>
+        <item quantity="one">%d حدث جاري</item>
+        <item quantity="two">%d أحداث جارية</item>
+        <item quantity="few">%d أحداث جارية</item>
+        <item quantity="many">%d حدث جاري</item>
     </plurals>
     <plurals name="widget_normal_agenda_next_minutes">
         <item quantity="other">الحدث التالي بعد %d دق</item>
@@ -521,12 +529,20 @@
         <item quantity="many">الحدث التالي بعد %d دق</item>
     </plurals>
     <plurals name="widget_normal_agenda_tomorrow_total">
-        <item quantity="other">%d أحداث ليوم الغد</item>
-        <item quantity="zero">%d أحداث ليوم الغد</item>
+        <item quantity="other">%d حدث ليوم الغد</item>
+        <item quantity="zero">%d حدث ليوم الغد</item>
         <item quantity="one">%d حدث ليوم الغد</item>
         <item quantity="two">%d أحداث ليوم الغد</item>
         <item quantity="few">%d أحداث ليوم الغد</item>
-        <item quantity="many">%d أحداث ليوم الغد</item>
+        <item quantity="many">%d حدث ليوم الغد</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">الاسبوع %d</item>
+        <item quantity="zero">الاسبوع %d</item>
+        <item quantity="one">الاسبوع %d</item>
+        <item quantity="two">الاسبوع %d</item>
+        <item quantity="few">الاسبوع %d</item>
+        <item quantity="many">الاسبوع %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d يوم عمل</item>

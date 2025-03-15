@@ -2,55 +2,48 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Vor 1 Stunde</item>
-        <item quantity="one">Vor 1 Stunde</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Vor %d Stunden</item>
-        <item quantity="one">Vor %d Stunde</item>
+        <item quantity="other">Vor %d Std</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Vor einer halben Stunde</item>
-        <item quantity="one">Vor einer halben Stunde</item>
+        <item quantity="other">Vor einer halben Std</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In %d Stunden</item>
-        <item quantity="one">In %d Stunde</item>
+        <item quantity="other">In %d Std</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In einer halben Stunde</item>
-        <item quantity="one">In einer halben Stunde</item>
+        <item quantity="other">In einer halben Std</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Sofort</item>
-        <item quantity="one">Sofort</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">In %d Minuten</item>
-        <item quantity="one">In %d Minute</item>
+        <item quantity="other">In %d Min</item>
+        <item quantity="one">In %d Min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
-        <item quantity="one">Gerade eben</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Vor %d Minuten</item>
-        <item quantity="one">Vor %d Minute</item>
+        <item quantity="other">Vor %d Min</item>
+        <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">Verzögerung: %d Sekunden</item>
         <item quantity="one">Verzögerung: %d Sekunde</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
-        <item quantity="other">Es können bis zu %s Personen hinzugefügt werden, erneut auswählen.</item>
-        <item quantity="one">Es kann %s Person hinzugefügt werden, erneut auswählen.</item>
+        <item quantity="other">Sie können %s Personen hinzufügen, wählen Sie noch einmal.</item>
+        <item quantity="one">Sie können %s Person hinzufügen, wählen Sie noch einmal.</item>
     </plurals>
     <plurals name="call_record_auto_whitelist_summary">
         <item quantity="other">%d Nummern</item>
         <item quantity="one">%d Nummer</item>
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d Nummern werden gelöscht.</item>
-        <item quantity="one">%d Nummer wird gelöscht.</item>
+        <item quantity="other">%d Nummern werden gelöscht</item>
+        <item quantity="one">%d Nummer wird gelöscht</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%s Tage</item>
@@ -58,7 +51,6 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
-        <item quantity="one">Vor einer halben Stunde</item>
     </plurals>
     <plurals name="hour">
         <item quantity="other">%s Stunden</item>
@@ -66,23 +58,19 @@
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>
-        <item quantity="one">In 1 Stunde</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">In einer halben Stunde</item>
-        <item quantity="one">In einer halben Stunde</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Sofort</item>
-        <item quantity="one">Sofort</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">In %d Min</item>
+        <item quantity="other">In %d Minuten</item>
         <item quantity="one">In 1 Minute</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
-        <item quantity="one">Gerade eben</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
@@ -94,8 +82,8 @@
     </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
-%d verbleibende Versuche."</item>
+%d Versuche übrig"</item>
         <item quantity="one">"
-%d verbleibender Versuch."</item>
+ %d Versuch übrig"</item>
     </plurals>
 </resources>

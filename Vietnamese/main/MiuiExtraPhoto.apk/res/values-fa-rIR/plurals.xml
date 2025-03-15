@@ -68,12 +68,4 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
-    <plurals name="talkback_selection_denominator">
-        <item quantity="other">%1$d مورد در کل</item>
-        <item quantity="one">%1$d مورد در کل</item>
-    </plurals>
-    <plurals name="talkback_selection_numerator">
-        <item quantity="other">%1$d مورد انتخاب شد</item>
-        <item quantity="one">%1$d مورد انتخاب شد</item>
-    </plurals>
 </resources>

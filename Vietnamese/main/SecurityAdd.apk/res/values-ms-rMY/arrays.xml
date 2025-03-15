@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Paling rendah</item>
+        <item>Rendah</item>
+        <item>Biasa</item>
+        <item>Tinggi</item>
+        <item>Tertinggi</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Seimbang</item>
+        <item>Kualiti tinggi</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Rendah</item>
+        <item>Standard</item>
+        <item>Tinggi</item>
+        <item>Tertinggi</item>
+        <item>Lalai</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Kelajuan tinggi</item>
+        <item>Seimbang</item>
+        <item>Kualiti tinggi</item>
+    </string-array>
+</resources>

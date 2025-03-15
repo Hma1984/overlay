@@ -10,11 +10,9 @@
     <string name="download_queued">في قائمة الانتظار</string>
     <string name="download_remaining">%s متبقية</string>
     <string name="download_running">جارٍ التنزيل</string>
-    <string name="download_running_percent">جارٍ التنزيل %s</string>
     <string name="download_unknown_title">&lt;بدون عنوان></string>
     <string name="notif_title_file_size">إجمالي %1$d</string>
     <string name="notif_title_single_downloading">جارٍ تنزيل %1$s</string>
-    <string name="notification_dld_msg">إدارة التطبيقات التي يتم تنزيلها</string>
     <string name="notification_download_complete">تم التنزيل بنجاح.</string>
     <string name="notification_download_failed">تعذر تنزيل العناصر.</string>
     <string name="notification_need_wifi_for_size">حجم التنزيل يتطلب Wi-Fi.</string>

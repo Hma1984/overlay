@@ -44,14 +44,6 @@
         <item quantity="other">%1$s αντίγραφα ασφαλείας (%2$s)</item>
         <item quantity="one">%1$s αντίγραφο ασφαλείας (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d ημέρες από την τελευταία δημιουργία αντιγράφων ασφαλείας | Νέα δεδομένα: %2$s</item>
-        <item quantity="one">%1$d ημέρα από την τελευταία δημιουργία αντιγράφων ασφαλείας | Νέα δεδομένα: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d ημέρες από την τελευταία δημιουργία αντιγράφων ασφαλείας</item>
-        <item quantity="one">%d ημέρα από την τελευταία δημιουργία αντιγράφων ασφαλείας</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Μισή ώρα πριν</item>
         <item quantity="one">Μισή ώρα πριν</item>
@@ -95,5 +87,13 @@
     <plurals name="session_time_remain">
         <item quantity="other">Απομένουν περίπου %s λεπ</item>
         <item quantity="one">Απομένει περίπου %s λεπ</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d ημέρες από την τελευταία δημιουργία αντιγράφων ασφαλείας | Νέα δεδομένα: %2$s</item>
+        <item quantity="one">%1$d ημέρα από την τελευταία δημιουργία αντιγράφων ασφαλείας | Νέα δεδομένα: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d ημέρες από την τελευταία δημιουργία αντιγράφων ασφαλείας</item>
+        <item quantity="one">%d ημέρα από την τελευταία δημιουργία αντιγράφων ασφαλείας</item>
     </plurals>
 </resources>

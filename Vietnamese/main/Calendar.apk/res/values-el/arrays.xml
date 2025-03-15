@@ -1,118 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Χειροκίνητα</item>
-        <item>Κάθε %d λεπτά</item>
-        <item>Κάθε ώρα</item>
-        <item>Κάθε %d ώρες</item>
-        <item>Κάθε %d ώρες</item>
-    </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>Α</item>
-        <item>Β</item>
-        <item>Γ</item>
-        <item>Θ</item>
-        <item>Ι</item>
-        <item>Κ</item>
-        <item>Λ</item>
-        <item>Μ</item>
-        <item>Ν</item>
-        <item>Ξ</item>
-        <item>Ο</item>
-        <item>Π</item>
-        <item>Ρ</item>
-        <item>Σ</item>
-        <item>Τ</item>
-        <item>Υ</item>
-        <item>Φ</item>
-        <item>Χ</item>
-        <item>Ψ</item>
-        <item>Ω</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>Α</item>
-        <item>Β</item>
-        <item>Γ</item>
-        <item>Δ</item>
-        <item>Ε</item>
-        <item>Ζ</item>
-        <item>Η</item>
-        <item>Θ</item>
-        <item>Ι</item>
-        <item>Κ</item>
-        <item>Λ</item>
-        <item>Μ</item>
-        <item>Ν</item>
-        <item>Ξ</item>
-        <item>Ο</item>
-        <item>Π</item>
-        <item>Ρ</item>
-        <item>Σ</item>
-        <item>Τ</item>
-        <item>Υ</item>
-        <item>Φ</item>
-        <item>Χ</item>
-        <item>Ψ</item>
-        <item>Ω</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>Α</item>
-        <item>Β</item>
-        <item>Γ</item>
-        <item>Δ</item>
-        <item>Ε</item>
-        <item>Ζ</item>
-        <item>Η</item>
-        <item>Θ</item>
-        <item>Ι</item>
-        <item>Κ</item>
-        <item>Λ</item>
-        <item>Μ</item>
-        <item>Ν</item>
-        <item>Ξ</item>
-        <item>Ο</item>
-        <item>Π</item>
-        <item>Ρ</item>
-        <item>Σ</item>
-        <item>Τ</item>
-        <item>Υ</item>
-        <item>Φ</item>
-        <item>Χ</item>
-        <item>Ψ</item>
-        <item>Ω</item>
-        <item>\#</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Κανένα</item>
+        <item>Ισλαμικό ημερολόγιο</item>
+        <item>Εθνικό Ημερολόγιο της Ινδίας</item>
+        <item>Ημερολόγιο Βικράμ</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Υδροχόος</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Κριός</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Καρκίνος</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Αιγόκερως</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Μόνο αυτό το συμβάν</item>
         <item>All events in the series</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Μόνο αυτήν τη φορά</item>
-        <item>Απενεργοποίηση επαναλαμβανόμενης υπενθύμισης</item>
+        <item>Απενεργοποίηση μία φορά</item>
+        <item>Πάντα ανενεργό</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Προς τα εμπρός</item>
         <item>Προς τα πίσω</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Την ώρα του συμβάντος</item>
+        <item>5 λεπτά πριν</item>
+        <item>15 λεπτά πριν</item>
+        <item>30 λεπτά πριν</item>
+        <item>1 ώρα πριν</item>
+        <item>4 ώρες πριν</item>
+        <item>1 ημέρα πριν</item>
+        <item>2 ημέρες πριν</item>
+        <item>1 εβδομάδα πριν</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Μόνο αυτό το συμβάν</item>
@@ -122,56 +47,40 @@
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Δίδυμοι</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>Λέων</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Ζυγός</item>
-    </string-array>
-    <string-array name="locale_calendar_array">
-        <item>Κανένα</item>
-        <item>Παραδοσιακό κινεζικό ημερολόγιο</item>
-        <item>Ισλαμικό ημερολόγιο</item>
-        <item>Εβραϊκό ημερολόγιο</item>
-        <item>Ιαπωνικό ημερολόγιο</item>
-        <item>Περσικό ημερολόγιο</item>
-        <item>Ινδικό ημερολόγιο</item>
-        <item>Βουδιστικό ημερολόγιο</item>
-    </string-array>
-    <string-array name="months_English_array">
-        <item>Ιανουάριος</item>
-        <item>Φεβρουάριος</item>
-        <item>Μάρτιος</item>
-        <item>Απρίλιος</item>
-        <item>Μάιος</item>
-        <item>Ιούνιος</item>
-        <item>Ιούλιος</item>
-        <item>Αύγουστος</item>
-        <item>Σεπτέμβριος</item>
-        <item>Οκτώβριος</item>
-        <item>Νοέμβριος</item>
-        <item>Δεκέμβριος</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Μόνο αυτήν τη φορά</item>
-        <item>Ορισμός επαναλαμβανόμενης υπενθύμισης</item>
+        <item>Ενεργοποίηση μία φορά</item>
+        <item>Πάντα ενεργό</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Κυριακή</item>
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Ιχθύς</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Ανενεργό</item>
         <item>Για όλα τα συμβάντα</item>
         <item>Για συμβάντα ευαίσθητα στον χρόνο</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Πάντα</item>
@@ -225,15 +134,15 @@
     <string-array name="repeat_choose_month">
         <item>Ιαν</item>
         <item>Φεβ</item>
-        <item>Μάρ</item>
+        <item>Μαρ</item>
         <item>Απρ</item>
-        <item>Μάι</item>
-        <item>Ιούν</item>
-        <item>Ιούλ</item>
-        <item>Αύγ</item>
+        <item>Μαι</item>
+        <item>Ιουν</item>
+        <item>Ιουλ</item>
+        <item>Αυγ</item>
         <item>Σεπ</item>
         <item>Οκτ</item>
-        <item>Νοέ</item>
+        <item>Νοε</item>
         <item>Δεκ</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
@@ -311,25 +220,22 @@
         <item>Ίσως</item>
         <item>Όχι</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Να μην γίνει ανταπόκριση</item>
-        <item>Αποδοχή</item>
-        <item>Απόφαση αργότερα</item>
-        <item>Απόρριψη</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Τοξότης</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Σκορπιός</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Ταύρος</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>Νήσοι Μάρσαλ</item>
         <item>Ατόλλη Μίντγουαιη</item>
         <item>Χαβάη</item>
@@ -349,7 +255,7 @@
         <item>Ώρα Ατλαντικού (Μπαρμπάντος)</item>
         <item>Ώρα Ατλαντικού (Καναδάς)</item>
         <item>Μανάους</item>
-        <item>Σαντιάγο</item>
+        <item>Σαντιάγκο</item>
         <item>Νέα Γη</item>
         <item>Μπραζίλια</item>
         <item>Μπουένος Άιρες</item>
@@ -359,23 +265,20 @@
         <item>Αζόρες</item>
         <item>Πράσινο Ακρωτήριο</item>
         <item>Καζαμπλάνκα</item>
-        <item>Λονδίνο</item>
-        <item>Δουβλίνο</item>
-        <item>Άμστερνταμ</item>
-        <item>Βερολίνο</item>
+        <item>Λονδίνο, Δουβλίνο</item>
+        <item>Άμστερνταμ, Βερολίνο</item>
         <item>Βελιγράδι</item>
         <item>Βρυξέλλες</item>
         <item>Σαράγεβο</item>
         <item>Γουιντχόεκ</item>
         <item>Ώρα Δ. Αφρικής</item>
-        <item>Αμμάν</item>
-        <item>Αθήνα</item>
-        <item>Κωνσταντινούπολη</item>
-        <item>Βηρυτός</item>
+        <item>Αμμάν, Ιορδανία</item>
+        <item>Αθήνα, Κωνσταντινούπολη</item>
+        <item>Βηρυττός, Λίβανος</item>
         <item>Κάιρο</item>
         <item>Ελσίνκι</item>
         <item>Ιερουσαλήμ</item>
-        <item>Μινσκ</item>
+        <item>Μίνσκ</item>
         <item>Χαράρε</item>
         <item>Βαγδάτη</item>
         <item>Μόσχα</item>
@@ -387,7 +290,7 @@
         <item>Γερεβάν</item>
         <item>Ντουμπάι</item>
         <item>Καμπούλ</item>
-        <item>Καράτσι</item>
+        <item>Ισλαμαμπάντ, Καράτσι</item>
         <item>Ουράλσκ</item>
         <item>Αικατερίνσμπουργκ</item>
         <item>Καλκούτα</item>
@@ -398,33 +301,60 @@
         <item>Κρασνογιάρσκ</item>
         <item>Μπανγκόκ</item>
         <item>Πεκίνο</item>
-        <item>Τσονγκτσίνγκ</item>
         <item>Χονγκ Κονγκ</item>
-        <item>Μακάου</item>
+        <item>Μακάο</item>
         <item>Σιγκαπούρη</item>
         <item>Ιρκούτσκ</item>
         <item>Κουάλα Λουμπούρ</item>
         <item>Περθ</item>
         <item>Ταϊπέι</item>
         <item>Σεούλ</item>
-        <item>Τόκιο</item>
+        <item>Τόκιο, Οσάκα</item>
         <item>Γιακούτσκ</item>
         <item>Αδελαΐδα</item>
         <item>Ντάργουιν</item>
         <item>Μπρισμπέιν</item>
         <item>Χόμπαρτ</item>
-        <item>Σίδνεϊ</item>
-        <item>Καμπέρα</item>
+        <item>Σίντνεϋ, Καμπέρα</item>
         <item>Βλαδιβοστόκ</item>
         <item>Γκουάμ</item>
         <item>Μαγκαντάν</item>
-        <item>Όκλαντ</item>
+        <item>Ώκλαντ</item>
         <item>Φίτζι</item>
         <item>Τόνγκα</item>
     </string-array>
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Παρθένος</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Αίθριος</item>
+        <item>Συνvεφιασμένος</item>
+        <item>Νεφελώδης</item>
+        <item>Ομίχλη</item>
+        <item>Έντονη καταιγίδα</item>
+        <item>Καταιγίδα</item>
+        <item>Ασθενής καταιγίδα</item>
+        <item>Καταιγίδα με κεραυνούς</item>
+        <item>Μπόρα</item>
+        <item>Έντονη βροχή</item>
+        <item>Βροχή</item>
+        <item>Ασθενής βροχή</item>
+        <item>Βροχή και χιόνι</item>
+        <item>Χιονοθύελλα</item>
+        <item>Ραγδαίες χιονοπτώσεις</item>
+        <item>Έντονη χιονόπτωση</item>
+        <item>Χιονόπτωση</item>
+        <item>Ασθενής χιονόπτωση</item>
+        <item>Ισχυρή αμμοθύελλα</item>
+        <item>Αμμοθύελλα</item>
+        <item>Σκόνη</item>
+        <item>Ασθενής αμμοθύελλα</item>
+        <item>Χαλάζι</item>
+        <item>Αιωρούμενη σκόνη</item>
+        <item>Καταχνιά</item>
+        <item>Παγωμένη βροχή</item>
     </string-array>
     <string-array name="week_header_name">
         <item>ΚΥΡ</item>
@@ -446,6 +376,71 @@
         <item>Τ</item>
         <item>Π</item>
         <item>Π</item>
+        <item>Κ</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Κριός</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Αιγόκερως</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
         <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
     </string-array>
 </resources>

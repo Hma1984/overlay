@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="align_center_horizontally">Horizontal and centre aligned</string>
+    <string name="align_center_vertically">Stacked and centre aligned</string>
+    <string name="aod_close_color_inversion">"This feature can't be combined with colour inversion. Turn off colour inversion first."</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_smartcover">"EE
+dd/MM"</string>
+    <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
+    <string name="call_notification_hang_up_action">Hang up</string>
+    <string name="call_notification_ongoing_text">On-going call</string>
+    <string name="color_change_with_time_description">Change text colour automatically over time</string>
+    <string name="color_change_with_time_title">Change colour automatically</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="kg_classic_primary_color_label">Primary colour</string>
+    <string name="kg_classic_secondary_color_label">Secondary colour</string>
+    <string name="kg_color_editor_high_text_contrast_tips">"Can't change text colour when using high contrast text"</string>
+    <string name="kg_color_value_editor_title">Edit colour</string>
+    <string name="kg_customize">Customise</string>
+    <string name="kg_guidance_dialog_tip_browse_more">Swipe up to switch between templates. Swipe horizontally to view more personalisation options.</string>
+    <string name="kg_guidance_dialog_tip_customize">Customise your Lock screen to make it truly yours.</string>
+    <string name="kg_guidance_dialog_title">All-new personalised Lock screen</string>
+    <string name="kg_rhombus_switch_label">Multicoloured digits</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="smart_style_summary">"Don't display when your device is in a pocket, ambient light is low for a long time, or when you're not looking at the screen"</string>
+    <string name="text_color">Text colour</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="format_month_day_style1">d/MMM</string>
+    <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_week">EEE, dd MMM</string>
+    <string name="kg_function_button_text_color">Colour</string>
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
+    <string name="miui_magazine_c_clock_style2_date">d/M EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
+    <string name="miui_magazine_clock_date">d/M</string>
+    <string name="miui_magazine_clock_date_content_description">dd/MM</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_smart_frame_clock_date">d/M</string>
+    <string name="format_month_day_desc">%2$s %1$s</string>
+    <string name="format_month_and_day">%2$s/%1$s</string>
+</resources>

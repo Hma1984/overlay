@@ -2,12 +2,10 @@
 <resources>
     <string name="calendar_default_name">Numatytasis</string>
     <string name="calendar_info">Kalendoriaus informacija</string>
-    <string name="calendar_info_error">Klaida</string>
     <string name="calendar_info_events">Įvykiai: %1$d</string>
     <string name="calendar_info_events_dirty">Įvykiai: %1$d | Neišsaugota: %2$d</string>
     <string name="calendar_info_no_calendars">Kalendorių nėra</string>
     <string name="calendar_storage">Kalendoriaus saugykla</string>
-    <string name="channel_description" />
     <string name="channel_name">Kalendoriaus priminimai</string>
     <string name="cta_notice">Pirmiausia paleiskite kalendorių ir suteikite prieigą prie interneto.</string>
     <string name="debug_tool_delete_button">Trinti</string>
@@ -23,6 +21,6 @@
     <string name="holiday_update_summary">Bakstelėkite, norėdami atnaujinti kalendoriaus informaciją.</string>
     <string name="holiday_update_title">Galimas atnaujinimas</string>
     <string name="provider_label">Kalendorius</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">Naujinama kalendoriaus duomenų bazė…</string>
+    <string name="calendar_info_error">Klaida</string>
 </resources>

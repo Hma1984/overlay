@@ -8,15 +8,9 @@
     <string name="abc_activitychooserview_choose_application">בחירת אפליקציה</string>
     <string name="abc_capital_off">כבוי</string>
     <string name="abc_capital_on">מופעל</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
     <string name="abc_menu_delete_shortcut_label">מחיקה</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">רווח</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">תפריט+</string>
     <string name="abc_search_hint">חיפוש…</string>
     <string name="abc_searchview_description_clear">מחיקת השאילתה</string>
@@ -41,14 +35,12 @@
     <string name="advertisements_enable">פרסומות מופעלות</string>
     <string name="alert_dialog_dismiss">סגירה</string>
     <string name="alert_dialog_in_ecm_call">הפעולה שנבחרה אינה זמינה במהלך שיחת חירום.</string>
-    <string name="alert_dialog_no">לא</string>
     <string name="alert_dialog_yes">כן</string>
     <string name="already_auto">הבחירה האוטומטית כבר מופעלת.</string>
     <string name="ambulance_type_description">אמבולנס</string>
     <string name="apn_settings">שמות של נקודות גישה</string>
     <string name="atr_disable">דיווחי תנועה אזוריים מושבתים</string>
     <string name="atr_enable">דיווחי תנועה אזוריים מופעלים</string>
-    <string name="audio_mode_bluetooth">Bluetooth</string>
     <string name="audio_mode_earpiece">אוזניה</string>
     <string name="audio_mode_speaker">רמקול</string>
     <string name="audio_mode_wired_headset">אוזניות חוטיות</string>
@@ -166,7 +158,6 @@
     <string name="carrier_mmi_msg_title">הודעה דרך %s</string>
     <string name="carrier_provisioning">פרטי ניהול תצורה של ספק סלולרי</string>
     <string name="carrier_settings_euicc">ספק</string>
-    <string name="carrier_settings_euicc_summary">%1$s — %2$s</string>
     <string name="carrier_settings_title">הגדרות ספק</string>
     <string name="cb_sms_settings">‏הגדרות SMS בשידור סלולרי</string>
     <string name="cbrs_data_switch_string">‏נתוני CBRS</string>
@@ -187,7 +178,7 @@
     <string name="cell_broadcast_settings">שידורי חירום</string>
     <string name="cell_broadcast_sms">‏SMS בשידור סלולרי</string>
     <string name="change_num">עדכון</string>
-    <string name="change_pin">‏שינוי קוד הגישה של ה-SIM</string>
+    <string name="change_pin">‏שינוי קוד אימות של SIM</string>
     <string name="change_pin2">שינוי קוד אימות 2</string>
     <string name="change_pin_cancel_label">ביטול</string>
     <string name="change_pin_confirm_pin_header">אישור קוד הגישה</string>
@@ -272,10 +263,8 @@
     <string name="default_notification_description">צליל ברירת מחדל (%1$s)</string>
     <string name="delete_fdn_contact">מחיקת מספר חיוג קבוע</string>
     <string name="deleting_fdn_contact">מחיקת מספר חיוג קבוע מתבצעת...</string>
-    <string name="description_concat_format">‏%1$s,‏ %2$s</string>
     <string name="description_delete_button">Backspace</string>
     <string name="description_dial_button">חויג</string>
-    <string name="description_dialpad_back">ניווט חזרה</string>
     <string name="description_dialpad_button">הצגת לוח החיוג</string>
     <string name="description_dialpad_overflow">אפשרויות נוספות</string>
     <string name="description_image_button_plus">פלוס</string>
@@ -304,7 +293,6 @@
     <string name="dtmf_tones_summary">‏הגדרת האורך של צלילי DTMF</string>
     <string name="dtmf_tones_title">‏צלילי DTMF</string>
     <string name="eab_provisioned_switch_string">‏ניהול תצורה של נוכחות/EAB מופעל</string>
-    <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="edit_fdn_contact">עריכת מספר חיוג קבוע</string>
     <string name="emergencyDialerIconLabel">חייגן חירום</string>
     <string name="emergency_broadcast_disable">שידור חירום מושבת</string>
@@ -328,15 +316,12 @@
     <string name="enable_disable_eo">מדור דרושים</string>
     <string name="enable_disable_international">בינלאומי</string>
     <string name="enable_disable_lafs">לוחות זמנים של טיסות בנמלי תעופה מקומיים</string>
-    <string name="enable_disable_local">מקומי</string>
     <string name="enable_disable_local_weather">מזג אוויר מקומי</string>
     <string name="enable_disable_lodgings">לינה</string>
     <string name="enable_disable_maintenance">תחזוקה</string>
     <string name="enable_disable_mhh">רפואה, בריאות ובתי חולים</string>
     <string name="enable_disable_multi_category">ריבוי קטגוריות</string>
     <string name="enable_disable_national">מקומי</string>
-    <string name="enable_disable_regional">אזורי</string>
-    <string name="enable_disable_restaurants">מסעדות</string>
     <string name="enable_disable_retail_directory">מדריך חנויות</string>
     <string name="enable_disable_stock_quotes">מחירי מניות</string>
     <string name="enable_disable_technology_news">חדשות הטכנולוגיה</string>
@@ -354,13 +339,11 @@
     <string name="enhanced_4g_lte_mode_summary_o2">‏שימוש בשירותי 4G כדי לשפר את הקול ודרכי תקשורת אחרות (מומלץ)</string>
     <string name="enhanced_4g_lte_mode_title">‏מצב 4G LTE משופר</string>
     <string name="enter_input">‏הודעת USSD חייבת להיות באורך של %1$d עד %2$d תווים. יש לנסות שוב.</string>
-    <string name="enter_pin2_text">קוד אימות 2</string>
     <string name="enter_pin_text">‏קוד אימות של SIM:</string>
     <string name="entertainment_news_settings">חדשות הבידור</string>
     <string name="eo_disable">מדור דרושים מושבת</string>
     <string name="eo_enable">מדור דרושים מופעל</string>
     <string name="error_updating_title">שגיאה בהגדרות שיחה</string>
-    <string name="esos_satellite_string">‏מצב בדיקה שמדמה תקשורת לוויינית eSOS (גרסת build לניפוי באגים בלבד)</string>
     <string name="exception_error">‏שגיאת רשת או שגיאה של כרטיס SIM.</string>
     <string name="expand_button_title">מתקדם</string>
     <string name="failedToImportSingleContactMsg">ייבוא איש הקשר נכשל</string>
@@ -396,23 +379,12 @@
     <string name="importingSimContacts">‏ייבוא אנשי קשר מ-SIM מתבצע</string>
     <string name="incall_error_call_failed">השיחה נכשלה.</string>
     <string name="incall_error_cannot_add_call">לא ניתן להוסיף את השיחה כרגע. אפשר לנסות לשלוח הודעה.</string>
-    <string name="incall_error_carrier_roaming_satellite_mode">‏אפשר לשלוח ולקבל הודעות ללא חיבור לרשת סלולרית או לרשת Wi-Fi</string>
     <string name="incall_error_ecm_emergency_only">עליך לצאת ממצב חירום של התקשרות חזרה כדי לבצע שיחות שאינן שיחות חירום.</string>
     <string name="incall_error_emergency_only">לא רשום ברשת.</string>
     <string name="incall_error_missing_voicemail_number">מספר הדואר הקולי אינו מוכר.</string>
     <string name="incall_error_no_phone_number_supplied">כדי להתקשר, יש להזין מספר טלפון חוקי.</string>
     <string name="incall_error_out_of_service">הרשת הסלולרית אינה זמינה.</string>
-    <string name="incall_error_out_of_service_2g">"‏הרשת הסלולרית לא זמינה.
-
-צריך להתחבר לרשת אלחוטית כדי להתקשר.
-
-החיבור ל-2G מושבת במכשיר, ויכול להיות שזה משפיע על הקישוריות. כדי להמשיך, צריך לפתוח את ההגדרות ולאפשר שימוש ב-2G."</string>
     <string name="incall_error_out_of_service_wfc">הרשת הסלולרית לא זמינה. עליך להתחבר לרשת אלחוטית כדי להתקשר.</string>
-    <string name="incall_error_out_of_service_wfc_2g_user">"‏הרשת הסלולרית לא זמינה.
-
-צריך להתחבר לרשת אלחוטית כדי להתקשר.
-
-החיבור ל-2G מושבת במכשיר, ויכול להיות שזה משפיע על הקישוריות. כדי להמשיך, צריך לפתוח את ההגדרות ולאפשר שימוש ב-2G."</string>
     <string name="incall_error_power_off">יש לבטל את מצב טיסה כדי לבצע שיחה.</string>
     <string name="incall_error_power_off_thermal"><b>הטמפרטורה של הטלפון גבוהה מדי</b>"
 
@@ -421,7 +393,7 @@
 בינתיים אפשר להתקשר רק למספרי חירום"</string>
     <string name="incall_error_power_off_wfc">יש לבטל את מצב טיסה או להתחבר לרשת אלחוטית כדי לבצע שיחה.</string>
     <string name="incall_error_promote_wfc">"‏יש להפעיל את 'שיחות Wi-Fi' כדי להתקשר."</string>
-    <string name="incall_error_satellite_enabled">כדי להתקשר, צריך להתנתק מהחיבור הלווייני.</string>
+    <string name="incall_error_satellite_enabled">כדי להתקשר, צריך להפסיק את השימוש במצב לוויין.</string>
     <string name="incall_error_supp_service_conference">לא ניתן היה למזג את השיחות.</string>
     <string name="incall_error_supp_service_hangup">לא ניתן לשחרר שיחות.</string>
     <string name="incall_error_supp_service_hold">לא ניתן להחזיק שיחות.</string>
@@ -510,7 +482,6 @@
     <string name="mobile_data_status_roaming_with_plan_subtext">המכשיר בנדידה. חבילת הגלישה פעילה</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">המכשיר בנדידה. צריך חבילת גלישה</string>
     <string name="mobile_network_settings_not_available">הגדרות של רשת סלולרית אינן זמינות עבור המשתמש הזה</string>
-    <string name="mock_carrier_roaming_satellite_string">‏מצב שמדמה תקשורת לוויינית דרך ספק הסלולר (גרסת build לניפוי באגים בלבד)</string>
     <string name="multi_category_disable">ריבוי קטגוריות מושבת</string>
     <string name="multi_category_enable">ריבוי קטגוריות מופעל</string>
     <string name="name">שם</string>
@@ -522,7 +493,6 @@
     <string name="network_could_not_connect">לא ניתן להתחבר</string>
     <string name="network_disconnected">המכשיר מנותק</string>
     <string name="network_error_message">הודעת שגיאה</string>
-    <string name="network_global">גלובלי</string>
     <string name="network_info_message">הודעת רשת</string>
     <string name="network_lte">‏LTE (מומלץ)</string>
     <string name="network_operator_category">רשת</string>
@@ -593,14 +563,12 @@
 נסה שוב או התקשר לשירות לקוחות לקבלת אפשרויות נוספות."</string>
     <string name="other_settings">הגדרות שיחה אחרות</string>
     <string name="pane_title_emergency_dialpad">לוח חיוג לחירום</string>
-    <string name="pause_prompt_no">לא</string>
     <string name="pause_prompt_str">"שליחת צלילים מתבצעת
 "</string>
     <string name="pause_prompt_yes">כן</string>
     <string name="payphone">טלפון ציבורי</string>
     <string name="phoneAppLabel">שירותי טלפון</string>
     <string name="phoneIconLabel">טלפון</string>
-    <string name="phone_account_no_config_mobile_networks">אי אפשר לשנות את הגדרות הרשת הסלולרית בגלל מגבלות שהוגדרו על ידי בעלי המכשיר.</string>
     <string name="phone_account_settings_user_restriction">אפשר לשנות את הגדרות החשבון בטלפון רק מהחשבון של האדמין או של העבודה.</string>
     <string name="phone_accounts">חשבונות להתקשרות</string>
     <string name="phone_accounts_add_sip_account">‏הוספת חשבון SIP</string>
@@ -685,17 +653,11 @@
     <string name="puk2_requested">‏סיסמה שגויה. ה-SIM נעול כעת. יש להזין PUK2.</string>
     <string name="puk_requested">‏סיסמה שגויה. קוד האימות נעול כעת. יש להזין PUK.</string>
     <string name="puk_unlocked">‏בוטלה החסימה של כרטיס SIM. ביטול חסימת הטלפון מתבצעת...</string>
-    <string name="radioInfo_cid">CID</string>
     <string name="radioInfo_data_connected">מקושר</string>
     <string name="radioInfo_data_connecting">מתבצעת התחברות</string>
     <string name="radioInfo_data_disconnected">מנותק</string>
     <string name="radioInfo_data_suspended">בהשעיה</string>
-    <string name="radioInfo_display_asu">asu</string>
-    <string name="radioInfo_display_bytes">בייטים</string>
-    <string name="radioInfo_display_dbm">dBm</string>
-    <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_imei_primary">ראשי</string>
-    <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">‏סטטוס שירות IMS</string>
     <string name="radioInfo_menu_viewADN">‏הצגת פנקס כתובות של SIM</string>
     <string name="radioInfo_menu_viewFDN">הצגת מספרי חיוג קבועים</string>
@@ -726,7 +688,6 @@
     <string name="radio_info_gprs_service_label">שירות נתונים:</string>
     <string name="radio_info_gsm_service_label">שירות קולי:</string>
     <string name="radio_info_http_client_test">‏בדיקת לקוח HTTP:</string>
-    <string name="radio_info_imei_label">IMEI:</string>
     <string name="radio_info_ims_feature_status_available">זמין</string>
     <string name="radio_info_ims_feature_status_unavailable">ההגדרה לא זמינה</string>
     <string name="radio_info_ims_reg_status">"‏הרשמה ל-IMS:‏ %1$s
@@ -743,7 +704,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="radio_info_nr_state">‏מצב NR‏ (NSA):</string>
     <string name="radio_info_override_network_type_label">שינוי מברירת המחדל של סוג הרשת:</string>
     <string name="radio_info_phone_number_label">מספר טלפון:</string>
-    <string name="radio_info_phy_chan_config">ההגדרות האישיות של הערוץ הפיזי</string>
+    <string name="radio_info_phy_chan_config">‏תצורת ערוץ פיזי של LTE:</string>
     <string name="radio_info_ping_hostname_v4">‏נדנוד לשם המארח (www.google.com) מסוג IPv4:</string>
     <string name="radio_info_ping_hostname_v6">‏נדנוד לשם המארח (www.google.com) מסוג IPv6:</string>
     <string name="radio_info_ppp_received_label">הנתונים שהתקבלו:</string>
@@ -753,7 +714,6 @@ Voice over Wi-Fi:‏ %3$s
     <string name="radio_info_roaming_label">נדידה:</string>
     <string name="radio_info_set_perferred_label">הגדרת סוג רשת מועדף:</string>
     <string name="radio_info_signal_strength_label">עוצמת אות:</string>
-    <string name="radio_info_smsc_label">SMSC:</string>
     <string name="radio_info_smsc_refresh_label">רענון</string>
     <string name="radio_info_smsc_update_label">עדכון</string>
     <string name="radio_info_subid">תת-מזהה נוכחי:</string>
@@ -826,7 +786,6 @@ Voice over Wi-Fi:‏ %3$s
     <string name="smart_forwarding_settings_menu">עקוב אחרי</string>
     <string name="smart_forwarding_settings_menu_summary">כשאי אפשר יהיה להשיג אותך במספר אחד, השיחות תמיד יועברו למספר השני</string>
     <string name="sports_news_settings">חדשות הספורט</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_hint_label_incoming_wifi_call">‏שיחת Wi-Fi מאת</string>
     <string name="status_hint_label_wifi_call">‏שיחת Wi-Fi</string>
     <string name="stk_cc_ss_to_dial_error">‏בקשת SS שונתה לשיחה רגילה</string>
@@ -859,7 +818,6 @@ Voice over Wi-Fi:‏ %3$s
     <string name="sum_loading_settings">טעינת ההגדרות מתבצעת...</string>
     <string name="sum_show_caller_id">מספר המוצג בשיחות יוצאות</string>
     <string name="sum_voicemail_choose_provider">בחירת שירות דואר קולי</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="supp_service_additional_call_forwarded">שיחה נוספת הועברה.</string>
     <string name="supp_service_additional_ect_connected">העברת השיחה שנבחרה הסתיימה.</string>
     <string name="supp_service_additional_ect_connecting">אנחנו מעבירים את השיחה שנבחרה.</string>
@@ -886,13 +844,13 @@ Voice over Wi-Fi:‏ %3$s
     <string name="technology_news_enable">קטגוריית חדשות טכנולוגיה מופעלת</string>
     <string name="throttle_current_usage">נתונים שנעשה בהם שימוש בתקופה הנוכחית</string>
     <string name="throttle_data_rate_reduced_subtext">"‏%1$s חריגה מהמקסימום
-קצב הנתונים ירד ל-‏‎%2$dKb לשנייה"</string>
+קצב הנתונים ירד ל-‏‎%2$d Kb לשנייה"</string>
     <string name="throttle_data_usage">שימוש בנתונים</string>
     <string name="throttle_data_usage_subtext">"%1$s (%2$d??)  מתוך התקופה המרבית של%3$s"</string>
     <string name="throttle_help">למידע נוסף</string>
     <string name="throttle_help_subtext">למידע נוסף על מדיניות השימוש בנתונים ברשת הסלולרית של הספק שלך</string>
     <string name="throttle_rate">מדיניות קצב נתונים</string>
-    <string name="throttle_rate_subtext">‏קצב הנתונים יורד ל-‏‎%1$dKb לשנייה במקרה של חריגה ממגבלת השימוש בנתונים</string>
+    <string name="throttle_rate_subtext">‏קצב הנתונים יורד ל-‏‎%1$d Kb לשנייה במקרה של חריגה ממגבלת השימוש בנתונים</string>
     <string name="throttle_status_subtext">"%1$s (%2$d%%) מתוך התקופה המרבית של %3$s
 התקופה הבאה מתחילה בעוד %4$d ימים (%5$s)"</string>
     <string name="throttle_time_frame">תקופת השימוש בנתונים</string>
@@ -948,4 +906,15 @@ Voice over Wi-Fi:‏ %3$s
     <string name="wifi_calling">‏שיחות ב-Wi-Fi</string>
     <string name="wifi_calling_settings_title">‏שיחות Wi-Fi</string>
     <string name="wild_prompt_str">החלפת התו הכללי ב</string>
+    <string name="alert_dialog_no">לא</string>
+    <string name="description_dialpad_back">ניווט חזרה</string>
+    <string name="enable_disable_local">מקומי</string>
+    <string name="enable_disable_restaurants">מסעדות</string>
+    <string name="enter_pin2_text">קוד אימות 2</string>
+    <string name="pause_prompt_no">לא</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="description_concat_format">‏%1$s,‏ %2$s</string>
+    <string name="enable_disable_regional">אזורי</string>
+    <string name="network_global">גלובלי</string>
+    <string name="radioInfo_display_bytes">בייטים</string>
 </resources>

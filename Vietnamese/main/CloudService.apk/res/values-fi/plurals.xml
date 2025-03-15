@@ -96,10 +96,6 @@
         <item quantity="other">%d WLAN networks</item>
         <item quantity="one">%d WLAN network</item>
     </plurals>
-    <plurals name="e2ee_device_verification_num">
-        <item quantity="other">%s vahvistamatonta laitetta</item>
-        <item quantity="one">%s vahvistamaton laite</item>
-    </plurals>
     <plurals name="error_retry_hour">
         <item quantity="other">%s tuntia</item>
         <item quantity="one">%s tunti</item>
@@ -160,10 +156,6 @@
         <item quantity="other">Juuri nyt</item>
         <item quantity="one">Juuri nyt</item>
     </plurals>
-    <plurals name="local_lockscreen_error_hint_retry">
-        <item quantity="other">Liian monta yritystä. Yritä uudelleen %s sekunnin kuluttua.</item>
-        <item quantity="one">Liian monta yritystä. Yritä uudelleen %s sekunnin kuluttua.</item>
-    </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Jatketaan synkronointia %d minuutin kuluttua</item>
         <item quantity="one">Jatketaan synkronointia %d minuutin kuluttua</item>
@@ -179,14 +171,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">1 minuutti sitten</item>
-    </plurals>
-    <plurals name="other_lockscreen_error_hint_retry">
-        <item quantity="other">Liian monta yritystä. Yritä uudelleen %d päivän kuluttua.</item>
-        <item quantity="one">Liian monta yritystä. Yritä uudelleen %d päivän kuluttua.</item>
-    </plurals>
-    <plurals name="provision_sync_items_status_off_title">
-        <item quantity="other">Synkronointia ei ole otettu käyttöön %s kohteelle</item>
-        <item quantity="one">Synkronointia ei ole otettu käyttöön %s kohteelle</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s palvelua synkronoidaan kohteen Xiaomi Cloud kanssa</item>
@@ -211,9 +195,5 @@
     <plurals name="time_format_min">
         <item quantity="other">%1$s minuuttia</item>
         <item quantity="one">%1$s min</item>
-    </plurals>
-    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
-        <item quantity="other">Lähetä uusi koodi (%s s)</item>
-        <item quantity="one">Lähetä uusi koodi (%s s)</item>
     </plurals>
 </resources>

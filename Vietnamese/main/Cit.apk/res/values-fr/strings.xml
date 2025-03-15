@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cit_DP_plug_err">"Detection device connection change
+ Read the underlying node value failed
+ Did not get the value"</string>
+    <string name="cit_DP_plug_fail">"Detection device connection change
+ Read the underlying node value failed
+ Please insert the type-C turn to DP Cable to start the test"</string>
+    <string name="cit_DP_plug_out_fail">"Detection device connection change
+ Read the underlying node value failed
+ Test Failed
+"</string>
+    <string name="cit_DP_plug_pass">"Detection device connection change
+ Read the underlying node value successfully
+ Please observe whether the screen is successful, and click the corresponding button"</string>
+    <string name="cit_digital_hall_sensor_check_title">Digital Hall test</string>
+    <string name="sar_mtk_test_title">Sar Mtk Authentication Test</string>
+    <string name="cit_nfc_check_summary">"Please click the button to init NFC,and then put the card on the top of the back of the device.
+Do not turn off the screen during the test"</string>
+    <string name="cit_proximity_data_check_summary">"Infrared distance sensor: Cover the distance sensor with your hand, and then leave the distance sensor.
+ Ultrasonic distance sensor: Please simulate the action of answering the device
+ If the lower test area shows a value of 0.0 when approaching, and a 5.0 value shows when it is far away, the test is successful, otherwise the test fails."</string>
+    <string name="sar_authentation_test_title">Sar authentication test</string>
+    <string name="cit_USB3_OTG_error_condition">"An OTG device insertion was detected, but could not get the device information
+ Test failed"</string>
+    <string name="cit_USB3_error_condition">"Device insertion was detected, but could not get device information
+ Test failed"</string>
+    <string name="cit_touch_work_mode_test_help">"Operating instructions
+click the button to switch the touch mode to THP mode or FW mode"</string>
+</resources>

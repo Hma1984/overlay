@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_popup_window_title">Pop-up window</string>
+    <string name="dropdown_menu">Drop-down menu</string>
+    <string name="fido2_fingerprint_auth_desc">&lt;Data>Use your fingerprint to sign in to your Xiaomi Account and verify your identity &lt;a href=>Learn more&lt;/a>&lt;/Data></string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="indeterminate">Neither ticked nor unticked</string>
+    <string name="passport_get_verify_code">Retrieve code</string>
+    <string name="passport_getting_verify_code">Retrieving...</string>
+    <string name="passport_re_get_verify_code">Retrieve code again</string>
+    <string name="passport_request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorisation in the Settings."</string>
+    <string name="passport_uplink_sms_send_cancel">Cancelled sending uplink SMS</string>
+    <string name="passport_user_agreement_hint_3rd_app">"&lt;Data>I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile">"&lt;Data>I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom">"&lt;Data>I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom">"&lt;Data>I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_default">"&lt;Data>I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_with_mobile">"&lt;Data>I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_with_telecom">"&lt;Data>I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_hint_with_unicom">"&lt;Data>I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>I've read and agreed to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_vcode_email_send_prompt">&lt;Data>Your verification code was sent to &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a>&lt;/Data></string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="qrcode_login_entry_text">&lt;Data>Signed in on a different device? Use &lt;a href=>quick sign-in&lt;/a>&lt;/Data></string>
+    <string name="qrcode_login_load_refresh">&lt;Data>This QR code expired. Tap to &lt;a href=>refresh&lt;/a>.&lt;/Data></string>
+    <string name="qrcode_login_load_retry">"&lt;Data>Couldn't load. &lt;a href=>Try again&lt;/a>.&lt;/Data>"</string>
+    <string name="search_account_security_key_words">Change Phone,Change Email,Account protection,Accounts,Sina Weibo,QQ,Authorisation,Devices</string>
+    <string name="template_percent">%1$d per cent.</string>
+    <string name="user_agreement_wlan_permission_title_china">Turn WLAN on and off</string>
+    <string name="user_license_with_3rd_app">"&lt;Data>By signing in with my Xiaomi Account, I confirm I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="user_license_with_3rd_app_mobile">"&lt;Data>I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Mobile Authentication Terms of Service&lt;/a>.
+&lt;/Data>"</string>
+    <string name="user_license_with_3rd_app_no_operator">"&lt;Data>I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.
+&lt;/Data>"</string>
+    <string name="user_license_with_3rd_app_telcom">"&lt;Data>I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Telecom Authentication Terms of Service&lt;/a>.
+&lt;/Data>"</string>
+    <string name="user_license_with_3rd_app_unicom">"&lt;Data>I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Unicom Authentication Terms of Service&lt;/a>.
+&lt;/Data>"</string>
+    <string name="user_license_with_out_3rd_app_no_operator">"&lt;Data>I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.
+&lt;/Data>"</string>
+    <string name="user_license_without_3rd_app">"&lt;Data>I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="user_license_without_3rd_mobile">"&lt;Data>I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Mobile Authentication Terms of Service&lt;/a>.
+&lt;/Data>"</string>
+    <string name="user_license_without_3rd_telcom">"&lt;Data>I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Telecom Authentication Terms of Service&lt;/a>.
+&lt;/Data>"</string>
+    <string name="user_license_without_3rd_unicom">"&lt;Data>I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Unicom Authentication Terms of Service&lt;/a>.
+&lt;/Data>"</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+</resources>

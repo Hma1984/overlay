@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Combinar apps</item>
+        <item>Interconectividade/Combinar apps</item>
+        <item>Recursos do carro</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Interconectividade</item>
+        <item>Interconectividade/Interconectividade</item>
+        <item>Interconectividade de dispositivos, Serviços de interconectividade de dispositivos, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, conexão inteligente, Xiaomi Smart Hub, Interconectividade, Duo, dispositivo Xiaomi, laptop Xiaomi, Multiscreen, Dueto, transmissão, combinar apps, transferência, transferência de apps, espelhamento, Ecossistema Xiaomi, conexão do dispositivo</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Privacidade</item>
+        <item>Interconectividade/Privacidade</item>
+        <item>Privacidade e interconectividade, Privacidade</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Interconectividade Xiaomi</item>
+        <item>Interconectividade/Interconectividade Xiaomi</item>
+        <item>Serviços de Interconectividade Xiaomi, Interconectividade Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Transferência de apps</item>
+        <item>Interconectividade/Apps</item>
+        <item>Transferir apps, transferência, transferência</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Sincronização de chamadas</item>
+        <item>Interconectividade/Chamadas</item>
+        <item>Chamadas</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Assistência de rede</item>
+        <item>Interconectividade/Sincronização de chamadas</item>
+        <item>Sincronização de chamadas, chamadas entre dispositivos, transferência de chamadas, chamadas</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Tela inicial+</item>
+        <item>Interconectividade/Tela inicial+</item>
+        <item>Tela inicial+, Xiaomi Smart Hub, compartilhamento de tela</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Área de transferência</item>
+        <item>Interconectividade/Área de transferência</item>
+        <item>Área de transferência</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Notificações entre dispositivos</item>
+        <item>Interconectividade/Notificações</item>
+        <item>Notificações entre dispositivos</item>
+    </string-array>
+    <string-array name="debug_mode_protocol_entries">
+        <item>Padrão</item>
+        <item>MiPlay</item>
+        <item>Miracast</item>
+        <item>AirKan</item>
+        <item>LeLink</item>
+        <item>DLNA</item>
+    </string-array>
+</resources>

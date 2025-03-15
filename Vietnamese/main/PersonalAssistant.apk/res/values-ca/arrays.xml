@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Codi de salut</item>
+        <item>PCR</item>
+        <item>"Zones d'alt risc"</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Diumenge</item>
+        <item>Dilluns</item>
+        <item>Dimarts</item>
+        <item>Dimecres</item>
+        <item>Dijous</item>
+        <item>Divendres</item>
+        <item>Dissabte</item>
+        <item>Diumenge</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Vermell - amunt, verd - avall</item>
+        <item>Verd - amunt, vermell - avall</item>
+    </string-array>
+</resources>

@@ -296,24 +296,6 @@
         <item quantity="two">%d הודעות</item>
         <item quantity="many">%d הודעות</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-        <item quantity="two">%1$s:</item>
-        <item quantity="many">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-        <item quantity="two">%1$s</item>
-        <item quantity="many">%1$s</item>
-    </plurals>
-    <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
-        <item quantity="two">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="many">Your Game Turbo membership will expire in %d days.</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
         <item quantity="other">החברות שלך במאיץ המשחקים תפוג בעוד %d ימים. חדש אותה עכשיו כדי ליהנות מחוויית משחק חלקה.</item>
         <item quantity="one">החברות שלך במאיץ המשחקים תפוג בעוד יום אחד (%d). חדש אותה עכשיו כדי ליהנות מחוויית משחק חלקה.</item>
@@ -362,18 +344,6 @@
         <item quantity="two">"בוצע צ'ק אין %d ימים ברצף"</item>
         <item quantity="many">"בוצע צ'ק אין %d ימים ברצף"</item>
     </plurals>
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d שעות</item>
-        <item quantity="one">שעה %d</item>
-        <item quantity="two">%d שעות</item>
-        <item quantity="many">%d שעות</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d דקות</item>
-        <item quantity="one">דקה %d</item>
-        <item quantity="two">%d דקות</item>
-        <item quantity="many">%d דקות</item>
-    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">"הבנתי (ש'%d)"</item>
         <item quantity="one">"הבנתי (ש'%d)"</item>
@@ -393,20 +363,6 @@
         <item quantity="many">"הערה:
 ·המאפיין של מרכיבים חזותיים משופרים לא יהיה זמין כשמופעל מצב חסכון בסוללה או המכשיר התחמם יתר על המידה.
 ·קצב פריימים חכם נותן את התוצאות הטובות ביותר כשתצוגת המשחק מוגדרת לפחות ל-%d פריימים בשנייה."</item>
-    </plurals>
-    <plurals name="gb_vision_enhance_desc_detail_new">
-        <item quantity="other">"הערה:
-· מרכיבים חזותיים משופרים לא יהיו זמינים כשמופעל חסכון בסוללה או כשהמכשיר שלך התחמם יתר על המידה.
-· קצב הפריימים המוגבר מביא לתוצאות הטובות ביותר כשקצב הפריימים בתצוגת המשחק מוגדר ל-%d פריימים בשנייה לפחות."</item>
-        <item quantity="one">"הערה:
-· מרכיבים חזותיים משופרים לא יהיו זמינים כשמופעל חסכון בסוללה או כשהמכשיר שלך התחמם יתר על המידה.
-· קצב הפריימים המוגבר מביא לתוצאות הטובות ביותר כשקצב הפריימים בתצוגת המשחק מוגדר לפריים %d בשנייה לפחות."</item>
-        <item quantity="two">"הערה:
-· מרכיבים חזותיים משופרים לא יהיו זמינים כשמופעל חסכון בסוללה או כשהמכשיר שלך התחמם יתר על המידה.
-· קצב הפריימים המוגבר מביא לתוצאות הטובות ביותר כשקצב הפריימים בתצוגת המשחק מוגדר ל-%d פריימים בשנייה לפחות."</item>
-        <item quantity="many">"הערה:
-· מרכיבים חזותיים משופרים לא יהיו זמינים כשמופעל חסכון בסוללה או כשהמכשיר שלך התחמם יתר על המידה.
-· קצב הפריימים המוגבר מביא לתוצאות הטובות ביותר כשקצב הפריימים בתצוגת המשחק מוגדר ל-%d פריימים בשנייה לפחות."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"נסה את \"משנה הקול\" עכשיו
@@ -469,12 +425,6 @@
         <item quantity="one">הפחת את בהירות המסך באופן אוטומטי כדי לחסוך בחשמל לאחר דקה אחת (%d) של חוסר פעילות</item>
         <item quantity="two">הפחתת בהירות המסך באופן אוטומטי כדי לחסוך בחשמל לאחר %d דקות של חוסר פעילות</item>
         <item quantity="many">הפחת את בהירות המסך באופן אוטומטי כדי לחסוך בחשמל לאחר %d דקות של חוסר פעילות</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-        <item quantity="two">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="many">"Congrats! You've unlocked %s Easter eggs."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
@@ -830,12 +780,6 @@
         <item quantity="two">%2$d יישומים, כולל %1$s, עלולים להיות זדוניים</item>
         <item quantity="many">%2$d יישומים, כולל %1$s, עלולים להיות זדוניים</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="two">+%d</item>
-        <item quantity="many">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d יישומים מרוקנים את הסוללה</item>
         <item quantity="one">יישום %d מרוקן את הסוללה</item>
@@ -848,18 +792,6 @@
         <item quantity="two">" שעות"</item>
         <item quantity="many">" שעות"</item>
     </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" דקות"</item>
-        <item quantity="one">"דקה "</item>
-        <item quantity="two">" דקות"</item>
-        <item quantity="many">" דקות"</item>
-    </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d ימים</item>
-        <item quantity="one">יום %d</item>
-        <item quantity="two">%d ימים</item>
-        <item quantity="many">%d ימים</item>
-    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d פריטים</item>
         <item quantity="one">פריט אחד (%d)</item>
@@ -871,12 +803,6 @@
         <item quantity="one">הסוללה של המכשיר שלך התרוקנה. המכשיר ייכנס למצב שינה עמוקה בעוד שנייה אחת (%1$d).</item>
         <item quantity="two">הסוללה של המכשיר שלך התרוקנה. המכשיר ייכנס למצב שינה עמוקה בעוד %1$d שניות.</item>
         <item quantity="many">הסוללה של המכשיר שלך התרוקנה. המכשיר ייכנס למצב שינה עמוקה בעוד %1$d שניות.</item>
-    </plurals>
-    <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">רמת הסוללה נמוכה. המכשיר יעבור למצב שינה עמוקה בעוד %1$d שניות. תיתכן ירידה קלה בביצועים ובעוצמת האות.</item>
-        <item quantity="one">רמת הסוללה נמוכה. המכשיר יעבור למצב שינה עמוקה בעוד שנייה %1$d. תיתכן ירידה קלה בביצועים ובעוצמת האות.</item>
-        <item quantity="two">רמת הסוללה נמוכה. המכשיר יעבור למצב שינה עמוקה בעוד %1$d שניות. תיתכן ירידה קלה בביצועים ובעוצמת האות.</item>
-        <item quantity="many">רמת הסוללה נמוכה. המכשיר יעבור למצב שינה עמוקה בעוד %1$d שניות. תיתכן ירידה קלה בביצועים ובעוצמת האות.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s ימים</item>
@@ -974,29 +900,11 @@
         <item quantity="two">המכשיר שלכם יכובה בעוד %d שניות</item>
         <item quantity="many">המכשיר שלכם יכובה בעוד %d שניות</item>
     </plurals>
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s שעות</item>
-        <item quantity="one">שעה %s</item>
-        <item quantity="two">%s שעות</item>
-        <item quantity="many">%s שעות</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s דקות</item>
-        <item quantity="one">דקה %s</item>
-        <item quantity="two">%s דקות</item>
-        <item quantity="many">%s דקות</item>
-    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">פעמים</item>
         <item quantity="one">פעם</item>
         <item quantity="two">פעמים</item>
         <item quantity="many">פעמים</item>
-    </plurals>
-    <plurals name="power_center_battery_charge_number_new">
-        <item quantity="other">%d פעמים</item>
-        <item quantity="one">פעם %d</item>
-        <item quantity="two">%d פעמים</item>
-        <item quantity="many">%d פעמים</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d פריטים עם צריכת חשמל גבוהה</item>
@@ -1027,12 +935,6 @@
         <item quantity="one">" שעה %d ו-"</item>
         <item quantity="two">%d שעות ו-</item>
         <item quantity="many">%d שעות ו-</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d דקות "</item>
-        <item quantity="one">" דקה %d"</item>
-        <item quantity="two">"%d דקות "</item>
-        <item quantity="many">"%d דקות "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
         <item quantity="other">מיטוב ניצול הסוללה ב-%d תרחישים</item>
@@ -1069,18 +971,6 @@
         <item quantity="one">ניתן לבצע מיטוב של פריט %d לחיסכון בסוללה</item>
         <item quantity="two">ניתן לבצע מיטוב של %d פריטים לחיסכון בסוללה</item>
         <item quantity="many">ניתן לבצע מיטוב של %d פריטים לחיסכון בסוללה</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">℃ %d</item>
-        <item quantity="one">℃ %d</item>
-        <item quantity="two">℃ %d</item>
-        <item quantity="many">℃ %d</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
-        <item quantity="two">%d mAh</item>
-        <item quantity="many">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">הוסף דקות %d</item>
@@ -1358,18 +1248,6 @@
         <item quantity="two">עריכת %1$d הרשאות</item>
         <item quantity="many">עריכת %1$d הרשאות</item>
     </plurals>
-    <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> קטעים</item>
-        <item quantity="one">קטע &lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big></item>
-        <item quantity="two">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> קטעים</item>
-        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> קטעים</item>
-    </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="two">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-        <item quantity="many">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
-    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">קיימים עדכונים זמינים עבור %d יישומים.</item>
         <item quantity="one">קיים עדכון זמין עבור יישום %d.</item>
@@ -1381,12 +1259,6 @@
         <item quantity="one">סטטיסטיקות שימוש בנתונים מספק הרשת לא סונכרנו במשך יום %d</item>
         <item quantity="two">סטטיסטיקות שימוש בנתונים מספק הרשת לא סונכרנו במשך %d ימים</item>
         <item quantity="many">סטטיסטיקות שימוש בנתונים מספק הרשת לא סונכרנו במשך %d ימים</item>
-    </plurals>
-    <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">"(%dשנ')"</item>
-        <item quantity="one">"(שנ'%d)"</item>
-        <item quantity="two">"(%dשנ')"</item>
-        <item quantity="many">"(%dשנ')"</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d פריטים מאובטחים</item>
@@ -1481,5 +1353,59 @@
         <item quantity="one">סוס טרויאני: %d</item>
         <item quantity="two">סוסים טרויאנים: %d</item>
         <item quantity="many">סוסים טרויאנים: %d</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" דקות"</item>
+        <item quantity="one">"דקה "</item>
+        <item quantity="two">" דקות"</item>
+        <item quantity="many">" דקות"</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה %s</item>
+        <item quantity="two">%s שעות</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">דקה %s</item>
+        <item quantity="two">%s דקות</item>
+        <item quantity="many">%s דקות</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> קטעים</item>
+        <item quantity="one">קטע &lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big></item>
+        <item quantity="two">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> קטעים</item>
+        <item quantity="many">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> קטעים</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d דקות "</item>
+        <item quantity="one">" דקה %d"</item>
+        <item quantity="two">"%d דקות "</item>
+        <item quantity="many">"%d דקות "</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">℃ %d</item>
+        <item quantity="one">℃ %d</item>
+        <item quantity="two">℃ %d</item>
+        <item quantity="many">℃ %d</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">"(%dשנ')"</item>
+        <item quantity="one">"(שנ'%d)"</item>
+        <item quantity="two">"(%dשנ')"</item>
+        <item quantity="many">"(%dשנ')"</item>
     </plurals>
 </resources>

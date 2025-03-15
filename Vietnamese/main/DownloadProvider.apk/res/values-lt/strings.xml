@@ -10,11 +10,9 @@
     <string name="download_queued">Pridėta į eilę</string>
     <string name="download_remaining">Liko %s</string>
     <string name="download_running">Atsiunčiama</string>
-    <string name="download_running_percent">Atsiunčiama, %s</string>
     <string name="download_unknown_title">&lt;Be pavadinimo></string>
     <string name="notif_title_file_size">viso %1$d</string>
     <string name="notif_title_single_downloading">Atsiunčiama %1$s</string>
-    <string name="notification_dld_msg">Valdykite atsiunčiamas programas</string>
     <string name="notification_download_complete">Sėkmingai atsiųsta.</string>
     <string name="notification_download_failed">Nepavyko atsiųsti failų.</string>
     <string name="notification_need_wifi_for_size">Atsisiuntimo dydžiui yra reikalingas Wi-Fi.</string>

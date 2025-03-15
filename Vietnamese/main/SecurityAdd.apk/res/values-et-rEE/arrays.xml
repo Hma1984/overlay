@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Madalaim</item>
+        <item>Madal</item>
+        <item>Tavaline</item>
+        <item>Kõrge</item>
+        <item>Kõrgeim</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Tasakaalustatud</item>
+        <item>Kõrge kvaliteet</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Madal</item>
+        <item>Standardne</item>
+        <item>Kõrge</item>
+        <item>Kõrgeim</item>
+        <item>Vaikimisi</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Kõrge kiirus</item>
+        <item>Tasakaalustatud</item>
+        <item>Kõrge kvaliteet</item>
+    </string-array>
+</resources>

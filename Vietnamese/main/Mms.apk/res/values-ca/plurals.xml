@@ -5,52 +5,52 @@
         <item quantity="one">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Fa %d hores</item>
-        <item quantity="one">Fa %d hora</item>
+        <item quantity="other">%d Fa una hora</item>
+        <item quantity="one">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fa mitja hora</item>
         <item quantity="one">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">En %d hores</item>
-        <item quantity="one">En %d hora</item>
+        <item quantity="other">Dins %d hora</item>
+        <item quantity="one">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">En mitja hora</item>
-        <item quantity="one">En mitja hora</item>
+        <item quantity="other">"D'aquí a mitja hora"</item>
+        <item quantity="one">"D'aquí a mitja hora"</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Immediatament</item>
         <item quantity="one">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d mins</item>
-        <item quantity="one">En %d min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Ara mateix</item>
         <item quantity="one">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa %d minut</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
-        <item quantity="other">Suprimir %1$s missatges?</item>
-        <item quantity="one">Suprimir %1$s missatge?</item>
+        <item quantity="other">Voleu suprimir %1$s missatges?</item>
+        <item quantity="one">Voleu suprimir %1$s missatge?</item>
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d missatges</item>
         <item quantity="one">%d missatge</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"No s'han sincronitzat %d missatges"</item>
-        <item quantity="one">"No s'ha sincronitzat %d missatge"</item>
+        <item quantity="other">"%d missatges no s'han sincronitzat"</item>
+        <item quantity="one">"%d missatge no s'ha sincronitzat"</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Vols eliminar %1$s converses seleccionades?</item>
-        <item quantity="one">Vols eliminar %1$s conversa seleccionada?</item>
+        <item quantity="other">Voleu suprimir les converses seleccionades de %1$s?</item>
+        <item quantity="one">Voleu suprimir la conversa seleccionada de %1$s?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d seleccionats</item>
@@ -61,8 +61,8 @@
         <item quantity="one">Missatge rebut per %1$s i %2$d altra persona</item>
     </plurals>
     <plurals name="group_message_failed_title">
-        <item quantity="other">"No s'ha pogut enviar a %d contactes"</item>
-        <item quantity="one">"No s'ha pogut enviar a %d contacte"</item>
+        <item quantity="other">No es pot enviar a %d contactes</item>
+        <item quantity="one">No es pot enviar a %d contacte</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fa mitja hora</item>
@@ -73,36 +73,56 @@
         <item quantity="one">%d missatge</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">En 1 hora</item>
-        <item quantity="one">En 1 hora</item>
+        <item quantity="other">"D'aquí a 1 hora"</item>
+        <item quantity="one">"D'aquí a 1 hora"</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">En mitja hora</item>
-        <item quantity="one">En mitja hora</item>
+        <item quantity="other">"D'aquí a mitja hora"</item>
+        <item quantity="one">"D'aquí a mitja hora"</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Immediatament</item>
         <item quantity="one">Immediatament</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">en %d minuts</item>
-        <item quantity="one">en 1 minut</item>
+        <item quantity="other">"d'aquí a %d minuts"</item>
+        <item quantity="one">"d'aquí a 1 minut"</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Ara mateix</item>
         <item quantity="one">Ara mateix</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
-        <item quantity="other">Marcat com %2$s per %1$d persones</item>
-        <item quantity="one">Marcat com %2$s per %1$d persona</item>
+        <item quantity="other">Marcat com a %2$s per %1$d persones</item>
+        <item quantity="one">Marcat com a %2$s per %1$d persona</item>
+    </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">"Els missatges d'àudio poden ser de fins a %1$4d secs llargs"</item>
+        <item quantity="one">"Els missatges d'àudio poden ser de fins a %1$4d seg llarg"</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Enviar fitxers fins a %1$4d MB</item>
+        <item quantity="one">Enviar fitxers fins a %1$4d MB</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Enviar missatge a fins a %1$4d Contactes</item>
+        <item quantity="one">Enviar missatge a fins a %1$4d contacte</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Els missatges poden contenir fins a %1$4d Caràcters</item>
+        <item quantity="one">Els missatges poden contenir fins a %1$4d caràcter</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Els vídeos poden ser de fins a %1$4d secs llargs</item>
+        <item quantity="one">Els vídeos poden ser de fins a %1$4d seg llarg</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s missatges</item>
         <item quantity="one">%1$s missatge</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elements sel·leccionats</item>
-        <item quantity="one">%d element sel·leccionat</item>
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
     </plurals>
     <plurals name="notification_multiple">
         <item quantity="other">"%s missatges | "</item>
@@ -112,41 +132,29 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Retirar (%d s)</item>
-        <item quantity="one">Retirar (%d s)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
-        <item quantity="other">Heu rebut %d invitacions de xat de grup</item>
-        <item quantity="one">Heu rebut %d invitació de xat de grup</item>
-    </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s persones</item>
-        <item quantity="one">%1$s persona</item>
+        <item quantity="other">Heu rebut %d invitacions al xat de grup</item>
+        <item quantity="one">Heu rebut %d invitació al xat de grup</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultats per \"%2$s\"</item>
         <item quantity="one">%1$s resultat per \"%2$s\"</item>
     </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d segons</item>
-        <item quantity="one">%d segon</item>
-    </plurals>
     <plurals name="send_to_count">
-        <item quantity="other">%1$s missatges enviats</item>
-        <item quantity="one">%1$s missatge enviat</item>
+        <item quantity="other">"S'han enviat %1$s missatges"</item>
+        <item quantity="one">"S'ha enviat %1$s missatge"</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%d segs</item>
+        <item quantity="other">%d seg</item>
         <item quantity="one">%d seg</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%d segs</item>
+        <item quantity="other">%d seg</item>
         <item quantity="one">%d seg</item>
     </plurals>
     <plurals name="timed_message_expired_title">
-        <item quantity="other">"No s'han enviat els missatges temporitzats %d"</item>
-        <item quantity="one">"No s'ha enviat el missatge temporitzat %d"</item>
+        <item quantity="other">%d missatges programats no van ser enviats</item>
+        <item quantity="one">%d missatge programat no va ser enviat</item>
     </plurals>
     <plurals name="timed_message_in_total">
         <item quantity="other">(%d missatges)</item>
@@ -155,5 +163,9 @@
     <plurals name="to_count">
         <item quantity="other">%d destinataris</item>
         <item quantity="one">%d destinatari</item>
+    </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Freqüència cardíaca: %1$d BPM (%2$s)</item>
+        <item quantity="one">Freqüència cardíaca: %1$d BPM (%2$s)</item>
     </plurals>
 </resources>

@@ -44,14 +44,6 @@
         <item quantity="other">%1$s varmuuskopiota (%2$s)</item>
         <item quantity="one">%1$s varmuuskopio (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d päivää edellisestä varmuuskopioinnista | Uudet tiedot: %2$s</item>
-        <item quantity="one">%1$d päivä edellisestä varmuuskopioinnista | Uudet tiedot: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d päivää viimeisestä varmuuskopioinnista</item>
-        <item quantity="one">%d päivä viimeisestä varmuuskopioinnista</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Puoli tuntia sitten</item>
         <item quantity="one">Puoli tuntia sitten</item>
@@ -95,5 +87,13 @@
     <plurals name="session_time_remain">
         <item quantity="other">Noin %s minuuttia jäljellä</item>
         <item quantity="one">Noin %s minuutti jäljellä</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d päivää edellisestä varmuuskopioinnista | Uudet tiedot: %2$s</item>
+        <item quantity="one">%1$d päivä edellisestä varmuuskopioinnista | Uudet tiedot: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d päivää viimeisestä varmuuskopioinnista</item>
+        <item quantity="one">%d päivä viimeisestä varmuuskopioinnista</item>
     </plurals>
 </resources>

@@ -45,18 +45,13 @@
     </string-array>
     <string-array name="ap_identify">
         <item>Numatytasis</item>
-        <item>Belaidis internetas</item>
+        <item>Aktyvioji sritis</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Nėra</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP arba CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4 / IPv6</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Vietovė</item>
@@ -222,11 +217,6 @@
         <item>Procentinis (šalia piktogramos)</item>
         <item>Progreso juosta</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>0 %</item>
-        <item>50 %</item>
-        <item>100 %</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>Nenurodyta</item>
         <item>LTE</item>
@@ -312,20 +302,6 @@
         <item>Subalansuota garso ir ryšio kokybė (500/560 kbps)</item>
         <item>Geriausias efektas (prisitaikanti sparta bitais)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Naudoti sistemos pasirink. (numatytasis)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Naudoti sistemos pasirink. (numatytasis)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Naudoti sistemos nuostatas (numatytasis)</item>
         <item>SBC</item>
@@ -369,27 +345,11 @@
         <item>Leisti klausos įrenginyje</item>
         <item>Leisti telefono garsiakalbyje</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp16</item>
-        <item>avrcp13</item>
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.6 (numatytoji)</item>
+        <item>AVRCP 1.5 (numatytoji)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
-        <item>AVRCP 1.5</item>
-    </string-array>
-    <string-array name="bluetooth_leaudio_mode">
-        <item>Išjungta</item>
-        <item>Unicast</item>
-        <item>„Unicast“ ir „Broadcast“</item>
-    </string-array>
-    <string-array name="bluetooth_map_version_values">
-        <item>map12</item>
-        <item>map13</item>
-        <item>map14</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>1.2 versijos MRK (numatytoji)</item>
@@ -404,11 +364,6 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bt_hci_snoop_log_entries">
-        <item>Išjungta</item>
-        <item>Įgalinta filtruota</item>
-        <item>Įgalinta</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Palikti tik ACL antraštes</item>
         <item>Filtruoti A2DP medijos paketus</item>
@@ -416,16 +371,9 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
         <item>Išjungti</item>
-        <item>Užpildyti simbolių eilute</item>
+        <item>Užpildyti simbolių juosta</item>
         <item>Palikti tik antraštę</item>
         <item>Visiškai pašalinti</item>
-    </string-array>
-    <string-array name="bt_stack_log_level_entries">
-        <item>Daugiažodis</item>
-        <item>Derinimas</item>
-        <item>Informacija</item>
-        <item>Įspėti</item>
-        <item>Klaida</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekundė</item>
@@ -457,12 +405,6 @@
         <item>Didelis</item>
         <item>Labai didelis</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25 %</item>
-        <item>50 %</item>
-        <item>75 %</item>
-        <item>100 %</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Nustatyta programos</item>
         <item>Baltas ant juodo</item>
@@ -482,10 +424,6 @@
         <item>Rankraštinis</item>
         <item>Sumažintos didžiosios raidės</item>
     </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM / SIM</item>
-        <item>NV</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Tik pagrindinis</item>
         <item>Automatinis</item>
@@ -496,15 +434,6 @@
         <item>PIN</item>
         <item>Slaptažodis</item>
     </string-array>
-    <array name="click_bottom">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom08</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="color_mode_descriptions">
         <item>Patobulintos spalvos</item>
         <item>Natūralios spalvos</item>
@@ -529,15 +458,11 @@
         <item>Vaikų režimas</item>
         <item>Failų tvarkyklė</item>
         <item>Programų užraktas</item>
-        <item>Antroji erdvė</item>
+        <item>„Antroji erdvė“</item>
     </string-array>
     <string-array name="connect_mode_entries">
         <item>Suderinamumas</item>
         <item>Didelis greitis</item>
-    </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>Tamsus</item>
@@ -589,12 +514,6 @@
         <item>Pagerina įrenginio efektyvumą</item>
         <item>Įrenginio efektyvumas gali sumažėti</item>
     </string-array>
-    <string-array name="grammatical_gender_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 colių</item>
         <item>4.0 colių</item>
@@ -615,24 +534,6 @@
         <item>Niekada netikrinti</item>
         <item>Tikrinti tik DRM turinį</item>
         <item>Visada tikrinti</item>
-    </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>input_method_selector_show_automatically_title</item>
-        <item>input_method_selector_always_show_title</item>
-        <item>input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Nežadinti ekrano</item>
@@ -677,22 +578,6 @@
         <item>Po 5 minučių</item>
         <item>Niekada</item>
     </string-array>
-    <array name="long_press">
-        <item>clickbottom03</item>
-        <item>clickbottom04</item>
-        <item>clickbottom05</item>
-        <item>clickbottom06</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom07</item>
-        <item>clickbottom03</item>
-    </array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>Trumpa</item>
         <item>Vidutinė</item>
@@ -731,14 +616,6 @@
         <item>Violetinė</item>
         <item>Purpurinė</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>XS</item>
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>„Windows XP“ ar senesnė</item>
         <item>„Windows Vista“ ar naujesnė</item>
@@ -746,8 +623,8 @@
         <item>„Linux“</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>msd_pc_system_install_finish_summary_xp</item>
-        <item>msd_pc_system_install_finish_summary_vista</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>Prisijungus prie kompiuterio, USB laikmena bus atidaryta automatiškai.</item>
         <item></item>
     </string-array>
@@ -766,16 +643,8 @@
         <item>"Išdiegti įrenginį: fusermount -u /media/mtp
 Pastaba: Tik „Ubuntu“ 8.04!"</item>
     </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>msd_install_retry_reinstall_mac</item>
-        <item>msd_install_retry_connect</item>
-        <item>msd_install_retry_reinstall</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>msd_install_retry_connect</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_xp">
-        <item>msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_connect</item>
         <item>Įdiekite „Mi PC Suite“ iš naujo</item>
     </string-array>
     <string-array name="mvno_type_entries">
@@ -802,10 +671,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Visada</item>
         <item>Išskyrus atvejus, kai kita mokėjimo programa yra atidaryta</item>
     </string-array>
-    <string-array name="nfc_payment_favor_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Grafinis</item>
         <item>Procentinis (piktogramoje)</item>
@@ -820,58 +685,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Ieškoti</item>
         <item>Parametrai</item>
     </string-array>
-    <string-array name="notification_style_entries">
-        <item>„MIUI“</item>
-        <item>„Android“</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nėra</item>
         <item>480 piks.</item>
@@ -884,7 +697,7 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>4K (saugus)</item>
         <item>4K (didesnio mastelio)</item>
         <item>4K (didesnio mastelio, saugus)</item>
-        <item>720 piks. 1 080 piks. (dual screen)</item>
+        <item>720 piks., 1 080 piks. (dvig. ekr.)</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>Visos spalvos</item>
@@ -900,97 +713,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Vienetinio mikrofono triukšmo mažinimas</item>
         <item>Dvigubo mikrofono triukšmo mažinimas</item>
     </string-array>
-    <array name="power_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_double_click">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
-    <array name="power_long_press">
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick02</item>
-        <item>powerclick03</item>
-        <item>powerclick04</item>
-        <item>powerclick05</item>
-        <item>powerclick06</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick07</item>
-        <item>powerclick03</item>
-        <item>powerclick02</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-        <item>powerclick01</item>
-    </array>
     <string-array name="power_mode_entries">
         <item>Efektyvumas</item>
         <item>Subalansuotas</item>
@@ -1092,16 +814,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Sodrios</item>
         <item>Standartinis</item>
     </string-array>
-    <string-array name="screen_resolution_format">
-        <item>screen_resolution_ultrahigh_format</item>
-        <item>screen_resolution_high_format</item>
-        <item>screen_resolution_normal_format</item>
-    </string-array>
-    <string-array name="screen_resolution_text">
-        <item>2K</item>
-        <item>1080p</item>
-        <item>720p</item>
-    </string-array>
     <string-array name="screen_saturation_title">
         <item>Ryškiaspalvis</item>
         <item>Įprastas</item>
@@ -1115,49 +827,11 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>10 minučių</item>
         <item>Niekada</item>
     </string-array>
-    <string-array name="screen_zoom_level">
-        <item>XS</item>
-        <item>S</item>
-        <item>L</item>
-    </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Klausti</item>
-        <item>Niekada neleisti</item>
-        <item>Visada leisti</item>
-    </string-array>
-    <string-array name="select_gpo_version_summaries">
-        <item>Išjungta</item>
-        <item>GPO4</item>
-        <item>GPO5</item>
-        <item>GPO6</item>
-    </string-array>
     <string-array name="select_gpo_version_titles">
         <item>Išjungta</item>
         <item>GPO4</item>
         <item>GPO5</item>
         <item>GPO6</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Išjungta</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Išjungta</item>
-        <item>64 KB žurnalo buferis</item>
-        <item>256 KB žurnalo buferis</item>
-        <item>1 MB žurnalo buferis</item>
-        <item>4 MB žurnalo buferis</item>
-        <item>8 MB žurnalo buferis</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Išjungta</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>8 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Išjungta</item>
@@ -1176,32 +850,12 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Piešti ne stačiak. reg. mėlyna sp.</item>
         <item>Paryš. išban. pieš. kom. žalia sp.</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>standard</item>
-        <item>total</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Visada</item>
         <item>30 minučių</item>
         <item>1 valanda</item>
         <item>2 valandos</item>
         <item>8 valandos</item>
-    </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="smart_device_control_entries">
-        <item>Xiaomi Smart Hub</item>
-        <item>Išmanūs namai</item>
-        <item>Jokio</item>
     </string-array>
     <string-array name="smart_home_entries">
         <item>Išmanūs namai</item>
@@ -1210,10 +864,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>Leisti</item>
         <item>Uždrausti</item>
-    </string-array>
-    <string-array name="swipe_direction_values">
-        <item>1</item>
-        <item>0</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>Niekada</item>
@@ -1235,31 +885,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Energijos tausojimo režimas</item>
         <item>Apdorojimo būsena</item>
     </string-array>
-    <array name="three_drop">
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop01</item>
-        <item>threedrop02</item>
-        <item>threedrop03</item>
-        <item>threedrop04</item>
-        <item>threedrop05</item>
-        <item>threedrop06</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-        <item>threedrop07</item>
-    </array>
     <string-array name="time_format_entries">
         <item>12 valandų 1:00</item>
         <item>24 valandų 13:00</item>
@@ -1274,11 +899,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Išj.</item>
         <item>Įprastas</item>
         <item>Ekstremalus</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobiliųjų duomenų naudojimas "</item>
@@ -1303,17 +923,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Sodrus</item>
         <item>Originali spalva</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>60 proc.</item>
-        <item>80 proc.</item>
-        <item>100 proc.</item>
-        <item>150 proc.</item>
-        <item>200 proc.</item>
-        <item>250 proc.</item>
-        <item>300 proc.</item>
-        <item>350 proc.</item>
-        <item>400 proc.</item>
-    </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Labai lėtas</item>
         <item>Lėtas</item>
@@ -1325,6 +934,12 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Įprastas</item>
         <item>Lietimas</item>
         <item>Tiesioginis lietimas</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Kairėn</item>
+        <item>Žemyn</item>
+        <item>Dešinėn</item>
+        <item>Aukštyn</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Kraunama</item>
@@ -1345,12 +960,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Tik nuo kontaktų pažymėtų žvaigždute</item>
         <item>Jokio</item>
     </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="vpn_proxy_settings">
         <item>Nėra</item>
         <item>Neautomatiniai</item>
@@ -1362,10 +971,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Prijungta</item>
         <item>Skirtasis laikas</item>
         <item>Nepavyko</item>
-    </string-array>
-    <string-array name="wapi_psk_type">
-        <item>wapi_psk_type_ascii</item>
-        <item>wapi_psk_type_hex</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Pradedamas seansas…</item>
@@ -1386,18 +991,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Procentinis (piktogramoje)</item>
         <item>Procentinis (šalia pranešimų juostos)</item>
     </string-array>
-    <string-array name="wifi_ap_band_config_2G_5G">
-        <item>wifi_ap_choose_2G</item>
-        <item>wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_hidden_ssid_config">
-        <item>wifi_ap_ssid_off</item>
-        <item>wifi_ap_ssid_on</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>„Wi-Fi“ ryšys</item>
         <item>Mobiliojo ryšio tinklas</item>
@@ -1411,10 +1004,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Prisijungti automatiškai</item>
         <item>Prisijungti rankiniu būdu</item>
         <item>Visada klausti</item>
-    </string-array>
-    <string-array name="wifi_dhcp_entries">
-        <item>Siųsti įrenginio pavadinimą į tinklą</item>
-        <item>Nesiųsti įrenginio pavadinimo į tinklą</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Ne</item>
@@ -1444,17 +1033,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Pasiekiamas</item>
         <item>Nepasiekiama</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
     <string-array name="wifi_privacy_entries">
         <item>Naudoti atsitiktinius MAC</item>
         <item>Naudoti įrenginio MAC</item>
@@ -1463,12 +1041,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Nėra</item>
         <item>Neautomatiškai</item>
         <item>Aut. tarp. serv. konfig.</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>wifi_security_none</item>
-        <item>wifi_security_wep</item>
-        <item>wifi_security_psk_generic</item>
-        <item>wifi_security_eap</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Prastas</item>
@@ -1509,12 +1081,6 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Užblokuota</item>
         <item>Laikinai vengiama prasto ryšio</item>
     </string-array>
-    <string-array name="wifi_ttls_phase2_entries">
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
         <item>Nuskaitoma…</item>
@@ -1537,5 +1103,46 @@ Pastaba: Tik „Ubuntu“ 8.04!"</item>
         <item>Animacijos mastelis 2x</item>
         <item>Animacijos mastelis 5x</item>
         <item>Animacijos mastelis 10x</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="select_gpo_version_summaries">
+        <item>Išjungta</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>60 proc.</item>
+        <item>80 proc.</item>
+        <item>100 proc.</item>
+        <item>150 proc.</item>
+        <item>200 proc.</item>
+        <item>250 proc.</item>
+        <item>300 proc.</item>
+        <item>350 proc.</item>
+        <item>400 proc.</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM / SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>„MIUI“</item>
+        <item>„Android“</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4 / IPv6</item>
     </string-array>
 </resources>

@@ -96,6 +96,18 @@
         <item quantity="few">Pasirinkti %d elementai</item>
         <item quantity="many">Pasirinkta %d elemento</item>
     </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">%1$d sėkmingų, %2$s</item>
+        <item quantity="one">%1$d sėkmingas, %2$s</item>
+        <item quantity="few">%1$d sėkmingi, %2$s</item>
+        <item quantity="many">%1$d sėkmingo, %2$s</item>
+    </plurals>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d nesėkmingų.</item>
+        <item quantity="one">%1$d nesėkmingas.</item>
+        <item quantity="few">%1$d nesėkmingi.</item>
+        <item quantity="many">%1$d nesėkmingo.</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Prieš %d minučių</item>
         <item quantity="one">Prieš 1 minutę</item>

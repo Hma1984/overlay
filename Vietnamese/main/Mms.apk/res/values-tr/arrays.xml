@@ -23,11 +23,6 @@
         <item>Maksimum</item>
         <item>2 gün</item>
     </string-array>
-    <string-array name="entries_pref_key_voice_report">
-        <item>@string/voice_report_wiredon</item>
-        <item>@string/voice_report_anytime</item>
-        <item>@string/voice_report_off</item>
-    </string-array>
     <string-array name="entries_sms_validity_period">
         <item>Ayarlı değil</item>
         <item>1 saat</item>
@@ -35,11 +30,6 @@
         <item>12 saat</item>
         <item>1 gün</item>
         <item>Maksimum</item>
-    </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Her zaman</item>
-        <item>Yalnızca Sessiz modda</item>
-        <item>Asla</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>

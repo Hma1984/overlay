@@ -48,10 +48,6 @@
         <item quantity="other">%1$d päivää</item>
         <item quantity="one">%1$d päivä</item>
     </plurals>
-    <plurals name="durationHours">
-        <item quantity="other">%1$d tuntia</item>
-        <item quantity="one">%1$d tunti</item>
-    </plurals>
     <plurals name="durationMinutes">
         <item quantity="other">%1$d minuuttia</item>
         <item quantity="one">%1$d minuutti</item>
@@ -92,12 +88,8 @@
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">1 minuutti sitten</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="other">%s kohdetta</item>
-        <item quantity="one">%s kohde</item>
-    </plurals>
-    <plurals name="show_more">
-        <item quantity="other">Näytä %1$d lisää</item>
-        <item quantity="one">Näytä %1$d lisää</item>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d tuntia</item>
+        <item quantity="one">%1$d tunti</item>
     </plurals>
 </resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ee_dd_short_month">EEE, dd MMM</string>
+    <string name="eee_dd_long_month">EEEE, dd MMMM</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="global_action_text_card_manager">Customise your calendar</string>
+    <string name="long_date_format">EEEE, dd MMMM yyyy</string>
+    <string name="long_holiday_date_place_holder">dd MMMM</string>
+    <string name="long_month_date_format">dd MMMM yyyy</string>
+    <string name="medium_date_format">EEE, dd MMMM yyyy</string>
+    <string name="mens_date_format_m_d">dd MMM</string>
+    <string name="mens_date_format_y_m_d">dd MMM yyyy</string>
+    <string name="miuix_appcompat_action_mode_select_all">Select All</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Select Items</string>
+    <string name="no_visiable_calendar_message">You need to add a calendar account. Tap \"Add account\" to continue.</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="preferences_use_home_tz_descrip">Displays calendars and event times in your home time zone when travelling</string>
+    <string name="privacy_policy_dialog_message">"&lt;Data>Welcome to Calendar!&lt;br/>You can use this app to create and manage events, set reminders, and receive additional information specific to your location.&lt;br/>Calendar needs to collect necessary personal information to provide you with basic services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;br/>Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a> before using Calendar. You can withdraw your consent to the Privacy Policy of Calendar in the Settings at any time.&lt;br/> If you don't agree to our Privacy Policy, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
+    <string name="short_date_format">dd MMM</string>
+    <string name="simple_date_format">dd/MM/yyyy</string>
+    <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="user_experience_revoke_switch">User Experience Programme</string>
+    <string name="view_event_organizer_label">Organiser:</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+</resources>

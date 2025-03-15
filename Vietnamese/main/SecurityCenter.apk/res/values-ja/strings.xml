@@ -52,18 +52,9 @@
     <string name="abc_action_mode_done">完了</string>
     <string name="abc_activity_chooser_view_see_all">すべて表示</string>
     <string name="abc_activitychooserview_choose_application">アプリの選択</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">検索…</string>
     <string name="abc_searchview_description_clear">検索キーワードを削除</string>
     <string name="abc_searchview_description_query">検索キーワード</string>
@@ -107,13 +98,6 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">アプリロックパスワードを入力してください</string>
     <string name="accessibility_gameboosterservice_description">この機能をオンにすると、ゲーム中にかかってきたWeChat通話をサイレントにします</string>
-    <string name="accessibility_keyboard_delete_button">削除</string>
-    <string name="accessibility_keyboard_letter_board_caps_lock_button">キャプスロック</string>
-    <string name="accessibility_keyboard_letter_board_shift2number_button">数字</string>
-    <string name="accessibility_keyboard_letter_board_shift2symbol_button">記号</string>
-    <string name="accessibility_keyboard_ok_button">入力</string>
-    <string name="accessibility_keyboard_symbol_board_shift2letter_button">英字</string>
-    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">記号ロック</string>
     <string name="action_button_text_100">最適化</string>
     <string name="action_button_text_60">修正</string>
     <string name="action_button_text_60_80">修正</string>
@@ -145,7 +129,6 @@
     <string name="activity_title_virus_settings">設定</string>
     <string name="activity_title_white_list">例外</string>
     <string name="ad_btn_default_text">もっと詳しく知る</string>
-    <string name="ad_flag_text">広告</string>
     <string name="ad_floating_window_title">ロックを解除するにはフローティングウィンドウを閉じてください</string>
     <string name="ad_split_screen_title">画面分割を終了してロック解除</string>
     <string name="ad_update_time">前回のアップデート %s</string>
@@ -189,12 +172,10 @@
     <string name="alert_back_milink_hangup_tips_content_vb">画面をオフにすると、アプリはキャストを中断することなくバックグラウンドで動作します。電源ボタンを押すと画面がオンに戻ります。</string>
     <string name="all_address_choose_hint">この地域のすべての番号</string>
     <string name="allow_all">すべて許可する</string>
-    <string name="allow_device_id_access">デバイスIDを使用できるアプリを選択</string>
     <string name="allow_onetime">1回のみ許可</string>
     <string name="already_close_gamebooster">ゲームターボはオフです</string>
     <string name="am">午前</string>
     <string name="anti_disturb_msg_detail">着信通話を除くすべての通知をオフにする</string>
-    <string name="anti_disturb_msg_title">DND</string>
     <string name="antispam_guangdian_card_hint">お使いのSIMは、別の不在メッセージへの切り替えをサポートしていません。詳しくは通信事業者にお問い合わせください。</string>
     <string name="antispam_guangdian_card_title">切り替えはサポートされていません</string>
     <string name="antispam_mms_text">\"メッセージ\"をデフォルトのメッセージアプリに設定して、ブロックされたメッセージを表示できるようしてください</string>
@@ -207,7 +188,6 @@
     <string name="antispam_xpace_text">ブロックリストを設定するには、ファースト・スペースに切り替えてください</string>
     <string name="antivirus_browser_check">Mi ブラウザーでウェブサイトを確認</string>
     <string name="antivirus_browser_check_summary">Mi ブラウザーでウェブサイトを自動的に確認し、危険性がある場合には警告を表示します</string>
-    <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_choose_engine_dialog_title">定義を選択</string>
     <string name="antivirus_choose_engine_settings">ウイルス定義の設定</string>
     <string name="antivirus_choose_engine_title">定義</string>
@@ -221,13 +201,11 @@
     <string name="antivirus_monitor_virus_advice">このアプリにはウイルスが含まれている可能性があります。削除してください。</string>
     <string name="antivirus_monitored_app_empty">互換性のある決済アプリが見つかりませんでした</string>
     <string name="antivirus_monitored_tips">リスクを自動検出して決済時のセキュリティを高める</string>
-    <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_not_wlan">Wi-Fiに接続していません。モバイルデータを使用すると、追加料金が発生する可能性があります。続行してもよろしいですか？</string>
     <string name="antivirus_privacy_dialog_cloudscan">アプリの名前と詳細をアップロード</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">ウイルスをより効果的に検出して中和するために、アプリのパッケージ名とプロパティをアップロードして、クラウドエンジンを使ってスキャンします。</string>
-    <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary"><Data>この機能は、サードパーティのウイルス対策エンジンによって提供されています。詳細については、サードパーティの&lt;a href=\"%1$s\">ライセンス契約&lt;/a>をお読みください。</Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi"><Data>セキュリティスキャンを実行した場合、あなたのデバイスに関する情報及びスキャンの結果に関する情報等が%1$sのサーバーにアップロードされ、各社の&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>に従って利用されます。&lt;br/>&lt;br/>セキュリティスキャンを実行する前に、%3$sのプライバシーポリシーを読んで同意してください。&lt;br/>&lt;br/>%4$sのサーバーにデータをアップロードすることに同意しない場合でも、ローカルに保存されているウイルス定義を使用したセキュリティスキャンを実行できます。その場合、あなたのデータはいかなるサーバーにもアップロードされることはありません。</Data></string>
+    <string name="antivirus_privacy_dialog_summary">&lt;Data>この機能は、サードパーティのウイルス対策エンジンによって提供されています。詳細については、サードパーティの&lt;a href=\"%1$s\">ライセンス契約&lt;/a>をお読みください。&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>セキュリティスキャンを実行した場合、あなたのデバイスに関する情報及びスキャンの結果に関する情報等が%1$sのサーバーにアップロードされ、各社の&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>に従って利用されます。&lt;br/>&lt;br/>セキュリティスキャンを実行する前に、%3$sのプライバシーポリシーを読んで同意してください。&lt;br/>&lt;br/>%4$sのサーバーにデータをアップロードすることに同意しない場合でも、ローカルに保存されているウイルス定義を使用したセキュリティスキャンを実行できます。その場合、あなたのデータはいかなるサーバーにもアップロードされることはありません。&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_link">プライバシーポリシー</string>
     <string name="antivirus_privacy_dialog_title">プライバシーポリシー</string>
     <string name="antivirus_privacy_dialog_title_kddi">プライバシーポリシー</string>
@@ -260,7 +238,6 @@
     <string name="app_behavior_dashboard_total_usage_title">すべての記録を表示</string>
     <string name="app_behavior_dashboard_usage">権限の使用状況</string>
     <string name="app_behavior_dashboard_usage_list_title">権限別に表示</string>
-    <string name="app_behavior_dashboard_usage_unit">%1$s / %2$s</string>
     <string name="app_behavior_denied">制限</string>
     <string name="app_behavior_desc_allowed">許可済み</string>
     <string name="app_behavior_desc_allowed_at">%sに許可</string>
@@ -279,7 +256,7 @@
     <string name="app_behavior_key_location">位置情報</string>
     <string name="app_behavior_link_start">チェーン起動</string>
     <string name="app_behavior_list_load_more">読み込み中…</string>
-    <string name="app_behavior_menu_about">記録について</string>
+    <string name="app_behavior_menu_about">アプリの動作記録について</string>
     <string name="app_behavior_no_recorder">まだ何もありません</string>
     <string name="app_behavior_now_running">実行中</string>
     <string name="app_behavior_perm_allow_always_danger_tip">アクセス許可が付与されると、アプリはセンシティブな操作を実行する場合があります</string>
@@ -287,7 +264,7 @@
     <string name="app_behavior_privacy_manager">センシティブな操作に関する通知</string>
     <string name="app_behavior_record_cancel">キャンセル</string>
     <string name="app_behavior_record_close">オフにする</string>
-    <string name="app_behavior_record_close_title">記録を停止</string>
+    <string name="app_behavior_record_close_title">記録をオフにする</string>
     <string name="app_behavior_record_hide_system">システムアプリを非表示</string>
     <string name="app_behavior_record_open">オンにする</string>
     <string name="app_behavior_record_open_content_text">アプリの動作記録をオンにすると、アプリが個人情報をどのように使用するかを把握できます。</string>
@@ -311,26 +288,17 @@
     <string name="app_install_intercept">インストールをブロック</string>
     <string name="app_install_tips_go_to">開く</string>
     <string name="app_install_tips_install_success">正常に%1$sをインストールしました</string>
-    <string name="app_isolate_func_close_tip">この機能をオフにすると、一部のアプリ データが失われる可能性があります。まず重要なデータをバックアップしてください。今すぐオフにしますか？</string>
-    <string name="app_isolate_func_closing">オフにしています…</string>
-    <string name="app_isolate_func_opening">オンにしています…</string>
-    <string name="app_lock_face_error_to_try">顔アイコンをタップして顔認証を使用してください</string>
-    <string name="app_lock_pwd">パスワードを入力してロックを解除</string>
-    <string name="app_lock_pwd_forget">パスワードを忘れた場合</string>
-    <string name="app_lock_pwd_or_finger">パスワードまたは指紋認証でロックを解除してください</string>
     <string name="app_management_empty_desc">このアプリはこの機能をサポートしていません</string>
     <string name="app_management_for_chain_start">他のアプリを開くのをブロックする</string>
     <string name="app_management_for_chain_start_desc">このアプリが他のアプリに接続したり開いたりできないようにします</string>
     <string name="app_management_for_device_id">識別子を非表示にして追跡を防止する</string>
     <string name="app_management_for_device_id_desc">このアプリが電話番号や個人を特定する情報にアクセスできないようにします</string>
-    <string name="app_management_for_independent_storage">独立したストレージ</string>
-    <string name="app_management_for_independent_storage_desc">アプリのデータを独立して保存し、アプリが一部の外部データにアクセスできないようにします</string>
+    <string name="app_management_for_independent_storage">キャッシュデータを分離する</string>
+    <string name="app_management_for_independent_storage_desc">アプリが独自のファイルとデータにアクセスすることのみを許可します</string>
     <string name="app_management_for_install">アプリのダウンロードをブロックする</string>
     <string name="app_management_for_install_desc">このアプリが他のアプリをダウンロードまたはインストールできないようにします</string>
     <string name="app_management_measures">アプリ管理</string>
     <string name="app_manager_advanced_setting">高度な設定</string>
-    <string name="app_manager_airtel_dlg_msg">ご質問がある場合は、Airtel までお問い合わせください</string>
-    <string name="app_manager_airtel_dlg_title">Airtel によってブロックされました</string>
     <string name="app_manager_allow">許可</string>
     <string name="app_manager_anomaly_analysis">サードパーティのアプリの問題を分析する</string>
     <string name="app_manager_app_ifno_version">アプリバージョン</string>
@@ -365,7 +333,6 @@
     <string name="app_manager_default_open_summary">一部の操作でこのアプリをデフォルトで起動するように選択しました。</string>
     <string name="app_manager_default_open_title">デフォルトの操作を消去</string>
     <string name="app_manager_defaults_setting">デフォルトのアプリ</string>
-    <string name="app_manager_deleted_system_app_title">アンインストールしたシステムアプリ</string>
     <string name="app_manager_details_electric_title">バッテリー</string>
     <string name="app_manager_details_storage_title">ストレージ</string>
     <string name="app_manager_details_title">アプリ情報</string>
@@ -377,7 +344,6 @@
     <string name="app_manager_disabled_by_admin">管理者により無効にされました</string>
     <string name="app_manager_dlg_cancel">キャンセル</string>
     <string name="app_manager_dlg_clear_cache_title">キャッシュを消去しますか？</string>
-    <string name="app_manager_dlg_ok">OK</string>
     <string name="app_manager_enable_text">有効にする</string>
     <string name="app_manager_enabled">有効</string>
     <string name="app_manager_factory_reset">アンインストール</string>
@@ -395,15 +361,12 @@
     <string name="app_manager_have_not_consume">なし</string>
     <string name="app_manager_hide_system_server">システムサービスを隠す</string>
     <string name="app_manager_manage_space">スペースを管理する</string>
-    <string name="app_manager_memory">RAM</string>
     <string name="app_manager_menu_clear_data">データを消去</string>
     <string name="app_manager_mobile_slot">モバイルデータ (SIM %d)</string>
     <string name="app_manager_mobile_slot1">モバイルデータ (SIM 1)</string>
     <string name="app_manager_mobile_slot2">モバイルデータ (SIM 2)</string>
     <string name="app_manager_net_control_title">接続方法</string>
     <string name="app_manager_net_mobile">モバイルデータ</string>
-    <string name="app_manager_net_wifi">Wi-Fi</string>
-    <string name="app_manager_not_allow">許可しない</string>
     <string name="app_manager_open_show_all_apps_immediate">すべての結果を表示</string>
     <string name="app_manager_perm">アクセス許可</string>
     <string name="app_manager_permission_backgroundstart_title">バックグラウンドでの自動起動</string>
@@ -413,7 +376,6 @@
     <string name="app_manager_permission_power_saving_title">バッテリーセーバー</string>
     <string name="app_manager_permission_startself_title">自動起動</string>
     <string name="app_manager_permission_summary_reject">すべて制限</string>
-    <string name="app_manager_power_consume">%.1f%%</string>
     <string name="app_manager_powerkeeper_miui_auto">バッテリーセーバー</string>
     <string name="app_manager_powerkeeper_no_bg">バックグラウンドアクティビティを制限する</string>
     <string name="app_manager_powerkeeper_no_restrict">制限なし</string>
@@ -444,7 +406,6 @@
     <string name="app_manager_tab_manager">管理</string>
     <string name="app_manager_title">アプリを管理</string>
     <string name="app_manager_to_appstore">その他のアプリを探す</string>
-    <string name="app_manager_total_size">合計</string>
     <string name="app_manager_uninstall">アンインストール</string>
     <string name="app_manager_uninstall_button_text">アンインストール</string>
     <string name="app_manager_uninstall_notify_title">使用頻度の低いアプリをアンインストール</string>
@@ -483,13 +444,6 @@
     <string name="app_permission_use_neccesary">必須のアクセス許可</string>
     <string name="app_permission_use_no_neccesary">任意のアクセス許可</string>
     <string name="app_permission_use_title">アクセス許可</string>
-    <string name="app_powerkeeper_config_description">このシステムは、インスタントメッセージ、ナビゲーション、メディア再生に関わるアプリを識別し、重要なバックグラウンドアクティビティを中断から保護するためにカスタマイズされた省電力対策を適用します。</string>
-    <string name="app_powerkeeper_miui_auto">バッテリーセーバー (推奨)</string>
-    <string name="app_powerkeeper_miui_auto_summary">アプリとアクティビティを識別し、重要なプロセスを継続させます。バッテリーセーバーは重要なアプリを選択的に処理します。</string>
-    <string name="app_powerkeeper_no_restrict">制限なし</string>
-    <string name="app_powerkeeper_no_restrict_summary">バッテリーセーバーはアプリのアクティビティを制限しません</string>
-    <string name="app_powerkeeper_restrict_bg">バックグラウンドアプリを制限する</string>
-    <string name="app_powerkeeper_restrict_running">バックグラウンドアクティビティが %d 分間実行された場合はアプリを閉じる</string>
     <string name="app_running_tip_dialog_negative">キャンセル</string>
     <string name="app_running_tip_dialog_positive">終了</string>
     <string name="app_running_tip_dialog_text">このアプリはバックグラウンドで動作しているようです。アプリを終了することで、デバイスを高速化し、消費電力を抑えることができます。</string>
@@ -505,10 +459,8 @@
     <string name="app_usage_recently">最近使用しました</string>
     <string name="app_usage_year">%d年以内</string>
     <string name="app_version">バージョン:</string>
-    <string name="app_wifi">Wi-Fi</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">%sのWeChatキャッシュを消去して、ストレージ容量を解放してください</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">キャッシュの消去を忘れないでください</string>
-    <string name="application_horizontal_mode_title">横向きモード</string>
     <string name="application_item_already_permission">許可済み</string>
     <string name="application_item_disable">制限</string>
     <string name="application_mode_name">アプリのレイアウト</string>
@@ -581,7 +533,6 @@
     <string name="apps_item_scan_risk_summary_installed">インストール済み | リスク</string>
     <string name="apps_item_scan_risk_summary_uninstalled">APK | リスク</string>
     <string name="apps_item_scan_virus_summary_installed">インストール済み | ウイルス</string>
-    <string name="apps_item_scan_virus_summary_uninstalled">APK | ウイルス</string>
     <string name="apps_item_sign_dialog_content">%sの署名はアプリストアのバージョンとは異なります。このアプリを削除して公式バージョンをインストールしますか？注：競合する署名を持つアプリをインストールすると、アプリデータの損失につながる可能性があります。</string>
     <string name="apps_item_sign_dialog_title">公式アプリをインストール</string>
     <string name="apps_item_sign_install_button_text">置き換える</string>
@@ -596,12 +547,10 @@
     <string name="apps_item_virus_cleanup_text">消去</string>
     <string name="apps_item_virus_ignore_text">無視</string>
     <string name="apps_item_virus_summary_installed">インストールしたアプリ</string>
-    <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_list_header_title_sms">メッセージングアプリを確認</string>
     <string name="apps_list_header_title_sms_access">認証コードへのアクセスを制限する</string>
     <string name="ask_create_shortcut">ホーム画面ショートカットを作成しますか？</string>
-    <string name="audio_optimization_summary_new">ゲーム中のイヤホンの音質を最適化し、通話中のノイズを低減します</string>
-    <string name="audio_optimization_summary_v2">ゲームへの没入感を高め、ノイズ低減を最適化する</string>
+    <string name="audio_optimization_summary">会話中にオーディオを強化して周囲の騒音を低減する</string>
     <string name="audio_optimization_title">強化されたオーディオ</string>
     <string name="auto_atsk_condition_battery_level_text_down">バッテリーが%sに達すると</string>
     <string name="auto_atsk_condition_battery_level_text_up">バッテリーが%sまで充電されると</string>
@@ -610,7 +559,6 @@
     <string name="auto_clean_close">自動クリーンアップはオフです</string>
     <string name="auto_data_back_booster">ゲームターボはオフです。通信機能が正常に戻ります。</string>
     <string name="auto_data_booster_suc">ゲームターボはオンです。没入モードに切り替えました。</string>
-    <string name="auto_handle_title">一般</string>
     <string name="auto_import_games">すべてのゲームを1か所に置く</string>
     <string name="auto_send_correcting_msg">空白のままにすると、無料のSMSで自動的に確認されます</string>
     <string name="auto_set_by_brand">データプランの詳細を通信事業者と同期する</string>
@@ -640,8 +588,6 @@
     <string name="auto_task_edit_condition_title">条件を追加</string>
     <string name="auto_task_edit_my_custom_task">タスク名を入力してください</string>
     <string name="auto_task_edit_operation_summary">例：\"機内モードをオンにする\"</string>
-    <string name="auto_task_edit_step1_new">%d.</string>
-    <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">名前</string>
     <string name="auto_task_main_title">自動タスク</string>
     <string name="auto_task_mamange_activity_title">自動タスク</string>
@@ -662,11 +608,9 @@
     <string name="auto_task_notify_task_exit_task">タスクをキャンセル</string>
     <string name="auto_task_operation_airplane_mode">機内モード</string>
     <string name="auto_task_operation_auto_brightness">自動明るさ調整</string>
-    <string name="auto_task_operation_bluetooth">Bluetooth</string>
     <string name="auto_task_operation_brightness">画面の明るさ</string>
     <string name="auto_task_operation_close">オフ</string>
     <string name="auto_task_operation_close_string">%sをオフにする</string>
-    <string name="auto_task_operation_gps">GPS</string>
     <string name="auto_task_operation_memory_clean_lockscreen">メモリを消去</string>
     <string name="auto_task_operation_mobile_data">モバイルデータ</string>
     <string name="auto_task_operation_modify_string">%sを編集</string>
@@ -674,12 +618,8 @@
     <string name="auto_task_operation_no_op">なし</string>
     <string name="auto_task_operation_open">オン</string>
     <string name="auto_task_operation_open_string">%sをオンにする</string>
-    <string name="auto_task_operation_string_comma">、</string>
-    <string name="auto_task_operation_string_etc">等</string>
-    <string name="auto_task_operation_string_split">;</string>
     <string name="auto_task_operation_sync">同期</string>
     <string name="auto_task_operation_vibration">バイブレーション</string>
-    <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_result_summary_text">バッテリーセーバーの自動タスクを設定する</string>
     <string name="autostart_now_tip">"\"%1$s\"が\"%2$s\"を開くのをブロックしました "</string>
     <string name="back_app_name">アプリロックに戻る</string>
@@ -722,10 +662,6 @@
     <string name="battery_health_title_text">バッテリーの健康度</string>
     <string name="battery_health_voltage_text">バッテリーの電圧</string>
     <string name="battery_history_activity_title">履歴</string>
-    <string name="battery_history_days">%1$d日%2$d時間%3$d分%4$d秒</string>
-    <string name="battery_history_hours">%1$d時間%2$d分%3$d秒</string>
-    <string name="battery_history_minutes">%1$d分%2$d秒</string>
-    <string name="battery_history_seconds">%1$d秒</string>
     <string name="battery_low_button_not_open_power_save">今はしない</string>
     <string name="battery_low_button_open_power_save">オンにする</string>
     <string name="battery_low_percent_format_save_mode_closed">現在のバッテリー残量は%s未満です。デバイスを忘れずに充電してください。</string>
@@ -741,11 +677,9 @@
     <string name="battery_stats_phone_signal_label">モバイルネットワーク信号</string>
     <string name="battery_stats_screen_on_label">画面オン</string>
     <string name="battery_stats_wake_lock_label">画面オン</string>
-    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
     <string name="battery_status_good">正常に動作しています</string>
     <string name="battery_status_level_excellent">とても良い</string>
     <string name="battery_status_level_good">良い</string>
-    <string name="battery_status_level_normal">正常</string>
     <string name="battery_status_level_poor">悪い</string>
     <string name="battery_status_overheat">発熱</string>
     <string name="battery_status_unknown">不明なエラー</string>
@@ -867,7 +801,6 @@
     <string name="blur_cross_device_permissions">デバイスの相互接続の許可</string>
     <string name="blur_double_space">セカンド・スペース</string>
     <string name="blur_external_storage">外部ストレージ</string>
-    <string name="blur_key_words_oaid">OAID</string>
     <string name="blur_key_words_permission_records">アプリの動作記録</string>
     <string name="blur_location_off">この機能をオフにすると、特別にアクセス許可を付与したアプリのみがあなたのおおよその位置情報にアクセスできるようになります。</string>
     <string name="blur_location_on">この機能をオンにしてアクセス許可を一度与えると、すべてのアプリがあなたのおおよその位置情報にアクセスできるようになります。</string>
@@ -898,13 +831,8 @@
     <string name="boot_time_day_tomorrow">明日の%1$sにオン</string>
     <string name="bottom_func_guide_default_text">その他の機能</string>
     <string name="bottom_notice_title">上にスワイプしてツールボックスを開く</string>
-    <string name="bottomsheet_action_collapse">ボトムシートを閉じる</string>
-    <string name="bottomsheet_action_expand">ボトムシートを開く</string>
     <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
-    <string name="bottomsheet_drag_handle_clicked">ドラッグ ハンドルをダブルタップしました</string>
-    <string name="bottomsheet_drag_handle_content_description">ドラッグ ハンドル</string>
     <string name="btn_back">戻る</string>
-    <string name="btn_finish_diagnostic">OK</string>
     <string name="btn_start_diagnostic">診断する</string>
     <string name="btn_stop_diagnostic">停止</string>
     <string name="btn_text_already_opened">オン</string>
@@ -946,17 +874,14 @@
     <string name="button_text_forbid_now">禁止</string>
     <string name="button_text_ignore">無視</string>
     <string name="button_text_ignore_alert_title">この警告を無視しますか？</string>
-    <string name="button_text_known">OK</string>
     <string name="button_text_let_me_select">了解</string>
     <string name="button_text_next_step">次へ</string>
     <string name="button_text_next_step_timer">次のステップ (%d)</string>
-    <string name="button_text_once_accept">1回のみ許可</string>
     <string name="button_text_open_now">開く</string>
     <string name="button_text_reject">拒否</string>
     <string name="button_text_trust">このネットワークを信頼する</string>
     <string name="button_text_update_now">アップデート</string>
     <string name="button_to_setting">設定</string>
-    <string name="byteShort">B</string>
     <string name="call_address">地域ブロックリスト</string>
     <string name="call_and_contact">通話と連絡先</string>
     <string name="call_blacklist">着信ブロックリスト</string>
@@ -965,13 +890,6 @@
     <string name="call_delete_all_hint">すべてのブロックした通話を削除しますか？</string>
     <string name="call_delete_hint">この番号からのブロック済み着信をすべて削除しますか？</string>
     <string name="call_delete_title">通話履歴を削除</string>
-    <string name="call_notification_answer_action">応答</string>
-    <string name="call_notification_answer_video_action">ビデオ</string>
-    <string name="call_notification_decline_action">拒否</string>
-    <string name="call_notification_hang_up_action">通話終了</string>
-    <string name="call_notification_incoming_text">着信</string>
-    <string name="call_notification_ongoing_text">通話中</string>
-    <string name="call_notification_screening_text">着信をスクリーニング中</string>
     <string name="call_oversea_block">海外からの着信をブロック</string>
     <string name="call_prefix">接頭番号ブロックリスト</string>
     <string name="call_private">非通知番号からの着信をブロック</string>
@@ -1011,7 +929,6 @@
     <string name="card_main_private_space_summary">セカンド・スペースを使用することは、2つのデバイスを持っているようなものです</string>
     <string name="card_main_private_space_title">セカンド・スペース</string>
     <string name="card_main_sectool_title">ツール</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">ビデオを管理</string>
     <string name="card_main_whatsappclean_title">WhatsApp クリーナー</string>
     <string name="card_main_xspace_action">作成</string>
@@ -1080,36 +997,8 @@
     <string name="cmcc_app_check_dialog_negative">後で</string>
     <string name="cmcc_app_check_dialog_positive">今すぐ再起動</string>
     <string name="cmcc_app_check_dialog_title">システムが修復されました</string>
-    <string name="columbus_ad_flag_text">広告</string>
-    <string name="columbus_reward_style_access">もっと詳しく知る</string>
-    <string name="columbus_reward_style_close_cancel">終了</string>
-    <string name="columbus_reward_style_close_desc">ビデオを見終わると報酬を獲得できます。視聴を続けますか？</string>
-    <string name="columbus_reward_style_speed_confirm">続ける</string>
-    <string name="columbus_skip_ad">スキップ</string>
-    <string name="columbus_skip_ad_time">スキップ (%d)</string>
-    <string name="combine_permission_action_foreground">アプリ使用中に許可する</string>
-    <string name="combine_permission_title">%1$sが次のアクセス許可を求めています</string>
-    <string name="common_google_play_services_enable_button">有効にする</string>
-    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
-    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
-    <string name="common_google_play_services_install_button">インストール</string>
-    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスにはインストールされていません。</string>
-    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
-    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
-    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
-    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
-    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスではサポートされていません。</string>
-    <string name="common_google_play_services_update_button">更新</string>
-    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
-    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
-    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
-    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
-    <string name="common_open_on_phone">スマートフォンで開く</string>
-    <string name="common_signin_button_text">ログイン</string>
-    <string name="common_signin_button_text_long">Googleにログイン</string>
     <string name="commonly_used_func_card_title">よく使う機能</string>
     <string name="commonly_used_func_edit_too_many_func">これ以上アイテムを追加できません</string>
-    <string name="config_restrict_running_warning">続けると、アプリのすべてのバックグラウンドアクティビティが停止され、機能に影響する可能性があります。続けてもよろしいですか？</string>
     <string name="confirmSecondSpacePassword">セカンド・スペースのパスワードを確認</string>
     <string name="confirm_ai_allow_all_permission">すべてのアプリのアクセス許可ステータスを\"自動で決定する\"に変更しますか？</string>
     <string name="confirm_allow_all_permission">すべてのアプリに対しこの機能の使用を許可しますか？</string>
@@ -1125,7 +1014,6 @@
     <string name="confirm_upgrade">オプション</string>
     <string name="connect_internet_by_mobiledata">モバイルデータ接続</string>
     <string name="connect_internet_by_usbshare">USB経由の共有インターネット</string>
-    <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="connected_device_application_flow_permission">アプリのハンドオフ権限</string>
     <string name="connected_device_camera_collaboration_permission">接続されたカメラ権限</string>
     <string name="connected_device_camera_permission">カメラ権限</string>
@@ -1135,13 +1023,9 @@
     <string name="connected_devices_camera">カメラ</string>
     <string name="connected_devices_camera_desc">同じアカウントにサインインしている付近のデバイスにこのデバイスでの写真やビデオの撮影を許可する</string>
     <string name="connected_devices_camera_title">上記のデバイスに、このデバイスでの写真やビデオの撮影を許可しますか？</string>
-    <string name="connected_devices_files">ファイル</string>
-    <string name="connected_devices_files_desc">あなたの Xiaomi アカウントにサインインしている付近のデバイスがこのデバイスのファイルにアクセスすることを許可してください</string>
     <string name="connected_devices_for_camera">%1$s にこのデバイスのカメラの使用を許可しますか？</string>
     <string name="connected_devices_for_camera_desc">写真やビデオの撮影やビデオ通話の発信のため</string>
     <string name="connected_devices_for_empty_view">接続済みのデバイスはありません</string>
-    <string name="connected_devices_for_files">「%1$s」がこのデバイスのファイルにアクセスすることを許可しますか？</string>
-    <string name="connected_devices_for_files_desc">デバイス間のファイルアクセスのため</string>
     <string name="connected_devices_for_notification">%1$s にこのデバイスの通知の表示を許可しますか？</string>
     <string name="connected_devices_for_notification_desc">このデバイスのロック時に他のデバイスでこのデバイスの通知を表示する</string>
     <string name="connected_devices_for_record">%1$s に、このデバイスで録音することを許可しますか？</string>
@@ -1166,7 +1050,6 @@
     <string name="continue_set">続ける</string>
     <string name="convenient_mode">一度にすべてのアプリをロック解除</string>
     <string name="convenient_summary">パスワードを1度入力するとすべてのアプリのロックを解除する</string>
-    <string name="conversation_phone_title">通話ツールボックス</string>
     <string name="conversation_settings_top">"· 全画面表示での音声通話やビデオ通話中に会議ツールバーをスライドさせると、その機能にアクセスできます。
 · 機能の種類と数は、デバイスのモデルによって異なります。"</string>
     <string name="conversation_sider_tips">新しい会議ツールを使用して最高の通話体験を実現</string>
@@ -1174,69 +1057,33 @@
     <string name="conversation_summary_new">音声/ビデオ通話中のビューティや字幕、その他の機能</string>
     <string name="conversation_title">会議ツール</string>
     <string name="copy">コピー</string>
-    <string name="copy_toast_msg">リンクをクリップボードにコピーしました</string>
     <string name="cpu_usage_android_system">Android システム</string>
     <string name="cpu_usage_process_run_time_little_time">1分未満</string>
     <string name="cpu_usage_process_run_time_little_time_new">%d分未満</string>
     <string name="cpu_usage_view_action_btn_text">タップして表示</string>
     <string name="create_gamebooster_destop">ホーム画面ショートカットを正常に作成しました</string>
     <string name="create_shortcut">ゲームターボのホーム画面ショートカットを作成する</string>
-    <string name="cs_close_vt_camera_first_tips">クロスデバイスカメラを使用している間はこの機能は使用できません</string>
     <string name="cs_color_sense">色温度</string>
-    <string name="cs_conversation_record_using">録音中</string>
-    <string name="cs_func_toast_bluetooth_headset">この機能を使用するには、Bluetooth イヤホンを切断してください</string>
     <string name="cs_func_toast_headset">この機能を使用するには、ヘッドセットとの接続を解除してください</string>
     <string name="cs_func_toast_light">この機能を使用するには、フロントカメラに切り替えてください</string>
     <string name="cs_func_toast_pickup">この機能を使用するには、ビデオ通話に切り替えてください</string>
-    <string name="cs_func_unavailable_tips">この機能は通話中に使用してください</string>
-    <string name="cs_gesture_effect_title">ハンドジェスチャーを認識</string>
-    <string name="cs_gesture_effect_title_hint">対応ジェスチャー</string>
-    <string name="cs_gesture_effect_title_summry">ハンドジェスチャーを使用してビデオ通話中にリアクションエフェクトを追加する</string>
-    <string name="cs_light_enhance_physical_options">色温度</string>
-    <string name="cs_light_enhance_physical_title">明るさ</string>
-    <string name="cs_open_camera_first_tips">この機能を使用するにはカメラを開いてください</string>
     <string name="cs_pickup_denoise_desc">スピーカーやイヤホンの使用中に入ってくるオーディオのノイズを減らします</string>
     <string name="cs_pickup_denoise_title">ノイズ低減</string>
-    <string name="cs_pickup_enhance">強化</string>
     <string name="cs_pickup_multi_desc">%d度オーディオピックアップ</string>
     <string name="cs_pickup_multi_title">複数の参加者</string>
-    <string name="cs_pickup_private">プライベート</string>
-    <string name="cs_pickup_private_desc">特定のユーザーからの音声のみを拾う</string>
     <string name="cs_pickup_single_desc">画面前方からの音のみを拾う</string>
     <string name="cs_pickup_single_title">1名の参加者</string>
-    <string name="cs_pickup_standard">標準</string>
-    <string name="cs_pickup_standard_desc">%1$d 度集音</string>
     <string name="cs_pickup_surround_desc">AIを使用してノイズを低減し、鮮明なサウンドを実現</string>
     <string name="cs_pickup_surround_title">マイクのノイズ低減</string>
-    <string name="cs_pickup_vioce_print_guide_dialog_desc">通話を終了し、指示に従って開始してください。</string>
-    <string name="cs_pickup_vioce_print_guide_dialog_title">1 人の音だけを拾うには、まずその人の声紋を録音してください。</string>
-    <string name="cs_pickup_vioce_print_in_private_tips">ノイズ低減を「プライベート」に設定するには、まず声紋を録音してください。</string>
-    <string name="cs_pickup_vioce_print_private_dialog_title">声紋を録音</string>
-    <string name="cs_pickup_vioce_print_unsupport_tips">「単一参加者」を選択する前に声紋を録音してください</string>
-    <string name="cs_pickup_vioce_print_unsupport_toast">外部デバイスを取り外し、もう一度お試しください</string>
-    <string name="cs_pickup_voice_print_desc">1 人の音だけを拾う</string>
-    <string name="cs_privacy_camera_global_settings_title">通話プライバシー</string>
-    <string name="cs_record_voice_title">録音</string>
     <string name="cs_screen_translation_title">画面翻訳</string>
-    <string name="cs_simultaneous_interpretation_title">同時通訳</string>
     <string name="cs_title_pickup">ノイズ低減</string>
     <string name="cs_title_smart_subtitle">字幕起こし</string>
     <string name="cs_title_ultraclear">ウルトラHDモード</string>
-    <string name="cs_tool_box_max_screen_guide_case_1">新しい通話ツールボックスで同時通訳やその他の電話会議ツールをお試しください</string>
-    <string name="cs_tool_box_max_screen_guide_case_2">新しい通話ツールボックスでさまざまな電話会議機能をお試しください</string>
-    <string name="cs_tool_box_phone_guide_case_1">新しい通話ツールボックスで同時通訳やその他の機能をお試しください</string>
-    <string name="cs_tool_box_phone_guide_case_2">新しい通話ツールボックスのさまざまな機能をお試しください</string>
-    <string name="cs_voice_print">声紋を録音</string>
-    <string name="cs_voice_search">声紋</string>
-    <string name="cs_vt_camera_title">クロスデバイスカメラ</string>
-    <string name="cs_vt_camera_toast_case1">現在のアプリでカメラを開く</string>
-    <string name="cs_vt_camera_toast_case2">付近に互換性のあるデバイスがありません</string>
     <string name="cta_agree_desc">当社のサービスを利用できるようにするには、このアプリにインターネットへの接続を許可し、上記のアクセス許可を付与してください。</string>
     <string name="cta_close_dialog_cancel">キャンセル</string>
     <string name="cta_close_dialog_content">セキュリティのインターネットおよび位置情報へのアクセスを制限すると、地震警報の受信、ウイルス定義やブロックリスト情報のアップデートなどができなくなります。デバイスの安全性が低下します。制限してもよろしいですか？</string>
     <string name="cta_close_dialog_ok">制限</string>
     <string name="cta_close_dialog_title">アクセスの制限</string>
-    <string name="cta_combine_permission_title">アクセス許可</string>
     <string name="cta_dialog_negative">終了</string>
     <string name="cta_dialog_positive">同意</string>
     <string name="cta_dialog_title">インターネット接続</string>
@@ -1290,9 +1137,6 @@
     <string name="data_usage_warning_title_notify">データの制限を超えました</string>
     <string name="databooster_tips_message">オンにした後、データカード以外のすべてのSIMカードを制限します。ゲーム中にエラーが発生した場合、この機能をオフにしてください。</string>
     <string name="databooster_tips_title">注意</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">中国暦</string>
     <string name="date_time_picker_dialog_title">日付と時刻を設定</string>
     <string name="day_overflow_tips">1日のデータ使用量の警告</string>
@@ -1315,31 +1159,14 @@
     <string name="delete_from_manual_item_white_list">リストからの削除</string>
     <string name="delete_input">削除</string>
     <string name="deleted_apps">削除したアプリ</string>
-    <string name="desc_share_uid_sec" formatted="false">%1s。%2s</string>
     <string name="descx_quick_scan_cancel">スキャンはキャンセルされました</string>
     <string name="descx_quick_scan_preparation">お待ちください…</string>
     <string name="detail_app_button">アプリ情報</string>
     <string name="details_subtitle">使用状況の詳細</string>
-    <string name="device_id">パーソナライズされたおすすめ用のデバイスID</string>
-    <string name="device_id_app_manager_dialog_continue">停止しない</string>
-    <string name="device_id_app_manager_dialog_message">一部のアプリにアクティビティの追跡を許可しました。今すぐ追跡を停止できます。</string>
-    <string name="device_id_app_manager_dialog_stop">停止</string>
-    <string name="device_id_app_manager_switch_sub_title">この機能がオフの場合、すべての新しい追跡リクエストは自動的に拒否されます</string>
-    <string name="device_id_app_manager_switch_title">アプリによる追跡のリクエストを許可</string>
-    <string name="device_id_app_manager_tips">アプリは追跡識別子を使用して様々なアプリやウェブサイトでのアクティビティを追跡し、パーソナライズド広告のおすすめやその他の機能を提供できます</string>
-    <string name="device_id_app_manager_title">アプリの追跡を管理</string>
-    <string name="device_id_manager_tips">システムは、プライバシーを保護するために、デバイス識別子の代わりにリセット可能な追跡識別子 (OAID) をアプリに提供します。</string>
-    <string name="device_id_manager_title">追跡識別子を管理</string>
-    <string name="device_id_reset">追跡識別子をリセット</string>
-    <string name="device_id_reset_msg">リセット後、このデバイスに新しい識別子が関連付けられます。</string>
-    <string name="device_id_str">現在の追跡識別子: %s</string>
     <string name="device_manager_apply_step_1">このアプリのデバイス管理者をアクティブ化しますか？</string>
     <string name="device_manager_apply_step_2">"このアプリのデバイス管理者をアクティブ化すると、個人データの漏洩につながる可能性があります。
 デバイスのすべてのデータが消去され、ロック画面パスワードがリセットされる可能性があります。"</string>
     <string name="device_manager_apply_step_3">続行する前に、すべての可能性のあるリスクについて理解していることを確認してください。 今すぐこのアプリのデバイス管理者をアクティブ化しますか？</string>
-    <string name="device_oaid">仮想IDを管理</string>
-    <string name="device_oaid_desc">一意の識別子の代わりに、システムは仮想ID (OAID) をインストールされたアプリに提供します。アプリがユーザーの行動や好みを追跡することを防ぎ、プライバシーを保護します。</string>
-    <string name="device_oaid_title">仮想ID</string>
     <string name="dialog_app_roaming_message">%1$sはローミング時にモバイルデータを使用できません。ローミング中は、例外に追加したアプリだけがモバイルデータを使用できます。</string>
     <string name="dialog_app_roaming_title">%1$sはデータローミングを使用できません</string>
     <string name="dialog_change_package_type_summary">データプランの種類を変更すると、すべてのデータ使用量の設定（データ上限など）がデフォルトにリセットされます。今すぐデータプランの種類を変更しますか？</string>
@@ -1440,15 +1267,11 @@
     <string name="downloading">ダウンロード中</string>
     <string name="doze_optimization_summary">タッチレスポンスと感度を向上させる</string>
     <string name="doze_optimization_title">最適化されたタッチコントロール</string>
-    <string name="dual_setting_simcard1">SIM 1</string>
-    <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dynamic_performance_optimization_summary">ゲーム中に解像度を動的に調整する</string>
     <string name="dynamic_performance_optimization_title">ダイナミックパフォーマンス</string>
     <string name="early_morning">早朝</string>
     <string name="edit_phone_num">SIM電話番号を編集</string>
-    <string name="ellipsis">…</string>
     <string name="email">メール</string>
-    <string name="empty" />
     <string name="empty_app">アプリはありません</string>
     <string name="empty_title_auto_start_list">自動起動できるアプリはありません。</string>
     <string name="empty_title_garbage_virus_white_list">リストの項目を長押しすると次回のスキャンではスキップします</string>
@@ -1461,7 +1284,6 @@
     <string name="enable_network">最初にネットワークを有効にしてください</string>
     <string name="eras_ad">西暦</string>
     <string name="eras_bc">紀元前</string>
-    <string name="error_icon_content_description">エラー</string>
     <string name="evening">夕方</string>
     <string name="every_day">毎日</string>
     <string name="examination_score_100">すべて良好です</string>
@@ -1477,12 +1299,12 @@
     <string name="exit">終了</string>
     <string name="exit_dialog_exit">終了</string>
     <string name="exit_dialog_garbage_clean_message">ゴミの量が%sを超えています。クリーンアップしますか？</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>クリーナーは、&lt;font color=#0099ff>%s&lt;/font>のストレージ容量を解放することができます。今すぐクリーンアップしますか？</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>クリーナーは、&lt;font color=#0099ff>%s&lt;/font>のストレージ容量を解放することができます。今すぐクリーンアップしますか？&lt;/Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">クリーンアップ</string>
     <string name="exit_dialog_garbage_clean_title">ストレージ容量を解放</string>
     <string name="exit_dialog_homepage_optimise_message">デバイスのパフォーマンススコアは80点未満です。今すぐ最適化しますか？</string>
     <string name="exit_dialog_release_memory_positive_button">閉じる</string>
-    <string name="exit_dialog_release_memory_title_new"><Data>デバイスを&lt;font color=#0099ff>%s&lt;/font>高速化</Data></string>
+    <string name="exit_dialog_release_memory_title_new">&lt;Data>デバイスを&lt;font color=#0099ff>%s&lt;/font>高速化&lt;/Data></string>
     <string name="exit_dialog_release_storage_message">デバイスのストレージの80%以上が使用されています。使用しないアプリをアンインストールして容量を解放することをお勧めします。</string>
     <string name="exit_dialog_release_storage_message_new">デバイスのストレージの%s以上が使用されています。使用しないアプリをアンインストールして容量を解放することをお勧めします。</string>
     <string name="exit_dialog_release_storage_positive_button">容量を解放</string>
@@ -1523,18 +1345,12 @@
     <string name="exo_download_paused_for_network">ダウンロード停止: ネットワーク接続中</string>
     <string name="exo_download_paused_for_wifi">ダウンロード停止: Wi-Fi 接続中</string>
     <string name="exo_download_removing">ダウンロードを削除しています</string>
-    <string name="exo_item_list">%1$s、%2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
-    <string name="exo_track_mono">モノラル</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">代替</string>
     <string name="exo_track_role_closed_captions">字幕</string>
     <string name="exo_track_role_commentary">解説</string>
     <string name="exo_track_role_supplementary">補足</string>
-    <string name="exo_track_selection_auto">自動</string>
     <string name="exo_track_selection_none">なし</string>
     <string name="exo_track_selection_title_audio">音声</string>
-    <string name="exo_track_selection_title_text">文字</string>
     <string name="exo_track_selection_title_video">動画</string>
     <string name="exo_track_stereo">ステレオ</string>
     <string name="exo_track_surround">サラウンド サウンド</string>
@@ -1560,10 +1376,6 @@
     <string name="face_unlock_verity_dialog_summary">顔データを認証してください</string>
     <string name="face_unlock_verity_dialog_title_failed">認識できませんでした</string>
     <string name="face_unlock_verity_dialog_title_succeed">正常に認証されました</string>
-    <string name="fallback_menu_item_copy_link">リンクをコピー</string>
-    <string name="fallback_menu_item_open_in_browser">ブラウザで開く</string>
-    <string name="fallback_menu_item_share_link">リンクの共有</string>
-    <string name="fcm_fallback_notification_channel_label">その他</string>
     <string name="file_confirm_start_activity">%sは、ギャラリーやソーシャルメディアアプリへのアクセスを許可されていません。このアプリは、このデバイスに保存されているファイルにアクセスしてアイテムを共有しようとしています。許可しますか？</string>
     <string name="finger_remind_message">まず指紋を追加してください。タップして設定を開きます。</string>
     <string name="fingerprint_identify_msg">指紋認証をオンにする</string>
@@ -1575,8 +1387,7 @@
     <string name="fingerprint_verify_failed">指紋を認証できませんでした</string>
     <string name="fingerprint_verify_succeed">指紋が認証されました</string>
     <string name="fingerprint_verify_try_agin">指紋を読み取れませんでした。もう一度お試しください。</string>
-    <string name="fingerprint_verify_try_error">失敗回数が多すぎます。再試行する前にデバイスをロックしてから、ロックを解除してください。</string>
-    <string name="firewall_activity_lable">ネットワークアクセス</string>
+    <string name="firewall_activity_lable">アプリによるデータ使用を制限する</string>
     <string name="firewall_allow_all">すべてのアプリに以下の方法による接続を許可する</string>
     <string name="firewall_allow_data">モバイルデータの使用を許可する</string>
     <string name="firewall_allow_network">許可する</string>
@@ -1600,9 +1411,8 @@
     <string name="firewall_statement_no_more">今後通知しない</string>
     <string name="firewall_statement_ok">了解</string>
     <string name="firewall_statement_title">注意</string>
-    <string name="firewall_system_title">システムアプリのネットワークアクセス</string>
+    <string name="firewall_system_title">システムアプリ接続</string>
     <string name="firewall_temp_rule_reason">%2$sは%1$sのインターネット接続を制限しました​</string>
-    <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">このスイッチがオフになっていると、インストールしたアプリはWi-Fiを使用してインターネットに接続できません。</string>
     <string name="first_aid_activity_title">診断</string>
     <string name="first_aid_card_airplane_button">オフにする</string>
@@ -1629,8 +1439,6 @@
     <string name="first_aid_card_wifi_or_flow_button">接続</string>
     <string name="first_aid_card_wifi_or_flow_summary">Wi-Fiまたはモバイルデータをオンにして接続する</string>
     <string name="first_aid_card_wifi_or_flow_title">インターネットに接続できません</string>
-    <string name="first_aid_dialog_ignore_message">%s。この項目を無視して、今後のチェックから除外することができます。無視しますか？</string>
-    <string name="first_aid_dialog_ignore_title">項目を無視</string>
     <string name="first_aid_dialog_msg_stop_scan">今すぐスキャンを停止しますか？</string>
     <string name="first_aid_dialog_title_stop_scan">スキャンを停止</string>
     <string name="first_aid_exception_sub_title">これらのアイテムはスキャンの際に無視されます</string>
@@ -1661,58 +1469,17 @@
     <string name="fixed_cellular_data_quota_monthly">毎月のデータ上限</string>
     <string name="fixed_package_tips">上限に達すると追加料金が発生します</string>
     <string name="fixed_traffic_quota">データ上限 (必須)</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d日</string>
-    <string name="fmt_date_long_month">M月</string>
     <string name="fmt_date_long_month_day">M月d日</string>
-    <string name="fmt_date_long_year_month">yyyy年M月</string>
     <string name="fmt_date_long_year_month_day">yyyy年M月d日</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">yyyy/M</string>
     <string name="fmt_date_numeric_year_month_day">yyyy/M/d</string>
-    <string name="fmt_date_short_month">M月</string>
     <string name="fmt_date_short_month_day">M月d日</string>
-    <string name="fmt_date_short_year_month">yyyy年M月</string>
     <string name="fmt_date_short_year_month_day">yyyy年M月d日</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">yyyy年</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h'時'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">a h:mm</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
-    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H'時'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ミリ秒'"</string>
-    <string name="fmt_time_minute">"m'分'"</string>
-    <string name="fmt_time_minute_second">"m'分's'秒'"</string>
-    <string name="fmt_time_minute_second_millis">"m'分's.S'秒'"</string>
-    <string name="fmt_time_second">"s'秒'"</string>
-    <string name="fmt_time_second_millis">"s.S'秒'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">D, EEEE</string>
-    <string name="fmt_weekday_date_time">D, W T</string>
-    <string name="fmt_weekday_date_time_timezone">D, W T z</string>
-    <string name="fmt_weekday_date_timezone">D, W z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="fod_authentication_shift_button">キャンセル</string>
     <string name="fod_button_finger">指紋を使用</string>
     <string name="fod_button_password">パスワードを入力</string>
@@ -1795,49 +1562,32 @@
     <string name="game_manual_record_setting_setting">設定</string>
     <string name="game_manual_record_setting_title">キーモーメント</string>
     <string name="game_more_improve">バックグラウンドアクティビティとダウンロード速度を制限し、バッテリーと帯域幅を節約し、ゲームプレイをスムーズにする</string>
-    <string name="game_performance_wild_mode">Wild Boost</string>
+    <string name="game_performance_wild_mode">究極モード</string>
     <string name="game_performance_wild_mode_tips">"オンにするとデバイスのパフォーマンスが向上します
 (デバイスが発熱し、消費電力が増加します)"</string>
     <string name="game_setting">ゲーム設定</string>
     <string name="game_video_net_data">モバイルデータ</string>
     <string name="game_video_network_eror">ネットワークに接続できませんでした。ネットワーク設定を確認してから、もう一度お試しください。</string>
     <string name="game_wid_viewpoint_buttom">少し休憩しましょう。</string>
-    <string name="gamebooster_confirm_dialog_negative_btn">同意しない</string>
-    <string name="gamebooster_confirm_dialog_positive_btn">同意</string>
-    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Privacy Policy&lt;/a></Data></string>
-    <string name="gamebooster_confirm_dialog_title">プライバシーポリシーに同意</string>
     <string name="gamebooster_dialog_recover">更新</string>
     <string name="gamebooster_dialog_start_booster">開始</string>
-    <string name="gamebooster_dialog_start_booster_new">ブースト</string>
     <string name="gamebooster_lowbattery_notification_summary">電源が切れる前にデバイスを充電してください。</string>
     <string name="gamebooster_main_activity_back">戻る</string>
     <string name="gamebooster_network_dialog_cn_message">セキュリティアプリがインターネットへの接続や位置情報へのアクセスを許可されていない場合、ゲームターボを使用することはできません。今すぐ許可しますか？</string>
     <string name="gamebooster_network_dialog_message">ゲームターボのすべての機能を使用するために、セキュリティにネットワークへの接続を許可しますか？</string>
     <string name="gamebooster_network_dialog_title">一部の機能が利用できません</string>
     <string name="gamebooster_push_expiring_soon_button">更新</string>
-    <string name="gamebooster_push_expiring_soon_title">ゲームターボ</string>
-    <string name="gamebox_ai_accelerate">モバイルデータ AI ブースト</string>
-    <string name="gamebox_ai_accelerate_description">ネットワーク環境を分析し、モバイルネットワーク接続速度を向上させてモバイルデータを節約します</string>
     <string name="gamebox_ai_subtitle">AI 字幕</string>
     <string name="gamebox_app_not_find">まず、アプリをインストールしてください。</string>
     <string name="gamebox_brightness">明るさ</string>
     <string name="gamebox_browser_not_find">まず、Mi ブラウザーをインストールしてください</string>
     <string name="gamebox_bullet_chat">画面上のコメント</string>
-    <string name="gamebox_cellular_network">セルラーネットワークを最適化</string>
-    <string name="gamebox_cellular_network_description">ゲームの遅延に基づいて最適なネットワークパスを自動的に選択します</string>
     <string name="gamebox_collimator">照準器</string>
     <string name="gamebox_display_1">なし</string>
     <string name="gamebox_display_2">彩度調整</string>
     <string name="gamebox_display_3">明度調整</string>
     <string name="gamebox_display_4">明るさと彩度の調整</string>
-    <string name="gamebox_display_5">HDR</string>
     <string name="gamebox_display_set">視覚的な機能強化：</string>
-    <string name="gamebox_dnd">DND</string>
-    <string name="gamebox_filter_alpha_tip">外部音取り込み</string>
-    <string name="gamebox_filter_dark_conter">ビネット</string>
-    <string name="gamebox_filter_tip">選択したゲーム内フィルターはプレイ開始時に適用されます</string>
-    <string name="gamebox_filter_toast_apply">プレイを開始するとフィルターが適用されます</string>
-    <string name="gamebox_filter_toast_open">フィルター (%1$s) を適用中</string>
     <string name="gamebox_func_antimsg_close">フローティング通知は現在許可されています</string>
     <string name="gamebox_func_antimsg_open">フローティング通知は現在制限されています</string>
     <string name="gamebox_func_immersion_close">没入モードがオフになりました</string>
@@ -1848,19 +1598,15 @@
     <string name="gamebox_func_wlan_open">Wi-Fiはオンになっています</string>
     <string name="gamebox_game_center_app_not_find">まず、ゲームをインストールしてください</string>
     <string name="gamebox_hangup">画面をオフにする</string>
-    <string name="gamebox_hangup_new">画面をオフにする</string>
     <string name="gamebox_hangup_tips_content">この機能を使用すると、画面をオフにしても、ゲームをバックグラウンドで実行し続けることができます。デバイスのロックを解除すると、この機能は自動的にオフになります。</string>
     <string name="gamebox_hangup_tips_title">画面をオフにする</string>
     <string name="gamebox_immersion">没入モード</string>
     <string name="gamebox_immersion_tips_content">没入モードでは、モバイルデータ接続を除くすべてのSIMカード機能が制限されます。着信よって中断されることも、不在着信に関する通知を受信することもありません。没入モードがオフになると、すべてのSIMカード機能が復元されます。没入モードをオンにしますか？</string>
     <string name="gamebox_immersion_tips_title">注意</string>
     <string name="gamebox_immerson_open">没入モードをオンにしています。ネットワークを切り替えないでください…</string>
-    <string name="gamebox_macro">コンボ</string>
     <string name="gamebox_manual_record">録画</string>
     <string name="gamebox_mem_clean">メモリを消去</string>
-    <string name="gamebox_mem_filter">ゲームフィルター</string>
     <string name="gamebox_milink">キャスト</string>
-    <string name="gamebox_net_optimize_description">WLAN の遅延とジッターを軽減します。Xiaomi または Redmi のルーターでは特別なスピードブーストモードも利用できます。</string>
     <string name="gamebox_positive_button_text">OK (%1$d秒)</string>
     <string name="gamebox_qq_not_find">QQをインストールしてからもう一度お試しください。</string>
     <string name="gamebox_recent_task_expand_fail">ショートカットで動作するアプリがインストールされていません</string>
@@ -1873,13 +1619,11 @@
     <string name="gamebox_type_gesture">スワイプして表示</string>
     <string name="gamebox_voicechanger">ボイスチェンジャー</string>
     <string name="gamebox_wechat_not_find">WeChatをインストールしてからもう一度お試しください。</string>
-    <string name="gamebox_wifi">Wi-Fi</string>
     <string name="gamecenter_install_fail">インストールできませんでした</string>
     <string name="gamecenter_install_sucessfull">正常にインストールされました</string>
     <string name="gateway_exception_summary">ルーターを確認して、もう一度お試しください。</string>
     <string name="gateway_exception_summary2">サーバーに接続できません</string>
     <string name="gateway_exception_title">テストルータ</string>
-    <string name="gb_ad_game_size">MB</string>
     <string name="gb_add_game_hint">アプリのリストからアイテムを追加します</string>
     <string name="gb_add_game_loading_tips">お待ちください…</string>
     <string name="gb_adv_touch_adv_title">クラシックモード (デフォルト)</string>
@@ -1907,26 +1651,16 @@
     <string name="gb_advance_settings_reset_dialog_content">今すぐデフォルトの設定に戻しますか？</string>
     <string name="gb_advance_settings_reset_dialog_title">デフォルトの設定</string>
     <string name="gb_advance_settings_screen_display">ディスプレイ</string>
-    <string name="gb_advance_settings_screen_display_style_summary">コントラストを強調し、ビジュアルを最適化することで、ディテールをより鮮明に見せる</string>
-    <string name="gb_advance_settings_screen_display_summary">コントラストを強調し、ビジュアルを最適化することで、ディテールをより鮮明に見せる</string>
     <string name="gb_advance_settings_screen_hdr">強化されたビジュアル</string>
-    <string name="gb_advance_settings_screen_hdr_gear1">オリジナル</string>
     <string name="gb_advance_settings_screen_hdr_gear2">中</string>
     <string name="gb_advance_settings_screen_hdr_gear3">強</string>
     <string name="gb_advance_settings_screen_hdr_gear4">極度</string>
-    <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
-    <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">ゲームのコントラストを上げて細部を強調する</string>
-    <string name="gb_advance_settings_screen_show_enhancement">ビジュアルの強化</string>
-    <string name="gb_advance_settings_screen_show_enhancement_summary">滑らかさと流動性が向上したディスプレイの動き</string>
-    <string name="gb_advance_settings_screen_super_picture_quality">超高画質</string>
-    <string name="gb_advance_settings_screen_super_picture_quality_summary">解像度とフレームレートを向上させ、より滑らかなビジュアルを実現</string>
     <string name="gb_advance_settings_touch">タッチコントロール</string>
     <string name="gb_advance_settings_vibration_4d">4Dバイブレーション</string>
     <string name="gb_advance_settings_vibration_4d_summary">ゲームで発砲した時に振動する</string>
     <string name="gb_advance_settings_vibration_4d_summary2">ゲームで射殺された時に振動する</string>
     <string name="gb_all_hight_display">高リフレッシュレート</string>
-    <string name="gb_all_hight_display_sub_title">120 Hz for all scenarios</string>
     <string name="gb_already_in_game_list_tips">すでに追加済みのゲーム内にあるため、追加できません。</string>
     <string name="gb_already_in_video_list_tips">すでに追加済みのビデオアプリ内にあるため、追加できません</string>
     <string name="gb_application_not_find">まだ何もありません</string>
@@ -1934,15 +1668,9 @@
     <string name="gb_audition_play_instruction">イヤホンを使用すると効果的です</string>
     <string name="gb_award_noti_message">ゲームターボでGame for Peaceのバックグラウンドでのアップデートをオンにして報酬を獲得</string>
     <string name="gb_award_noti_title">Game for Peaceの報酬はこちら！</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a></Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>システム全体で究極モードがオンになっている場合、ゲームターボでバランスモードに切り替えることはできません。セキュリティでバッテリー設定を変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a></Data></string>
-    <string name="gb_bar_high">高</string>
-    <string name="gb_bar_low">低</string>
-    <string name="gb_bar_mid">中</string>
     <string name="gb_barrage_app_manger">アプリを管理</string>
-    <string name="gb_barrage_chat_desc">きっと素晴らしいことが起こる。私たちはいつだってそう信じている</string>
+    <string name="gb_barrage_chat_desc">きっと素晴らしいことが起きると常に信じている</string>
     <string name="gb_barrage_chat_pre_desc">プレビュー</string>
-    <string name="gb_barrage_chat_text_color">色</string>
     <string name="gb_barrage_chat_text_size">文字サイズ</string>
     <string name="gb_barrage_chat_text_size_big">大</string>
     <string name="gb_barrage_chat_text_size_small">小</string>
@@ -1955,16 +1683,13 @@
     <string name="gb_beauty_cold_light">残量低下</string>
     <string name="gb_beauty_face">ビューティ</string>
     <string name="gb_beauty_light">フィルライト</string>
-    <string name="gb_beauty_nature_light">ナチュラル</string>
     <string name="gb_beauty_warm_light">暖色</string>
-    <string name="gb_collimator_color">色</string>
     <string name="gb_collimator_size">サイズ</string>
     <string name="gb_collimator_style">種類</string>
     <string name="gb_collimator_toast">照準器があれば、命中精度が向上します</string>
     <string name="gb_cooler_device_toast">"Xiaomi Gaming Cooler
 によって強化された視覚体験"</string>
     <string name="gb_create_icon_summary">ホーム画面ショートカットを作成する</string>
-    <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">応答</string>
     <string name="gb_description_image_button_reject">拒否</string>
     <string name="gb_description_image_button_video_answer">ビデオ通話</string>
@@ -1999,7 +1724,6 @@
     <string name="gb_first_window_handsfree_title">ハンズフリー通話</string>
     <string name="gb_first_window_start">プレイを開始</string>
     <string name="gb_first_window_summary">システムレベルで速度とパフォーマンスを向上させる</string>
-    <string name="gb_first_window_title">ゲームターボ</string>
     <string name="gb_game_end_toast">ゲームのキーモーメントを振り返る</string>
     <string name="gb_game_fill_desc">一部コンテンツに歪みが生じる場合があります</string>
     <string name="gb_game_macro_bubble_tips">コンボを試す</string>
@@ -2015,8 +1739,6 @@
     <string name="gb_game_mode_fill">画面を埋める</string>
     <string name="gb_game_mode_fill_type">画面を埋める</string>
     <string name="gb_game_mode_new">ゲームのレイアウト</string>
-    <string name="gb_game_mode_ratio">元の比率</string>
-    <string name="gb_game_mode_ratio_type">元の比率</string>
     <string name="gb_game_mode_recommend">" (推奨)"</string>
     <string name="gb_game_mode_search">アプリを検索</string>
     <string name="gb_game_ratio_bottom">下</string>
@@ -2036,7 +1758,6 @@
     <string name="gb_game_video_record_finish_tips">手動で録画したビデオをゲームターボに保存しました</string>
     <string name="gb_game_video_save">保存</string>
     <string name="gb_game_video_save_tip">正常に保存されました</string>
-    <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">AIを使用して録画</string>
     <string name="gb_game_video_type_manual">手動</string>
     <string name="gb_game_video_type_manual_record">手動で録画</string>
@@ -2049,21 +1770,16 @@
     <string name="gb_have_signed">今日はチェックインしました</string>
     <string name="gb_manual_record_dialog_del_video_message">選択したビデオを完全に削除しますか？</string>
     <string name="gb_manual_video_record_title">記録</string>
-    <string name="gb_margin_restrain">エッジでの誤タッチを無視</string>
-    <string name="gb_margin_restrain_description">デバイスの端に近い部分は、誤ってタッチしても反応しにくくなります</string>
-    <string name="gb_margin_restrain_seekbar">誤タッチエリア</string>
     <string name="gb_msg_completely_shielded">メッセージを隠す</string>
     <string name="gb_msg_completely_shielded_summary">隠す</string>
     <string name="gb_msg_not_shielded_summary">表示</string>
     <string name="gb_msg_quickly_answer">クイック返信を許可</string>
     <string name="gb_msg_quickly_answer_summary">クイック返信</string>
     <string name="gb_msg_transparent_dispaly">透明な背景の通知</string>
-    <string name="gb_msg_transparent_dispaly_summary">透明</string>
     <string name="gb_network_status_bad">接続エラーが発生しました。</string>
     <string name="gb_new_feature">新しい機能</string>
-    <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
     <string name="gb_operat_frequently">操作回数が多すぎます</string>
-    <string name="gb_performace_guide_disable_desc"><Data>システム全体のパフォーマンスモードがオンのとき、ゲームターボではバランスモードに切り替えることができません。バッテリーの設定は、セキュリティで変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a></Data></string>
+    <string name="gb_performace_guide_disable_desc">&lt;Data>システム全体のパフォーマンスモードがオンのとき、ゲームターボではバランスモードに切り替えることができません。バッテリーの設定は、セキュリティで変更できます。&lt;br>&lt;a href=\"#\">セキュリティを開く&lt;/a>&lt;/Data></string>
     <string name="gb_performace_switch_toast">パフォーマンスモードに切り替えました。デバイスが発熱し、より多くの電力を消費する可能性があります。</string>
     <string name="gb_performace_tips_button">切り替える</string>
     <string name="gb_performace_tips_title">より快適な利用体験を得るにはパフォーマンスモードに切り替える</string>
@@ -2080,11 +1796,10 @@
     <string name="gb_predownload_dialog_cancel">今はしない</string>
     <string name="gb_predownload_dialog_checked">今後表示しない</string>
     <string name="gb_predownload_dialog_confirm">オンにする</string>
-    <string name="gb_predownload_dialog_message_china"><Data>このゲームのアップデートコンテンツは、WLANに接続して画面をオフにすると、自動的にこのデバイスにダウンロードされます。そのため、新バージョンがリリースされるとすぐに利用を開始できるようになります。&lt;br>&lt;br>この機能を使用する前に、&lt;a href=\"%1$s\">バックグラウンドでのアップデートに関する声明&lt;/a>を読んで同意してください。</Data></string>
+    <string name="gb_predownload_dialog_message_china">&lt;Data>このゲームのアップデートコンテンツは、WLANに接続して画面をオフにすると、自動的にこのデバイスにダウンロードされます。そのため、新バージョンがリリースされるとすぐに利用を開始できるようになります。&lt;br>&lt;br>この機能を使用する前に、&lt;a href=\"%1$s\">バックグラウンドでのアップデートに関する声明&lt;/a>を読んで同意してください。&lt;/Data></string>
     <string name="gb_predownload_dialog_title">バックグラウンドでのアップデートが利用可能になりました</string>
     <string name="gb_predownload_message_new">デバイス未使用時に対応するゲームを自動的にアップデートする</string>
     <string name="gb_predownload_noti_message">%2$1.2fGBのアップデートコンテンツがすでにこのデバイスに保存されています。新しいバージョンがリリースされたら、すぐに使用することができます。</string>
-    <string name="gb_predownload_noti_small_size_message">%2$1.2f MB の新しいリソースがダウンロードされました。新しいバージョンがリリースされるとすぐに使用できるようになります。</string>
     <string name="gb_predownload_noti_title">バックグラウンドで%sが正常にアップデートされました</string>
     <string name="gb_predownload_receive">報酬を獲得</string>
     <string name="gb_predownload_receive_error">ネットワークエラーが発生しました。もう一度お試しください。</string>
@@ -2092,8 +1807,6 @@
     <string name="gb_predownload_receive_tips">バックグラウンドでのアップデートをオンにすると報酬を獲得できます</string>
     <string name="gb_predownload_receiving">受信中…</string>
     <string name="gb_predownload_title">バックグラウンドでのアップデート</string>
-    <string name="gb_setting_dock_toast">フロントカメラアシスタント機能が通話ツールボックスで利用可能になりました</string>
-    <string name="gb_setting_dock_toast_2">フロントカメラアシスタント機能が通話ツールボックスで利用可能になりました</string>
     <string name="gb_shortcut_pref_title">ホーム画面ショートカット</string>
     <string name="gb_shoulder_guide_message1">[L]を任意の機能位置に移動させると、ポップアップトリガーで起動できます</string>
     <string name="gb_shoulder_guide_message2">ボタンを押すと操作[1]が起動します。ボタンを離すと操作[2]が起動します。</string>
@@ -2112,7 +1825,6 @@
     <string name="gb_shoulder_key_guide_tips">ポップアップトリガーを設定すると、プロ並みのプレイを実現できます</string>
     <string name="gb_shoulder_key_guide_tips1">ツールボックスを開き、ポップアップトリガーを設定します</string>
     <string name="gb_shoulder_key_light_effect">カラーアニメーション</string>
-    <string name="gb_shoulder_key_light_effect_color">色</string>
     <string name="gb_shoulder_key_light_effect_subtitle">ポップアップトリガーがオンの状態でゲームをしていると、カラーアニメーションが表示されます</string>
     <string name="gb_shoulder_key_light_effect_title">アニメーション</string>
     <string name="gb_shoulder_key_settings_guide_tips1">[L]と[R]ボタンを使用したい機能の位置に移動させると設定が完了します</string>
@@ -2136,7 +1848,6 @@
     <string name="gb_signed_gift_loading_summary">お待ちください…</string>
     <string name="gb_signed_title">今月のチェックイン日数</string>
     <string name="gb_smart_battery_surplus_new">残り%1$s%2$s</string>
-    <string name="gb_smart_shake_description">小さなジェスチャーに対する敏感さ</string>
     <string name="gb_sound_audition">試す</string>
     <string name="gb_storage_game_dialog_message">ゲームはゲームターボ内に自動的に保存されます。この機能をオンにすると、ホーム画面にゲームアイコンが表示されなくなります。今すぐオンにしますか？</string>
     <string name="gb_storage_game_uninstall">ゲームをアンインストール</string>
@@ -2157,11 +1868,8 @@
     <string name="gb_turbo_wonder_subtitle">重要な瞬間を記録する</string>
     <string name="gb_vision_enhance">強化されたビジュアル</string>
     <string name="gb_vision_enhance_desc">画質とパフォーマンスの向上</string>
-    <string name="gb_vision_enhance_frme_insertion_new_tips">"強化されたフレームレート
-%dFPS"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"スマートフレームレート
 %dFPS"</string>
-    <string name="gb_vision_enhance_smart_frame_enhance">フレームレートを強化</string>
     <string name="gb_vision_enhance_smart_frame_insertion">スマートフレームレート</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">フレームレートを自動的に調整して、モーションをよりスムーズにします</string>
     <string name="gb_vision_enhance_super_resolution">超解像</string>
@@ -2180,12 +1888,10 @@
     <string name="gb_voice_changer_lady">お姉さん</string>
     <string name="gb_voice_changer_loli">女の子</string>
     <string name="gb_voice_changer_men">おじさん</string>
-    <string name="gb_voice_changer_normal">元の声</string>
     <string name="gb_voice_changer_permission_dlg_msg">ボイスチェンジャーが正常に機能するには、オーディオを録音できる必要があります。</string>
     <string name="gb_voice_changer_permission_dlg_title">アクセス許可が必要です</string>
     <string name="gb_voice_changer_recommend">おすすめ</string>
     <string name="gb_voice_changer_renew_dailog">この効果を使用できるようにするには、サブスクリプションを更新してください。</string>
-    <string name="gb_voice_changer_robot">ロボット</string>
     <string name="gb_voice_changer_setting_account_title">Xiaomi アカウント</string>
     <string name="gb_voice_changer_setting_become_vip">登録</string>
     <string name="gb_voice_changer_setting_gender_subtitle">選択した性別に合わせて効果とおすすめを調整する</string>
@@ -2214,7 +1920,6 @@
     <string name="gb_wonderful_video_cancel">キャンセル</string>
     <string name="gb_wonderful_video_checkall">すべて選択</string>
     <string name="gb_wonderful_video_delete">削除</string>
-    <string name="gb_wonderful_video_goto_box">ゲームターボを開く</string>
     <string name="gb_wonderful_video_header_title">今日</string>
     <string name="gb_wonderful_video_save_suc">保存済み</string>
     <string name="gb_xunyou_gift_type_one">Xunyou 1日間ブースト</string>
@@ -2229,21 +1934,9 @@
     <string name="gd_dock_shortcut_splitescreen">画面分割</string>
     <string name="gd_setting_conversation">会議ツール</string>
     <string name="gd_setting_conversation_desc">全画面表示での音声通話やビデオ通話で使用するための様々な機能を提供します</string>
-    <string name="gd_setting_dock_activity_title">サイドツールボックス</string>
-    <string name="gd_setting_dock_call_summary">音声通話とビデオ通話の機能（例：フィルライト）</string>
-    <string name="gd_setting_dock_call_title">通話ツールボックス</string>
-    <string name="gd_setting_dock_game_summary">ゲームプレイ中の表示とパフォーマンスを向上</string>
-    <string name="gd_setting_dock_game_summary_new">ゲームプレイ中の表示とパフォーマンスを向上</string>
-    <string name="gd_setting_dock_summary">1 つのアプリを全画面で使用している際に、フローティングウィンドウで他のアプリを開く</string>
-    <string name="gd_setting_dock_title">サイドバー</string>
-    <string name="gd_setting_dock_video_summary">ビデオの視聴中にドルビーアトモスなどのエフェクトを使用する</string>
-    <string name="gd_setting_dock_video_summary_new">ビデオの視聴中にツールやエフェクトを使用する</string>
-    <string name="gd_setting_group_custom_conversation_apps">通話の声紋を録音する</string>
     <string name="gd_setting_group_custom_gtb_apps">ゲーム</string>
-    <string name="gd_setting_group_custom_gtb_apps_new">ゲームアプリを管理</string>
     <string name="gd_setting_group_custom_settings">パーソナライゼーション</string>
     <string name="gd_setting_group_custom_vtb_apps">動画アプリ</string>
-    <string name="gd_setting_group_custom_vtb_apps_new">ビデオアプリを管理</string>
     <string name="gd_setting_group_title_switch">シーン</string>
     <string name="gd_setting_gtb">ゲーム中に表示</string>
     <string name="gd_setting_gtb_desc">ゲーム用の特殊機能</string>
@@ -2258,22 +1951,15 @@
     <string name="gd_sidebar_edit_quick_title">ショートカット</string>
     <string name="gd_sidebar_long_press_tips">デバイスを縦に持った状態でインジケーターを長押しすると移動します</string>
     <string name="gd_splite_screen_tips">画面分割機能はフローティングウィンドウに対応していません</string>
-    <string name="gdpr_msg"><Data>セキュリティリスクを検出してデータを保護するためには、デバイスに関する必要な情報を収集する必要があります。サービスを利用する前に、&lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。このような情報の収集を許可しない場合でも、このアプリを使用することはできますが、一部の機能は利用できません。</Data></string>
+    <string name="gdpr_msg">&lt;Data>セキュリティリスクを検出してデータを保護するためには、デバイスに関する必要な情報を収集する必要があります。サービスを利用する前に、&lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。このような情報の収集を許可しない場合でも、このアプリを使用することはできますが、一部の機能は利用できません。&lt;/Data></string>
     <string name="get_detail_by_click">タップして詳細を表示</string>
     <string name="get_phone_num_fail">不明な電話番号</string>
     <string name="get_sys_info">情報を取得中…</string>
-    <string name="gigabyteShort">GB</string>
-    <string name="global_dock_guide_desc_pad">インジケーターを長押しするとウィンドウを移動させることができます</string>
     <string name="global_dock_guide_desc_with_split_screen">"· サイドバーのアプリをタップすると、フローティングウィンドウで開くことができます。
 · アプリを画面の中央にドラッグするとフローティングウィンドウで開き、横にドラッグすると画面分割を使用できます
 · インジケーターを長押しすると、ウィンドウを移動できます。"</string>
-    <string name="global_dock_guide_desc_with_split_screen_new">"· サイドバーのアプリをタップすると、フローティングウィンドウで開くことができます。
- アプリを画面の中央にドラッグするとフローティングウィンドウで開き、横にドラッグすると画面分割を使用できます。
- インジケーターを長押しするとウィンドウを移動させることができます。"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· サイドバーのアプリをタップすると、フローティングウィンドウで開くことができます。
 · インジケーターを長押しすると、ウィンドウを移動できます。"</string>
-    <string name="global_dock_guide_desc_without_split_screen_new">"スワイプしてサイドバーを開き、アプリをタップしてフローティングウィンドウで開きます。
-インジケーターを長押しすると、ウィンドウが移動します。"</string>
     <string name="global_satisfaction_notification_button">評価</string>
     <string name="global_satisfaction_notification_channel">ユーザー満足度調査</string>
     <string name="global_satisfaction_notification_subhead">使用感についてぜひご評価ください</string>
@@ -2284,7 +1970,6 @@
     <string name="gmscore_support_remind">Gmail、Google マップなどのGoogleのアプリを使用中に問題が生じた場合、この機能をオンにすることをお勧めします。オンにすると、バッテリー駆動時間がわずかながら短くなります。</string>
     <string name="gmscore_support_service">基本的なGoogleサービス</string>
     <string name="go_to">続行</string>
-    <string name="go_to_mi_sim">Tap to use Mi SIM.</string>
     <string name="go_to_send">送信</string>
     <string name="go_to_setting_fingerprint">設定</string>
     <string name="google_base_app_install_choice">アプリケーションが正常に動作するには、Googleサービスフレームワークが必要です。ダウンロードおよびインストールしますか？</string>
@@ -2327,7 +2012,6 @@
     <string name="gs_call_handsfree_mute">サイレントモード</string>
     <string name="gs_forbid_autosync">バックグラウンドでの同期を制限する</string>
     <string name="gs_game_ai_record">AIを使用して録画</string>
-    <string name="gs_game_disturb_msg">DND</string>
     <string name="gs_game_duration">時間</string>
     <string name="gs_game_manual_record">手動で録画</string>
     <string name="gs_game_manual_record_subtitle_child">この機能の使用中に問題が発生する場合があります。</string>
@@ -2347,7 +2031,6 @@
     <string name="gs_performance_mode_detail">ゲーム用にシステムパフォーマンスを最適化する</string>
     <string name="gs_show_way">ホームページの向き</string>
     <string name="gs_show_way_horizontal">横</string>
-    <string name="gs_show_way_vertical">縦</string>
     <string name="gs_sign_notification">毎日午後8時にチェックインをリマインドする</string>
     <string name="gs_sign_notification_new">毎日午後%d時にチェックインのリマインドをする</string>
     <string name="gs_slip_gamebox_detail">スライダーを使用するか画面の上端からスワイプすると、ショートカットパネルが表示されます</string>
@@ -2365,15 +2048,10 @@
     <string name="gtb_dialog_btn_open">オンにする</string>
     <string name="gtb_dialog_hint_smart_5g">ゲームターボ > 設定 でこの機能のオンとオフを切り替えることができます。</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou ゲームブースターを利用しようとしています。このサービスでは、メンバーシップ期間を記録するために、Xiaomi アカウントIDを収集します。</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>Xunyou ゲームブースターの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。</Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"I've read and agreed to the Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
-    <string name="gtb_dialog_privacy_speed_title">Xunyou ゲームブースター</string>
-    <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_voice_tips"><Data>Xunyou ゲームボイスチェンジャーの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。</Data></string>
-    <string name="gtb_dialog_privacy_voice_title">Xunyou ゲームボイスチェンジャー</string>
+    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Xunyou ゲームブースターの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>Xunyou ゲームボイスチェンジャーの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意しました。&lt;/Data></string>
     <string name="gtb_dialog_summary_smart_5g">ゲームターボが5Gネットワークを検出すると、デバイスを利用可能な最良のネットワークに接続して、ネットワークの遅延を軽減します。今すぐこの機能をオンにしますか？</string>
     <string name="gtb_dialog_title_smart_5g">5Gネットワークの最適化</string>
-    <string name="gtb_dnd">DND</string>
     <string name="gtb_exit_game_to_gtb">ゲームボックスを開く</string>
     <string name="gtb_exit_game_to_home">ホーム画面に戻る</string>
     <string name="gtb_garbage_clean">ストレージを解放</string>
@@ -2391,7 +2069,7 @@
     <string name="gtb_guide_gtb_game_new">新着</string>
     <string name="gtb_guide_gtb_line_new">ゲームターボでパフォーマンスモードを体験しましょう！</string>
     <string name="gtb_guide_gtb_line_new_global">スワイプしてゲームターボを開きます</string>
-    <string name="gtb_guide_gtb_line_wilde_mode">ゲームターボの Wild Boost を試して、一段階上のゲームを楽しみましょう</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">ゲームターボの究極モードを試して、ゲームを次のレベルに引き上げましょう</string>
     <string name="gtb_guide_gtb_line_xspace">新しくなったゲームターボ機能でゲーム体験をステップアップ</string>
     <string name="gtb_guide_small_window_app_desc">プレイ中に他のアプリを使用する</string>
     <string name="gtb_guide_small_window_app_title">フローティングウィンドウ</string>
@@ -2414,9 +2092,7 @@
     <string name="gtb_setting_item_title_disable_ndds_sim">2枚目のSIMをブロック</string>
     <string name="gtb_setting_item_title_smart_5g">5Gネットワークの最適化</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFiスピードブースト</string>
-    <string name="gtb_spring_festival_back_game">Back to game</string>
     <string name="gtb_spring_festival_egg_obtain_fail">ネットワークに接続できませんでした</string>
-    <string name="gtb_spring_festival_goto_gameturbo">View</string>
     <string name="gtb_spring_festival_guide">"横向きモードに切り替えて
 エッグハントに参加しましょう！"</string>
     <string name="gtb_spring_festival_guide_know">了解</string>
@@ -2463,25 +2139,18 @@
     <string name="hints_scan_result_safe">安全</string>
     <string name="hints_scanning">スキャン中…</string>
     <string name="hints_scanning_text">スキャン中…</string>
-    <string name="hints_virus_apk_list_item_summary">apk</string>
-    <string name="hints_virus_apk_summary">%s (apk)</string>
-    <string name="hints_virus_app_list_item_summary">アプリ</string>
     <string name="hints_virus_app_summary">%s (アプリ)</string>
     <string name="hints_virus_lib_update_default_summary">最終アップデート日時は不明です</string>
-    <string name="hot">人気</string>
     <string name="hot_today">今日の人気</string>
     <string name="i_know">了解</string>
     <string name="i_know_time">了解 (%d)</string>
     <string name="icon_content_description">ダイアログ アイコン</string>
     <string name="icon_created_settings_preference">追加済み</string>
     <string name="ignore_special_app">選択したアプリで使用するデータをプランから除外する</string>
-    <string name="im">IM</string>
     <string name="ime_security_warning">%1$sは、パスワードやその他のセンシティブな情報を含め、入力されたすべての情報を記録する可能性があります。それでも使用しますか？</string>
-    <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
     <string name="infinite_remind_warning_text_tips">毎月の上限に達したときに警告を表示</string>
     <string name="info_and_call">通話とメッセージ</string>
     <string name="info_antispam_close">ブロックリストはオフです</string>
-    <string name="info_antispam_current_mode">%s</string>
     <string name="info_antispam_phone">通話をブロック</string>
     <string name="info_antispam_phone_sms">通話とSMSをブロック</string>
     <string name="info_antispam_sms">SMSをブロック</string>
@@ -2531,29 +2200,17 @@
     <string name="ip_address_exception_summary">IPアドレスを取得できませんでした。この問題が再度発生する場合は、静的IPアドレスを使用してみてください。</string>
     <string name="item_app_permission">アプリのアクセス許可</string>
     <string name="item_dev_mode">開発者向けオプション</string>
-    <string name="item_eighty">%d CNY</string>
-    <string name="item_fifty">%d CNY</string>
-    <string name="item_hundred">%d CNY</string>
     <string name="item_install_monitor">インストールモニター</string>
     <string name="item_mms">不要なメッセージをフィルタリングする</string>
     <string name="item_system_auto_download">自動的にアップデートをダウンロードする</string>
-    <string name="item_ten">%d CNY</string>
-    <string name="item_thirty">%d CNY</string>
     <string name="item_usb_debug">USBデバッグ</string>
     <string name="item_view_role_description">タブ</string>
     <string name="item_virus_lib">ウイルス定義を自動的にアップデートする</string>
-    <string name="item_zero">%d CNY</string>
-    <string name="keyboard_key_back">戻る</string>
-    <string name="keyboard_key_space">スペース</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s%2$s</string>
-    <string name="kilobyteShort">KB</string>
-    <string name="kilobyte_per_second">KB/秒</string>
     <string name="label_callwait">割込通話通知</string>
     <string name="label_mi_stats">Mi アナリティクス</string>
     <string name="last_check_canceled">前回のスキャンはキャンセルされました</string>
     <string name="launch_instant_app">開く</string>
-    <string name="layoutDirection">rtl</string>
-    <string name="left_precent">60%</string>
     <string name="legal_workday">法定就業日</string>
     <string name="legal_workday_invalidate">月〜金 (祝日の情報が期限切れです)</string>
     <string name="legal_workday_invalidate_message">タップして祝日の情報をアップデートしてください。</string>
@@ -2568,9 +2225,7 @@
     <string name="loading">お待ちください…</string>
     <string name="loading_text_format" formatted="false">写真にプライベートな情報が含まれていないかを確認中 %d/%d</string>
     <string name="local_ip_exception_summary">ローカルIPアドレスを取得できませんでした。この問題を報告するには、フィードバックアプリに移動し、デバイスからログを送信してください。</string>
-    <string name="location_services_title">位置情報サービス</string>
     <string name="lock_all_title">すべてのアプリをロック</string>
-    <string name="lock_app_input_invalid_car">一部の記号はサポートされていません</string>
     <string name="lock_mode_title">ロック設定</string>
     <string name="lock_screen_traffic_guide_notification_summary">%sがロック画面で使用されました</string>
     <string name="lock_screen_traffic_guide_notification_title">タップするとデータの使用状況を管理できます。</string>
@@ -2583,7 +2238,6 @@
     <string name="lock_screen_warning_value">データ使用量の警告</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">指紋を認識できませんでした。もう一度お試しください。</string>
     <string name="lockpattern_access_need_to_unlock_wrong_pattern">入力したパスワードが正しくありません。</string>
-    <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">次へ</string>
     <string name="lockpattern_need_to_confirm">確認のため、パターンをもう一度入力してください</string>
     <string name="lockpattern_need_to_unlock_wrong">パスワードが一致しません。もう一度お試しください。</string>
@@ -2605,7 +2259,6 @@
     <string name="lockscreen_glogin_password_hint">パスワード</string>
     <string name="lockscreen_glogin_submit_button">サインイン</string>
     <string name="loding">データを読み込んでいます</string>
-    <string name="log_count">(%d)</string>
     <string name="long_click_dialog_summary">リストの項目を長押しして例外に追加してください</string>
     <string name="long_click_dialog_title">注意</string>
     <string name="low_memory_warning_dialog_cancel_button">キャンセル</string>
@@ -2662,7 +2315,6 @@
     <string name="make_sure_package_type">データプランを選択</string>
     <string name="man_add_application">自動起動アプリを手動で追加</string>
     <string name="manage_hybrid_permissions">アプリのアクセス許可を管理</string>
-    <string name="manage_notification_access_title">通知の読み取り、返信、コントロール</string>
     <string name="managed_user_title">すべての仕事用アプリ</string>
     <string name="manual_input_free_traffic">オフピークのデータ使用量を設定する</string>
     <string name="manual_input_traffic">データ使用量を設定する</string>
@@ -2696,22 +2348,17 @@
     <string name="mark_sell_block_large">電話勧誘販売</string>
     <string name="mark_sell_time_setting">電話勧誘販売と報告された番号は、指定された回数だけブロックする</string>
     <string name="mark_time_setting_dialog_title">番号を報告</string>
-    <string name="mark_time_text">%d</string>
     <string name="marked_by_user">" に記録しました"</string>
     <string name="material_clock_toggle_content_description">午前または午後を選択</string>
     <string name="material_hour_selection">時刻を選択してください</string>
     <string name="material_hour_suffix">%1$s時</string>
     <string name="material_minute_selection">分を選択</string>
     <string name="material_minute_suffix">%1$s分</string>
-    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
     <string name="material_timepicker_hour">時間</string>
     <string name="material_timepicker_minute">分</string>
-    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">時間を選択</string>
     <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
-    <string name="megabyteShort">MB</string>
-    <string name="megabyte_per_second">MB/秒</string>
     <string name="memory_check_content">%s解放しました</string>
     <string name="memory_clean_memory_size_tip">キャッシュ</string>
     <string name="memory_clean_no_need_clean">すべて良好です</string>
@@ -2739,7 +2386,6 @@
     <string name="menu_item_install_debug_package">デバッグパッケージをインストール</string>
     <string name="menu_item_notification_antispam_text_avail">ブロックリスト</string>
     <string name="menu_item_notification_antispam_text_normal">ブロックリスト</string>
-    <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_optimize_text_new">%s使用</string>
     <string name="menu_item_notification_power_text">バッテリーの最適化</string>
     <string name="menu_item_notification_title">通知シェードにメニューを表示</string>
@@ -2757,7 +2403,6 @@
     <string name="menu_show_work_profile_text">ワークスペースアプリを表示</string>
     <string name="menu_sms">メッセージを送信</string>
     <string name="menu_summary_antispam">電話とメッセージをブロック</string>
-    <string name="menu_summary_antispam_calls">迷惑電話をブロック</string>
     <string name="menu_summary_antivirus">デバイスのウイルスを検索する</string>
     <string name="menu_summary_app_manager">アプリ設定を管理</string>
     <string name="menu_summary_garbage_cleanup">ゴミは見つかりませんでした</string>
@@ -2784,24 +2429,15 @@
     <string name="menu_text_license_manager">アクセス許可</string>
     <string name="menu_text_networkassistants">データ使用量</string>
     <string name="menu_text_networkassistants_danger">%s以上</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">残り%s</string>
-    <string name="menu_text_networkassistants_unit_b">B</string>
-    <string name="menu_text_networkassistants_unit_gb">GB</string>
-    <string name="menu_text_networkassistants_unit_kb">KB</string>
-    <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">スピードブースト</string>
     <string name="menu_text_optimize_manage_1">スピードブースト</string>
     <string name="menu_text_power_manager">バッテリー</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">例外から削除</string>
     <string name="menu_white">例外に追加</string>
     <string name="mi_ime_not_used">Xiaomiが認定したキーボードを使用してください</string>
-    <string name="mi_roaming">Mi ローミング</string>
     <string name="mi_service_app_detail">データ使用量の詳細</string>
     <string name="mi_service_traffic_detail">フレームワークの詳細</string>
-    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up open Mi Sim.&lt;/U>&lt;/font>"</string>
-    <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mic_noise_reduction_mode_standard">標準</string>
     <string name="mic_noise_reduction_mode_ultimate">選択</string>
     <string name="mic_noise_reduction_voiceprint_desc">指定ユーザーからのオーディオのみを保持します</string>
@@ -2820,7 +2456,6 @@
     <string name="miuix_appcompat_delete_description">削除</string>
     <string name="miuix_appcompat_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_deselect_all_description">すべての選択を解除</string>
-    <string name="miuix_appcompat_edit">編集</string>
     <string name="miuix_appcompat_search_action_mode_cancel">キャンセル</string>
     <string name="miuix_appcompat_search_input_description">検索</string>
     <string name="miuix_appcompat_select_all">すべて選択</string>
@@ -2841,9 +2476,6 @@
     <string name="mixed_recording_intro_header">%1$s-%2$s文字を入力してください</string>
     <string name="mixed_retry_button_text">キャンセル</string>
     <string name="mixed_settings_help_how_to_record">パスワードの設定方法</string>
-    <string name="mm_app_name">Mi SIM</string>
-    <string name="mode_size_center">中央揃え</string>
-    <string name="mode_size_full">全画面表示</string>
     <string name="modify_cellular_type">タップしてプランを選択してください</string>
     <string name="modify_password_mode"><u>パスワードの種類を変更</u></string>
     <string name="modifypassword">パスワードの種類を変更</string>
@@ -2905,8 +2537,6 @@
     <string name="mtrl_picker_a11y_next_month">翌月に変更</string>
     <string name="mtrl_picker_a11y_prev_month">前月に変更</string>
     <string name="mtrl_picker_announce_current_selection">現在の選択: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">日付を選択してください</string>
     <string name="mtrl_picker_date_header_unselected">選択した日付</string>
     <string name="mtrl_picker_day_of_week_column_header">曜日の列: %1$s</string>
@@ -2925,9 +2555,6 @@
     <string name="mtrl_picker_text_input_date_hint">日付</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">終了日</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">開始日</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">カレンダー入力モードに切り替え</string>
     <string name="mtrl_picker_toggle_to_day_selection">タップすると、日の選択に切り替わります</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">テキスト入力モードに切り替え</string>
@@ -2958,8 +2585,6 @@
     <string name="net_boostering">ネットワークブースト中…</string>
     <string name="net_boosting">ブースト中…</string>
     <string name="net_delay_title">遅延</string>
-    <string name="net_free_booster_new_user_tip">無料のゲームブースターを取得して、Xiaomi スマートフォンを獲得するために応募してください！</string>
-    <string name="net_free_booster_new_user_title">新規ユーザープレゼント</string>
     <string name="net_overdue">セッションは終了しました</string>
     <string name="network_assistant_privacy">アプリ別のデータ使用量を把握するために、パッケージ名、Wi-Fiおよびモバイルデータの使用量、ピーク時とオフピーク時のデータ使用量、Wi-Fiおよびモバイルデータがオンになっている時間帯などの情報を収集します。この情報は、ご使用のデバイスにローカルに保存されます。</string>
     <string name="network_assistant_privacy_title">アプリやネットワークの使用状況や診断データの送信</string>
@@ -3068,11 +2693,9 @@
     <string name="notification_garbage_clean_hint">ストレージ容量を消去</string>
     <string name="notification_garbage_clean_hint_new">クリーンアップするとデバイスがよりスムーズに動作します</string>
     <string name="notification_garbage_clean_size">%sを解放</string>
-    <string name="notification_garbage_clean_size_float_unit">%.1f GB</string>
     <string name="notification_garbage_clean_size_found">%sのゴミが見つかりました</string>
     <string name="notification_garbage_clean_size_found_hint">ゴミを消去しましょう。</string>
     <string name="notification_garbage_clean_size_found_text">ゴミファイルが多すぎます</string>
-    <string name="notification_garbage_clean_size_int_unit">%d GB</string>
     <string name="notification_garbage_clean_size_new">%sのストレージを解放</string>
     <string name="notification_garbage_cleanup_summary">デバイスの速度を上げるには、ゴミ (%s) を消去してください</string>
     <string name="notification_garbage_cleanup_title">ゴミファイルを消去</string>
@@ -3141,20 +2764,14 @@
     <string name="numeric_recording_intro_header">パスワードを入力してください</string>
     <string name="numeric_retry_button_text">キャンセル</string>
     <string name="numeric_settings_help_how_to_record">PINの設定方法</string>
-    <string name="oaid_apps_summary">アプリ別にアクセスの許可または制限を設定する</string>
     <string name="oaid_apps_title">仮想IDを管理</string>
     <string name="oaid_reset_content_tip">ここで仮想IDをオフにすると、一部のアプリが正常に動作しなくなり、アプリデータの一部が失われたり、使用できなくなったりする可能性があります。</string>
     <string name="oaid_reset_final_tip">仮想IDをオフにしてもよろしいですか？</string>
-    <string name="oaid_string">"現在の仮想ID：
-%1s"</string>
     <string name="oaid_tips_content">仮想ID (OAID) は、ユーザーの行動を追跡し、広告をパーソナライズするために使用できます。仮想IDへのアクセスを許可するアプリを選択できます。アクセスを制限すると、おすすめの広告が表示されなくなったり、アプリが正常に動作しなくなったりする場合がありますのでご注意ください。</string>
-    <string name="ok">OK</string>
-    <string name="ok_button">OK</string>
     <string name="old_sdk_deny_warning">このアプリはAndroidの最新の許可要件と互換性がありません。 拒否されたアクセス許可は、このアプリの動作に影響を与える可能性があります。</string>
     <string name="om_lock_app_locked_app">ロックされています</string>
     <string name="om_lock_app_unlocked_app">ロックされていません</string>
     <string name="om_locked_apps_summary">ロックしたアプリは、スピードブーストにより無視されます。</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">スピードブーストが必要です</string>
     <string name="om_optimzing_big_button_text">スピードブースト</string>
     <string name="om_running_app_info_summary">%sを解放</string>
@@ -3173,13 +2790,11 @@
     <string name="om_settings_speed_up_auto">自動スピードブースト</string>
     <string name="om_settings_title">スピードブーストの設定</string>
     <string name="om_shortcut_added_toast_text">正常に追加されました</string>
-    <string name="om_shortcut_dialog_summary">スピードブーストは、ワンタップでメモリを消去し、デバイスの速度を向上させることができます。スピードブーストをホーム画面に追加しますか？</string>
-    <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="om_shortcut_dialog_summary">RAM Jetは、ワンタップでメモリを消去し、デバイスの速度を向上させることができます。RAM Jetをホーム画面に追加しますか？</string>
     <string name="once_settings_camera_ttile">メタデータなしで共有</string>
     <string name="once_settings_location_title">位置情報なしで共有</string>
     <string name="once_settings_subtitle">選択したアイテムをどのように共有しますか？</string>
     <string name="once_settings_title">プライバシー保護</string>
-    <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">アプリケーションが見つかりませんでした</string>
     <string name="open_app">開く</string>
     <string name="open_callwait">オン</string>
@@ -3190,14 +2805,8 @@
     <string name="operator_location_settings">通信事業者と位置情報を設定</string>
     <string name="operator_location_settings_message">通信事業者と位置情報を認識できませんでした。現在、通話料金残高とデータ使用量の警告を設定できません。</string>
     <string name="operator_name_cbn">チャイナブロードネット</string>
-    <string name="operator_name_cmcc">チャイナ・モバイル</string>
     <string name="operator_name_mi_mobile">Mi モバイル</string>
-    <string name="operator_name_telcom">チャイナ・テレコム</string>
-    <string name="operator_name_unicom">チャイナ・ユニコム</string>
     <string name="operator_name_virtual_operator">仮想通信事業者</string>
-    <string name="operator_number_cmcc">10086</string>
-    <string name="operator_number_telcom">10000</string>
-    <string name="operator_number_unicom">10010</string>
     <string name="opt_antivirus_scan_antivirus_notification_summary">悪意のあるアプリの使用はセキュリティリスクをもたらします</string>
     <string name="opt_antivirus_scan_single_antivirus_notification_title">%sは悪意のあるアプリである可能性があります</string>
     <string name="optimize_manage_title">スピードブースト</string>
@@ -3283,7 +2892,6 @@
     <string name="pc_batery_protection">バッテリー保護</string>
     <string name="pc_battery_charge_protect">充電保護</string>
     <string name="pc_battery_chart_loading">お待ちください…</string>
-    <string name="pc_battery_date_year_month_format">yyyy年M月</string>
     <string name="pc_battery_detail_curve_reference_now">現在</string>
     <string name="pc_battery_detail_device_item_title">バッテリー使用量の統計</string>
     <string name="pc_battery_health_revise_title">バッテリーの健康度情報を調整</string>
@@ -3298,47 +2906,11 @@
     <string name="pc_battery_history_item_histogram">消費電力の詳細</string>
     <string name="pc_battery_history_rank_mha_menu_item">ミリアンペア時</string>
     <string name="pc_battery_history_rank_percent_menu_item">パーセンテージ</string>
-    <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">合計消費電力</string>
     <string name="pc_battery_history_usetime_title">アクティブ</string>
     <string name="pc_battery_low_health_reminder">バッテリーの交換時期です</string>
-    <string name="pc_battery_replacement_service_title">バッテリー交換サービスをお試しください。%1$sオリジナルのハードウェアには、%2$sの保証が付いています。</string>
-    <string name="pc_berserk_mode_dialog_title">究極モードをオンにする</string>
-    <string name="pc_berserk_mode_noti_summary">究極モードでは、消費電力が増加し、デバイスが発熱する可能性があります</string>
-    <string name="pc_berserk_mode_performance_title">究極モード</string>
     <string name="pc_button_go_to_setting">設定</string>
-    <string name="pc_camera_printer_dialog_battery_full">完全に充電されました</string>
-    <string name="pc_camera_printer_dialog_battery_low">バッテリーが残りわずかです</string>
-    <string name="pc_camera_printer_dialog_negative_button">了解</string>
-    <string name="pc_camera_printer_dialog_positive_button">カメラを開く</string>
-    <string name="pc_camera_printer_dialog_should_charge">充電器に接続してください</string>
-    <string name="pc_camera_printer_notify_button">カメラを開く</string>
-    <string name="pc_camera_printer_notify_subtitle">接続されました</string>
-    <string name="pc_camera_printer_title">フォトプリンターキット</string>
     <string name="pc_category_charge_settings">充電設定</string>
-    <string name="pc_charge_mode_low_power_fast_speed">高速化</string>
-    <string name="pc_charge_mode_low_power_fast_speed_tips">デバイスが熱くなる可能性があります</string>
-    <string name="pc_charge_mode_standard">標準</string>
-    <string name="pc_charge_mode_topspeed">トップスピード</string>
-    <string name="pc_charge_mode_topspeed_tips">デバイスが熱くなる可能性があります</string>
-    <string name="pc_charge_protection_features_title">充電オプション</string>
-    <string name="pc_charge_protection_wired_charge">有線充電</string>
-    <string name="pc_charge_protection_wired_charge_mode">有線充電モード</string>
-    <string name="pc_charge_protection_wireless_charge">ワイヤレス充電</string>
-    <string name="pc_charge_protection_wireless_charge_mode">ワイヤレス充電モード</string>
-    <string name="pc_charge_protection_wireless_reverse_charge">リバースワイヤレス充電</string>
-    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">このデバイスのバッテリーが %1$s を下回った場合はリバースワイヤレス充電をオフにします</string>
-    <string name="pc_charge_protection_wireless_reverse_charge_limit_title">充電停止レベル</string>
-    <string name="pc_charge_wireless_charge_mode_silence_title">サイレントモード時間</string>
-    <string name="pc_charge_wireless_charge_select_silence">サイレント</string>
-    <string name="pc_charge_wireless_charge_select_silence_always">常時</string>
-    <string name="pc_charge_wireless_charge_select_silence_night">夜間</string>
-    <string name="pc_charge_wireless_charge_select_silence_night_summary">%1$s 〜翌日 %2$s</string>
-    <string name="pc_charge_wireless_charge_select_silence_summary">ノイズの軽減と充電速度の低下</string>
-    <string name="pc_charge_wireless_charge_select_standard">標準</string>
-    <string name="pc_charge_wireless_charge_select_topspeed">トップスピード</string>
-    <string name="pc_charge_wireless_charge_select_topspeed_summary">ノイズの増大とデバイスの温度上昇</string>
-    <string name="pc_charge_wireless_only_mi_charger_work">Xiaomi の付属充電器でのみ動作します</string>
     <string name="pc_charged_auto_close_summary">バッテリーが %1$s または完全に充電されたらオフにします</string>
     <string name="pc_charged_auto_close_title">充電完了後オフにする</string>
     <string name="pc_close_notifi_action">オフにする</string>
@@ -3347,12 +2919,10 @@
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$sのバッテリー残量が%2$sを下回っています。バッテリーセーバーをオンにすると、%3$s%4$s使用を継続できます。</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%sのバッテリー残量が少なくなっています</string>
     <string name="pc_current_power_mode">現在のモード</string>
-    <string name="pc_cycle_count_protect_title">周期</string>
     <string name="pc_emergency_call">緊急</string>
     <string name="pc_endurance_calculation">計算中…</string>
     <string name="pc_entered_extreme_mode">休止モードがオンになりました</string>
     <string name="pc_entered_extreme_mode_summary">デバイスがバッテリー切れで、休止モードになっています。アプリはバックグラウンドで実行され、通知は送信されません。</string>
-    <string name="pc_extreme_category">バッテリー残量が非常に少ない</string>
     <string name="pc_extreme_exit_and_power_off">終了</string>
     <string name="pc_extreme_mode_bg_toast">休止モードでは、アプリはバックグラウンドで動作し、通知は送信されません</string>
     <string name="pc_extreme_mode_entering">休止モードを起動中…</string>
@@ -3361,8 +2931,6 @@
     <string name="pc_extreme_mode_exiting">休止モードを終了中…</string>
     <string name="pc_extreme_mode_find_charger">できるだけ早くデバイスを充電してください。</string>
     <string name="pc_extreme_mode_runtime">休止モードは%1$s%2$sの間オンになっています。</string>
-    <string name="pc_extreme_mode_setting_summary">バッテリー残量が極端に少ない場合にスタンバイ時間を延長する</string>
-    <string name="pc_extreme_mode_setting_title">冬眠</string>
     <string name="pc_extreme_mode_title">休止モード</string>
     <string name="pc_fast_charge_notifi_action_text_off">停止</string>
     <string name="pc_fast_charge_notifi_action_text_on">ブースト</string>
@@ -3377,18 +2945,12 @@
     <string name="pc_fast_charge_switch_summary_new">付属の充電器で充電中にバッテリー残量が設定値を下回った場合、充電速度を上げるようリマインドする</string>
     <string name="pc_fast_charge_switch_title">充電速度のブースト</string>
     <string name="pc_fast_charge_switch_toast_message">変更は次回の充電時に適用されます</string>
-    <string name="pc_fast_charge_temp_remider">オンにすると、充電速度が自動的に調整されます。この機能は、Xiaomi 付属の充電器でのみ動作します。充電中にデバイスが熱くなる場合があります。</string>
     <string name="pc_fast_charge_title">充電速度のブースト</string>
-    <string name="pc_first_use_error_tips">計算中</string>
-    <string name="pc_first_use_protect_title">初回使用</string>
     <string name="pc_going_to_exit_extreme_mode">休止モードを終了しています</string>
     <string name="pc_going_to_exit_extreme_mode_summary">デバイスは充電中です。休止モードはオフになりました。</string>
     <string name="pc_going_to_extreme_mode">休止モードを起動中</string>
     <string name="pc_handle_battery_level">グリップ</string>
     <string name="pc_have_no_battery_issue">問題なし</string>
-    <string name="pc_health_charge_protect_notification_summary">バッテリーの劣化を抑えるためにバッテリー保護をオンにする</string>
-    <string name="pc_health_charge_protect_summary">バッテリー駆動時間を延ばすため、バッテリー残量が %1$s に達すると充電が停止します</string>
-    <string name="pc_health_charge_protect_title">バッテリー保護</string>
     <string name="pc_hide_more_power_rank_apps">非表示</string>
     <string name="pc_hidemode_normal">バランス</string>
     <string name="pc_hidemode_normal_title">バランス</string>
@@ -3406,8 +2968,6 @@
     <string name="pc_install_manager">USB経由でインストール</string>
     <string name="pc_intellect_charge_protect_summary">使用シナリオに基づいて充電を調整します</string>
     <string name="pc_intellect_charge_protect_title">最適化された充電</string>
-    <string name="pc_is_exiting_super_power">"ウルトラバッテリーセーバー
-をオフにしています"</string>
     <string name="pc_keywords_fast_charge">高速充電</string>
     <string name="pc_keywords_low_power_consumption_save">ONにする</string>
     <string name="pc_keywords_low_power_mode">低電力モード</string>
@@ -3425,10 +2985,6 @@
     <string name="pc_low_batterty_got_it">起動しない</string>
     <string name="pc_low_battery_fast_charge">充電を高速化</string>
     <string name="pc_low_battery_fast_charge_summary">画面がオフでバッテリー残量が少ない場合は、付属の充電器を接続すると充電が速くなります。この機能により、デバイスが熱くなる可能性があります。</string>
-    <string name="pc_low_temp_charge_summary">充電器を接続したまま、画面がオフになってからバッテリーが温まるまで待つと、正常に充電されます</string>
-    <string name="pc_low_temp_charge_title">低温充電</string>
-    <string name="pc_low_temperature_extreme_endurance_summary">周囲温度が極端に低い場合、デバイスのパフォーマンスを制限してバッテリー駆動時間を延ばします</string>
-    <string name="pc_low_temperature_extreme_endurance_title">低温耐久モード</string>
     <string name="pc_main_activity_back">戻る</string>
     <string name="pc_main_battery_text_day">使用時間%1$s分延長、残り約%2$s日</string>
     <string name="pc_main_battery_text_day_hour">使用時間%1$s分延長、残り%2$s日%3$s時間</string>
@@ -3439,13 +2995,11 @@
     <string name="pc_main_power_manager_hour_minute">フル充電まであと%1$s時間%2$s分</string>
     <string name="pc_main_sub_battery_text_day_hour">残り%1$s日%2$s時間</string>
     <string name="pc_main_sub_battery_text_hour_minute">残り%1$s時間%2$s分</string>
-    <string name="pc_misight_reminder_check">表示</string>
     <string name="pc_more_battery_feature">追加機能</string>
     <string name="pc_more_power_rank_apps">その他のアプリ</string>
     <string name="pc_night_charge_protect_summary">充電時間を自動的に調整してバッテリーの劣化を遅らせます</string>
     <string name="pc_night_charge_protect_title">夜間充電保護</string>
     <string name="pc_night_sleep_mode_summary">スリープ状態が検出されると、バッテリーを節約するために一部の機能が自動的にオフになります</string>
-    <string name="pc_night_sleep_mode_summary_pad">画面がオフの間、デバイスはバックグラウンドアプリを閉じ、ネットワークの使用を制限します。デバイスが長時間使用されない場合は、自動的にスリープ状態になるか、電源がオフになります。</string>
     <string name="pc_night_sleep_mode_title">夜間モード</string>
     <string name="pc_no_more_remind">通知しない</string>
     <string name="pc_ordinary_charge_summary">常に %1$s までの充電を許可します</string>
@@ -3458,14 +3012,11 @@
     <string name="pc_phone_battery_level">スマートフォン</string>
     <string name="pc_power_consume_check">バッテリーの点検</string>
     <string name="pc_power_consume_check_ing">確認中…</string>
-    <string name="pc_power_mode_has_berserk">究極モードはオンです</string>
     <string name="pc_power_mode_has_performance">パフォーマンスモードはオンです</string>
     <string name="pc_power_save_settings_new">バッテリーセーバーの設定</string>
-    <string name="pc_production_date_protect_title">製造日</string>
     <string name="pc_remind_close_cover_to_charge_summary">充電前にデバイスを折りたたむと、より高速で安定した充電が可能です。</string>
     <string name="pc_remind_close_cover_to_charge_title">折りたたんで充電</string>
     <string name="pc_reminder_always_protect_summary">制限付き充電に切り替えてバッテリーの劣化を軽減します</string>
-    <string name="pc_satellite_auto_enter_super_power">衛星通信を維持するため、ウルトラバッテリーセーバーをオンにしました</string>
     <string name="pc_save_charge">充電</string>
     <string name="pc_save_other_setting">その他の設定</string>
     <string name="pc_save_power">バッテリーセーバー</string>
@@ -3476,17 +3027,6 @@
     <string name="pc_search_keywords_capacity">バッテリー容量</string>
     <string name="pc_search_keywords_property">パフォーマンス</string>
     <string name="pc_settings_title">バッテリー</string>
-    <string name="pc_smart_charge_button_summary">バッテリーの寿命を延ばすため、システムはデバイスの充電習慣を学習し、バッテリー残量が %1$s に達すると充電を停止します。</string>
-    <string name="pc_smart_charge_notify_summary_high_temp">デバイスの温度が高すぎます。バッテリー残量が %1$s に達すると充電が停止します。</string>
-    <string name="pc_smart_charge_notify_summary_high_temp_protect">デバイスの発熱から保護するため、バッテリー残量が %1$s に達すると充電が停止されます</string>
-    <string name="pc_smart_charge_notify_summary_navagition">ナビゲート中… バッテリー残量が %1$s に達すると充電が停止します。</string>
-    <string name="pc_smart_charge_notify_summary_night_charge">充電は %s に停止します</string>
-    <string name="pc_smart_charge_pogo_project_dialog_content">バッテリーの寿命を延ばすため、このデバイスのバッテリーは、自動車に接続されている間は現在のレベル以上にはなりません。</string>
-    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">今後表示しない</string>
-    <string name="pc_smart_charge_pogo_project_dialog_title">バッテリー保護</string>
-    <string name="pc_smart_charge_pogo_project_notification_content">バッテリーの寿命を延ばすため、このデバイスのバッテリーは、自動車に接続されている間は現在のレベル以上にはなりません</string>
-    <string name="pc_smart_charge_pogo_project_notification_title">バッテリー保護</string>
-    <string name="pc_smart_charge_title">スマート充電</string>
     <string name="pc_smart_discharge_checkbox_summary">ナビゲーション機能を使用すると、指定したパーセントで充電が自動的に停止されます。バッテリーセーバーはオフになります。</string>
     <string name="pc_smart_discharge_checkbox_title">充電の自動切断</string>
     <string name="pc_smart_discharge_drop_down_title">自動切断設定</string>
@@ -3499,8 +3039,6 @@
     <string name="pc_statistics_battery_use_title">バッテリー使用量</string>
     <string name="pc_suggest_open_fast_charge">%dW 急速充電をオンにする</string>
     <string name="pc_temperature_too_high">デバイスが発熱しています</string>
-    <string name="pc_this_time_charge_full">今回はフル充電</string>
-    <string name="pc_this_time_charge_full_work">ほぼフル充電</string>
     <string name="pc_timely_charging_summary">バッテリーが %1$s を下回っています。バッテリー残量が少ないときにデバイスが発熱すると、バッテリーが損傷する可能性があります。</string>
     <string name="pc_timely_charging_title">デバイスを充電してください</string>
     <string name="pc_to_phone_install">USB経由の%sのインストールをブロックしました</string>
@@ -3508,24 +3046,18 @@
     <string name="pc_wait_device_cools_down">この機能を使用するには、デバイスの温度が下がるまでお待ちください。</string>
     <string name="pc_wireless_charge_adjust_position_summary">ワイヤレス充電器の上に置いてください</string>
     <string name="pc_wireless_charge_adjust_position_title">デバイスの充電を高速化</string>
-    <string name="pc_wireless_charge_notification_summary">ワイヤレス充電は有線充電よりもエネルギー効率が悪いです</string>
-    <string name="pc_wireless_charge_notification_title">ワイヤレス充電中</string>
     <string name="pc_wireless_charging_special_stand_summary1">ワイヤレス充電器に付属しているスタンドにデバイスを取り付けます。</string>
     <string name="pc_wireless_charging_special_stand_summary2">最高の充電パフォーマンスを得るには、ワイヤレス充電器に付属しているスタンドにデバイスを取り付けてください</string>
     <string name="pc_wireless_charging_special_stand_title">付属の充電スタンドを使用する</string>
     <string name="pc_wireless_handle_connected">デバイスが接続されました</string>
-    <string name="pc_wireless_handle_title">プロ仕様のカメラグリップ</string>
+    <string name="pc_wireless_handle_title">カメラグリップ</string>
     <string name="pc_work_in_save_mode">バッテリーセーバー</string>
     <string name="pc_work_in_super_save_mode">ウルトラバッテリーセーバー</string>
     <string name="pc_xiaoai_create_auto_task">Mi AI からの新しいタスク</string>
     <string name="pc_xiaoai_voice_control_close">Mi AI の \"音声でスリープ解除\"をオフにする</string>
     <string name="per_month_pkg_traffic_settings">データ上限を設定</string>
-    <string name="percent_formatted_text">%s%%</string>
-    <string name="percent_text_formatted">%s%%</string>
-    <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">発熱とハードウェア関連の問題を回避する</string>
     <string name="perfermance_optimization_title">パフォーマンスの最適化</string>
-    <string name="performance_frame_enhance_super_display_tips">強化されたフレームレートと超解像度は、同時に機能することはできません。一方をオンにするともう一方がオフになります。</string>
     <string name="performance_frame_insert_super_display_tips">スマートフレームレートと超解像度を同時に有効にすることはできません。一方をオンにすると、もう一方はオフになります。</string>
     <string name="perm_intercept_content">このアプリにアクセス許可（%1s）を付与しますか？</string>
     <string name="perm_intercept_notification_title">%1sに通知の使用を許可すると、このアプリは以下の操作を実行できるようになります。</string>
@@ -3534,8 +3066,6 @@
     <string name="perm_intercept_unknown_title">%1sに不明のソースからのアプリのインストールを許可すると、以下のリスクが生じる可能性があります。</string>
     <string name="perm_list_header_title">アプリ</string>
     <string name="perm_list_header_title_has_storage">ストレージ権限を持つアプリ</string>
-    <string name="permdesc_coarse_location">おおよその位置情報</string>
-    <string name="permdesc_fine_location">位置情報</string>
     <string name="permdesc_get_installed_apps">\"%1$s\"によるインストール済みアプリに関する情報へのアクセスを許可しますか？</string>
     <string name="permdesc_in_calls">着信通話の監視</string>
     <string name="permdesc_out_calls">発信通話の監視</string>
@@ -3583,9 +3113,7 @@
     <string name="permission_group_location">この権限により、アプリはネットワークまたは衛星経由で位置情報にアクセスできるようになります。</string>
     <string name="permission_group_microphone">この権限により、アプリが録音のためにマイクを使用できるようになります。</string>
     <string name="permission_group_nearby_device">この権限により、アプリは付近のデバイスを検出して接続し、その位置を特定できるようになります。</string>
-    <string name="permission_group_note">アプリがメモのアイテムにアクセスできるようにするには、このアクセス許可を付与してください。</string>
     <string name="permission_group_phone">この権限により、アプリは通話の発信、応答、終了に加えて、電話番号、デバイスのステータス、モバイル ネットワーク情報にアクセスできるようになります。</string>
-    <string name="permission_group_record">アプリがレコーダーのアイテムにアクセスできるようにするには、このアクセス許可を付与してください。</string>
     <string name="permission_group_sms">この権限により、アプリは SMS と MMS を送信および表示できるようになります。</string>
     <string name="permission_group_sport_healthy">この権限により、アプリはアクティビティ情報 (歩数、ワークアウトなど) にアクセスできるようになります。</string>
     <string name="permission_instruction_access_notification">この権限により、アプリはすべての通知を読み取り、検索し、消去することができます。通知には個人情報（銀行カード番号やパスワードなど）が含まれる場合があることに注意してください。</string>
@@ -3626,11 +3154,9 @@
     <string name="permission_instruction_read_history">閲覧履歴へのアクセス</string>
     <string name="permission_instruction_read_imei">このデバイスのIMEIへのアクセス</string>
     <string name="permission_instruction_read_media_pic">この権限により、アプリはこのデバイスに保存されている写真やビデオにアクセスすることができます。これらのアイテムには、個人情報が含まれている可能性があります。</string>
-    <string name="permission_instruction_read_note">メモにアクセス</string>
     <string name="permission_instruction_read_notify_sms">この権限により、アプリはデバイスまたはSIMカードに保存されている通知テキストメッセージを読み取ることができます。</string>
     <string name="permission_instruction_read_phone_state">この権限により、アプリは電話番号、デバイスのステータス、モバイルネットワーク情報にアクセスできます。</string>
     <string name="permission_instruction_read_read_calendar">この権限により、アプリはカレンダーイベントを追加、削除、編集できます。</string>
-    <string name="permission_instruction_read_record">録音へのアクセス</string>
     <string name="permission_instruction_read_sms">この権限により、アプリはデバイスまたはSIMカードに保存されているすべてのテキストとマルチメディアメッセージを読み取ることができます。このようなメッセージには、パスワード、銀行口座の詳細、およびその他の個人情報が含まれている場合があります。</string>
     <string name="permission_instruction_read_write_calendar">この権限により、アプリはカレンダーイベントにアクセスできます。</string>
     <string name="permission_instruction_receive_mms">この権限により、アプリはデバイスまたはSIMカードに保存されているすべてのマルチメディアメッセージを読み取ることができます。このようなメッセージには、パスワード、銀行口座の詳細、およびその他の個人情報が含まれている場合があります。</string>
@@ -3658,22 +3184,16 @@
     <string name="permission_instruction_write_contacts">この権限により、アプリは連絡先を追加、削除、編集できるようになります。</string>
     <string name="permission_instruction_write_settings">この権限により、アプリはシステム設定を変更できます。悪意のあるアプリは、この権限を使用してシステム構成を破壊し、デバイスの通常の使用に影響を与える可能性があります。</string>
     <string name="permission_legacy_storage">写真、ビデオ、オーディオ、ファイルへのアクセス</string>
-    <string name="permission_oaid_desc">%1$s が他のアプリやウェブサイトでのアクティビティを追跡することを許可しますか？</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">アプリは、連絡先の読み取り、通話履歴の表示、システム設定の変更、カメラやその他のデバイスリソースにアクセスする前に、ユーザーの許可を要求しません。この機能はアクセス許可設定でオンにできます。</string>
     <string name="permission_permission_control_closed_desc_dialog_title">アクセス許可マネージャー</string>
     <string name="permission_precise_location">正確な位置情報</string>
     <string name="permission_precise_location_sumary">この機能をオフにすると、アプリはおおよその位置情報のみにアクセスできるようになります。</string>
-    <string name="permission_risk_app_for_desc">このアプリはセキュリティ上のリスクをもたらす可能性があります。アクセス許可を付与しますか？</string>
-    <string name="permission_risk_app_for_title">リスクが検出されました</string>
     <string name="permission_share_uid">正確な位置情報</string>
     <string name="permission_upgrade_more">その他のプライバシー保護機能</string>
     <string name="permission_upgrade_privacy_title">オーディオの録音や連絡先へのアクセスには、対応するアプリを使用している間だけアクセス許可を与えるオプションが追加されました。個人情報のプライバシーを保護するため、これらの操作はバックグラウンドでは実行されません。</string>
     <string name="permission_upgrade_runtime">位置情報へのアクセスや写真の撮影には、アクセス許可を一度だけ与えるオプションが追加されました。個人情報のプライバシーを保護するため、これらの操作はアプリを終了した後は実行されません。次回、関連する機能を使用する際には、再度アクセス許可を求められます。</string>
     <string name="permission_upgrade_title">アップデートされたアクセス許可</string>
     <string name="permission_upgrade_virtual">連絡先や通話履歴へのアクセスをアプリに許可したくない場合は、対応するアクセス許可を付与する際に「空のメッセージを返す」を選択することができます。</string>
-    <string name="permission_warning_for_cancel">キャンセル</string>
-    <string name="permission_warning_for_ensure">付与</string>
-    <string name="permission_warning_for_risk">アクセス許可を付与する場合、プライバシーを保護するために、空白のメッセージがアプリに返されます。</string>
     <string name="permission_with_SMS_and_MMS">SMSとMMSに関連する権限</string>
     <string name="permission_with_call_and_contact">電話、連絡先情報、通話履歴に関連する権限</string>
     <string name="permission_with_read_write_clipboard">アプリにクリップボードへのアクセスとアイテムの保存を許可する</string>
@@ -3719,7 +3239,6 @@
     <string name="power_analysis_consume_title">バッテリー使用量</string>
     <string name="power_analysis_suggestion_need_optimize">バッテリー使用の問題が検出されました。</string>
     <string name="power_autorun_apps_empty">自動起動アプリはありません</string>
-    <string name="power_bluetooth">Bluetooth</string>
     <string name="power_btn_analyze">バッテリー使用量を分析</string>
     <string name="power_cell">セルスタンバイ</string>
     <string name="power_center_5g_save_close_detail">5Gバッテリーセーバーは、5G接続に影響を与えることなくバッテリー駆動時間を延長します。オフにしてもよろしいですか？</string>
@@ -3737,15 +3256,12 @@
     <string name="power_center_battery_chargefull_time">充電完了まで</string>
     <string name="power_center_battery_detail">詳細</string>
     <string name="power_center_battery_duration">残り時間</string>
-    <string name="power_center_battery_duration_format">%1$s%2$s</string>
     <string name="power_center_battery_duration_screen_on">残りのスクリーンタイム</string>
     <string name="power_center_battery_hardware">ハードウェア %s</string>
     <string name="power_center_battery_health_poor_tip">バッテリーの健康度が低いようです。認定サービスセンターでバッテリーを点検してください。</string>
     <string name="power_center_battery_health_summary">バッテリーの健康度の推定精度を向上させるために、デバイスを%1$d〜%2$d回完全に充電および放電する必要があります</string>
     <string name="power_center_battery_last">残り%s</string>
     <string name="power_center_battery_level">%s 充電済み</string>
-    <string name="power_center_battery_level_general">普通</string>
-    <string name="power_center_battery_problem_and_suggest">%1$s。%2$s。</string>
     <string name="power_center_battery_software">ソフトウェア %s</string>
     <string name="power_center_battery_status">バッテリー使用量</string>
     <string name="power_center_battery_temperature">温度</string>
@@ -3763,12 +3279,6 @@
     <string name="power_center_dialog_msg_top">バッテリーセーバーがオンの場合、以下の最適化が実行されます。</string>
     <string name="power_center_hints_scan_danger_result">バッテリーの問題を修正できます</string>
     <string name="power_center_list_item_auto_brightness">画面の明るさを自動的に調整する</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
-    <string name="power_center_list_item_battery_status_time">時間</string>
     <string name="power_center_list_item_close_bluetooth">Bluetoothをオフにする</string>
     <string name="power_center_list_item_deep_save_title">高度な設定</string>
     <string name="power_center_list_item_haptic_feedback">触覚フィードバックをオフにする</string>
@@ -3778,7 +3288,6 @@
     <string name="power_center_list_item_set_lockscreen_time_summary">デバイスをより速くロックすると、バッテリーを節約できます</string>
     <string name="power_center_list_item_wake_notification">通知受信時に画面のスリープを解除しない</string>
     <string name="power_center_list_item_wake_notification_summary">画面をオンにした場合にのみ、着信通知が表示されます</string>
-    <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_center_night_charge_noti_subtitle">%sに充電完了予定</string>
     <string name="power_center_night_charge_noti_title">最適化された充電の実行中</string>
     <string name="power_center_night_charge_protection">最適化された充電</string>
@@ -3835,8 +3344,6 @@
     <string name="power_center_super_wireless_charge_dialog_summary">このモードでは、ワイヤレス充電器のクーラーのファン速度が上がります。高速で充電したい場合はこのモードをオンにし、音がうるさいと思う場合はオフにしてください。</string>
     <string name="power_center_super_wireless_charge_dialog_summary2">その他のオプションについては [セキュリティ] > [バッテリー] > [設定] に移動してください。</string>
     <string name="power_center_super_wireless_charge_dialog_title">クイックワイヤレス充電</string>
-    <string name="power_center_super_wireless_charge_enter_noti_summary">无线充电器风扇转速提高，充电速度更快</string>
-    <string name="power_center_super_wireless_charge_enter_noti_title">可开启极速无线充电模式</string>
     <string name="power_center_super_wireless_charge_noti_summary">タップして設定を開く</string>
     <string name="power_center_super_wireless_charge_noti_switch">クイックワイヤレス充電について通知する</string>
     <string name="power_center_super_wireless_charge_noti_title">クイックワイヤレス充電はオンです</string>
@@ -3846,9 +3353,8 @@
     <string name="power_center_surface_temp_higher">やや高い</string>
     <string name="power_center_surface_temp_low">低温</string>
     <string name="power_center_surface_temp_lower">やや低い</string>
-    <string name="power_center_surface_temp_normal">正常</string>
-    <string name="power_center_time_to_boot">時刻</string>
-    <string name="power_center_time_to_shutdown">時刻</string>
+    <string name="power_center_time_to_boot">設定時刻に電源オン</string>
+    <string name="power_center_time_to_shutdown">設定時刻に電源オフ</string>
     <string name="power_center_title">バッテリー</string>
     <string name="power_center_unoffical_battery_button">正規サービスプロバイダーを探す</string>
     <string name="power_center_unoffical_battery_dialog">非純正バッテリーの警告</string>
@@ -3871,7 +3377,6 @@
     <string name="power_dailog_night_charge_protection_summary">バッテリーが完全に充電されている状態になっていることが多いようです。これにより、バッテリーの経年劣化が早まる可能性があります。そのような問題を回避するために最適化された充電をオンにしました。</string>
     <string name="power_dailog_night_charge_protection_summary_new">このデバイスのバッテリーは頻繁に完全に充電された状態にあるようですが、これにより劣化が早まる可能性があります。充電時間を自動的に調整し、バッテリーの寿命を保つために、夜間充電保護がオンになりました。</string>
     <string name="power_dialog_cancel">キャンセル</string>
-    <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_performance_mode_checkbox">%dHzのリフレッシュレートに切り替える</string>
     <string name="power_dialog_super_save_msg">ウルトラバッテリーセーバーは、基本的な機能（通話、SMS、ネットワーク接続など）をできるだけ長く利用できるようにするため、大部分の電力消費機能を制限し、デバイスのパフォーマンスを低下させます。ウルトラバッテリーセーバーをオンにしますか？</string>
     <string name="power_dialog_super_save_msg_5g">ウルトラバッテリーセーバーは、デバイスのパフォーマンスを低下させるほとんどの電力消費機能（5G接続など）を制限します。通話、メッセージ、およびネットワーク接続のみが影響を受けません。ウルトラバッテリーセーバーをオンにしますか？</string>
@@ -3927,7 +3432,6 @@
     <string name="power_optimize_loading">読み込み中</string>
     <string name="power_optimize_open_hide_mode">バッテリーセーバーをオンにする</string>
     <string name="power_optimize_power_save_extend_time">%s延長</string>
-    <string name="power_optimize_power_save_extend_time_new" formatted="false">%1s%2s延長</string>
     <string name="power_optimize_power_save_summary">バッテリーセーバーをオンにして、バックグラウンドアクティビティを制限する複数のシステム最適化を適用します</string>
     <string name="power_optimize_prohibit_app_autostart">アプリの自動起動を許可しない</string>
     <string name="power_optimize_reduce_fps">画面のリフレッシュレートを%dHzに下げる</string>
@@ -3958,7 +3462,7 @@
     <string name="power_save_mode_other_optimization">オプションの最適化</string>
     <string name="power_save_mode_start_time">開始</string>
     <string name="power_save_mode_summary">バックグラウンドプロセスを監視し、同期をオフにします。</string>
-    <string name="power_save_model_open">省電力オン</string>
+    <string name="power_save_model_open">バッテリーセーバーはオンです</string>
     <string name="power_save_on_time_end_time_summary_na">終了時刻</string>
     <string name="power_save_on_time_start_time_summary_na">開始時刻</string>
     <string name="power_save_ps_clean">デバイスのロック時にキャッシュを消去</string>
@@ -3970,7 +3474,6 @@
     <string name="power_save_ps_close_setting_7">電力消費の大きいサービスと機能をオフにする（%1$s、%2$s、%3$s、%4$s、%5$s、%6$s、%7$s）</string>
     <string name="power_save_ps_close_setting_dclickwakeup">\"ダブルタップしてスリープ解除または画面をオフにする\"</string>
     <string name="power_save_ps_close_setting_fingeraod">\"画面オフ時に指紋アイコンを表示\"</string>
-    <string name="power_save_ps_close_setting_gps">GPS</string>
     <string name="power_save_ps_close_setting_haptic">触覚フィードバック</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"持ち上げてスリープ解除\"</string>
     <string name="power_save_ps_close_setting_sync">同期</string>
@@ -4006,7 +3509,6 @@
     <string name="power_settings_top">トップバー</string>
     <string name="power_superpower_title_systemui_highpower">残り時間</string>
     <string name="power_superpower_title_systemui_lowpower">充電器を接続してください</string>
-    <string name="power_wifi">Wi-Fi</string>
     <string name="power_wireless_need_update_text">アップデート中…</string>
     <string name="power_wireless_ubable_update_toast">ワイヤレス充電中はファームウェアをアップデートできません</string>
     <string name="power_wireless_update_button_text">アップデート</string>
@@ -4053,7 +3555,6 @@
     <string name="pref_category_package_type_title">データプランの種類</string>
     <string name="pref_category_title_module_settings">機能の設定</string>
     <string name="pref_category_title_other">追加設定</string>
-    <string name="pref_category_title_securitycenter_settings">一般</string>
     <string name="pref_correction_setting">校正テンプレート設定</string>
     <string name="pref_correction_setting_switch">カスタムキャリブレーションテンプレートを使用する</string>
     <string name="pref_correction_sms_content">校正テンプレート</string>
@@ -4081,7 +3582,6 @@
     <string name="pref_normal_traffic_limit">データプランを使い切った場合</string>
     <string name="pref_open_adjust_traffic">通信事業者からの統計情報を使用してデータ使用量を毎日アップデートする</string>
     <string name="pref_operator_not_set">通信事業者が設定されていません</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">データプランを超えて利用した場合</string>
     <string name="pref_package_traffic_settings">データプラン</string>
     <string name="pref_pkg_begin_date">データプランの開始日</string>
@@ -4165,11 +3665,10 @@
     <string name="privacy_dialog_camera_message">プライバシーを保護するために、システムはアプリがバックグラウンドでカメラを使用することを許可していません。</string>
     <string name="privacy_dialog_camera_title">バックグラウンドでのカメラの使用を制限</string>
     <string name="privacy_dialog_content_part1">セキュリティへようこそ！このアプリは、デバイスのゴミやウイルスをチェックするだけでなく、アプリの管理、モバイルデータの使用量のコントロール、通話やメッセージのブロックなどを行うことができます。</string>
-    <string name="privacy_dialog_content_part2"><Data>セキュリティアプリは、サービスの提供とその機能の改善に必要な個人情報を収集する必要があります。当社が収集した情報の取扱方法については、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>をご覧ください。セキュリティアプリのプライバシーポリシーへの同意は、いつでも設定で撤回することができます。</Data></string>
-    <string name="privacy_dialog_content_part3"><Data>セキュリティアプリの使用を開始する前に、&lt;a href=\"%2$s\">利用規約&lt;/a>と&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。前述のサービスの利用に同意しない場合、このアプリの一部機能を使用できなくなります。ただし、基本的な機能は引き続き利用できます。</Data></string>
+    <string name="privacy_dialog_content_part2">&lt;Data>セキュリティアプリは、サービスの提供とその機能の改善に必要な個人情報を収集する必要があります。当社が収集した情報の取扱方法については、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>をご覧ください。セキュリティアプリのプライバシーポリシーへの同意は、いつでも設定で撤回することができます。&lt;/Data></string>
+    <string name="privacy_dialog_content_part3">&lt;Data>セキュリティアプリの使用を開始する前に、&lt;a href=\"%2$s\">利用規約&lt;/a>と&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。前述のサービスの利用に同意しない場合、このアプリの一部機能を使用できなくなります。ただし、基本的な機能は引き続き利用できます。&lt;/Data></string>
     <string name="privacy_dialog_danger_mission_message">Androidには複数のリスクの高い権限（例：プッシュ通知を送信する権限）があります。プライバシーを保護するために、システムはそのような動作を許可するかどうかを尋ね、制限オプションを提供します。</string>
     <string name="privacy_dialog_danger_mission_title">リスクの高い権限</string>
-    <string name="privacy_dialog_feedback">フィードバック</string>
     <string name="privacy_dialog_message">インターネット接続時、データ使用状況の監視を改善する目的で、通信事業者の情報とともにこのメッセージは暗号化され、Xiaomiのサーバーへアップロードされます。</string>
     <string name="privacy_dialog_negative_button_text">終了</string>
     <string name="privacy_dialog_ok">了解</string>
@@ -4215,7 +3714,6 @@
     <string name="privacy_look_all_permission_status">すべての権限</string>
     <string name="privacy_look_all_permission_times">すべてのアプリ</string>
     <string name="privacy_look_privacy">プライバシーポリシー</string>
-    <string name="privacy_manage_title" />
     <string name="privacy_mask_summary">実際の識別子の代わりに、システムはサードパーティのアプリに仮想 ID (OAID) を提供します。 アプリがユーザーの行動や好みを追跡するのを防ぎ、プライバシーを保護します。</string>
     <string name="privacy_mask_title">仮想IDはオンです</string>
     <string name="privacy_mode_dialog_title">ゲストモード</string>
@@ -4272,7 +3770,7 @@
     <string name="privacy_revoke_dialog_title_cn">注意</string>
     <string name="privacy_revoke_failed_dialog_content">サーバーエラーが発生しました。1、2分待ってからもう一度お試しください。</string>
     <string name="privacy_revoke_failed_dialog_title">同意を撤回できませんでした</string>
-    <string name="privacy_revoke_tip_dialog_content"><Data>新しいバージョンのプライバシーポリシーに同意しない限り、%1$sの利用を継続することはできません。更新された%2$sの&lt;a href=\"%3$s\">プライバシーポリシー&lt;/a>に今すぐ同意しますか？</Data></string>
+    <string name="privacy_revoke_tip_dialog_content">&lt;Data>新しいバージョンのプライバシーポリシーに同意しない限り、%1$sの利用を継続することはできません。更新された%2$sの&lt;a href=\"%3$s\">プライバシーポリシー&lt;/a>に今すぐ同意しますか？&lt;/Data></string>
     <string name="privacy_revoke_tip_dialog_title">アプリを使用できません</string>
     <string name="privacy_revoke_title">同意の撤回</string>
     <string name="privacy_risk_app">リスクの高いアプリ</string>
@@ -4333,7 +3831,6 @@
     <string name="privacy_risk_sensitive_top_tip">プライバシーを保護するため、センシティブな権限は必要な場合にのみ付与してください。</string>
     <string name="privacy_risk_space_uninstall_dialog_msg">デュアルアプリを含む選択したアプリをアンインストールしますか？</string>
     <string name="privacy_risk_uninstall_dialog_msg">選択したアプリを今すぐアンインストールしますか？</string>
-    <string name="privacy_risk_uninstall_dialog_title">OK</string>
     <string name="privacy_risk_uninstall_title">アプリをアンインストール</string>
     <string name="privacy_risk_work_encryption">ソーシャルメディアとオフィスファイルが保護されていません</string>
     <string name="privacy_screen_share_notification_content">別のデバイスにキャストしています。プライバシー保護がオンになっています。</string>
@@ -4369,22 +3866,20 @@
     <string name="privacy_thumbnail_blur_category_photography">写真とビデオ</string>
     <string name="privacy_thumbnail_blur_category_tip">推奨</string>
     <string name="privacy_thumbnail_blur_search_empty">該当結果が見つかりませんでした</string>
-    <string name="privacy_thumbnail_blur_title">アプリのプレビューをぼかす</string>
+    <string name="privacy_thumbnail_blur_title">プレビューをぼかす</string>
     <string name="privacy_thumbnail_blur_top_tip">「最近のタスク」に表示する際にプレビューをぼかすアプリを選択します</string>
     <string name="privacy_thumbnail_shield_title">プレビューマスキング</string>
     <string name="privacy_thumbnail_shield_top_tip">\"最近のタスク\"に表示されるアプリのプレビューを隠す</string>
     <string name="privacy_type_open">オン</string>
     <string name="privacy_update_dialog_content_1">%sのプライバシーポリシーが更新されました:</string>
-    <string name="privacy_update_dialog_content_2"><Data>続ける前に、新しいバージョンの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
+    <string name="privacy_update_dialog_content_2">&lt;Data>続ける前に、新しいバージョンの&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
     <string name="privacy_update_dialog_title">プライバシーポリシーの更新</string>
     <string name="privacy_using_camera">カメラを使用中</string>
     <string name="privacy_using_location">位置情報にアクセス中</string>
     <string name="privacy_using_record">録音中</string>
     <string name="privacyapp_number_masked_text">通知内容を非表示にしたアプリ</string>
     <string name="privacyapp_number_unmasked_text">通知内容を非表示にできるアプリ</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">メディアサーバー</string>
-    <string name="process_vpnsdkmanager_label">ゲームターボ</string>
     <string name="promotion">広告</string>
     <string name="prompt_all">すべてのアプリで確認するように設定</string>
     <string name="prompt_input_time_illegal">この時間は設定できません。変更してやり直してください。</string>
@@ -4457,16 +3952,6 @@
     <string name="reset_data_dialog_message">このデバイスは、Xiaomi アカウントに関連付けられていません。パスワードの復元またはリセットができません。重要なアイテムをすべてバックアップし、ファクトリーリセットを実行してください。ファクトリーリセットでは、すべてのデータが完全に削除され、SDカードがフォーマットされます。</string>
     <string name="reset_data_dialog_ok">ファクトリーリセット</string>
     <string name="reset_data_title">パスワードを復元できません</string>
-    <string name="restore_device_id_content">パーソナライズされたおすすめはリセットされます</string>
-    <string name="restore_device_id_title">デバイスIDをリセット</string>
-    <string name="restore_dialog_content">現在のデバイスIDをリセットすると、パーソナライズされたおすすめもリセットされます。今すぐリセットしますか？</string>
-    <string name="restore_dialog_positive">リセット</string>
-    <string name="restore_dialog_title">注意</string>
-    <string name="restore_oaid_content">仮想IDをリセットして、行動と好みの記録を消去します</string>
-    <string name="restore_oaid_dialog_content">複数のアプリが仮想IDを使用しています。今すぐリセットすると、アプリデータの一部が失われたり、使用できなくなったりする可能性があります。仮想IDをリセットしてもよろしいですか？</string>
-    <string name="restore_oaid_positive">リセット</string>
-    <string name="restore_oaid_positive_step">リセット (%1$d)</string>
-    <string name="restore_oaid_title">仮想IDをリセット</string>
     <string name="result_autoscan_header">決済の監視</string>
     <string name="result_autoscan_info">決済アプリが起動すると自動的にシステム環境を監視します</string>
     <string name="result_sms_header">メッセージのリスクが検出されました</string>
@@ -4476,7 +3961,6 @@
     <string name="result_sms_title_auth">金融関連のSMSは情報漏洩のリスクが存在します</string>
     <string name="result_wifi_header">Wi-Fiリスクが検出されました</string>
     <string name="resume">復元</string>
-    <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">このアプリを信頼</string>
     <string name="risk_app_install_agree_checkbox">私はリスクの存在を認識し、一切の責任を引き受けます。</string>
     <string name="risk_app_install_agree_message">このアプリはサードパーティが開発したものであり、お住まいの地域の法律や規制に違反する可能性があります。Xiaomiは、このアプリが提供するコンテンツやサービスの可用性、継続性、アクセス性を保証しません。このアプリの使用によって生じた損失や損害は、ご利用者が負担するものとします。</string>
@@ -4486,7 +3970,6 @@
     <string name="risk_app_install_history">承認履歴</string>
     <string name="risk_app_install_item_des">バージョン：%1$s</string>
     <string name="risk_app_install_manager">リスクが存在するアプリ</string>
-    <string name="risk_count_suffix" />
     <string name="risk_detail_app">リスクが存在します</string>
     <string name="risk_detail_title">リスクの可能性</string>
     <string name="risk_info_title">説明</string>
@@ -4535,7 +4018,6 @@
     <string name="scan_open_shut_down_password_title">シャットダウンの確認</string>
     <string name="scan_status_risk">リスクがあります</string>
     <string name="scan_status_safe">安全です</string>
-    <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">最新バージョンのスクリーンレコーダーをインストールしてからもう一度お試しください。</string>
     <string name="sd_eject">SDカードのマウントを解除</string>
     <string name="sd_eject_summary">SDカードのマウントを解除して、安全に取り外します</string>
@@ -4543,15 +4025,6 @@
     <string name="sd_format_summary">SDカード上のすべてのデータ（曲や写真を含む）を消去します</string>
     <string name="sd_insert_summary">マウントするSDカードを挿入します</string>
     <string name="sd_mount">SDカードをマウント</string>
-    <string name="sd_mount_summary" />
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-    <string name="search_keyword_apply">アプリ</string>
-    <string name="search_keyword_applybar">アプリドック</string>
-    <string name="search_keyword_call">通話</string>
-    <string name="search_keyword_sidebar">サイドバー</string>
-    <string name="search_keyword_tool">ツール</string>
-    <string name="search_keyword_tools">ツールボックス</string>
-    <string name="search_keyword_voice">音声</string>
     <string name="search_menu_title">検索</string>
     <string name="search_result_text">アプリが見つかりませんでした</string>
     <string name="section_clear_acc_item_title">%s。ストレージ容量が足りない場合は、クリーナーを使用してみてください。</string>
@@ -4644,19 +4117,9 @@
     <string name="sim_not_ready_toast">SIMカードの準備ができていません</string>
     <string name="sim_state_exception_summary">SIMステータスがSIMカードに問題があることを示しています。</string>
     <string name="sip_phone">SIP電話</string>
-    <string name="size_byte">B</string>
-    <string name="size_compat1">%1$d:%2$d</string>
-    <string name="size_compat2">%1$d:%2$d</string>
     <string name="size_embedded">パラレルウィンドウ</string>
     <string name="size_full">全画面表示</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
-    <string name="size_tera_byte">TB</string>
     <string name="skin_change_close_toast">次にセキュリティを起動したときに変更が適用されます</string>
-    <string name="skip_ad">スキップ</string>
     <string name="sms_address">地域ブロックリスト</string>
     <string name="sms_blacklist">SMSブロックリスト</string>
     <string name="sms_cloud_block">クラウドブロックリスト</string>
@@ -4680,7 +4143,6 @@
     <string name="sp_abnormal_scan_title">診断</string>
     <string name="sp_antispam_scan_summary">詐欺から身を守る</string>
     <string name="sp_antispam_scan_title">ブロックリスト</string>
-    <string name="sp_app_install_protect_title">アプリインストール保護</string>
     <string name="sp_background_risk_dialog_summary">、支払いの問題を確認して修正してください。</string>
     <string name="sp_background_risk_dialog_summary_new">現在の決済環境では、セキュリティリスクが発生する可能性があります。詳しくはこちらをご覧ください。</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">現在公共Wi-Fiネットワークに接続していますが、このようなネットワークは安全でない場合があります。決済が保護されていることを確認してから実行してください。</string>
@@ -4724,7 +4186,6 @@
     <string name="sp_privacy_protect_summary">個人情報を保護する</string>
     <string name="sp_privacy_protect_title">プライバシー保護</string>
     <string name="sp_property_security_title">資産のセキュリティ</string>
-    <string name="sp_safe_install_mode_title">Mi Protect</string>
     <string name="sp_scan_item_monitor">決済を監視する</string>
     <string name="sp_scan_item_url_antispam">悪意のあるURLからの保護</string>
     <string name="sp_security_center_title">セキュリティ</string>
@@ -4740,7 +4201,6 @@
     <string name="sp_settings_check_item_title_sign_exception">署名の例外</string>
     <string name="sp_settings_check_item_title_update">システムアップデート</string>
     <string name="sp_settings_check_item_title_virus_exception">例外</string>
-    <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_exception_count_zero">アイテムはありません</string>
     <string name="sp_settings_group_title_check_item">複数のアイテム</string>
     <string name="sp_settings_info_input_method">支払い中にキーボードのセキュリティ問題をテストする</string>
@@ -4773,7 +4233,6 @@
     <string name="special_perm_install_title">不明なソースからアプリをインストール</string>
     <string name="special_perm_intercept_action_msg">デバイスの使用状況を学び、操作を自動操作に置き換えます</string>
     <string name="special_perm_intercept_action_title">操作を学習して自動化</string>
-    <string name="special_perm_intercept_allow">OK (%d)</string>
     <string name="special_perm_intercept_analyze_msg">使用しているアプリとその頻度をアプリが学習できるようにします</string>
     <string name="special_perm_intercept_analyze_title">好みや行動を分析</string>
     <string name="special_perm_intercept_app_msg">ソーシャルメディアや銀行アプリからの通知を含む</string>
@@ -4827,7 +4286,6 @@
     <string name="special_perm_window_msg">アプリがPiPモードでアイテムを表示できるようにします</string>
     <string name="special_perm_window_title">PiPモードでアイテムを表示</string>
     <string name="sponsored_sec_fb">スポンサー</string>
-    <string name="ss_activity_main_support_text">Powered by %s</string>
     <string name="st_antispam_black_adress_add">場所を追加</string>
     <string name="st_antispam_bw_adress_add">場所を追加</string>
     <string name="st_antispam_bw_choose_modes">リストに追加</string>
@@ -4857,7 +4315,6 @@
     <string name="st_antispam_title_contact_incoming">連絡先からの着信</string>
     <string name="st_antispam_title_contact_sms">連絡先からのメッセージ</string>
     <string name="st_antispam_title_contactandanoy_group">設定</string>
-    <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_null_incoming">プライベート番号</string>
     <string name="st_antispam_title_service_sms">サービス通知</string>
     <string name="st_antispam_title_whitelist">例外</string>
@@ -4905,8 +4362,6 @@
     <string name="st_summary_special_numbers">フラグ付きの電話番号をブロック</string>
     <string name="st_summary_whitelist_numbers">特定の番号と地域からの着信とメッセージを許可</string>
     <string name="st_summary_whitelist_numbers_international">特定の番号からの着信とメッセージを許可</string>
-    <string name="st_tab_title">%1$s (SIM %2$d)</string>
-    <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">ブロックリストに追加</string>
     <string name="st_title_addwhitelist">例外に追加</string>
     <string name="st_title_adress">場所を追加</string>
@@ -4940,23 +4395,19 @@
     <string name="st_title_other_group">その他</string>
     <string name="st_title_settings_other_group">追加設定</string>
     <string name="st_title_show_antispam_notification">ブロックリスト通知</string>
-    <string name="st_title_sim_card">%1$s - SIM %2$s</string>
     <string name="st_title_whitelist_numbers">例外</string>
     <string name="start">開始</string>
     <string name="start_downloading_app">ダウンロードを開始しています: %1$s</string>
     <string name="start_game">開始</string>
     <string name="status_bar_network_flow_content">今日: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;残り: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">今日: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;今月: %2$s</string>
-    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="status_bar_network_flow_exceed_content">今日: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;超過: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_phone_balance">"   電話料金:%1$s "</string>
     <string name="status_bar_network_flow_purchase">"   購入 >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   データプランを設定 >"</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_retain_btn">残す</string>
     <string name="stop_milink_connect">キャストを停止しました</string>
     <string name="storage_activity_title">ストレージ容量</string>
-    <string name="storage_activity_title_personage">個人</string>
     <string name="storage_activity_title_work">仕事</string>
     <string name="storage_app_detail_activity_title">占有スペース</string>
     <string name="storage_app_detail_cache">キャッシュ</string>
@@ -4966,10 +4417,8 @@
     <string name="storage_app_detail_clear_cache">キャッシュを消去</string>
     <string name="storage_app_detail_clear_cache_title">アプリのキャッシュを今すぐ消去しますか？</string>
     <string name="storage_app_detail_dialog_cancel">キャンセル</string>
-    <string name="storage_app_detail_dialog_ok">OK</string>
     <string name="storage_app_detail_manage_space">%s - ストレージ容量の管理</string>
     <string name="storage_app_detail_manager_enabled">オン</string>
-    <string name="storage_app_detail_qq_cleaner">QQクリーナー</string>
     <string name="storage_app_detail_sdcard">アプリデータ</string>
     <string name="storage_app_detail_system">アプリサイズ</string>
     <string name="storage_app_detail_third_clean_size">%sを解放</string>
@@ -5029,14 +4478,11 @@
     <string name="storage_file_list_btn">%1$sを削除</string>
     <string name="storage_file_list_form_default">SDカード</string>
     <string name="storage_file_list_from">転送元: %s</string>
-    <string name="storage_fob_date_format">MM/dd</string>
     <string name="storage_format_failure">%1$sをフォーマットできませんでした</string>
     <string name="storage_format_success">%1$sを正常にフォーマットしました</string>
-    <string name="storage_item_apk_name">APK</string>
     <string name="storage_item_appdata_name">アプリとデータ</string>
     <string name="storage_item_audio_name">オーディオ</string>
     <string name="storage_item_clean_name">容量を解放</string>
-    <string name="storage_item_doc_name">ドキュメント</string>
     <string name="storage_item_other_name">その他</string>
     <string name="storage_item_picture_name">画像</string>
     <string name="storage_item_system_data">システムファイル</string>
@@ -5045,9 +4491,6 @@
     <string name="storage_menu_mount">マウント</string>
     <string name="storage_mount_failure">%1$sをマウントできませんでした</string>
     <string name="storage_mount_success">%1$sを正常にマウントしました</string>
-    <string name="storage_permission_button">設定</string>
-    <string name="storage_permission_message">ストレージ使用量を正確に計算するには、この機能によるストレージへのアクセスを許可してください。アクセス許可は設定で付与できます。</string>
-    <string name="storage_permission_title">アクセス許可が必要です</string>
     <string name="storage_space_release_hint">より多くのストレージ容量が必要ですか？</string>
     <string name="storage_system_log">システムログ</string>
     <string name="storage_system_log_tip">システムログは必要に応じて自動的に消去されます</string>
@@ -5069,7 +4512,6 @@
     <string name="suggest_app_tolock_masked">内容は非表示になりました</string>
     <string name="suggest_app_tolock_unmasked">隠していない通知</string>
     <string name="suggest_scan_again">セキュリティリスクを避けるためにスキャンを完了してください。</string>
-    <string name="suggest_to_use_mi_sim">Use Mi Sim to prevent you from generating additional carrier fees.</string>
     <string name="summary_app_lock_disable">アプリロックでデータを保護する</string>
     <string name="summary_app_update_new">アプリをアップデートして新機能にアクセスする</string>
     <string name="summary_auto_update">この機能は、アップデートのダウンロードとインストールに最適な時間を選択します。</string>
@@ -5082,7 +4524,6 @@
     <string name="summary_cloud_space_almost_full">ストレージを取得</string>
     <string name="summary_cloud_space_full">ストレージ容量を増やし、より多くの機能にアクセスする</string>
     <string name="summary_cmcc_app_check">一部のアプリを確認できませんでした</string>
-    <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
     <string name="summary_consume_power">発熱の問題が見つかりました。バッテリーの寿命に影響を与える可能性があります。</string>
     <string name="summary_dark_mode">サードパーティのサービスが原因で一部のページが黒く表示されています</string>
     <string name="summary_data_flow">追加料金を避けるためにモバイルデータの使用を制御する</string>
@@ -5123,12 +4564,8 @@
     <string name="sunday_short">日</string>
     <string name="sunday_shortest">日</string>
     <string name="superpower_dialog_button_disable_dialog">再度表示しない</string>
-    <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">ウルトラバッテリーセーバーは、基本的な機能（通話、SMS、ネットワーク接続など）をできるだけ長く利用できるようにするため、大部分の電力消費機能を制限し、デバイスのパフォーマンスを低下させます。ウルトラバッテリーセーバーをオンにしますか？</string>
     <string name="superpower_dialog_title">ウルトラバッテリーセーバー</string>
-    <string name="superpower_notification_low_temp_btn_txt">オンにする</string>
-    <string name="superpower_notification_low_temp_summary">低温耐久モードは、ウルトラバッテリーセーバーがオンで、周囲温度が極端に低い場合に、バッテリーをより節約することができます。</string>
-    <string name="superpower_notification_low_temp_title">ウルトラバッテリーセーバーをオンにしますか？</string>
     <string name="superpower_notification_new_title_new">バッテリー残量が%s未満です</string>
     <string name="superpower_notification_summary">デバイスを充電するか、ウルトラバッテリーセーバーをオンにしてください</string>
     <string name="superpower_notification_time_12">M月d日 EEEE</string>
@@ -5136,7 +4573,6 @@
     <string name="superpower_notification_title_new">バッテリー残量が%s未満です</string>
     <string name="superpower_progress_content">ウルトラバッテリーセーバーをオンにしています…</string>
     <string name="superpower_progress_left_time">%1$d時間%2$d分</string>
-    <string name="superpower_progress_low_temp_content">低温耐久モードをオンにしています…</string>
     <string name="superpower_progress_switch_home">ダークテーマに切り替える</string>
     <string name="superpower_progress_title">残り時間</string>
     <string name="superpower_progress_turndown_brightness">画面の明るさを下げる</string>
@@ -5158,8 +4594,6 @@
     <string name="sys_app_prot_cracked_confirm">了解</string>
     <string name="sys_cpu_title">CPU 使用率</string>
     <string name="sys_freememory_title">利用可能</string>
-    <string name="sys_title_gamebooster_unit_gb">GB</string>
-    <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="system_anti_fraud_dialog_confirm_btn_txt">了解</string>
     <string name="system_anti_fraud_dialog_content">詐欺の電話やメッセージが届いたようです。この支払いを続行すると、金銭的な損失が発生する可能性があります。</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>カスタマーサービス担当者、当局、またはあなたが知っているかもしれない人々がこの支払いを完了するように求めた場合、続ける前に&lt;/font>&lt;font = color=#F22424>彼らの身元を確認してください。&lt;/font></string>
@@ -5174,26 +4608,25 @@
     <string name="system_permission_declare_agree">同意</string>
     <string name="system_permission_declare_analytics_declare">当社のユーザーエクスペリエンスプログラムにご登録ください。このアプリは、当社がご利用者に提供するサービスを改善するために、インターネットに接続し、以下の権限または機能を使用して統計を収集する必要があります。統計目的でのみデータを収集しており、収集したデータに基づいてご利用者を個人的に特定することはできません。</string>
     <string name="system_permission_declare_disagree">同意しない</string>
-    <string name="system_permission_declare_double_link"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
+    <string name="system_permission_declare_double_link">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1sへようこそ！このアプリでは次の機能を使用できます。%2s。</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>と&lt;a href=\"%2$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。&lt;/Data></string>
     <string name="system_permission_declare_no_say_no">必要なアクセス許可を付与しない、または当社によるデータの収集と使用を許可しない場合、このアプリは正常に動作しません。</string>
     <string name="system_permission_declare_no_say_no_analytics">これらのアクセス許可を付与したくない場合は、設定 > 追加設定 > プライバシー > ユーザーエクスペリエンスプログラム で登録を解除できます。</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">必要なアクセス許可を付与しない、または当社によるデータの収集と使用を許可しない場合、このアプリは正常に動作しません。</string>
     <string name="system_permission_declare_optional">アプリの使用中に追加のサービスを提供するために、アクセス許可（%s）が必要になる場合があります。アクセス許可の状態は、設定でいつでも調整できます。</string>
-    <string name="system_permission_declare_optional_default_grant"><Data>より良いユーザーエクスペリエンスを提供するために、このアプリには次の追加の権限が必要です: %1s。個人情報の処理方法の詳細については、&lt;a href=\"test\">こちら&lt;/a>をタップしてください。権限はいつでも [設定] で管理できます。</Data></string>
     <string name="system_permission_declare_privacy_declare">このアプリはインターネットに接続する必要があり、正常に動作するためには以下の権限が必要です。</string>
     <string name="system_permission_declare_privacy_no_network">このアプリが正常に動作するには、以下のアクセス許可が必要です。</string>
     <string name="system_permission_declare_privacy_no_permission">このアプリは、インターネットに接続し、正常に動作するために必要な個人データを収集する必要があります。</string>
-    <string name="system_permission_declare_privacy_policy"><Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。</Data></string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data>続ける前に、&lt;a href=\"%1$s\">プライバシーポリシー&lt;/a>を読んで同意してください。&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">このアプリを終了できます。</string>
     <string name="system_permission_declare_revoke_uninstallable">サインアウトしてこのアプリをアンインストールするか、セキュリティ > アプリを管理 > アクセス許可 > アクセス許可 で承認を撤回することができます。</string>
     <string name="system_permission_declare_title">注意</string>
     <string name="system_permission_declare_use_network">ネットワークに接続</string>
     <string name="system_permission_declare_use_network_no_permission">ネットワークに接続</string>
-    <string name="system_permission_declare_user_agreement"><Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。</Data></string>
+    <string name="system_permission_declare_user_agreement">&lt;Data>続ける前に、&lt;a href=\"%1$s\">利用規約&lt;/a>を読んで同意してください。&lt;/Data></string>
     <string name="system_permission_perm_answer_call">電話をかける</string>
     <string name="system_permission_perm_optional">" (任意)"</string>
     <string name="system_permission_perm_read_mms">MMSの読み取り</string>
@@ -5206,7 +4639,6 @@
     <string name="tab_call">通話</string>
     <string name="tab_gift">ギフト</string>
     <string name="tab_guide">ガイド</string>
-    <string name="tab_sms">SMS</string>
     <string name="tab_sort_all">すべて</string>
     <string name="tab_title">ブロックリスト</string>
     <string name="tc_cmd_invalid">テンプレートが無効です</string>
@@ -5264,11 +4696,7 @@
     <string name="tether_over_limit_dialog_title">データ使用量の警告</string>
     <string name="tether_over_limit_warning_notify_message">ポータブルホットスポットをオフにしてください。</string>
     <string name="tether_over_limit_warning_notify_title">ホットスポットデータの上限に達しました</string>
-    <string name="textDirection">ltr</string>
     <string name="text_button">了解</string>
-    <string name="text_cycle_day">%s</string>
-    <string name="text_day" />
-    <string name="text_done">OK</string>
     <string name="text_security">プライバシー</string>
     <string name="the_anniversary_of_lifting_martial_law">戒厳令解除記念日</string>
     <string name="the_anti_aggression_day">反侵略の日</string>
@@ -5315,18 +4743,12 @@
     <string name="third_application">インストールしたアプリ</string>
     <string name="third_desktop_dialog_content">サードパーティ製のランチャーアプリはデータの漏洩、バッテリーの異常な消耗、遅れなどの問題を引き起こす可能性があります。認証されたアプリのみデフォルトのランチャーとして設定できます。</string>
     <string name="third_desktop_dialog_ok">了解</string>
-    <string name="third_desktop_dialog_title">エラー</string>
     <string name="three_percent_total_pkg">%s (月次データの3%%)</string>
     <string name="thursday">木曜日</string>
     <string name="thursday_short">木</string>
     <string name="thursday_shortest">木</string>
     <string name="time_picker_dialog_title">時刻を設定</string>
-    <string name="time_picker_label_hour">時</string>
-    <string name="time_picker_label_minute">分</string>
-    <string name="timeshow_h">%.1f時間</string>
-    <string name="timeshow_h_int">%d時間</string>
     <string name="timeshow_m">%d分</string>
-    <string name="timeshow_s">%d秒</string>
     <string name="tips">注意</string>
     <string name="tips_by_auto_close">通話料金残高やデータ使用量の警告を設定するには、通信事業者による統計情報を自動的に同期させる必要があります。今すぐ同期をオンにしますか？</string>
     <string name="tips_by_reminder_function">ここで自動同期をオフにすると、通話料金残高とデータ使用量の警告を受け取ることができなくなります。</string>
@@ -5343,11 +4765,9 @@
     <string name="title_chain_start">チェーン起動を制限する</string>
     <string name="title_cleaner_cloudscan">クラウドのゴミスキャン</string>
     <string name="title_cloud_account">Xiaomi アカウント</string>
-    <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="title_cloud_space_almost_full">クラウドストレージがほぼいっぱいで、アイテムが同期されない可能性があります</string>
     <string name="title_cloud_space_full">クラウドはいっぱいです</string>
     <string name="title_cmcc_app_check">認証が完了していません</string>
-    <string name="title_condition_meeting">会議</string>
     <string name="title_consume_power_rank">アプリの電力使用量</string>
     <string name="title_dark_mode">一部のアイテムが正しく表示されていません</string>
     <string name="title_data_flow">モバイルデータを制御する</string>
@@ -5405,12 +4825,9 @@
     <string name="title_xiaomi_roaming">Mi ローミング</string>
     <string name="toast_add_virus_white_list_no_need_repeat">ファイルが既に存在しています</string>
     <string name="toast_auto_traffic_correct">データ使用量は自動的に調整されます</string>
-    <string name="toast_cinema_mode">より没入感のある視聴体験のために、ディスプレイとサウンドの設定を自動的に調整しました</string>
     <string name="toast_cleaner_cloudscan">クリーナーはオンライン定義を使用します</string>
     <string name="toast_dark_mode_fixed">正常に修正されました。変更を適用するには、このページを終了します。</string>
     <string name="toast_flow_notification">データ使用量の通知をオンにしました</string>
-    <string name="toast_gamembox_unenable_pad">まずセキュリティでゲームターボをオンにしてください</string>
-    <string name="toast_gamembox_unenable_phone">まずセキュリティでゲームターボをオンにしてください</string>
     <string name="toast_garbage_lib">クリーナーの自動アップデートをオンにしました</string>
     <string name="toast_keyword_blank">キーワードを入力する必要があります</string>
     <string name="toast_keyword_exist">キーワードを追加しました</string>
@@ -5433,7 +4850,6 @@
     <string name="top_game">トップのゲーム</string>
     <string name="top_load_fail_detail">読み込めませんでした。タップしてもう一度お試しください。</string>
     <string name="top_no_network_detial">読み込めませんでした。ネットワーク接続を確認して、もう一度お試しください。</string>
-    <string name="traffic_advanced_settings">Traffic Advanced Settings</string>
     <string name="traffic_alarm">アラームを設定</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">月間プランが%sに変更されました。</string>
     <string name="traffic_alert_auto_modify_notification_titile">データプランがアップデートされました</string>
@@ -5453,8 +4869,6 @@
 ご契約プランのオフピーク時のデータ使用上限は%1$sです。オフピーク時のデータ使用上限は設定していません。"</string>
     <string name="traffic_config_alert_body_normal">"
  \"あなたのプランの毎月のピーク時データ使用制限は%1$sです。これは手動で設定した%2$sの制限とは異なります。\""</string>
-    <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
     <string name="traffic_config_alert_setted">設定を適用しました</string>
     <string name="traffic_config_alert_title">%s修正</string>
     <string name="traffic_correction_failed">情報を取得できません</string>
@@ -5502,7 +4916,6 @@ Rolled over extra data"</string>
     <string name="traffic_setting_fragment_title_guide">通信事業者とデータプラン</string>
     <string name="traffic_to_limit_warning">データ使用量が設定した上限の%sに達しました</string>
     <string name="traffic_usage_warning_body">今月は既にモバイルデータ%sを使用しました。</string>
-    <string name="traffic_usage_warning_body_go_to_mi_sim">"You've already used %s of mobile data this month,Tap to use Mi SIM."</string>
     <string name="traffic_usage_warning_limit">データ使用量の警告制限</string>
     <string name="traffic_usage_warning_title">データ使用量の警告</string>
     <string name="traffic_warning_purchase_title">モバイルデータ使用量の警告</string>
@@ -5513,7 +4926,6 @@ Rolled over extra data"</string>
     <string name="tuesday_shortest">火</string>
     <string name="turn_off_auto_correction">自動同期のオフ</string>
     <string name="two_address_choose_hint">%1$sと%2$s</string>
-    <string name="ufs_size_suffix">%1$s+%2$s</string>
     <string name="unable_connect_internet">インターネット接続なし</string>
     <string name="uninstall_app_dialog_msg">アンインストールすると、すべてのアプリデータが削除されます。</string>
     <string name="uninstall_app_dialog_title">今すぐアンインストールしますか？</string>
@@ -5532,10 +4944,8 @@ Rolled over extra data"</string>
     <string name="unlock_set_unlock_password_summary">異なる文字を組み合わせてください</string>
     <string name="unlock_set_unlock_password_title">パスワード</string>
     <string name="unlock_set_unlock_pattern_title">パターン</string>
-    <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unused_apps_switch">未使用の場合はアプリのアクティビティを一時停止する</string>
     <string name="unused_apps_switch_summary">アクセス許可の削除、一時ファイルの削除、通知の停止</string>
-    <string name="usage_access_title">使用状況統計にアクセス</string>
     <string name="usage_sorted_activity_lable">データ使用量</string>
     <string name="usage_sorted_empty_text">空です</string>
     <string name="usage_sorted_loading_text">お待ちください…</string>
@@ -5544,7 +4954,6 @@ Rolled over extra data"</string>
     <string name="usage_type_cpu_foreground">CPUフォアグラウンド</string>
     <string name="usage_type_data_recv">受信したモバイルデータ</string>
     <string name="usage_type_data_send">送信されたモバイルデータ</string>
-    <string name="usage_type_gps">GPS</string>
     <string name="usage_type_no_coverage">シグナルのない時間</string>
     <string name="usage_type_on_time">電源オン状態の時間</string>
     <string name="usage_type_video">ビデオ</string>
@@ -5560,7 +4969,6 @@ Rolled over extra data"</string>
     <string name="usb_insert_summary">USBデバイスを接続します</string>
     <string name="usb_install_desc">USB経由でこのアプリをインストールしますか？</string>
     <string name="usb_mount">USBデバイスをマウント</string>
-    <string name="usb_mount_summary" />
     <string name="usbsharenet_exception_summary">共有USB接続を使用してインターネットに接続できません。デバイスのUSB接続を確認し、Mi PC Suiteを再起動してください。</string>
     <string name="usbsharenet_exception_title">USBを介して共有インターネットをテストする</string>
     <string name="usbsharenet_pc_exception_summary">共有USB接続を使用してインターネットに接続できません。パソコンのインターネット接続を確認してください。</string>
@@ -5568,20 +4976,18 @@ Rolled over extra data"</string>
     <string name="use_other_ime_warn">サードパーティ製のキーボードは、パスワードやその他のセンシティブな情報を含め、入力されたすべての情報を記録する可能性があります。</string>
     <string name="user_define_title">ルールを追加</string>
     <string name="user_guide">上にスワイプして新しいゲームを発見する</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
     <string name="vb_advanced_settings">写真</string>
     <string name="vb_advanced_settings_after_open">後</string>
     <string name="vb_advanced_settings_before_open">前</string>
     <string name="vb_advanced_settings_pic_stronger_desc">アニメーションを強化して、移動するオブジェクトを鮮明にします。この機能には、より高い消費電力が必要です。</string>
     <string name="vb_default_mode">カスタム</string>
-    <string name="vb_dolby_effect">Dolby Atmos</string>
     <string name="vb_dult_effect">3D LUT ビジョン</string>
     <string name="vb_fps_settings">自動リフレッシュレート</string>
     <string name="vb_fps_settings_tips">動画のフレームレートに合わせて画面のリフレッシュレートを調整する機能で、バッテリーを節約してスムーズな再生を実現します。コメントをオンにすると、自動リフレッシュレートがオフになります。</string>
     <string name="vb_immerse_voice">イマーシブサウンド</string>
     <string name="vb_movie_mode">シアターモード</string>
-    <string name="vb_movie_power_hint">シアターモードは、臨場感あふれる視聴体験を提供します。デバイスが発熱し、より多くの電力を消費する可能性があります。</string>
+    <string name="vb_movie_power_hint">"シアターモードは、臨場感あふれる視聴体験を提供します。
+デバイスが発熱し、より多くの電力を消費する可能性があります。"</string>
     <string name="vb_movie_subtitle">高いパフォーマンスが必要</string>
     <string name="vb_mv_style_close_toast">スタイルはオフです</string>
     <string name="vb_power_performance_mode_conflict_toast">パフォーマンスモードがオンの場合、この機能は使用できません</string>
@@ -5594,7 +5000,6 @@ Rolled over extra data"</string>
     <string name="vb_settings">設定</string>
     <string name="vb_super_power_save_mode_conflict_toast">ウルトラバッテリー セーバーがオンの場合、この機能は使用できません</string>
     <string name="vb_theatre_switch_guide">タップしてシアターモードに切り替えます</string>
-    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">* これらの効果は画面全体に適用されます</string>
     <string name="vb_ve_settings_display_style_tips_new">*効果はビデオ再生エリアにのみ適用されます</string>
     <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*この効果はビデオの再生領域にのみ適用されます。
@@ -5614,7 +5019,6 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_3d_summary_headset">イヤホンでオーディオを聴くときの没入感や包囲感を高める</string>
     <string name="vb_video_effects_3d_surround">バーチャルイマーシブサウンド</string>
     <string name="vb_video_effects_display_style">スタイル</string>
-    <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">ダイアログ強化</string>
     <string name="vb_video_effects_dolby_headset">" (イヤホンのみ)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmosがオンになっています</string>
@@ -5625,20 +5029,12 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_immersion_sound_summary_new">対応オーディオ再生時に没入感や空間感を体験できます</string>
     <string name="vb_video_effects_liquid_summary">ビデオでの会話の明瞭度を高める</string>
     <string name="vb_video_effects_only_headphone">イヤホンでのみ使用可能</string>
-    <string name="vb_video_effects_setting_black_white">B&amp;W</string>
-    <string name="vb_video_effects_setting_cinema">シネマ</string>
     <string name="vb_video_effects_setting_girl">ピンク</string>
-    <string name="vb_video_effects_setting_gorgeous">華麗</string>
     <string name="vb_video_effects_setting_green_orange">オレンジ</string>
     <string name="vb_video_effects_setting_grim">寒色</string>
-    <string name="vb_video_effects_setting_hdr">HDR</string>
     <string name="vb_video_effects_setting_knight">メタル</string>
-    <string name="vb_video_effects_setting_mecha">ロボット</string>
     <string name="vb_video_effects_setting_nostalgia">ノスタルジック</string>
-    <string name="vb_video_effects_setting_old_movie">レトロ</string>
     <string name="vb_video_effects_setting_outside">アウトドア</string>
-    <string name="vb_video_effects_setting_raw">元の画像</string>
-    <string name="vb_video_effects_setting_solar">フェード</string>
     <string name="vb_video_effects_setting_warmth">暖色</string>
     <string name="vb_video_effects_settings_liquid">明瞭さ</string>
     <string name="vb_video_effects_settings_stereo">音量</string>
@@ -5660,11 +5056,6 @@ Rolled over extra data"</string>
     <string name="vb_vison_dynamic_enhance_close_toast">拡張アニメーションはオフです</string>
     <string name="vb_voice_adjust">シアターオーディオ</string>
     <string name="video_repeat">もう一度再生</string>
-    <string name="videobox_double_core_visual">デュアルコアビジュアル</string>
-    <string name="videobox_double_core_visual_description1">専用チップによるビデオ解像度の向上、フレームレートの向上、HDR の最適化</string>
-    <string name="videobox_double_core_visual_description2">"鮮明さ、滑らかさ、全体的な表示効果が向上します。
-この機能には、より多くの電力消費が必要です。
-この機能は、バッテリーセーバーまたはウルトラバッテリー セーバーがオンの場合は動作しません。"</string>
     <string name="videobox_hangup_tips_content">画面はロックされますが、この機能がオンの場合、アプリは引き続きバックグラウンドで実行されます。電源ボタンを押すと画面は再びオンになります。今すぐこの機能をオンにしますか？</string>
     <string name="videobox_hangup_tips_title">注意</string>
     <string name="videobox_settings_line_location">ショートカットの場所</string>
@@ -5685,7 +5076,6 @@ Rolled over extra data"</string>
     <string name="virus_app_ignore">無視</string>
     <string name="virus_app_size_text">サイズ：%s</string>
     <string name="virus_app_type_installed">インストール済み</string>
-    <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">バージョン：%s</string>
     <string name="virus_auto_update_engine">自動アップデート: %s</string>
     <string name="virus_auto_update_engine_1">定義を自動的にアップデート</string>
@@ -5693,13 +5083,11 @@ Rolled over extra data"</string>
     <string name="virus_detail_app">ウイルスが含まれています</string>
     <string name="virus_detail_title">ウイルス</string>
     <string name="virus_engine_choose_text">オンラインウイルス定義</string>
-    <string name="virus_engine_split_text">、</string>
     <string name="virus_ignore_dialog_content">アプリが引き起こす可能性のあるリスクを無視することを選択した場合、そのリスクに関する通知は表示されなくなります。ただし、リスクがなくなるわけではありませんのでご注意ください。</string>
     <string name="virus_ignore_dialog_no_remind">今後表示しない</string>
     <string name="virus_ignore_dialog_title">リスクを無視</string>
     <string name="virus_info_title">説明</string>
     <string name="virus_news_title">関連情報</string>
-    <string name="virus_scan_process_pre">%</string>
     <string name="virus_type_title">種類</string>
     <string name="virus_update_tips_title">警告</string>
     <string name="virus_wait_network_dialog_message">デバイスは現在Wi-Fiに接続していません。モバイルデータ接続を使用しますか？</string>
@@ -5729,13 +5117,6 @@ Rolled over extra data"</string>
     <string name="wakepath_delete_all_tips">続けると、各アプリに他のアプリを開く権限を付与する必要があります。続けてもよろしいですか？</string>
     <string name="wakepath_delete_app_start_all">続けると、他のアプリを開くために %s 権限を再度付与する必要があります。続けてもよろしいですか？</string>
     <string name="wakepath_delete_app_start_other_app">続けると、%2$s を開くために %1$s 権限を再度付与する必要があります。続けてもよろしいですか？</string>
-    <string name="wakepath_manager_allow_list">許可済み</string>
-    <string name="wakepath_manager_allow_start">許可済み</string>
-    <string name="wakepath_manager_checkbox_desc">%1$s が他のアプリを起動することを許可する</string>
-    <string name="wakepath_manager_checkbox_title">チェーン起動を許可</string>
-    <string name="wakepath_manager_empty_list">アプリの起動は許可されていません</string>
-    <string name="wakepath_manager_reject_list">制限あり</string>
-    <string name="wakepath_manager_reject_toast">このアプリが他のアプリを起動することを許可するには、設定で\"チェーン起動を管理\"を検索してください</string>
     <string name="wakepath_manager_title">チェーン起動を管理</string>
     <string name="website">ウェブサイト</string>
     <string name="wednesday">水曜日</string>
@@ -5780,5 +5161,95 @@ Rolled over extra data"</string>
     <string name="xunyou_pay_webview">Xunyouサービス</string>
     <string name="xunyou_server_expired">セッションが期限切れです。</string>
     <string name="yesterday">昨日</string>
+    <string name="app_manager_not_allow">許可しない</string>
+    <string name="app_manager_total_size">合計</string>
+    <string name="auto_handle_title">一般</string>
+    <string name="battery_history_days">%1$d日%2$d時間%3$d分%4$d秒</string>
+    <string name="battery_history_hours">%1$d時間%2$d分%3$d秒</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="exo_track_selection_auto">自動</string>
+    <string name="exo_track_selection_title_text">文字</string>
+    <string name="gb_barrage_chat_text_color">色</string>
+    <string name="gb_beauty_nature_light">ナチュラル</string>
+    <string name="gb_collimator_color">色</string>
+    <string name="gb_shoulder_key_light_effect_color">色</string>
+    <string name="gb_wonderful_video_goto_box">ゲームターボを開く</string>
+    <string name="gs_show_way_vertical">縦</string>
+    <string name="hot">人気</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="power_center_list_item_battery_status_time">時間</string>
+    <string name="pref_category_title_securitycenter_settings">一般</string>
+    <string name="storage_activity_title_personage">個人</string>
+    <string name="storage_app_detail_qq_cleaner">QQクリーナー</string>
+    <string name="storage_item_apk_name">APK</string>
+    <string name="storage_item_doc_name">ドキュメント</string>
+    <string name="third_desktop_dialog_title">エラー</string>
+    <string name="time_picker_label_hour">時</string>
+    <string name="timeshow_h">%.1f時間</string>
+    <string name="timeshow_h_int">%d時間</string>
+    <string name="vb_video_effects_setting_cinema">シネマ</string>
+    <string name="vb_video_effects_setting_gorgeous">華麗</string>
+    <string name="exo_item_list">%1$s、%2$s</string>
+    <string name="exo_track_mono">モノラル</string>
+    <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
+    <string name="apps_item_scan_virus_summary_uninstalled">APK | ウイルス</string>
+    <string name="auto_task_operation_string_comma">、</string>
+    <string name="auto_task_operation_string_etc">等</string>
+    <string name="battery_history_minutes">%1$d分%2$d秒</string>
+    <string name="battery_history_seconds">%1$d秒</string>
+    <string name="battery_status_level_normal">正常</string>
+    <string name="desc_share_uid_sec" formatted="false">%1s。%2s</string>
+    <string name="fmt_date_day">d日</string>
+    <string name="fmt_date_long_month">M月</string>
+    <string name="fmt_date_long_year_month">yyyy年M月</string>
+    <string name="fmt_date_short_month">M月</string>
+    <string name="fmt_date_short_year_month">yyyy年M月</string>
+    <string name="fmt_date_year">yyyy年</string>
+    <string name="fmt_time_12hour_minute_pm">a h:mm</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
+    <string name="fmt_time_12hour_pm">ah</string>
+    <string name="fmt_time_millis">"S'ミリ秒'"</string>
+    <string name="fmt_time_minute">"m'分'"</string>
+    <string name="fmt_time_minute_second">"m'分's'秒'"</string>
+    <string name="fmt_time_minute_second_millis">"m'分's.S'秒'"</string>
+    <string name="fmt_time_second">"s'秒'"</string>
+    <string name="fmt_time_second_millis">"s.S'秒'"</string>
+    <string name="fmt_weekday_date">D, EEEE</string>
+    <string name="fmt_weekday_date_time">D, W T</string>
+    <string name="fmt_weekday_date_time_timezone">D, W T z</string>
+    <string name="fmt_weekday_date_timezone">D, W z</string>
+    <string name="gamebooster_push_expiring_soon_title">ゲームターボ</string>
+    <string name="gamebox_macro">コンボ</string>
+    <string name="gb_advance_settings_screen_hdr_gear1">オリジナル</string>
+    <string name="gb_first_window_title">ゲームターボ</string>
+    <string name="gb_game_mode_ratio">元の比率</string>
+    <string name="gb_game_mode_ratio_type">元の比率</string>
+    <string name="gb_msg_transparent_dispaly_summary">透明</string>
+    <string name="gb_voice_changer_normal">元の声</string>
+    <string name="gb_voice_changer_robot">ロボット</string>
+    <string name="gtb_dialog_privacy_speed_title">Xunyou ゲームブースター</string>
+    <string name="gtb_dialog_privacy_voice_title">Xunyou ゲームボイスチェンジャー</string>
+    <string name="hints_virus_app_list_item_summary">アプリ</string>
+    <string name="kilobyte_per_second">KB/秒</string>
+    <string name="megabyte_per_second">MB/秒</string>
+    <string name="mi_roaming">Mi ローミング</string>
+    <string name="operator_name_cmcc">チャイナ・モバイル</string>
+    <string name="operator_name_telcom">チャイナ・テレコム</string>
+    <string name="operator_name_unicom">チャイナ・ユニコム</string>
+    <string name="power_center_battery_duration_format">%1$s%2$s</string>
+    <string name="power_center_battery_level_general">普通</string>
+    <string name="power_center_battery_problem_and_suggest">%1$s。%2$s。</string>
+    <string name="power_center_surface_temp_normal">正常</string>
+    <string name="privacy_dialog_feedback">フィードバック</string>
+    <string name="process_vpnsdkmanager_label">ゲームターボ</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="time_picker_label_minute">分</string>
+    <string name="timeshow_s">%d秒</string>
+    <string name="vb_video_effects_setting_mecha">ロボット</string>
+    <string name="vb_video_effects_setting_old_movie">レトロ</string>
+    <string name="vb_video_effects_setting_raw">元の画像</string>
+    <string name="vb_video_effects_setting_solar">フェード</string>
+    <string name="virus_engine_split_text">、</string>
     <string name="yuan">人民元</string>
 </resources>

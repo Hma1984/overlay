@@ -112,25 +112,13 @@
         <item quantity="other">%d minutter siden</item>
         <item quantity="one">1 minut siden</item>
     </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="other">Tilbagetræk om (%d s)</item>
-        <item quantity="one">Tilbagetræk om (%d s)</item>
-    </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Du fik %d invitationer til gruppechat</item>
         <item quantity="one">Du fik %d invitation til gruppechat</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s personer</item>
-        <item quantity="one">%1$s person</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultater for \"%2$s\"</item>
         <item quantity="one">%1$s resultat for \"%2$s\"</item>
-    </plurals>
-    <plurals name="select_duration_time">
-        <item quantity="other">%d sekunder</item>
-        <item quantity="one">%d sekund</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Har sendt %1$s besked</item>

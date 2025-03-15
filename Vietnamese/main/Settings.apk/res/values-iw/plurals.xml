@@ -18,14 +18,20 @@
         <item quantity="two">לפני %d שנים</item>
         <item quantity="many">לפני %d שנים</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה אחת (%d)</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d אפליקציות יכולות להשתמש בנתונים בלתי מוגבלים</item>
+        <item quantity="one">%d אפליקציות יכולות להשתמש בנתונים בלתי מוגבלים</item>
+        <item quantity="two">%d אפליקציות יכולות להשתמש בנתונים בלתי מוגבלים</item>
+    </plurals>
     <plurals name="lockscreen_quick_affordances_summary">
         <item quantity="other">%1$s, %2$s</item>
         <item quantity="one">%1$s, %2$s</item>
         <item quantity="two">%1$s, %2$s</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d התראות חדשות</item>
-        <item quantity="one">%d התראות חדשות</item>
-        <item quantity="two">%d התראות חדשות</item>
     </plurals>
 </resources>

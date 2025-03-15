@@ -72,14 +72,6 @@
         <item quantity="few">قبل %d دقائق</item>
         <item quantity="many">قبل %d دقيقة</item>
     </plurals>
-    <plurals name="account_coins_num">
-        <item quantity="other">%1s عملة</item>
-        <item quantity="zero">%1s عملة</item>
-        <item quantity="one">%1s عملة</item>
-        <item quantity="two">%1s عملات</item>
-        <item quantity="few">%1s عملات</item>
-        <item quantity="many">%1s عملة</item>
-    </plurals>
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">الضغط الجوي: %s هكتوباسكال</item>
         <item quantity="zero">الضغط الجوي: %s هكتوباسكال</item>
@@ -87,22 +79,6 @@
         <item quantity="two">الضغط الجوي: %s هكتوباسكال</item>
         <item quantity="few">الضغط الجوي: %s هكتوباسكال</item>
         <item quantity="many">الضغط الجوي: %s هكتوباسكال</item>
-    </plurals>
-    <plurals name="confirm_delete_tasks">
-        <item quantity="other">هل ترغب في حذف %d مهمة الآن؟</item>
-        <item quantity="zero">هل ترغب في حذف %d مهمة الآن؟</item>
-        <item quantity="one">هل ترغب في حذف %d مهمة الآن؟</item>
-        <item quantity="two">هل ترغب في حذف %d مهام الآن؟</item>
-        <item quantity="few">هل ترغب في حذف %d مهام الآن؟</item>
-        <item quantity="many">هل ترغب في حذف %d مهمة الآن؟</item>
-    </plurals>
-    <plurals name="delete_tasks_successfully">
-        <item quantity="other">تم حذف %d مهمة بنجاح</item>
-        <item quantity="zero">تم حذف %d مهمة بنجاح</item>
-        <item quantity="one">تم حذف %d مهمة بنجاح</item>
-        <item quantity="two">تم حذف %d مهام بنجاح</item>
-        <item quantity="few">تم حذف %d مهام بنجاح</item>
-        <item quantity="many">تم حذف %d مهمة بنجاح</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
@@ -288,108 +264,6 @@
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
     </plurals>
-    <plurals name="payment_coins_tips">
-        <item quantity="other">"%1$d عملة = %2$d روبية اندونيسية
-العملات غير قابلة للاسترجاع"</item>
-        <item quantity="zero">"%1$d عملة = %2$d روبية اندونيسية
-العملات غير قابلة للاسترجاع"</item>
-        <item quantity="one">"%1$d عملة = %2$d روبية اندونيسية
-العملات غير قابلة للاسترجاع"</item>
-        <item quantity="two">"%1$d عملات = %2$d روبية اندونيسية
-العملات غير قابلة للاسترجاع"</item>
-        <item quantity="few">"%1$d عملات = %2$d روبية اندونيسية
-العملات غير قابلة للاسترجاع"</item>
-        <item quantity="many">"%1$d عملة = %2$d روبية اندونيسية
-العملات غير قابلة للاسترجاع"</item>
-    </plurals>
-    <plurals name="portfolio">
-        <item quantity="other">%d مشروع</item>
-        <item quantity="zero">%d مشروع</item>
-        <item quantity="one">%d مشروع</item>
-        <item quantity="two">%d مشاريع</item>
-        <item quantity="few">%d مشاريع</item>
-        <item quantity="many">%d مشروع</item>
-    </plurals>
-    <plurals name="processing_is_expected_text">
-        <item quantity="other">سيتم معالجة طلبك خلال %1$d ثانية</item>
-        <item quantity="zero">سيتم معالجة طلبك خلال %1$d ثانية</item>
-        <item quantity="one">سيتم معالجة طلبك خلال %1$d ثانية</item>
-        <item quantity="two">سيتم معالجة طلبك خلال %1$d ثواني</item>
-        <item quantity="few">سيتم معالجة طلبك خلال %1$d ثواني</item>
-        <item quantity="many">سيتم معالجة طلبك خلال %1$d ثانية</item>
-    </plurals>
-    <plurals name="purchase_refund_success_diag_notice_one">
-        <item quantity="other">"تم استرجاع عملات %d طلب بنجاح. "</item>
-        <item quantity="zero">"تم استرجاع عملات %d طلب بنجاح. "</item>
-        <item quantity="one">"تم استرجاع عملات %d طلب بنجاح. "</item>
-        <item quantity="two">"تم استرجاع عملات %d طلبات بنجاح. "</item>
-        <item quantity="few">"تم استرجاع عملات %d طلبات بنجاح. "</item>
-        <item quantity="many">"تم استرجاع عملات %d طلب بنجاح. "</item>
-    </plurals>
-    <plurals name="purchase_refund_success_diag_notice_two">
-        <item quantity="other">سيتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="zero">سيتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="one">سيتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="two">سيتم إضافة العملات إلى حسابك خلال %d ساعات.</item>
-        <item quantity="few">سيتم إضافة العملات إلى حسابك خلال %d ساعات.</item>
-        <item quantity="many">سيتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-    </plurals>
-    <plurals name="purchase_refund_success_notice">
-        <item quantity="other">تمت الموافقة على عملية الاسترجاع. ستتم إعادة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="zero">تمت الموافقة على عملية الاسترجاع. ستتم إعادة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="one">تمت الموافقة على عملية الاسترجاع. ستتم إعادة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="two">تمت الموافقة على عملية الاسترجاع. ستتم إعادة العملات إلى حسابك خلال %d ساعات.</item>
-        <item quantity="few">تمت الموافقة على عملية الاسترجاع. ستتم إعادة العملات إلى حسابك خلال %d ساعات.</item>
-        <item quantity="many">تمت الموافقة على عملية الاسترجاع. ستتم إعادة العملات إلى حسابك خلال %d ساعة.</item>
-    </plurals>
-    <plurals name="purchased_authorizing_dialog_content">
-        <item quantity="other">قد تستغرق العملية بعض الوقت. إذا لم تستلم العناصر التي اشتريتها خلال %d ساعة، فيرجى الاتصال بنا أو مرسلتنا للإبلاغ عن مشكلة.</item>
-        <item quantity="zero">قد تستغرق العملية بعض الوقت. إذا لم تستلم العناصر التي اشتريتها خلال %d ساعة، فيرجى الاتصال بنا أو مرسلتنا للإبلاغ عن مشكلة.</item>
-        <item quantity="one">قد تستغرق العملية بعض الوقت. إذا لم تستلم العناصر التي اشتريتها خلال %d ساعة، فيرجى الاتصال بنا أو مرسلتنا للإبلاغ عن مشكلة.</item>
-        <item quantity="two">قد تستغرق العملية بعض الوقت. إذا لم تستلم العناصر التي اشتريتها خلال %d ساعتين، فيرجى الاتصال بنا أو مرسلتنا للإبلاغ عن مشكلة.</item>
-        <item quantity="few">قد تستغرق العملية بعض الوقت. إذا لم تستلم العناصر التي اشتريتها خلال %d ساعات، فيرجى الاتصال بنا أو مرسلتنا للإبلاغ عن مشكلة.</item>
-        <item quantity="many">قد تستغرق العملية بعض الوقت. إذا لم تستلم العناصر التي اشتريتها خلال %d ساعة، فيرجى الاتصال بنا أو مرسلتنا للإبلاغ عن مشكلة.</item>
-    </plurals>
-    <plurals name="purchased_instructions">
-        <item quantity="other">&lt;Data>بإكمال الدفع، فإنك توافق على &lt;a href=\"%1$s\">سياسة الشراء داخل التطبيق&lt;/a>.&lt;br> تتوفر طلبات الاسترجاع بعد &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعة من إتمام الدفع.&lt;/Data></item>
-        <item quantity="zero">&lt;Data>بإكمال الدفع، فإنك توافق على &lt;a href=\"%1$s\">سياسة الشراء داخل التطبيق&lt;/a>.&lt;br> تتوفر طلبات الاسترجاع بعد &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعة من إتمام الدفع.&lt;/Data></item>
-        <item quantity="one">&lt;Data>بإكمال الدفع، فإنك توافق على &lt;a href=\"%1$s\">سياسة الشراء داخل التطبيق&lt;/a>.&lt;br> تتوفر طلبات الاسترجاع بعد &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعة من إتمام الدفع.&lt;/Data></item>
-        <item quantity="two">&lt;Data>بإكمال الدفع، فإنك توافق على &lt;a href=\"%1$s\">سياسة الشراء داخل التطبيق&lt;/a>.&lt;br> تتوفر طلبات الاسترجاع بعد &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعات من إتمام الدفع.&lt;/Data></item>
-        <item quantity="few">&lt;Data>بإكمال الدفع، فإنك توافق على &lt;a href=\"%1$s\">سياسة الشراء داخل التطبيق&lt;/a>.&lt;br> تتوفر طلبات الاسترجاع بعد &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعات من إتمام الدفع.&lt;/Data></item>
-        <item quantity="many">&lt;Data>بإكمال الدفع، فإنك توافق على &lt;a href=\"%1$s\">سياسة الشراء داخل التطبيق&lt;/a>.&lt;br> تتوفر طلبات الاسترجاع بعد &lt;xliff:g id=time>%2$d&lt;/xliff:g> ساعة من إتمام الدفع.&lt;/Data></item>
-    </plurals>
-    <plurals name="purchased_refund_constact_us_success_dialog_message">
-        <item quantity="other">تم إكمال الطلب قبل أكثر من %d ساعة. ارسل لنا بريد إلكتروني.</item>
-        <item quantity="zero">تم إكمال الطلب قبل أكثر من %d ساعة. ارسل لنا بريد إلكتروني.</item>
-        <item quantity="one">تم إكمال الطلب قبل أكثر من %d ساعة. ارسل لنا بريد إلكتروني.</item>
-        <item quantity="two">تم إكمال الطلب قبل أكثر من %d ساعات. ارسل لنا بريد إلكتروني.</item>
-        <item quantity="few">تم إكمال الطلب قبل أكثر من %d ساعات. ارسل لنا بريد إلكتروني.</item>
-        <item quantity="many">تم إكمال الطلب قبل أكثر من %d ساعة. ارسل لنا بريد إلكتروني.</item>
-    </plurals>
-    <plurals name="purchased_refund_success_dialog_message">
-        <item quantity="other">ستتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="zero">ستتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="one">ستتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-        <item quantity="two">ستتم إضافة العملات إلى حسابك خلال %d ساعات.</item>
-        <item quantity="few">ستتم إضافة العملات إلى حسابك خلال %d ساعات.</item>
-        <item quantity="many">ستتم إضافة العملات إلى حسابك خلال %d ساعة.</item>
-    </plurals>
-    <plurals name="resource_font_download_notification_title_many">
-        <item quantity="other">تم تنزيل %1$s خط بنجاح</item>
-        <item quantity="zero">تم تنزيل %1$s خط بنجاح</item>
-        <item quantity="one">تم تنزيل %1$s خط بنجاح</item>
-        <item quantity="two">تم تنزيل %1$s خطوط بنجاح</item>
-        <item quantity="few">تم تنزيل %1$s خطوط بنجاح</item>
-        <item quantity="many">تم تنزيل %1$s خط بنجاح</item>
-    </plurals>
-    <plurals name="resource_theme_download_notification_title_many">
-        <item quantity="other">تم تنزيل %1$s ثيم بنجاح</item>
-        <item quantity="zero">تم تنزيل %1$s ثيم بنجاح</item>
-        <item quantity="one">تم تنزيل %1$s ثيم بنجاح</item>
-        <item quantity="two">تم تنزيل %1$s ثيمات بنجاح</item>
-        <item quantity="few">تم تنزيل %1$s ثيمات بنجاح</item>
-        <item quantity="many">تم تنزيل %1$s ثيم بنجاح</item>
-    </plurals>
     <plurals name="theme_designer_products_count">
         <item quantity="other">%1$s عمل</item>
         <item quantity="zero">%1$s عمل</item>
@@ -397,22 +271,6 @@
         <item quantity="two">%1$s أعمال</item>
         <item quantity="few">%1$s أعمال</item>
         <item quantity="many">%1$s عمل</item>
-    </plurals>
-    <plurals name="tiny_accessibility_battery_level">
-        <item quantity="other">نسبة البطارية الآن %s في المئة</item>
-        <item quantity="zero">نسبة البطارية الآن %s في المئة</item>
-        <item quantity="one">نسبة البطارية الآن %s في المئة</item>
-        <item quantity="two">نسبة البطارية الآن %s في المئة</item>
-        <item quantity="few">نسبة البطارية الآن %s في المئة</item>
-        <item quantity="many">نسبة البطارية الآن %s في المئة</item>
-    </plurals>
-    <plurals name="tiny_accessibility_battery_level_charging">
-        <item quantity="other">جاري الشحن، نسبة البطارية الآن %d في المئة.</item>
-        <item quantity="zero">جاري الشحن، نسبة البطارية الآن %d في المئة.</item>
-        <item quantity="one">جاري الشحن، نسبة البطارية الآن %d في المئة.</item>
-        <item quantity="two">جاري الشحن، نسبة البطارية الآن %d في المئة.</item>
-        <item quantity="few">جاري الشحن، نسبة البطارية الآن %d في المئة.</item>
-        <item quantity="many">جاري الشحن، نسبة البطارية الآن %d في المئة.</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d صورة</item>

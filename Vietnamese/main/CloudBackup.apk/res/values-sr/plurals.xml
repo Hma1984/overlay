@@ -55,16 +55,6 @@
         <item quantity="one">%1$s бекап (%2$s)</item>
         <item quantity="few">%1$s бекапа (%2$s)</item>
     </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">%1$d дана од последњег бекапа | Нови подаци: %2$s</item>
-        <item quantity="one">%1$d дан од последњег бекапа | Нови подаци: %2$s</item>
-        <item quantity="few">%1$d дана од последњег бекапа | Нови подаци: %2$s</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">%d дана од последњег бекапа</item>
-        <item quantity="one">%d дан од последњег бекапа</item>
-        <item quantity="few">%d дана од последњег бекапа</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Пре пола сата</item>
         <item quantity="one">Пре пола сата</item>
@@ -119,5 +109,15 @@
         <item quantity="other">Преостало је око %s минута</item>
         <item quantity="one">Преостао је око %s минут</item>
         <item quantity="few">Преостала су око %s минута</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d дана од последњег бекапа | Нови подаци: %2$s</item>
+        <item quantity="one">%1$d дан од последњег бекапа | Нови подаци: %2$s</item>
+        <item quantity="few">%1$d дана од последњег бекапа | Нови подаци: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d дана од последњег бекапа</item>
+        <item quantity="one">%d дан од последњег бекапа</item>
+        <item quantity="few">%d дана од последњег бекапа</item>
     </plurals>
 </resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities_title">
+        <item>ວັນພິເສດ</item>
+        <item>ມື້ທີ່ຕ້ອງຈື່</item>
+        <item>ຊ່ວງເວລາທີ່ມີຊີວິດຊີວາ</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>ເດັກຊາຍ</item>
+        <item>ເດັກຍິງ</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>ສຳຮອງຂໍ້ມູນຮູບພາບ</item>
+        <item>ຊິ້ງຂໍ້ມູນຮູບພາບດ້ວຍ Cloud</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>ວັນທ້າຍອາທິດຂອງຂ້ອຍ</item>
+        <item>ບິດຂອງຊີວິດ</item>
+        <item>ຄວາມຊົງຈຳວັນທ້າຍອາທິດ</item>
+    </string-array>
+    <string-array name="month">
+        <item>ເດືອນມັງກອນ</item>
+        <item>ເດືອນກຸມພາ</item>
+        <item>ເດືອນມີນາ</item>
+        <item>ເດືອນເມສາ</item>
+        <item>ເດືອນພຶດສະພາ</item>
+        <item>ເດືອນມິຖຸນາ</item>
+        <item>ເດືອນກໍລະກົດ</item>
+        <item>ເດືອນສິງຫາ</item>
+        <item>ເດືອນກັນຍາ</item>
+        <item>ເດືອນຕຸລາ</item>
+        <item>ເດືອນພະຈິກ</item>
+        <item>ເດືອນທັນວາ</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>ພໍ່</item>
+        <item>ແມ່</item>
+        <item>ປູ່</item>
+        <item>ຍ່າ</item>
+        <item>ພໍ່ເຖົ້າ</item>
+        <item>ແມ່ເຖົ້າ</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>ຮ່ວມກັນ</item>
+        <item>ເວລາທີ່ດີ</item>
+        <item>ໃນເວລາດຽວກັນ</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>​ຊາຍ</item>
+        <item>ຍິງ</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>ຂ້ອຍ</item>
+        <item>ລູກ</item>
+        <item>ຄອບຄົວ</item>
+        <item>ເພື່ອນຮ່ວມງານ</item>
+        <item>ເພື່ອນຮ່ວມຊັ້ນ</item>
+        <item>ໝູ່ເພື່ອນ</item>
+        <item>ບໍ່ໄດ້ຈັດກຸ່ມ</item>
+    </string-array>
+    <string-array name="season">
+        <item>ລະດູໃບໄມ້ປົ່ງ</item>
+        <item>ລະດູຮ້ອນ</item>
+        <item>ລະດູໃບໄມ້ຫຼົ່ນ</item>
+        <item>ລະດູໜາວ</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>ພໍ່</item>
+        <item>ແມ່</item>
+        <item>ປູ່</item>
+        <item>ຍ່າ</item>
+        <item>ພໍ່ເຖົ້າ</item>
+        <item>ແມ່ເຖົ້າ</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>ກ້າວໄປດ້ານໜ້າ</item>
+        <item>ເຕັມໄປດ້ວຍພະລັງງານ</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>​ຍ້າຍ</item>
+        <item>​ຄັດລອກ</item>
+        <item>@string/cancel</item>
+    </string-array>
+</resources>

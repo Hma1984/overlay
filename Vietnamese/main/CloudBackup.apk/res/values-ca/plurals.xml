@@ -5,15 +5,15 @@
         <item quantity="one">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Fa %d hores</item>
-        <item quantity="one">Fa %d hora</item>
+        <item quantity="other">fa %d hores</item>
+        <item quantity="one">fa %d hores</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fa mitja hora</item>
         <item quantity="one">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">En %d hores</item>
+        <item quantity="other">En %d hora</item>
         <item quantity="one">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
@@ -25,7 +25,7 @@
         <item quantity="one">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d mins</item>
+        <item quantity="other">En %d minuts</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,8 +33,8 @@
         <item quantity="one">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa %d minut</item>
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa %d min</item>
     </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">Sembla que no heu fet una còpia de seguretat dels elements durant %s setmanes. Creeu còpies de seguretat per evitar perdre res important.</item>
@@ -43,14 +43,6 @@
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s còpies de seguretat (%2$s)</item>
         <item quantity="one">%1$s còpia de seguretat (%2$s)</item>
-    </plurals>
-    <plurals name="days_and_size_without_backup">
-        <item quantity="other">"%1$d dies des de l'última còpia de seguretat | Noves dades: %2$s"</item>
-        <item quantity="one">"%1$d dia des de l'última còpia de seguretat | Noves dades: %2$s"</item>
-    </plurals>
-    <plurals name="days_without_backup">
-        <item quantity="other">"%d dies des de l'última còpia de seguretat"</item>
-        <item quantity="one">"%d dia des de l'última còpia de seguretat"</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fa mitja hora</item>
@@ -86,7 +78,7 @@
     </plurals>
     <plurals name="session_starting_app_count_backup_text">
         <item quantity="other">"S'ha fet una còpia de seguretat de %d aplicacions"</item>
-        <item quantity="one">"S'ha fet una còpia de seguretat de %d aplicació"</item>
+        <item quantity="one">"S'ha fet una còpia de seguretat d' %d aplicació"</item>
     </plurals>
     <plurals name="session_starting_app_count_restore_text">
         <item quantity="other">"S'han restaurat %d aplicacions"</item>

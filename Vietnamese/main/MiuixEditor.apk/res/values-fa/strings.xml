@@ -7,5 +7,4 @@
     <string name="call_notification_incoming_text">تماس ورودی</string>
     <string name="call_notification_ongoing_text">تماس درحال انجام</string>
     <string name="call_notification_screening_text">درحال غربال کردن تماس ورودی</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

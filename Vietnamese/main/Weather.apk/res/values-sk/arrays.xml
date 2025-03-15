@@ -2,128 +2,107 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Dobré</item>
-        <item>Normálne</item>
-        <item>Mierne</item>
+        <item>Stredné</item>
+        <item>Nezdravé pre citlivé skupiny</item>
         <item>Nezdravé</item>
-        <item>Vážne znečistenie</item>
-        <item>Riskantné</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+        <item>Veľmi nezdravé</item>
+        <item>Nebezpečné</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Dobré</item>
-        <item>Normálne</item>
-        <item>Mierne</item>
-        <item>Nezdravé</item>
-        <item>Vážne znečistenie</item>
-        <item>Riskantné</item>
-        <item>Prekračujúce ukazovatele</item>
+        <item>Uspokojivé</item>
+        <item>Stredne znečistené</item>
+        <item>Nízka</item>
+        <item>Veľmi slabé</item>
+        <item>Závažné</item>
+        <item>Za index</item>
     </string-array>
     <string-array name="hot_city">
-        <item>Peking</item>
-        <item>Šanghaj</item>
-        <item>Hong Kong</item>
-        <item>Taipei City</item>
-        <item>Jakarta</item>
-        <item>Dilí</item>
-        <item>Mumbai</item>
-        <item>Moskva</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapur</item>
-        <item>Berlín</item>
-        <item>Rím</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Paríž</item>
-        <item>Bangkok</item>
-        <item>Soul</item>
-        <item>Kuala Lumpur</item>
+        <item>Bratislava</item>
+        <item>Košice</item>
+        <item>Prešov</item>
+        <item>Žilina</item>
+        <item>Banská Bystrica</item>
+        <item>Humenné</item>
+        <item>Pezinok</item>
+        <item>Poprad</item>
+        <item>Trebišov</item>
+        <item>Stropkov</item>
+        <item>Štrbské pleso</item>
+        <item>Lučenec</item>
+        <item>Chopok</item>
+        <item>Prievidza</item>
+        <item>Dudince</item>
+        <item>Nitra</item>
+        <item>Trnava</item>
+        <item>Piešťany</item>
+        <item>Hurbanovo</item>
+        <item>Lomnický stit</item>
+        <item>Sliač</item>
+        <item>Telgárt</item>
+        <item>Liptovský Mikuláš</item>
     </string-array>
     <string-array name="minute_rain_array">
-        <item>Silné</item>
-        <item>Mierné</item>
-        <item>Slabý</item>
+        <item>Hustý</item>
+        <item>Stredný</item>
+        <item>Jemný</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Výborne</item>
+        <item>Dobré</item>
+        <item>Mierne znečistené</item>
+        <item>Stredne znečistené</item>
+        <item>Veľmi znečistené</item>
+        <item>Veľmi znečistené</item>
+        <item>Nebezpečné</item>
     </string-array>
     <string-array name="realtime_humidity_status">
-        <item>Sucho</item>
-        <item>Príjemne</item>
-        <item>Vlhko</item>
+        <item>Sušiť</item>
+        <item>Pohodlné</item>
+        <item>Vlhké</item>
     </string-array>
     <string-array name="realtime_pressure_status">
-        <item>Vysoký</item>
-        <item>Mierny</item>
-        <item>Nízky</item>
+        <item>Vysoká</item>
+        <item>Stredné</item>
+        <item>Nízka</item>
     </string-array>
     <string-array name="realtime_temperature_status">
-        <item>Zima</item>
-        <item>Zima</item>
-        <item>Príjemne</item>
-        <item>Teplo</item>
-        <item>Horúco</item>
+        <item>Studené</item>
+        <item>Super</item>
+        <item>Pohodlné</item>
+        <item>Teplé</item>
+        <item>Horúce</item>
     </string-array>
     <string-array name="realtime_uv_level">
-        <item>Nízke</item>
-        <item>Mierny</item>
+        <item>Slabé</item>
+        <item>Stredné</item>
         <item>Silný</item>
-        <item>Veľmi silný</item>
-        <item>Vážne znečistenie</item>
-    </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_detail">
-        <item>@string/settings_atmospheric_pressure_hpa</item>
-        <item>@string/settings_atmospheric_pressure_mbar</item>
-        <item>@string/settings_atmospheric_pressure_mmhg</item>
-        <item>@string/settings_atmospheric_pressure_inhg</item>
-        <item>@string/settings_atmospheric_pressure_atm</item>
+        <item>Veľmi silné</item>
+        <item>Závažné</item>
     </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
         <item>Zamračené</item>
-        <item>Opar</item>
-        <item>Silná búrka</item>
+        <item>Hmlisto</item>
+        <item>Búrka</item>
         <item>Lejak</item>
         <item>Búrka</item>
         <item>Búrka</item>
-        <item>Prehánky</item>
-        <item>Silný dážď</item>
-        <item>Mierny dážď</item>
-        <item>Slabý dážď</item>
+        <item>Dážď</item>
+        <item>Lejak</item>
+        <item>Dážď</item>
+        <item>Jemný Dážď</item>
         <item>Dážď so snehom</item>
         <item>Snehová búrka</item>
-        <item>Snehové prehánky</item>
-        <item>Silné sneženie</item>
-        <item>Mierne sneženie</item>
-        <item>Slabé sneženie</item>
-        <item>Silná piesočná búrka</item>
-        <item>Piesočná búrka</item>
-        <item>Slabá piesočná búrka</item>
-        <item>Prašná búrka</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Veterno</item>
         <item>Krupobitie</item>
         <item>Prach</item>
         <item>Hmla</item>
@@ -131,14 +110,14 @@
         <item></item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Sever</item>
-        <item>Severovýchod</item>
-        <item>Východ</item>
-        <item>Juhovýchodný</item>
-        <item>Juh</item>
-        <item>Juhozápad</item>
-        <item>Západ</item>
-        <item>Severozápad</item>
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
     </string-array>
     <string-array name="wind_direction_simple">
         <item>S</item>
@@ -155,13 +134,13 @@
         <item>Kilometre za hodinu (km/h)</item>
         <item>Metre za sekundu (m/s)</item>
         <item>Míle za hodinu (mph)</item>
-        <item>Námorný uzol (kn)</item>
+        <item>Uzly (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
         <item>Sila %1$s</item>
-        <item>%1$s km/h</item>
-        <item>%1$s m/s</item>
-        <item>%1$s mph</item>
+        <item>%1$s km/h</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
         <item>%1$s kn</item>
     </string-array>
 </resources>
