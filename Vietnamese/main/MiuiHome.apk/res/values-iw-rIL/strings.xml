@@ -122,7 +122,7 @@
     <string name="back">הקודם</string>
     <string name="backup_fail">"לא ניתן לגבות את הלאונצ'ר"</string>
     <string name="branch_feature_description">פרט ליישומים, החיפוש המהיר מאפשר למצוא תוכן ביישומים ונתונים שונים באינטרנט.</string>
-    <string name="branch_guide_attention">שימוש בחיפוש משופר כרוך בשיתוף של בקשות החיפוש, מזהה Google Ads וכתובת ה-IP שלך עם Branch Metrics Inc. עליך לקרוא את <font color="#B3000000"><a href="http://url1">התנאים וההתניות למשתמש קצה בגילוי נתונים</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות של Branch בגילוי נתונים</a></font> ולהסכים אתם כדי להשתמש במאפיין זה.</string>
+    <string name="branch_guide_attention">שימוש בחיפוש משופר כרוך בשיתוף של בקשות החיפוש, מזהה Google Ads וכתובת ה-IP שלך עם Branch Metrics Inc. עליך לקרוא את <a href="http://url1"><font color="#B3000000">התנאים וההתניות למשתמש קצה בגילוי נתונים</font></a> ואת <a href="http://url2"><font color="#B3000000">מדיניות הפרטיות של Branch בגילוי נתונים</font></a> ולהסכים אתם כדי להשתמש במאפיין זה.</string>
     <string name="branch_guide_description_one">אנו נכניס את כל היישומים שלך למגירת היישומים. מסך הבית שלך ייראה מסודר ומאורגן.</string>
     <string name="branch_guide_description_three">החיפוש המובנה יאפשר לך למצוא במהירות ובקלות את כל מה שאתה צריך!</string>
     <string name="branch_guide_description_two">מגירת היישומים מסווגת יישומים באופן אוטומטי.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">תכונה חדשה</string>
     <string name="branch_privacy_policy">מדיניות פרטיות</string>
     <string name="branch_search_guide_description">עכשיו תוצאות החיפוש שלנו הרבה יותר מקיפות</string>
-    <string name="branch_search_guide_privacy">שירות זה ניתן על-ידי Branch Metrics Inc. פרטי המיקום, החיפושים והמזהה שלך ב-Google Ads ישותפו עם Branch. עליך לקרוא את <font color="#B3000000"><a href="http://url1">תנאי השימוש</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות</a></font> של Branch ולהסכים אתם כדי להשתמש בשירות זה.</string>
+    <string name="branch_search_guide_privacy">שירות זה ניתן על-ידי Branch Metrics Inc. פרטי המיקום, החיפושים והמזהה שלך ב-Google Ads ישותפו עם Branch. עליך לקרוא את <a href="http://url1"><font color="#B3000000">תנאי השימוש</font></a> ואת <a href="http://url2"><font color="#B3000000">מדיניות הפרטיות</font></a> של Branch ולהסכים אתם כדי להשתמש בשירות זה.</string>
     <string name="branch_search_guide_title">מצא את מה שאתה מחפש באפליקציות האהובות עליך</string>
     <string name="branch_terms_condition">תנאים והתניות</string>
     <string name="branch_tip_title">מאפיין החיפוש המהיר מאפשר לך למצוא כל מה שצריך תוך שניות.</string>
@@ -550,7 +550,7 @@
     <string name="select_all">בחר הכל</string>
     <string name="send">שליחה</string>
     <string name="server_error">אירעה שגיאת שרת. המתן דקה או שתיים ונסה שוב.</string>
-    <string name="service_double_attention">פונקציית חיפוש משופר מסופקת על-ידי Branch Metrics Inc. כדי שמאפיין זה יעבוד, עלינו לשתף את בקשות החיפוש, מזהה Google Ads וכתובת ה-IP שלך עם Branch Metrics Inc. עליך לקרוא את <font color="#B3000000"><a href="http://url1">התנאים וההתניות למשתמש קצה בגילוי נתונים</a></font> ואת <font color="#B3000000"><a href="http://url2">מדיניות הפרטיות של Branch בגילוי נתונים</a></font> ולהסכים אתם כדי להשתמש במאפיין זה.</string>
+    <string name="service_double_attention">פונקציית חיפוש משופר מסופקת על-ידי Branch Metrics Inc. כדי שמאפיין זה יעבוד, עלינו לשתף את בקשות החיפוש, מזהה Google Ads וכתובת ה-IP שלך עם Branch Metrics Inc. עליך לקרוא את <a href="http://url1"><font color="#B3000000">התנאים וההתניות למשתמש קצה בגילוי נתונים</font></a> ואת <a href="http://url2"><font color="#B3000000">מדיניות הפרטיות של Branch בגילוי נתונים</font></a> ולהסכים אתם כדי להשתמש במאפיין זה.</string>
     <string name="setting_close">מושבת</string>
     <string name="setting_no_word">בכל מקום</string>
     <string name="setting_only_widget_no_word">"בווידג'טים"</string>
@@ -594,9 +594,9 @@
     <string name="system_text">אוטומטי</string>
     <string name="task_access_locked_app_msg">נעילת יישום מופעלת</string>
     <string name="term_of_service">תנאי השימוש</string>
-    <string name="terms_of_services_one">ברוך הבא אל מגירת היישומים והחיפוש המהיר. מאפיין החיפוש המהיר מאפשר למצוא יישומים, תכנים בתוך יישומים ולערוך חיפושים באינטרנט מהר יותר. לפני שימוש במאפיינים אלו, עליך לקרוא את <font color="#B3000000"><a href="http://url1">מדיניות הפרטיות</a></font> של Xiaomi ולהסכים אתה.</string>
+    <string name="terms_of_services_one">ברוך הבא אל מגירת היישומים והחיפוש המהיר. מאפיין החיפוש המהיר מאפשר למצוא יישומים, תכנים בתוך יישומים ולערוך חיפושים באינטרנט מהר יותר. לפני שימוש במאפיינים אלו, עליך לקרוא את <a href="http://url1"><font color="#B3000000">מדיניות הפרטיות</font></a> של Xiaomi ולהסכים אתה.</string>
     <string name="terms_of_services_three">ניתן להשבית מאפיין זה תחת ההגדרות.</string>
-    <string name="terms_of_services_two">שימוש בחיפוש משופר מחייב שיתוף של המידע האישי הנדרש, כולל החיפושים שלך, המזהה שלך ב-Google Advertising וכתובת ה-IP עם חברת Branch Metrics Inc. חברת Branch תעבד את הנתונים שלך בהתאם <font color="#B3000000"><a href="http://url1">למדיניות הפרטיות של Branch Discovery</a></font>. עליך לקרוא את <font color="#B3000000"><a href="http://url2">תנאי השימוש למשתמש קצה של Discovery</a></font> ואת <font color="#B3000000"><a href="http://url3">מדיניות הפרטיות של Branch Discovery</a></font>כדי להשתמש במאפיין זה.</string>
+    <string name="terms_of_services_two">שימוש בחיפוש משופר מחייב שיתוף של המידע האישי הנדרש, כולל החיפושים שלך, המזהה שלך ב-Google Advertising וכתובת ה-IP עם חברת Branch Metrics Inc. חברת Branch תעבד את הנתונים שלך בהתאם <a href="http://url1"><font color="#B3000000">למדיניות הפרטיות של Branch Discovery</font></a>. עליך לקרוא את <a href="http://url2"><font color="#B3000000">תנאי השימוש למשתמש קצה של Discovery</font></a> ואת <a href="http://url3"><font color="#B3000000">מדיניות הפרטיות של Branch Discovery</font></a>כדי להשתמש במאפיין זה.</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>

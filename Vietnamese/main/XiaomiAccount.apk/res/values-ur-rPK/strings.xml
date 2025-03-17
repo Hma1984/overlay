@@ -508,7 +508,7 @@
     <string name="passport_privacy_policy">رازداری پالیسی</string>
     <string name="passport_privacy_policy_required">رازداری پالیسی (لازمی)</string>
     <string name="passport_provision_input_email_register_prompt">آپ کا ذاتی ڈیٹا آپ کے منتخب کردہ علاقے کے قوانین اور ضابطوں کے مطابق اسٹور کیا جائے گا۔</string>
-    <string name="passport_provision_password_req_notice">مندرجہ ذیل اقسام میں سے کم از کم %3$d کے %1$d-%2$d حروف: حروف, ہندسے, خصوصی علامات</string>
+    <string name="passport_provision_password_req_notice">مندرجہ ذیل اقسام میں سے کم از کم <xliff id="min_pwd_type" refersto="2">%3$d</xliff> کے <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> حروف: حروف, ہندسے, خصوصی علامات</string>
     <string name="passport_qq_login_btn_content_description">QQ کے ساتھ سائن ان کریں</string>
     <string name="passport_querying_phone_info">اکاؤنٹ معلومات کی درخواست کر رہا ہے…</string>
     <string name="passport_quick_login">سائن ان کریں</string>

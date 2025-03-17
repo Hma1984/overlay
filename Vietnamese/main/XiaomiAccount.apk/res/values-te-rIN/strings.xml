@@ -508,7 +508,7 @@
     <string name="passport_privacy_policy">గోప్యతా విధానం</string>
     <string name="passport_privacy_policy_required">గోప్యతా విధానం (తప్పనిసరి)</string>
     <string name="passport_provision_input_email_register_prompt">మీ వ్యక్తిగత డేటా మీరు ఎంపిక చేసిన ప్రాంతం యొక్క చట్టాలు మరియు నియంత్రణలకు అనుగుణంగా నిల్వ చేయబడుతుంది.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d అక్షరాల్లో కనీసం %3$d ఇక్కడ పేర్కొన్న రకాలు: అక్షరాలు, అంకెలు, ప్రత్యేక గుర్తులు</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> అక్షరాల్లో కనీసం <xliff id="min_pwd_type" refersto="2">%3$d</xliff> ఇక్కడ పేర్కొన్న రకాలు: అక్షరాలు, అంకెలు, ప్రత్యేక గుర్తులు</string>
     <string name="passport_qq_login_btn_content_description">QQతో సైన్ ఇన్ చేయండి</string>
     <string name="passport_querying_phone_info">ఖాతా సమాచారాన్ని అభ్యర్థిస్తోంది…</string>
     <string name="passport_quick_login">సైన్-ఇన్ చేయి</string>

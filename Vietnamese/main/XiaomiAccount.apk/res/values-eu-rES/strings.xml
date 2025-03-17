@@ -508,7 +508,7 @@ Saioa has dezakezu zure Xiaomi Kontuan %s orain erabiliz."</string>
     <string name="passport_privacy_policy">Pribatutasun politika</string>
     <string name="passport_privacy_policy_required">Pribatutasun politika (derrigorrezkoa)</string>
     <string name="passport_provision_input_email_register_prompt">Zure datu pertsonalak hautatzen duzun eskualdearen legeen eta erregulazioen arabera gordeko dira.</string>
-    <string name="passport_provision_password_req_notice">Gutxienez honakoetatik %3$d motatako %1$d-%2$d karaktere: letrak, digituak, ikur bereziak</string>
+    <string name="passport_provision_password_req_notice">Gutxienez honakoetatik <xliff id="min_pwd_type" refersto="2">%3$d</xliff> motatako <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> karaktere: letrak, digituak, ikur bereziak</string>
     <string name="passport_qq_login_btn_content_description">Saioa hasi QQ bidez</string>
     <string name="passport_querying_phone_info">Kontu informazioa eskatzen …</string>
     <string name="passport_quick_login">Saioa hasi</string>

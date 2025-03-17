@@ -145,7 +145,7 @@
     <string name="feedback_custom_hint">Burada qarşılaşdığınız problemləri izah edin. Təkliflər verirsinizsə, daha çox məlumat üçün təşəkkür edirik!</string>
     <string name="find_device">Cihazı tap</string>
     <string name="find_device_dspt_provision">Cihazınızı itirsəniz, cihazı kilidləmək, tapmaq və ya sıfırlamaq üçün &lt;font color=#0097FF>%s&lt;/font> ünvanına gedə bilərsiniz. Bu özəlliyi istənilən vaxt Ayarlarda aça/bağlaya bilərsiniz.</string>
-    <string name="find_device_gdpr_prompt">\"Cihazı tap\"ı açaraq, <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Siyasətimizi</a></u> qəbul edirsiniz. Razılığınızı geri götürmək istəsəniz bu özəlliyi söndürün.</string>
+    <string name="find_device_gdpr_prompt">\"Cihazı tap\"ı açaraq, <a href="app://com.miui.cloudservice.gdpr.license"><u>Gizlilik Siyasətimizi</u></a> qəbul edirsiniz. Razılığınızı geri götürmək istəsəniz bu özəlliyi söndürün.</string>
     <string name="find_device_operation_failure_rpc">RPC xətasına görə əməliyyat icra edilə bilmədi.</string>
     <string name="find_device_permissions_footer">Seçdiyiniz icazələri vermək üçün \"İcazə ver\"ə toxunun.</string>
     <string name="find_device_permissions_header">\"Cihazı tap\"a xoş gəldiniz! Cihazınız itsə, cihazınızı tapmaq, izləmək və ya kilidləmək üçün bu tətbiqi istifadə edə bilərsiniz. \"Cihazı tap\", aşağıdakı icazələri tələb edir:</string>

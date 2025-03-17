@@ -151,7 +151,7 @@
     <string name="branch_deepview_button">Obțineți Aplicația</string>
     <string name="branch_deepview_button_description">Vedeți acest conținut imediat după instalare</string>
     <string name="branch_feature_description">Pe lângă aplicații, Quick Finder poate găsi conținut și articole în aplicație online.</string>
-    <string name="branch_guide_attention">Utilizarea căutării îmbunătățite necesită partajarea solicitărilor dvs. de căutare, a ID-ului Google Ads și a adresei IP cu Branch Metrics Inc. Citiți și acceptați <font color="#B3000000"><a href="http://url1">Termenii și Condițiile de descoperire a utilizatorului final</a></font> și <font color="#B3000000"><a href="http://url2">Politica de confidențialitate Branch Discovery</a></font> înainte de a utiliza această caracteristică.</string>
+    <string name="branch_guide_attention">Utilizarea căutării îmbunătățite necesită partajarea solicitărilor dvs. de căutare, a ID-ului Google Ads și a adresei IP cu Branch Metrics Inc. Citiți și acceptați <a href="http://url1"><font color="#B3000000">Termenii și Condițiile de descoperire a utilizatorului final</font></a> și <a href="http://url2"><font color="#B3000000">Politica de confidențialitate Branch Discovery</font></a> înainte de a utiliza această caracteristică.</string>
     <string name="branch_guide_description_one">Vom pune toate aplicațiile dvs. în sertarul de aplicații. Ecranul dvs. de pornire va arăta îngrijit și organizat.</string>
     <string name="branch_guide_description_three">Cu ajutorul căutării încorporate veți putea găsi tot ce aveți nevoie într-o clipă!</string>
     <string name="branch_guide_description_two">Sertarul de aplicații clasifică automat aplicațiile.</string>
@@ -166,7 +166,7 @@
     <string name="branch_new_feature">Opțiune nouă</string>
     <string name="branch_privacy_policy">Politica de Confidențialitate</string>
     <string name="branch_search_guide_description">Rezultatele căutării noastre sunt mult mai cuprinzătoare acum</string>
-    <string name="branch_search_guide_privacy">Acest serviciu este oferit de Branch Metrics Inc. Informațiile despre locație, interogările de căutare și ID-ul Google Ads vor fi partajate cu Branch. Citiți și acceptați <font color="#B3000000"><a href="http://url1">Termenii și Condițiile</a></font> precum și <font color="#B3000000"><a href="http://url2">Politica de Confidențialitate Branch</a></font> înainte de a utiliza acest serviciu.</string>
+    <string name="branch_search_guide_privacy">Acest serviciu este oferit de Branch Metrics Inc. Informațiile despre locație, interogările de căutare și ID-ul Google Ads vor fi partajate cu Branch. Citiți și acceptați <a href="http://url1"><font color="#B3000000">Termenii și Condițiile</font></a> precum și <a href="http://url2"><font color="#B3000000">Politica de Confidențialitate Branch</font></a> înainte de a utiliza acest serviciu.</string>
     <string name="branch_search_guide_title">Găsiți ceea ce căutați în aplicațiile preferate</string>
     <string name="branch_terms_condition">Termeni și condiții</string>
     <string name="branch_tip_title">Cu ajutorul Quick Finder, puteți găsi tot ce aveți nevoie într-o clipă.</string>
@@ -629,7 +629,7 @@ Securitate sporită."</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="send">Trimiteți</string>
     <string name="server_error">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="service_double_attention">Funcționalitatea de căutare îmbunătățită este oferită de Branch Metrics Inc. Pentru ca această funcție să funcționeze, trebuie să trimitem cererile dvs. de căutare, ID-ul Google Ads și adresa IP cu Branch Metrics Inc. Citiți și acceptați <font color="#B3000000"><a href="http://url1">Termenii și Condițiile utilizatorului final</a></font> și <font color="#B3000000"><a href="http://url2">Politica de Confidențialitate Branch Discovery</a></font> înainte de a utiliza această caracteristică.</string>
+    <string name="service_double_attention">Funcționalitatea de căutare îmbunătățită este oferită de Branch Metrics Inc. Pentru ca această funcție să funcționeze, trebuie să trimitem cererile dvs. de căutare, ID-ul Google Ads și adresa IP cu Branch Metrics Inc. Citiți și acceptați <a href="http://url1"><font color="#B3000000">Termenii și Condițiile utilizatorului final</font></a> și <a href="http://url2"><font color="#B3000000">Politica de Confidențialitate Branch Discovery</font></a> înainte de a utiliza această caracteristică.</string>
     <string name="setting_close">Oprit</string>
     <string name="setting_no_word">Oriunde</string>
     <string name="setting_only_widget_no_word">Pe widgeturi</string>
@@ -672,9 +672,9 @@ Securitate sporită."</string>
     <string name="system_shortcuts_remove">Eliminați</string>
     <string name="task_access_locked_app_msg">A fost activată blocarea aplicațiilor</string>
     <string name="term_of_service">Termeni și condiții</string>
-    <string name="terms_of_services_one">Bun venit la Sertarul de aplicații și la Căutarea rapidă. Căutarea rapidă vă permite să găsiți mai rapid aplicații, conținut în aplicație și articole online. Citiți și acceptați <font color="#B3000000"><a href="http://url1">Politica de Confidențialitate Xiaomi </a></font> înainte de a utiliza aceste caracteristici.</string>
+    <string name="terms_of_services_one">Bun venit la Sertarul de aplicații și la Căutarea rapidă. Căutarea rapidă vă permite să găsiți mai rapid aplicații, conținut în aplicație și articole online. Citiți și acceptați <a href="http://url1"><font color="#B3000000">Politica de Confidențialitate Xiaomi </font></a> înainte de a utiliza aceste caracteristici.</string>
     <string name="terms_of_services_three">Puteți dezactiva această funcție din Setări.</string>
-    <string name="terms_of_services_two">Utilizarea căutării îmbunătățite necesită partajarea informațiilor personale necesare, inclusiv interogările dvs. de căutare, ID-ul de publicitate Google și adresa IP, cu Branch Metrics Inc. Branch va procesa informațiile dvs. personale în conformitate cu <font color="#B3000000"><a href="http://url1">Politica de Confidențialitate Branch Discovery </a></font>. Citiți și acceptați <font color="#B3000000"><a href="http://url2">Termenii și Condițiile Utilizatorului final Discovery</a></font> și <font color="#B3000000"><a href="http://url3">Politica de Confidențialitate Branch Discovery</a></font> înainte de a utiliza această caracteristică.</string>
+    <string name="terms_of_services_two">Utilizarea căutării îmbunătățite necesită partajarea informațiilor personale necesare, inclusiv interogările dvs. de căutare, ID-ul de publicitate Google și adresa IP, cu Branch Metrics Inc. Branch va procesa informațiile dvs. personale în conformitate cu <a href="http://url1"><font color="#B3000000">Politica de Confidențialitate Branch Discovery </font></a>. Citiți și acceptați <a href="http://url2"><font color="#B3000000">Termenii și Condițiile Utilizatorului final Discovery</font></a> și <a href="http://url3"><font color="#B3000000">Politica de Confidențialitate Branch Discovery</font></a> înainte de a utiliza această caracteristică.</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>

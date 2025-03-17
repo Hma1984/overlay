@@ -571,7 +571,7 @@ Acum vă puteți conecta la contul dvs. Xiaomi utilizând %s."</string>
     <string name="passport_privacy_policy">Politica de confidențialitate</string>
     <string name="passport_privacy_policy_required">Politica de confidențialitate (obligatoriu)</string>
     <string name="passport_provision_input_email_register_prompt">Datele dvs. personale vor fi stocate în conformitate cu legile și reglementările din regiunea pe care o selectați.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d caractere de cel puțin %3$d următoarele tipuri: litere, cifre, simboluri speciale</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caractere de cel puțin <xliff id="min_pwd_type" refersto="2">%3$d</xliff> următoarele tipuri: litere, cifre, simboluri speciale</string>
     <string name="passport_qq_login_btn_content_description">Conectați-vă cu QQ</string>
     <string name="passport_querying_phone_info">Se solicită informații despre cont…</string>
     <string name="passport_quick_login">Conectați-vă</string>

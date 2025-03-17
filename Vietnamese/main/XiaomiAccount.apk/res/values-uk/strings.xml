@@ -573,7 +573,7 @@
     <string name="passport_privacy_policy">Політика конфіденційності</string>
     <string name="passport_privacy_policy_required">"Політика конфіденційності (обов'язково)"</string>
     <string name="passport_provision_input_email_register_prompt">Ваші особисті дані будуть збережені відповідно до законодавства і правил обраного вами регіону.</string>
-    <string name="passport_provision_password_req_notice">%1$d—%2$d символів не менше %3$d видів: літери, цифри, спеціальні символи</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>—<xliff id="max_pwd_len" refersto="16">%2$d</xliff> символів не менше <xliff id="min_pwd_type" refersto="2">%3$d</xliff> видів: літери, цифри, спеціальні символи</string>
     <string name="passport_qq_login_btn_content_description">Увійти через акаунт QQ</string>
     <string name="passport_querying_phone_info">Запит на інформацію про акаунт…</string>
     <string name="passport_quick_login">Увійти</string>

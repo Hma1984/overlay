@@ -122,7 +122,7 @@
     <string name="back">ফিরে যান</string>
     <string name="backup_fail">লঞ্চারের ব্য়াকআপ নেওয়া যায় নি</string>
     <string name="branch_feature_description">অ্যাপ ছাড়া, Quick Finder অ্যাপ মধ্যস্ত কনটেন্ট ও অন্য আইটেম অনলাইনে খুুঁজে পান।</string>
-    <string name="branch_guide_attention">উন্নত সার্চ ব্যবহার করলে আপনার সার্চ অনুরোধ শেয়ার করা প্রয়োজন,Google Ads ID, এবং IP ঠিকানা সহ Branch Metrics Inc। এই ফিচার ব্যবহার করার আগে <font color="#B3000000"><a href="http://url1">এন্ড ইউজার ডিস্কভারি শর্ত &amp; শর্ত</a></font> ও <font color="#B3000000"><a href="http://url2">ব্রাঞ্চ ডিস্কভারি গোপনীয়তী নীতি</a></font> পড়ুন ও রাজি হন।</string>
+    <string name="branch_guide_attention">উন্নত সার্চ ব্যবহার করলে আপনার সার্চ অনুরোধ শেয়ার করা প্রয়োজন,Google Ads ID, এবং IP ঠিকানা সহ Branch Metrics Inc। এই ফিচার ব্যবহার করার আগে <a href="http://url1"><font color="#B3000000">এন্ড ইউজার ডিস্কভারি শর্ত &amp; শর্ত</font></a> ও <a href="http://url2"><font color="#B3000000">ব্রাঞ্চ ডিস্কভারি গোপনীয়তী নীতি</font></a> পড়ুন ও রাজি হন।</string>
     <string name="branch_guide_description_one">আমরা আপনার অ্যাপ অ্যাপ ড্রয়ারে রাখব। আপনার হোম স্ক্রিন তাতে সাজানো ও পরিষ্কার দেখতে লাগবে</string>
     <string name="branch_guide_description_three">বিল্ট ইন সার্চে, আপনি যা খুঁজে দেখতে চান ঝটপট সেটা পেয়ে যাবেন।</string>
     <string name="branch_guide_description_two">অ্যাপ ড্রয়ার অ্যাপ আপনাআপনি বিভাগে বিভক্ত করে নেয়।</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">নতুন ফিচার</string>
     <string name="branch_privacy_policy">গোপনীয়তা নীতি</string>
     <string name="branch_search_guide_description">আমাদের সার্চ ফলাফল এখন আরো বেশি নিঁখুত</string>
-    <string name="branch_search_guide_privacy">এই পরিষেবা Branch Metrics Inc দ্বারা প্রদান করা হয়েছে। আপনার লোকেশন তথ্য, সার্চ কোয়েরি এবং Google Ads আই ডি Branch এর সাখে শেয়ার করা হয়।Branch এর <font color="#B3000000"><a href="http://url1"> চুক্তি ও শর্ত </a></font> ও <font color="#B3000000"><a href="http://url2">গোপনীয়তা নীতি</a></font> পড়ুন ও তার সাথে রাজি হন এই পরিষেবা ব্যবহার করার আগে।</string>
+    <string name="branch_search_guide_privacy">এই পরিষেবা Branch Metrics Inc দ্বারা প্রদান করা হয়েছে। আপনার লোকেশন তথ্য, সার্চ কোয়েরি এবং Google Ads আই ডি Branch এর সাখে শেয়ার করা হয়।Branch এর <a href="http://url1"><font color="#B3000000"> চুক্তি ও শর্ত </font></a> ও <a href="http://url2"><font color="#B3000000">গোপনীয়তা নীতি</font></a> পড়ুন ও তার সাথে রাজি হন এই পরিষেবা ব্যবহার করার আগে।</string>
     <string name="branch_search_guide_title">আপনার কী চাই আপনার পছন্দের অ্য়পগুলিতে খুঁজে পান</string>
     <string name="branch_terms_condition">চুক্তি ও শর্তাবলী</string>
     <string name="branch_tip_title">Quick Finder এর সাথে, আপনি সবকিছু চট করে পেয়ে যেতে পারেন।</string>
@@ -552,7 +552,7 @@
     <string name="select_all">সব নির্বাচন করুন</string>
     <string name="send">পাঠান</string>
     <string name="server_error">একটি সার্ভার ত্রুটি হয়েছে।এক মিনিট অপেক্ষা করে আবার চেষ্টা করে দেখুন।</string>
-    <string name="service_double_attention">উন্নত সার্চ Branch Metrics Inc দ্বারা প্রস্তুত করা হয়েছে।এই ফিচার কাজ করার জন্য আপনার সার্চ অনুরোধ Google Ads ID, এবং IP ঠিকানা সহ Branch Metrics Inc এর সাথে শেয়ার করতে হবে। এই ফিচার ব্যবহার করার আগে <font color="#B3000000"><a href="http://url1">এন্ড ইউজার ডিস্কভারি শর্ত &amp; শর্ত</a></font> ও <font color="#B3000000"><a href="http://url2">ব্রাঞ্চ ডিস্কভারি গোপনীয়তী নীতি</a></font> পড়ুন ও রাজি হন।</string>
+    <string name="service_double_attention">উন্নত সার্চ Branch Metrics Inc দ্বারা প্রস্তুত করা হয়েছে।এই ফিচার কাজ করার জন্য আপনার সার্চ অনুরোধ Google Ads ID, এবং IP ঠিকানা সহ Branch Metrics Inc এর সাথে শেয়ার করতে হবে। এই ফিচার ব্যবহার করার আগে <a href="http://url1"><font color="#B3000000">এন্ড ইউজার ডিস্কভারি শর্ত &amp; শর্ত</font></a> ও <a href="http://url2"><font color="#B3000000">ব্রাঞ্চ ডিস্কভারি গোপনীয়তী নীতি</font></a> পড়ুন ও রাজি হন।</string>
     <string name="setting_close">বন্ধ করুন</string>
     <string name="setting_no_word">যে কোনও জায়গায়</string>
     <string name="setting_only_widget_no_word">উইজেটে</string>
@@ -596,9 +596,9 @@
     <string name="system_text">অটো</string>
     <string name="task_access_locked_app_msg">অ্যাপ লক চালু করা আছে</string>
     <string name="term_of_service">চুক্তি এবং শর্তাবলী</string>
-    <string name="terms_of_services_one">অ্যাপ ড্রয়ার ও কুইক ফাইন্ডার এ স্বাগতম! কুইক ফাইন্ডার আপনাকে অ্যাপ, অ্যাপ মধ্যস্ত কনটেন্ট ও অনলাইন আইটেম দ্রুত খুঁজে পেতে সাহায্য করে।এই ফিচারগুলি ব্যবহার করার আগে Xiaomi -র<font color="#B3000000"><a href="http://url1">গোপনীয়তা নীতি</a></font> পড়ুন ও রাজি হন।</string>
+    <string name="terms_of_services_one">অ্যাপ ড্রয়ার ও কুইক ফাইন্ডার এ স্বাগতম! কুইক ফাইন্ডার আপনাকে অ্যাপ, অ্যাপ মধ্যস্ত কনটেন্ট ও অনলাইন আইটেম দ্রুত খুঁজে পেতে সাহায্য করে।এই ফিচারগুলি ব্যবহার করার আগে Xiaomi -র<a href="http://url1"><font color="#B3000000">গোপনীয়তা নীতি</font></a> পড়ুন ও রাজি হন।</string>
     <string name="terms_of_services_three">আপনি এই ফিচারটি সেটিংসে বন্ধ করতে পারেন।</string>
-    <string name="terms_of_services_two">উন্নত সার্চ ব্যবহার করার মানে হল সার্চ কোয়ারি,Google বিজ্ঞাপন আইডি, এবং আই পি অ্যাড্রেস সহ প্রয়োজনীয় ব্যক্তিগত তথ্য Branch Metrics Inc. এর সাথে শেয়ার করা।Branch Metrics Inc. আপনার ব্যক্তিগত তথ্য <font color="#B3000000"><a href="http://url1">Branch Discovery গোপনীয়তা নীতি</a></font> অনুযায়ী প্রসেস করবে।এই ফিচার ব্যবহার করার আগে <font color="#B3000000"><a href="http://url2"> এন্ড ইউজার Discovery চুক্তি ও শর্তাবলি</a></font> এবং<font color="#B3000000"><a href="http://url3">Branch Discovery গোপনীয়তা নীতি</a> </font> পড়ুন ও রাজি হন।</string>
+    <string name="terms_of_services_two">উন্নত সার্চ ব্যবহার করার মানে হল সার্চ কোয়ারি,Google বিজ্ঞাপন আইডি, এবং আই পি অ্যাড্রেস সহ প্রয়োজনীয় ব্যক্তিগত তথ্য Branch Metrics Inc. এর সাথে শেয়ার করা।Branch Metrics Inc. আপনার ব্যক্তিগত তথ্য <a href="http://url1"><font color="#B3000000">Branch Discovery গোপনীয়তা নীতি</font></a> অনুযায়ী প্রসেস করবে।এই ফিচার ব্যবহার করার আগে <a href="http://url2"><font color="#B3000000"> এন্ড ইউজার Discovery চুক্তি ও শর্তাবলি</font></a> এবং<a href="http://url3"><font color="#B3000000">Branch Discovery গোপনীয়তা নীতি </font></a> পড়ুন ও রাজি হন।</string>
     <string name="thursday">বৃহস্পতিবার</string>
     <string name="thursday_short">বৃহ</string>
     <string name="thursday_shortest">বৃহ</string>

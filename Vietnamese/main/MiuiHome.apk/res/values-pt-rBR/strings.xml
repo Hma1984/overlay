@@ -151,7 +151,7 @@
     <string name="branch_deepview_button">Baixar o app</string>
     <string name="branch_deepview_button_description">Ver este conteúdo imediatamente após a instalação</string>
     <string name="branch_feature_description">Além de apps, a Busca Rápida também pode encontrar conteúdo em apps e itens online.</string>
-    <string name="branch_guide_attention">Usar a pesquisa aprimorada requer compartilhar os termos de pesquisa, ID do Google Ads, e o endereço IP com a Branch Metrics Inc. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições de Descoberta do Usuário Final</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade da Branch Discovery</a></font> antes de usar este recurso.</string>
+    <string name="branch_guide_attention">Usar a pesquisa aprimorada requer compartilhar os termos de pesquisa, ID do Google Ads, e o endereço IP com a Branch Metrics Inc. Leia e aceite os <a href="http://url1"><font color="#B3000000">Termos e Condições de Descoberta do Usuário Final</font></a> e a <a href="http://url2"><font color="#B3000000">Política de Privacidade da Branch Discovery</font></a> antes de usar este recurso.</string>
     <string name="branch_guide_description_one">Nós colocaremos todos os seus apps na Gaveta de apps. Sua Tela inicial ficará mais limpa e organizada.</string>
     <string name="branch_guide_description_three">Com a pesquisa integrada, você pode encontrar tudo o que procura num instante!</string>
     <string name="branch_guide_description_two">A Gaveta de apps categoriza os apps automaticamente.</string>
@@ -167,7 +167,7 @@
     <string name="branch_new_feature">Novo recurso</string>
     <string name="branch_privacy_policy">Política de Privacidade</string>
     <string name="branch_search_guide_description">Agora, os nossos resultados de pesquisa são muito mais abrangentes.</string>
-    <string name="branch_search_guide_privacy">Este serviço é fornecido pela Branch Metrics Inc. Suas informações de localização, termos de busca e ID do Google Ads serão compartilhados com o Branch. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este serviço.</string>
+    <string name="branch_search_guide_privacy">Este serviço é fornecido pela Branch Metrics Inc. Suas informações de localização, termos de busca e ID do Google Ads serão compartilhados com o Branch. Leia e aceite os <a href="http://url1"><font color="#B3000000">Termos e Condições</font></a> e a <a href="http://url2"><font color="#B3000000">Política de Privacidade</font></a> antes de usar este serviço.</string>
     <string name="branch_search_guide_title">Encontre o que você está procurando em seus apps favoritos</string>
     <string name="branch_terms_condition">Termos e Condições</string>
     <string name="branch_tip_title">Com a Busca Rápida, você pode encontrar tudo o que você precisa em um instante.</string>
@@ -646,7 +646,7 @@ Segurança melhorada."</string>
     <string name="select_all">Selecionar todos</string>
     <string name="send">Enviar</string>
     <string name="server_error">Ocorreu um erro no servidor. Espere um ou dois minutos e tente novamente.</string>
-    <string name="service_double_attention">A funcionalidade de pesquisa aprimorada é fornecida por Branch Metrics Inc. Para que este recurso funcione, precisamos compartilhar suas solicitações de pesquisa, ID do Google Ads, e o endereço IP com a Branch Metrics Inc. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições de Descoberta do Usuário Final</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade da Branch Discovery</a></font> antes de usar este recurso.</string>
+    <string name="service_double_attention">A funcionalidade de pesquisa aprimorada é fornecida por Branch Metrics Inc. Para que este recurso funcione, precisamos compartilhar suas solicitações de pesquisa, ID do Google Ads, e o endereço IP com a Branch Metrics Inc. Leia e aceite os <a href="http://url1"><font color="#B3000000">Termos e Condições de Descoberta do Usuário Final</font></a> e a <a href="http://url2"><font color="#B3000000">Política de Privacidade da Branch Discovery</font></a> antes de usar este recurso.</string>
     <string name="setting_close">Desativado</string>
     <string name="setting_no_word">Em apps e widgets</string>
     <string name="setting_only_widget_no_word">Em widgets</string>
@@ -690,9 +690,9 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="system_text">Automático</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
     <string name="term_of_service">Termos e condições</string>
-    <string name="terms_of_services_one">Bem-vindo à Gaveta de Apps e Busca Rápida. A Busca Rápida permite que você encontre apps, conteúdos dentro de apps, e itens online rapidamente. Leia e aceite a <font color="#B3000000"><a href="http://url1">Política de Privacidade</a></font> da Xiaomi antes de usar estes recursos.</string>
+    <string name="terms_of_services_one">Bem-vindo à Gaveta de Apps e Busca Rápida. A Busca Rápida permite que você encontre apps, conteúdos dentro de apps, e itens online rapidamente. Leia e aceite a <a href="http://url1"><font color="#B3000000">Política de Privacidade</font></a> da Xiaomi antes de usar estes recursos.</string>
     <string name="terms_of_services_three">Você pode desativar este recurso nas Configurações.</string>
-    <string name="terms_of_services_two">O uso da pesquisa aprimorada requer o compartilhamento de informações pessoais necessárias, inclusive seus termos de busca, ID de Anunciante do Google, e endereço IP, com a Branch Metrics Inc. A Branch processará suas informações pessoais de acordo com a <font color="#B3000000"><a href="http://url1">Política de Privacidade do Branch Discovery</a></font>. Leia e aceite os <font color="#B3000000"><a href="http://url2">Termos e Condições do Discovery para o Usuário final</a></font> e a <font color="#B3000000"><a href="http://url3">Política de Privacidade do Branch Discovery</a></font> antes de usar este recurso.</string>
+    <string name="terms_of_services_two">O uso da pesquisa aprimorada requer o compartilhamento de informações pessoais necessárias, inclusive seus termos de busca, ID de Anunciante do Google, e endereço IP, com a Branch Metrics Inc. A Branch processará suas informações pessoais de acordo com a <a href="http://url1"><font color="#B3000000">Política de Privacidade do Branch Discovery</font></a>. Leia e aceite os <a href="http://url2"><font color="#B3000000">Termos e Condições do Discovery para o Usuário final</font></a> e a <a href="http://url3"><font color="#B3000000">Política de Privacidade do Branch Discovery</font></a> antes de usar este recurso.</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>

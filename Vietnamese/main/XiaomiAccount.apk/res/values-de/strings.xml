@@ -563,7 +563,7 @@ Ihre Konto-ID: %s"</string>
     <string name="passport_privacy_policy">Datenschutzerklärung</string>
     <string name="passport_privacy_policy_required">Datenschutzerklärung (obligatorisch)</string>
     <string name="passport_provision_input_email_register_prompt">Ihre personenbezogenen Daten werden gemäß den Gesetzen und Vorschriften der von Ihnen gewählten Region gespeichert.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d Zeichen mit mind. %3$d der folgenden Typen: Buchstaben, Ziffern, Sonderzeichen</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> Zeichen mit mind. <xliff id="min_pwd_type" refersto="2">%3$d</xliff> der folgenden Typen: Buchstaben, Ziffern, Sonderzeichen</string>
     <string name="passport_qq_login_btn_content_description">Mit QQ anmelden</string>
     <string name="passport_querying_phone_info">Kontodaten abrufen…</string>
     <string name="passport_quick_login">Anmelden</string>

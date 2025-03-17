@@ -561,7 +561,7 @@ Anda dapat masuk ke Akun Xiaomi Anda menggunakan %s sekarang."</string>
     <string name="passport_privacy_policy">Kebijakan Privasi</string>
     <string name="passport_privacy_policy_required">Kebijakan Privasi (wajib)</string>
     <string name="passport_provision_input_email_register_prompt">Data pribadi Anda akan disimpan sesuai dengan hukum dan peraturan wilayah yang Anda pilih.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d karakter, minimal mengandung %3$d dari tipe berikut: huruf, angka, simbol khusus</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> karakter, minimal mengandung <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dari tipe berikut: huruf, angka, simbol khusus</string>
     <string name="passport_qq_login_btn_content_description">Masuk dengan QQ</string>
     <string name="passport_querying_phone_info">Meminta info akun…</string>
     <string name="passport_quick_login">Masuk</string>

@@ -123,7 +123,7 @@
     <string name="feedback_custom_hint">Mô tả các vấn đề bạn gặp phải ở đây. Nếu bạn đang đưa ra đề xuất, chúng tôi sẽ đánh giá cao chi tiết hơn!</string>
     <string name="find_device">Tìm thiết bị</string>
     <string name="find_device_dspt_provision">Nếu bạn đánh mất thiết bị, bạn có thể truy cập &lt;font color=#0097FF>%s&lt;/font> để định vị, khóa, hoặc đặt lại thiết bị. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
-    <string name="find_device_gdpr_prompt">Bằng cách bật Tìm thiết bị, bạn đồng ý với <u><a href="app://com.miui.cloudservice.gdpr.license">Chính sách bảo mật</a></u> của chúng tôi. Tắt tính năng này nếu bạn muốn rút lại sự đồng ý của mình.</string>
+    <string name="find_device_gdpr_prompt">Bằng cách bật Tìm thiết bị, bạn đồng ý với <a href="app://com.miui.cloudservice.gdpr.license"><u>Chính sách bảo mật</u></a> của chúng tôi. Tắt tính năng này nếu bạn muốn rút lại sự đồng ý của mình.</string>
     <string name="find_device_operation_failure_rpc">Thao tác thất bại do lỗi RPC.</string>
     <string name="find_device_permissions_footer">Nhấn vào \"Chấp nhận\" để cấp các quyền bạn đã chọn.</string>
     <string name="find_device_permissions_header">Chào mừng bạn đến với Tìm thiết bị! Bạn có thể sử dụng ứng dụng này để định vị, theo dõi và khóa thiết bị của mình khi thiết bị bị mất. Tìm thiết bị yêu cầu các quyền sau:</string>

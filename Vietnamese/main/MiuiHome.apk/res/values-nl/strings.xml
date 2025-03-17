@@ -140,7 +140,7 @@
     <string name="backup_fail">Kon geen back-up maken van de launcher</string>
     <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
     <string name="branch_feature_description">Naast apps kan Quick Finder in-app-inhoud en items online vinden.</string>
-    <string name="branch_guide_attention">Als u uitgebreid zoeken wilt gebruiken, moet u uw zoekopdrachten, Google Ads ID en IP-adres delen met Branch Metrics Inc. Lees en ga akkoord met de <font color="#B3000000"><a href="http://url1">Eindgebruiker Algemene voorwaarden voor Discovery</a></font> en <font color="#B3000000"><a href="http://url2">Branch Discovery Privacybeleid</a></font> voordat u deze functie gebruikt.</string>
+    <string name="branch_guide_attention">Als u uitgebreid zoeken wilt gebruiken, moet u uw zoekopdrachten, Google Ads ID en IP-adres delen met Branch Metrics Inc. Lees en ga akkoord met de <a href="http://url1"><font color="#B3000000">Eindgebruiker Algemene voorwaarden voor Discovery</font></a> en <a href="http://url2"><font color="#B3000000">Branch Discovery Privacybeleid</font></a> voordat u deze functie gebruikt.</string>
     <string name="branch_guide_description_one">We plaatsen al uw apps in de App-lade. Uw Startscherm ziet er netjes en overzichtelijk uit.</string>
     <string name="branch_guide_description_three">Met de ingebouwde zoekfunctie vindt u in een oogwenk alles wat u nodig heeft!</string>
     <string name="branch_guide_description_two">App-lade categoriseert apps automatisch.</string>
@@ -155,7 +155,7 @@
     <string name="branch_new_feature">Nieuwe functie</string>
     <string name="branch_privacy_policy">Privacybeleid</string>
     <string name="branch_search_guide_description">Onze zoekresultaten zijn nu veel uitgebreider</string>
-    <string name="branch_search_guide_privacy">Deze service wordt mogelijk gemaakt door Branch Metrics Inc. Uw locatie info, zoekopdrachten en Google Ads ID worden gedeeld met Branch. Lees en ga akkoord met de <font color="#B3000000"><a href="http://url1">Algemene Voorwaarden</a></font> en <font color="#B3000000"><a href="http://url2">Privacybeleid</a></font> van Branch voordat u deze service gebruikt.</string>
+    <string name="branch_search_guide_privacy">Deze service wordt mogelijk gemaakt door Branch Metrics Inc. Uw locatie info, zoekopdrachten en Google Ads ID worden gedeeld met Branch. Lees en ga akkoord met de <a href="http://url1"><font color="#B3000000">Algemene Voorwaarden</font></a> en <a href="http://url2"><font color="#B3000000">Privacybeleid</font></a> van Branch voordat u deze service gebruikt.</string>
     <string name="branch_search_guide_title">Vind wat u zoekt in uw favoriete apps</string>
     <string name="branch_terms_condition">Algemene Voorwaarden</string>
     <string name="branch_tip_title">Met Quick Finder vindt u alles wat u nodig heeft in een handomdraai.</string>
@@ -593,7 +593,7 @@ Verbeterde beveiliging."</string>
     <string name="select_all">Alles selecteren</string>
     <string name="send">Verzenden</string>
     <string name="server_error">Er is een serverfout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
-    <string name="service_double_attention">Verbeterde zoekfunctionaliteit wordt geleverd door Branch Metrics Inc. Om deze functie te laten werken, moeten we uw zoekopdrachten, Google Ads ID en IP-adres delen met Branch Metrics Inc. Lees en ga akkoord met de <font color="#B3000000"><a href="http://url1">Eindgebruiker Algemene voorwaarden voor Discovery</a></font> en <font color="#B3000000"><a href="http://url2">Branch Discovery Privacybeleid</a></font> voordat u deze functie gebruikt.</string>
+    <string name="service_double_attention">Verbeterde zoekfunctionaliteit wordt geleverd door Branch Metrics Inc. Om deze functie te laten werken, moeten we uw zoekopdrachten, Google Ads ID en IP-adres delen met Branch Metrics Inc. Lees en ga akkoord met de <a href="http://url1"><font color="#B3000000">Eindgebruiker Algemene voorwaarden voor Discovery</font></a> en <a href="http://url2"><font color="#B3000000">Branch Discovery Privacybeleid</font></a> voordat u deze functie gebruikt.</string>
     <string name="setting_close">Uit</string>
     <string name="setting_no_word">Overal</string>
     <string name="setting_only_widget_no_word">Op widgets</string>
@@ -636,9 +636,9 @@ Verbeterde beveiliging."</string>
     <string name="system_text">Automatisch</string>
     <string name="task_access_locked_app_msg">Appvergrendeling ingeschakeld</string>
     <string name="term_of_service">Algemene voorwaarden</string>
-    <string name="terms_of_services_one">Welkom bij App-lade en Quick Finder. Met Quick Finder kunt u apps, in-app-inhoud en items sneller online vinden. Lees en ga akkoord met het <font color="#B3000000"><a href="http://url1">Privacybeleid</a></font> van Xiaomi voordat u deze functies gebruikt.</string>
+    <string name="terms_of_services_one">Welkom bij App-lade en Quick Finder. Met Quick Finder kunt u apps, in-app-inhoud en items sneller online vinden. Lees en ga akkoord met het <a href="http://url1"><font color="#B3000000">Privacybeleid</font></a> van Xiaomi voordat u deze functies gebruikt.</string>
     <string name="terms_of_services_three">U kunt deze functie uitschakelen in Instellingen.</string>
-    <string name="terms_of_services_two">Voor het gebruik van uitgebreid zoeken moet de nodige persoonlijke informatie, inclusief uw zoekopdrachten, Google Advertising ID en IP-adres, worden gedeeld met Branch Metrics Inc. Branch verwerkt uw persoonlijke gegevens in overeenstemming met <font color="#B3000000"><a href="http://url1">Branch Discovery Privacybeleid</a></font>. Lees en ga akkoord met <font color="#B3000000"><a href="http://url2">Eindgebruiker Algemene voorwaarden voor Discovery</a></font> en <font color="#B3000000"><a href="http://url3">Branch Discovery Privacybeleid</a></font> voordat u deze functie gebruikt.</string>
+    <string name="terms_of_services_two">Voor het gebruik van uitgebreid zoeken moet de nodige persoonlijke informatie, inclusief uw zoekopdrachten, Google Advertising ID en IP-adres, worden gedeeld met Branch Metrics Inc. Branch verwerkt uw persoonlijke gegevens in overeenstemming met <a href="http://url1"><font color="#B3000000">Branch Discovery Privacybeleid</font></a>. Lees en ga akkoord met <a href="http://url2"><font color="#B3000000">Eindgebruiker Algemene voorwaarden voor Discovery</font></a> en <a href="http://url3"><font color="#B3000000">Branch Discovery Privacybeleid</font></a> voordat u deze functie gebruikt.</string>
     <string name="thursday">Donderdag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">Do</string>

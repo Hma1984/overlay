@@ -136,7 +136,7 @@ w celu aktywacji urządzenia"</string>
     <string name="feedback_custom_hint">Opisz napotkane przez Ciebie problemy tutaj. Jeśli piszesz sugestię, będziemy wdzięczni za więcej szczegółów!</string>
     <string name="find_device">Lokalizacja urządzenia</string>
     <string name="find_device_dspt_provision">Jeśli zgubisz telefon, przejdź do &lt;font color=#0097FF>%s&lt;/font>, aby go zlokalizować, zablokować lub wymazać jego pamięć. Możesz włączyć lub wyłączyć tę funkcję w Ustawieniach.</string>
-    <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <u><a href="app://com.miui.cloudservice.gdpr.license">Polityki prywatności</a></u> Xiaomi.</string>
+    <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <a href="app://com.miui.cloudservice.gdpr.license"><u>Polityki prywatności</u></a> Xiaomi.</string>
     <string name="find_device_permissions_footer">Dotknij opcji \"Przyznaj\", aby nadać wybrane przez Ciebie uprawnienia.</string>
     <string name="find_device_permissions_header">Witaj w funkcji Znajdź urządzenie! Możesz jej używać do lokalizowania, śledzenia i zablokowania urządzenia w razie jego utraty. Funkcja wymaga następujących uprawnień:</string>
     <string name="find_device_service_title">Lokalizacja urządzenia</string>

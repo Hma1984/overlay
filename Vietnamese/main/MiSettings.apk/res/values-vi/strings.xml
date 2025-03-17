@@ -246,7 +246,7 @@
     <string name="fps_standard_summary">Tốc độ làm mới tiêu chuẩn giúp Tiết kiệm pin</string>
     <string name="fps_standard_title">Tiêu chuẩn</string>
     <string name="fps_user_tip">- Những hình ảnh động demo này được phát ở tốc độ thấp để bạn tham khảo. Hiệu suất thực tế có thể trông khác dựa trên các yếu tố khác nhau.</string>
-    <string name="fps_user_tip_footer">"%1$d. Tùy chọn 1 Hz: Tốc độ làm mới sẽ luôn ở mức cao nhất trong tất cả ứng dụng.
+    <string name="fps_user_tip_footer">"%1$d. Tùy chọn 1 Hz: Tốc độ làm mới sẽ luôn ở mức cao nhất trong tất cả ứng dụng (Có thể làm tăng mức tiêu thụ pin).
 %2$d. Để bạn hiểu sự khác biệt giữa tốc độ làm mới cao hơn và thấp hơn, các bản trình diễn được phát chậm hơn ở đây. Bạn có thể khó nhận ra sự khác biệt trong quá trình sử dụng thường xuyên."</string>
     <string name="friday">Thứ Sáu</string>
     <string name="friday_short">Th 6</string>

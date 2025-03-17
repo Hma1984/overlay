@@ -584,7 +584,7 @@
     <string name="passport_privacy_policy">개인 정보 보호 정책</string>
     <string name="passport_privacy_policy_required">개인 정보 보호 정책 (필수)</string>
     <string name="passport_provision_input_email_register_prompt">개인 데이터는 사용자가 선택한 지역의 법률 및 규정에 따라 저장될 것입니다.</string>
-    <string name="passport_provision_password_req_notice">문자, 숫자 특수 기호 중 최소 %3$d 종류를 포함하는 %1$d-%2$d 자리</string>
+    <string name="passport_provision_password_req_notice">문자, 숫자 특수 기호 중 최소 <xliff id="min_pwd_type" refersto="2">%3$d</xliff> 종류를 포함하는 <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> 자리</string>
     <string name="passport_qq_login_btn_content_description">QQ 로그인</string>
     <string name="passport_querying_phone_info">계정 정보를 요청하는 중…</string>
     <string name="passport_quick_login">가입하기</string>

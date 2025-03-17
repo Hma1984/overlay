@@ -122,7 +122,7 @@
     <string name="back">பின்செல்</string>
     <string name="backup_fail">லாஞ்சரைக் காப்புப்பிரதியெடுக்க முடியாது</string>
     <string name="branch_feature_description">செயலிகளைத் தவிர, விரைவு கண்டறிதல் செயலியின் உள்ளடக்கம் மற்றும் ஆன்லைன் உருப்படிகளையும் கண்டறிய முடியும்.</string>
-    <string name="branch_guide_attention">மேம்பட்ட தேடலைப் பயன்படுத்துவது என்பதில், உங்கள் தேடல் கோரிக்கைகள், Google Ads ID மற்றும் IP முகவரி ஆகியவற்றை Branch Metrics Inc. உடன் பகிர்ந்து கொள்வது உள்ளடங்கியுள்ளது. இந்த அம்சத்தைப் பயன்படுத்துவதற்கு முன்பாக, <font color="#B3000000"><a href="http://url1">இறுதிப் பயனர் கண்டறிதல் விதிமுறைகள் &amp; நிபந்தனைகள்</a></font> மற்றும் <font color="#B3000000"><a href="http://url2">Branch Discovery தனியுரிமைக் கொள்கை</a></font> ஆகியவற்றைப் படித்து ஏற்றுக் கொள்ளவும்.</string>
+    <string name="branch_guide_attention">மேம்பட்ட தேடலைப் பயன்படுத்துவது என்பதில், உங்கள் தேடல் கோரிக்கைகள், Google Ads ID மற்றும் IP முகவரி ஆகியவற்றை Branch Metrics Inc. உடன் பகிர்ந்து கொள்வது உள்ளடங்கியுள்ளது. இந்த அம்சத்தைப் பயன்படுத்துவதற்கு முன்பாக, <a href="http://url1"><font color="#B3000000">இறுதிப் பயனர் கண்டறிதல் விதிமுறைகள் &amp; நிபந்தனைகள்</font></a> மற்றும் <a href="http://url2"><font color="#B3000000">Branch Discovery தனியுரிமைக் கொள்கை</font></a> ஆகியவற்றைப் படித்து ஏற்றுக் கொள்ளவும்.</string>
     <string name="branch_guide_description_one">உங்கள் செயலிகளை செயலி டிராயரில் நாங்கள் வைப்போம். உங்கள் முகப்புத்திரை சீராகவும், ஒழுங்கமைவுடனும் தோற்றமளிக்கும்.</string>
     <string name="branch_guide_description_three">உள்ளமைந்த தேடல் மூலமாக, உங்களால் தேவையானதை ஒரு நொடியில் கண்டறிய முடியும்!</string>
     <string name="branch_guide_description_two">செயலி டிராயர் செயலிகளைத் தானாக வகைப்படுத்தும்.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">புதிய அம்சம்</string>
     <string name="branch_privacy_policy">தனியுரிமைக் கொள்கை</string>
     <string name="branch_search_guide_description">எங்கள் தேடல் முடிவுகள் இப்போது இன்னும் விரிவாக இருக்கின்றன</string>
-    <string name="branch_search_guide_privacy">இந்தச் சேவையை வழங்குவது Branch Metrics Inc. உங்கள் இருப்பிட விவரம், தேடல் வினவல்கள் மற்றும் Google Ads ID ஆகியவை Branch உடன் பகிர்ந்து கொள்ளப்படும். இந்தச் சேவையைப் பயன்படுத்துவதற்கு முன்பு Branch -இன் <font color="#B3000000"><a href="http://url1">நிபந்தனைகள் மற்றும் விதிமுறைகள்Conditions</a></font> மற்றும் <font color="#B3000000"><a href="http://url2">தனியுரிமைக் கொள்கை</a></font> ஆகியவற்றைப் படித்து ஏற்றுக்கொள்ளவும்.</string>
+    <string name="branch_search_guide_privacy">இந்தச் சேவையை வழங்குவது Branch Metrics Inc. உங்கள் இருப்பிட விவரம், தேடல் வினவல்கள் மற்றும் Google Ads ID ஆகியவை Branch உடன் பகிர்ந்து கொள்ளப்படும். இந்தச் சேவையைப் பயன்படுத்துவதற்கு முன்பு Branch -இன் <a href="http://url1"><font color="#B3000000">நிபந்தனைகள் மற்றும் விதிமுறைகள்Conditions</font></a> மற்றும் <a href="http://url2"><font color="#B3000000">தனியுரிமைக் கொள்கை</font></a> ஆகியவற்றைப் படித்து ஏற்றுக்கொள்ளவும்.</string>
     <string name="branch_search_guide_title">உங்களுக்குப் பிடித்த செயலிகளில் நீங்கள் தேடுவதைக் கண்டறியுங்கள்</string>
     <string name="branch_terms_condition">விதிமுறைகள் மற்றும் நிபந்தனைகள்</string>
     <string name="branch_tip_title">விரைவு கண்டறிதல் உடன், நீங்கள் விரும்புவது எதையும் ஒரு நொடியில் கண்டறியலாம்.</string>
@@ -551,7 +551,7 @@
     <string name="select_all">அனைத்தையும் தேர்ந்தெடு</string>
     <string name="send">அனுப்பு</string>
     <string name="server_error">சர்வர் பிழை ஏற்பட்டது. ஓரிரு நிமிடம் காத்திருந்து மீண்டும் முயலவும்.</string>
-    <string name="service_double_attention">மேம்பட்ட தேடல் செயல்பாடானது, Branch Metrics Inc. -ஆல் வழங்கப்படுகிறது. இந்த அம்சம் செயல்பட, நாங்கள் உங்களுடைய தேடல் கோரிக்கைகள், Google Ads ID மற்றும் IP முகவரி ஆகியவற்றை Branch Metrics Inc. உடன் பகிர்ந்து கொள்ள் வேண்டும். இந்த அம்சத்தைப் பயன்படுத்துவதற்கு முன்பாக, <font color="#B3000000"><a href="http://url1">இறுதிப் பயனர் கண்டறிதல் விதிமுறைகள் &amp; நிபந்தனைகள்</a></font> மற்றும் <font color="#B3000000"><a href="http://url2">Branch Discovery தனியுரிமைக் கொள்கை</a></font> ஆகியவற்றைப் படித்து ஏற்றுக் கொள்ளவும்.</string>
+    <string name="service_double_attention">மேம்பட்ட தேடல் செயல்பாடானது, Branch Metrics Inc. -ஆல் வழங்கப்படுகிறது. இந்த அம்சம் செயல்பட, நாங்கள் உங்களுடைய தேடல் கோரிக்கைகள், Google Ads ID மற்றும் IP முகவரி ஆகியவற்றை Branch Metrics Inc. உடன் பகிர்ந்து கொள்ள் வேண்டும். இந்த அம்சத்தைப் பயன்படுத்துவதற்கு முன்பாக, <a href="http://url1"><font color="#B3000000">இறுதிப் பயனர் கண்டறிதல் விதிமுறைகள் &amp; நிபந்தனைகள்</font></a> மற்றும் <a href="http://url2"><font color="#B3000000">Branch Discovery தனியுரிமைக் கொள்கை</font></a> ஆகியவற்றைப் படித்து ஏற்றுக் கொள்ளவும்.</string>
     <string name="setting_close">ஆஃப்</string>
     <string name="setting_no_word">எல்லா இடத்திலும்</string>
     <string name="setting_only_widget_no_word">விட்ஜெட்களில்</string>
@@ -595,9 +595,9 @@
     <string name="system_text">தானியங்கு</string>
     <string name="task_access_locked_app_msg">செயலி பூட்டு இயக்கப்பட்டது</string>
     <string name="term_of_service">விதிமுறைகள் மற்றும் நிபந்தனைகள்</string>
-    <string name="terms_of_services_one">செயலி வைப்பகம் மற்றும் விரைவு கண்டறிதலுக்கு வரவேற்கிறோம். விரைவு கண்டறிதல், உங்களை செயலிகளையும், செயலிகளுக்குள்ளான உள்ளடக்கத்தையும் ஆன்லைன் உருப்படிகளையும் வேகமாகக் கண்டறிய அனுமதிக்கிறது. இந்த அம்சங்களைப் பயன்படுத்துவதற்கு முன்பாக Xiaomi -இன் <font color="#B3000000"><a href="http://url1">தனியுரிமைக் கொள்கையை</a></font> படிக்கவும்.</string>
+    <string name="terms_of_services_one">செயலி வைப்பகம் மற்றும் விரைவு கண்டறிதலுக்கு வரவேற்கிறோம். விரைவு கண்டறிதல், உங்களை செயலிகளையும், செயலிகளுக்குள்ளான உள்ளடக்கத்தையும் ஆன்லைன் உருப்படிகளையும் வேகமாகக் கண்டறிய அனுமதிக்கிறது. இந்த அம்சங்களைப் பயன்படுத்துவதற்கு முன்பாக Xiaomi -இன் <a href="http://url1"><font color="#B3000000">தனியுரிமைக் கொள்கையை</font></a> படிக்கவும்.</string>
     <string name="terms_of_services_three">அமைப்புகளில், இந்த அம்சத்தை நீங்கள் அணைக்கலாம்.</string>
-    <string name="terms_of_services_two">மேம்பட்ட தேடலைப் பயன்படுத்துவது மூலமாக, அத்தியாவசியமான தனிப்பட்ட தகவல்களை Branch Metrics Inc. உடன் பகிர்ந்து கொள்ள வேண்டியிருக்கலாம், இதில் உங்கள் தேடல் வினவல்கள் Google விளம்பரப்படுத்தல் ID மற்றும் IP முகவரிகள் உள்ளடங்கலாம், Branch உங்கள் தனிப்பட்ட தகவல்களை <font color="#B3000000"><a href="http://url1">Branch Discovery தனியுரிமைக் கொள்கைக்கு</a></font> இணங்கியபடி செயலாக்கும். இந்த அம்சத்தைப் பயன்படுத்த தொடங்குவதற்கு முன்பாக, <font color="#B3000000"><a href="http://url2">End User Discovery விதிகள் மற்றும் நிபந்தனைகள்</a></font> மற்றும் <font color="#B3000000"><a href="http://url3">Branch Discovery தனியுரிமைக் கொள்கை</a></font> ஆகியவற்றைப் படித்து ஏற்றுக் கொள்ளவும்.</string>
+    <string name="terms_of_services_two">மேம்பட்ட தேடலைப் பயன்படுத்துவது மூலமாக, அத்தியாவசியமான தனிப்பட்ட தகவல்களை Branch Metrics Inc. உடன் பகிர்ந்து கொள்ள வேண்டியிருக்கலாம், இதில் உங்கள் தேடல் வினவல்கள் Google விளம்பரப்படுத்தல் ID மற்றும் IP முகவரிகள் உள்ளடங்கலாம், Branch உங்கள் தனிப்பட்ட தகவல்களை <a href="http://url1"><font color="#B3000000">Branch Discovery தனியுரிமைக் கொள்கைக்கு</font></a> இணங்கியபடி செயலாக்கும். இந்த அம்சத்தைப் பயன்படுத்த தொடங்குவதற்கு முன்பாக, <a href="http://url2"><font color="#B3000000">End User Discovery விதிகள் மற்றும் நிபந்தனைகள்</font></a> மற்றும் <a href="http://url3"><font color="#B3000000">Branch Discovery தனியுரிமைக் கொள்கை</font></a> ஆகியவற்றைப் படித்து ஏற்றுக் கொள்ளவும்.</string>
     <string name="thursday">வியாழன்</string>
     <string name="thursday_short">வியா</string>
     <string name="thursday_shortest">வியா</string>

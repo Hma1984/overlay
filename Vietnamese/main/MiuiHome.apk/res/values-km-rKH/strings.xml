@@ -122,7 +122,7 @@
     <string name="back">ថយក្រោយ</string>
     <string name="backup_fail">មិនអាចបម្រុងទុកកម្មវិធីបើកដំណើរការ</string>
     <string name="branch_feature_description">ក្រៅពីកម្មវិធី មុខងារស្វែងរករហ័សអាចរកមាតិកានិងធាតុនៅក្នុងអ៊ីនធឺណិត។</string>
-    <string name="branch_guide_attention">ការប្រើប្រាស់ការស្វែងរកកម្រិតខ្ពស់ទាមទារការចែករំលែកសំណើស្វែងរក លេខសម្គាល់ ID ពត៌មានផ្សព្វផ្សាយ Google និងអាសយដ្ឋាន IP របស់អ្នកជាមួយ Branch Metrics Inc ។ សូមអាន និងយល់ព្រមចំពោះ <font color="#B3000000"><a href="http://url1">ខ និង​ ល័ក្ខខ័ណ្ឌនៃការរកឃើញអ្នកប្រើចុងក្រោយ</a></font> និង <font color="#B3000000"><a href="http://url2">គោលការណ៍​ភាព​ឯកជន Branch Discovery</a></font> មុនពេលប្រើមុខងារពិសេសនេះ។</string>
+    <string name="branch_guide_attention">ការប្រើប្រាស់ការស្វែងរកកម្រិតខ្ពស់ទាមទារការចែករំលែកសំណើស្វែងរក លេខសម្គាល់ ID ពត៌មានផ្សព្វផ្សាយ Google និងអាសយដ្ឋាន IP របស់អ្នកជាមួយ Branch Metrics Inc ។ សូមអាន និងយល់ព្រមចំពោះ <a href="http://url1"><font color="#B3000000">ខ និង​ ល័ក្ខខ័ណ្ឌនៃការរកឃើញអ្នកប្រើចុងក្រោយ</font></a> និង <a href="http://url2"><font color="#B3000000">គោលការណ៍​ភាព​ឯកជន Branch Discovery</font></a> មុនពេលប្រើមុខងារពិសេសនេះ។</string>
     <string name="branch_guide_description_one">យើងនឹងដាក់កម្មវិធីរបស់អ្នកទាំងអស់ទៅក្នុងថតកម្មវិធី។ អេក្រង់ដើមរបស់អ្នកនឹងមើលទៅស្អាតនិងមានសណ្តាប់ធ្នាប់។</string>
     <string name="branch_guide_description_three">ជាមួយនឹងការស្វែងរកដែលភ្ជាប់មកជាមួយ អ្នកនឹងអាចរកឃើញអ្វីដែលអ្នកត្រូវការបានយ៉ាងទាន់ចិត្ត!</string>
     <string name="branch_guide_description_two">ថតកម្មវិធីនឹងបែងចែកប្រភេទកម្មវិធីដោយស្វ័យប្រវត្តិ។</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">មុខងារពិសេសថ្មីៗ</string>
     <string name="branch_privacy_policy">គោលការណ៍ឯកជនភាព</string>
     <string name="branch_search_guide_description">លទ្ធផលស្វែងរករបស់យើងឥឡូវនេះកាន់តែទូលាយជាងមុនហើយ</string>
-    <string name="branch_search_guide_privacy">សេវាកម្មនេះដំណើរការដោយ Branch Metrics Inc. ព័ត៌មានទីតាំងស្វែងរកសំណួរនិងលេខសម្គាល់ ID Google Ads នឹងត្រូវបានចែករំលែកជាមួយ Branch។ សូមអាននិងយល់ព្រមជាមួយ <font color="#B3000000"><a href="http://url1">ខ និង លក្ខខណ្ឌ</a></font> និង <font color="#B3000000"><a href="http://url2">គោលការណ៍​​ឯកជនភាព</a></font> របស់ Branch មុនពេលប្រើសេវាកម្មនេះ។</string>
+    <string name="branch_search_guide_privacy">សេវាកម្មនេះដំណើរការដោយ Branch Metrics Inc. ព័ត៌មានទីតាំងស្វែងរកសំណួរនិងលេខសម្គាល់ ID Google Ads នឹងត្រូវបានចែករំលែកជាមួយ Branch។ សូមអាននិងយល់ព្រមជាមួយ <a href="http://url1"><font color="#B3000000">ខ និង លក្ខខណ្ឌ</font></a> និង <a href="http://url2"><font color="#B3000000">គោលការណ៍​​ឯកជនភាព</font></a> របស់ Branch មុនពេលប្រើសេវាកម្មនេះ។</string>
     <string name="branch_search_guide_title">ស្វែងរកអ្វីដែលអ្នកកំពុងរកនៅក្នុងកម្មវិធីដែលអ្នកចូលចិត្ត</string>
     <string name="branch_terms_condition">ខ និង លក្ខខណ្ឌ</string>
     <string name="branch_tip_title">ជាមួយមុខងារស្វែងរករហ័សអ្នកអាចរកឃើញអ្វីៗគ្រប់យ៉ាងដែលអ្នកត្រូវការភ្លាមៗ។</string>
@@ -549,7 +549,7 @@
     <string name="select_all">ជ្រើសរើសទាំងអស់</string>
     <string name="send">បញ្ជូន</string>
     <string name="server_error">កំហុសម៉ាស៊ីនមេបានកើតឡើង។ សូមរង់ចាំពីរបីនាទី ហើយព្យាយាមម្តងទៀត។</string>
-    <string name="service_double_attention">មុខងារស្វែងរកកម្រិតខ្ពស់ត្រូវបានផ្តល់ដោយ Branch Metrics Inc. ដើម្បីធ្វើឱ្យមុខងារនេះដំណើរការបានយើងចាំបាច់ត្រូវចែករំលែកសំណើស្វែងរក លេខសម្គាល់ ID ពត៌មានផ្សព្វផ្សាយ Google និងអាសយដ្ឋាន IP របស់អ្នកជាមួយ Branch Metrics Inc ។ សូមអាន និងយល់ព្រមចំពោះ <font color="#B3000000"><a href="http://url1">ខ និង​ ល័ក្ខខ័ណ្ឌនៃការរកឃើញអ្នកប្រើចុងក្រោយ</a></font> និង <font color="#B3000000"><a href="http://url2">គោលការណ៍​ភាព​ឯកជន Branch Discovery</a></font> មុនពេលប្រើមុខងារពិសេសនេះ។</string>
+    <string name="service_double_attention">មុខងារស្វែងរកកម្រិតខ្ពស់ត្រូវបានផ្តល់ដោយ Branch Metrics Inc. ដើម្បីធ្វើឱ្យមុខងារនេះដំណើរការបានយើងចាំបាច់ត្រូវចែករំលែកសំណើស្វែងរក លេខសម្គាល់ ID ពត៌មានផ្សព្វផ្សាយ Google និងអាសយដ្ឋាន IP របស់អ្នកជាមួយ Branch Metrics Inc ។ សូមអាន និងយល់ព្រមចំពោះ <a href="http://url1"><font color="#B3000000">ខ និង​ ល័ក្ខខ័ណ្ឌនៃការរកឃើញអ្នកប្រើចុងក្រោយ</font></a> និង <a href="http://url2"><font color="#B3000000">គោលការណ៍​ភាព​ឯកជន Branch Discovery</font></a> មុនពេលប្រើមុខងារពិសេសនេះ។</string>
     <string name="setting_close">បិទ</string>
     <string name="setting_no_word">គ្រប់កន្លែង</string>
     <string name="setting_only_widget_no_word">នៅលើធាតុក្រាហ្វិក</string>
@@ -593,9 +593,9 @@
     <string name="system_text">ស្វ័យប្រវត្តិ</string>
     <string name="task_access_locked_app_msg">បានបើកប្រើសោចាក់កម្មវិធី</string>
     <string name="term_of_service">ខ និង ល័ក្ខខ័ណ្ឌ</string>
-    <string name="terms_of_services_one">ស្វាគមន៍មកកាន់ថតកម្មវិធី និង កម្មវិធីស្វែងរករហ័ស។ ឧបករណ៍ស្វែងរករហ័សអនុញ្ញាតឱ្យអ្នកស្វែងរកកម្មវិធីមាតិកានៅក្នុងកម្មវិធីនិងរបស់របរតាមអ៊ីនធឺណិតលឿនជាងមុន។ អាននិងយល់ព្រមជាមួយ <font color="#B3000000"><a href="http://url1">គោលការណ៍​ភាព​ឯកជន</a></font> ក្រុមហ៊ុន Xiaomi មុនពេលប្រើមុខងារពិសេសទាំងនេះ។</string>
+    <string name="terms_of_services_one">ស្វាគមន៍មកកាន់ថតកម្មវិធី និង កម្មវិធីស្វែងរករហ័ស។ ឧបករណ៍ស្វែងរករហ័សអនុញ្ញាតឱ្យអ្នកស្វែងរកកម្មវិធីមាតិកានៅក្នុងកម្មវិធីនិងរបស់របរតាមអ៊ីនធឺណិតលឿនជាងមុន។ អាននិងយល់ព្រមជាមួយ <a href="http://url1"><font color="#B3000000">គោលការណ៍​ភាព​ឯកជន</font></a> ក្រុមហ៊ុន Xiaomi មុនពេលប្រើមុខងារពិសេសទាំងនេះ។</string>
     <string name="terms_of_services_three">អ្នកអាចបិទលក្ខណៈពិសេសនេះក្នុងការកំណត់។</string>
-    <string name="terms_of_services_two">ការប្រើប្រាស់ការស្វែងរកដែលប្រសើរឡើងទាមទារការចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនចាំបាច់ដែលរួមមានសំណួរស្វែងរក លេខសម្គាល់ការផ្សាយពាណិជ្ជកម្ម Google និងអាស័យដ្ឋាន IP របស់អ្នកជាមួយ Branch Metrics Inc.​។ Branch នឹងដំណើរការព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នកស្របតាម <font color="#B3000000"><a href="http://url1">គោលការណ៍​​ឯកជនភាព Branch Discovery</a></font>។ សូមអាននិងយល់ព្រមជាមួយ <font color="#B3000000"><a href="http://url2">ខ និង ល័ក្ខខ័ណ្ឌនៃអ្នកប្រើប្រាស់ Discovery ចុងក្រោយ</a></font> និង <font color="#B3000000"><a href="http://url3">គោលការណ៍​​ឯកជនភាព Branch Discovery</a></font> មុនពេលប្រើមុខងារពិសេសនេះ។</string>
+    <string name="terms_of_services_two">ការប្រើប្រាស់ការស្វែងរកដែលប្រសើរឡើងទាមទារការចែករំលែកព័ត៌មានផ្ទាល់ខ្លួនចាំបាច់ដែលរួមមានសំណួរស្វែងរក លេខសម្គាល់ការផ្សាយពាណិជ្ជកម្ម Google និងអាស័យដ្ឋាន IP របស់អ្នកជាមួយ Branch Metrics Inc.​។ Branch នឹងដំណើរការព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នកស្របតាម <a href="http://url1"><font color="#B3000000">គោលការណ៍​​ឯកជនភាព Branch Discovery</font></a>។ សូមអាននិងយល់ព្រមជាមួយ <a href="http://url2"><font color="#B3000000">ខ និង ល័ក្ខខ័ណ្ឌនៃអ្នកប្រើប្រាស់ Discovery ចុងក្រោយ</font></a> និង <a href="http://url3"><font color="#B3000000">គោលការណ៍​​ឯកជនភាព Branch Discovery</font></a> មុនពេលប្រើមុខងារពិសេសនេះ។</string>
     <string name="thursday">ថ្ងៃព្រហស្បត្តិ៍</string>
     <string name="thursday_short">ព្រហស្បតិ៍</string>
     <string name="thursday_shortest">ព្រហស្បតិ៍</string>

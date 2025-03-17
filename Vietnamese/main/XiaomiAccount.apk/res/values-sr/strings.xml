@@ -560,7 +560,7 @@
     <string name="passport_privacy_policy">Правила о приватности</string>
     <string name="passport_privacy_policy_required">Правила о приватности (обавезно)</string>
     <string name="passport_provision_input_email_register_prompt">Ваши лични подаци ће се чувати у складу са законима и прописима региона који сте изабрали.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d карактера од којих су најмање %3$d: слова, бројеви, специјални симболи</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> карактера од којих су најмање <xliff id="min_pwd_type" refersto="2">%3$d</xliff>: слова, бројеви, специјални симболи</string>
     <string name="passport_qq_login_btn_content_description">Пријавите се преко QQ</string>
     <string name="passport_querying_phone_info">Захтевање информација о налогу…</string>
     <string name="passport_quick_login">Пријавите се</string>

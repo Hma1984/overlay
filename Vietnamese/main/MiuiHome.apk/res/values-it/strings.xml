@@ -150,7 +150,7 @@
     <string name="branch_deepview_button">"Scarica l'App"</string>
     <string name="branch_deepview_button_description">"Vedi questo contenuto subito dopo l'installazione"</string>
     <string name="branch_feature_description">Oltre alle app, Ricerca Rapida può trovare contenuti in-app e oggetti online.</string>
-    <string name="branch_guide_attention">"L'utilizzo di una ricerca avanzata richiede la condivisione delle tue richieste di ricerca, dell'ID Google Ads e dell'indirizzo IP con la Branch Metrics Inc. Leggi e accetta "<font color="#B3000000"><a href="http://url1">"Termini di scoperta dell'utente finale &amp; Condizioni"</a></font> e <font color="#B3000000"><a href="http://url2">Politica sulla privacy di Branch Discovery</a></font> prima di utilizzare questa funzione.</string>
+    <string name="branch_guide_attention">"L'utilizzo di una ricerca avanzata richiede la condivisione delle tue richieste di ricerca, dell'ID Google Ads e dell'indirizzo IP con la Branch Metrics Inc. Leggi e accetta "<a href="http://url1"><font color="#B3000000">"Termini di scoperta dell'utente finale &amp; Condizioni"</font></a> e <a href="http://url2"><font color="#B3000000">Politica sulla privacy di Branch Discovery</font></a> prima di utilizzare questa funzione.</string>
     <string name="branch_guide_description_one">Metteremo tutte le tue app nel vassoio. La tua schermata Home apparirà ordinata e organizzata.</string>
     <string name="branch_guide_description_three">Con la ricerca integrata, sarai in grado di trovare tutto ciò di cui hai bisogno in un attimo!</string>
     <string name="branch_guide_description_two">Il Vassoio App categorizza le app automaticamente.</string>
@@ -165,7 +165,7 @@
     <string name="branch_new_feature">Nuova funzionalità</string>
     <string name="branch_privacy_policy">Informativa sulla Privacy</string>
     <string name="branch_search_guide_description">I nostri risultati di ricerca sono molto più completi</string>
-    <string name="branch_search_guide_privacy">\"Questo servizio è fornito da Branch Metrics Inc. Le info sulla posizione, ricerche e ID Google Ads saranno condivise con Branch. Leggi e accetta i \"<font color="#B3000000"><a href="http://url1">Termini e le Condizioni</a></font> e <font color="#B3000000"><a href="http://url2">Informativa sulla Privacy</a></font> di Branch prima di utilizzare questo servizio.</string>
+    <string name="branch_search_guide_privacy">\"Questo servizio è fornito da Branch Metrics Inc. Le info sulla posizione, ricerche e ID Google Ads saranno condivise con Branch. Leggi e accetta i \"<a href="http://url1"><font color="#B3000000">Termini e le Condizioni</font></a> e <a href="http://url2"><font color="#B3000000">Informativa sulla Privacy</font></a> di Branch prima di utilizzare questo servizio.</string>
     <string name="branch_search_guide_title">Trova quello che stai cercando nelle tue app preferite</string>
     <string name="branch_terms_condition">Termini e Condizioni</string>
     <string name="branch_tip_title">Con Ricerca Rapida, puoi trovare tutto ciò di cui hai bisogno in un attimo.</string>
@@ -597,7 +597,7 @@ Sicurezza migliorata."</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="send">Invia</string>
     <string name="server_error">Si è verificato un errore del server. Aspetta un minuto o due e prova di nuovo.</string>
-    <string name="service_double_attention">Le funzionalità di ricerca migliorate sono fornite da Branch Metrics Inc. Per far funzionare questa funzionalità, dobbiamo condividere le tue ricerche, ID Google Ads e indirizzo IP con Branch Metrics Inc. Leggi e accetta <font color="#B3000000"><a href="http://url1">"Termini di scoperta dell'utente finale e Condizioni"</a></font> e <font color="#B3000000"><a href="http://url2">Informativa sulla Privacy</a></font> di Branch prima di utilizzare questa funzione.</string>
+    <string name="service_double_attention">Le funzionalità di ricerca migliorate sono fornite da Branch Metrics Inc. Per far funzionare questa funzionalità, dobbiamo condividere le tue ricerche, ID Google Ads e indirizzo IP con Branch Metrics Inc. Leggi e accetta <a href="http://url1"><font color="#B3000000">"Termini di scoperta dell'utente finale e Condizioni"</font></a> e <a href="http://url2"><font color="#B3000000">Informativa sulla Privacy</font></a> di Branch prima di utilizzare questa funzione.</string>
     <string name="setting_close">Spento</string>
     <string name="setting_no_word">Ovunque</string>
     <string name="setting_only_widget_no_word">Sui widget</string>
@@ -636,9 +636,9 @@ Sicurezza migliorata."</string>
     <string name="system_shortcuts_remove">Rimuovi</string>
     <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
     <string name="term_of_service">Termini e condizioni</string>
-    <string name="terms_of_services_one">"\"Benvenuto in Vassoio App e Ricerca Rapida. Ricerca Rapida ti permette di trovare più velocemente app, contenuti in-app e articoli online. Leggi e accetta l'\""<font color="#B3000000"><a href="http://url1">Informativa sulla Privacy</a></font> di Xiaomi prima di utilizzare queste funzionalità.</string>
+    <string name="terms_of_services_one">"\"Benvenuto in Vassoio App e Ricerca Rapida. Ricerca Rapida ti permette di trovare più velocemente app, contenuti in-app e articoli online. Leggi e accetta l'\""<a href="http://url1"><font color="#B3000000">Informativa sulla Privacy</font></a> di Xiaomi prima di utilizzare queste funzionalità.</string>
     <string name="terms_of_services_three">Puoi disattivare questa funzionalità nelle impostazioni.</string>
-    <string name="terms_of_services_two">"L'utilizzo della ricerca avanzata richiede la condivisione delle informazioni personali necessarie, incluse le tue richieste di ricerca, Google Advertising ID e indirizzo IP, con Branch Metrics Inc. Branch tratterà le tue informazioni personali in conformità con l'"<font color="#B3000000"><a href="http://url1">Informativa sulla Privacy di Branch Discovery</a></font>. Leggi e accetta i <font color="#B3000000"><a href="http://url2">"Termini di Scoperta dell'Utente Finale &amp; Condizioni"</a></font> e <font color="#B3000000"><a href="http://url3">Informativa sulla Privacy di Branch Discovery</a></font> prima di utilizzare questa funzionalità.</string>
+    <string name="terms_of_services_two">"L'utilizzo della ricerca avanzata richiede la condivisione delle informazioni personali necessarie, incluse le tue richieste di ricerca, Google Advertising ID e indirizzo IP, con Branch Metrics Inc. Branch tratterà le tue informazioni personali in conformità con l'"<a href="http://url1"><font color="#B3000000">Informativa sulla Privacy di Branch Discovery</font></a>. Leggi e accetta i <a href="http://url2"><font color="#B3000000">"Termini di Scoperta dell'Utente Finale &amp; Condizioni"</font></a> e <a href="http://url3"><font color="#B3000000">Informativa sulla Privacy di Branch Discovery</font></a> prima di utilizzare questa funzionalità.</string>
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>

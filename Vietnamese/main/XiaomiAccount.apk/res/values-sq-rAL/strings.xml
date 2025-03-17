@@ -503,7 +503,7 @@ Ju mund të hyni në llogarinë tuaj Xiaomi duke përdorur %s tani."</string>
     <string name="passport_privacy_policy">Politika e privatësisë</string>
     <string name="passport_privacy_policy_required">Politika e Privatësisë (e detyrueshme)</string>
     <string name="passport_provision_input_email_register_prompt">Të dhënat tuaja personale do të ruhen në përputhje me ligjet dhe rregulloret e rajonit që ju zgjidhni.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d personazhe të paktën%3$d të llojeve të mëposhtme: shkronja, shifra, simbole të veçanta</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> personazhe të paktën<xliff id="min_pwd_type" refersto="2">%3$d</xliff> të llojeve të mëposhtme: shkronja, shifra, simbole të veçanta</string>
     <string name="passport_qq_login_btn_content_description">Identifikohu me QQ</string>
     <string name="passport_querying_phone_info">Duke kërkuar informacionin e llogarisë…</string>
     <string name="passport_quick_login">Identifikohu</string>

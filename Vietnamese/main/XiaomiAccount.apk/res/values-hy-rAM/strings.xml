@@ -508,7 +508,7 @@
     <string name="passport_privacy_policy">Գաղտնիության Քաղաքականություն</string>
     <string name="passport_privacy_policy_required">Գաղտնիության Քաղաքականություն (պարտադիր)</string>
     <string name="passport_provision_input_email_register_prompt">Ձեր անձնական տվյալները պահվելու են ձեր ընտրած տարածաշրջանի օրենքներին և կանոններին համապատասխան:</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d գրանշաններ առնվազն %3$d հետեւյալ տեսակներից՝ տառեր, թվեր, հատուկ նիշեր</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> գրանշաններ առնվազն <xliff id="min_pwd_type" refersto="2">%3$d</xliff> հետեւյալ տեսակներից՝ տառեր, թվեր, հատուկ նիշեր</string>
     <string name="passport_qq_login_btn_content_description">Մուտք գործեք QQ-ով</string>
     <string name="passport_querying_phone_info">Հաշվի տվյալների պահանջ…</string>
     <string name="passport_quick_login">Մուտք գործել</string>

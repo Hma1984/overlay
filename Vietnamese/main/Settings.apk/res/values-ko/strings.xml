@@ -265,12 +265,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"확대 기능을 사용 설정하면 화면을 확대할 수 있습니다.
 
 "<b>화면을 확대하려면</b>" 확대 기능을 시작한 다음 화면에서 아무 곳이나 탭합니다.
-"<ul><li>스크롤하려면 2개 이상의 손가락으로 드래그합니다.</li>"
-"<li>확대/축소 수준을 조정하려면 2개 이상의 손가락을 모읍니다.</li></ul>"
+"<li><ul>"스크롤하려면 2개 이상의 손가락으로 드래그합니다.
+"<li>확대/축소 수준을 조정하려면 2개 이상의 손가락을 모읍니다.</li></ul></li>"
 
 "<b>화면을 일시적으로 확대하려면</b>" 확대를 시작한 다음 화면에서 아무 곳이나 길게 터치합니다.
-"<ul><li>화면에서 이동하려면 드래그합니다.</li>"
-"<li>축소하려면 손가락을 뗍니다.</li></ul>"
+"<li><ul>"화면에서 이동하려면 드래그합니다.
+"<li>축소하려면 손가락을 뗍니다.</li></ul></li>"
 
 키보드 또는 탐색 메뉴는 확대할 수 없습니다."</string>
     <string name="accessibility_screen_magnification_navbar_title">바로가기를 사용하여 확대</string>
@@ -3565,8 +3565,8 @@ CA 인증서를 설치하면 인증서 소유자가 내가 이용하는 웹사�
     <string name="fold_rule_default">추천됨</string>
     <string name="fold_rule_unimportant">중요하지 않음</string>
     <string name="fold_screen_application_adaptation_title">폴더블 기기를 위한 사용자지정 레이아웃</string>
-    <string name="fold_screen_settings_title">폴더블 기기를 위한 기능</string>
-    <string name="fold_screen_special_function_title">폴더블 기기를 위한 기능</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">그룹화 알림 규칙</string>
     <string name="font_cta_alert_btn_negative">취소</string>
     <string name="font_cta_alert_btn_positive">동의</string>

@@ -215,8 +215,8 @@ dd/MM"</string>
     <string name="kg_tip_cant_get_third_party_wallpaper">მესამე მხარის უკანა ფონზე წვდომა შეუძლებელია</string>
     <string name="kg_wallpaper_scale_hint_text">მოსაჭრელად დააჭირეთ</string>
     <string name="large_time">დიდი საათი</string>
-    <string name="letter_space">წერილი-\u1ca1ტრიქონებს შორის მანძილი</string>
-    <string name="line_space">\u1ca1ტრიქონებს შორის მანძილი</string>
+    <string name="letter_space">წერილი-Სტრიქონებს შორის მანძილი</string>
+    <string name="line_space">Სტრიქონებს შორის მანძილი</string>
     <string name="linkage_select_title">ანიმაციური ტრანზიცია დაბლოკილ ეკრანზე</string>
     <string name="midnight">ღამე</string>
     <string name="mini_time">პატარა საათი</string>

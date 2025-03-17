@@ -122,7 +122,7 @@
     <string name="back">मागे</string>
     <string name="backup_fail">लाँचरचा बॅकअप घेता आला नाही</string>
     <string name="branch_feature_description">एप्स व्यतिरिक्त, क्विक फाईंडर इन-एप कंटेंट आणि आयटम ऑनलाइन शोधू शकतो.</string>
-    <string name="branch_guide_attention">वर्धित शोध वापरण्यासाठी आपल्या शोध विनंत्या, Google जाहिराती आयडी आणि IP एड्रेस ब्रँच मेट्रिक्स इंकसह शेअर करणे आवश्यक आहे. <font color="#B3000000"><a href="http://url1">अंतिम वापरकर्ता शोध अटी हे वैशिष्ट्य वापरण्यापूर्वी अटी </a> </font> आणि <font color="#B3000000"><a href="http://url2"> शाखा डिस्कव्हरी प्रायव्हसी पॉलिसी </a> </font>" वाचा आणि सहमती द्या. "</string>
+    <string name="branch_guide_attention">वर्धित शोध वापरण्यासाठी आपल्या शोध विनंत्या, Google जाहिराती आयडी आणि IP एड्रेस ब्रँच मेट्रिक्स इंकसह शेअर करणे आवश्यक आहे. <a href="http://url1"><font color="#B3000000">"अंतिम वापरकर्ता शोध अटी हे वैशिष्ट्य वापरण्यापूर्वी अटी  "</font></a> आणि <a href="http://url2"><font color="#B3000000">" शाखा डिस्कव्हरी प्रायव्हसी पॉलिसी  "</font></a>" वाचा आणि सहमती द्या. "</string>
     <string name="branch_guide_description_one">आम्ही आपले सर्व एप ड्रॉवर ठेवू. आपली होम स्क्रीन व्यवस्थित आणि सुनियोजित दिसेल.</string>
     <string name="branch_guide_description_three">बिल्ट-इन सर्चसह आपण स्नॅपमध्ये आपल्याला जे पाहिजे ते शोधू शकाल!</string>
     <string name="branch_guide_description_two">एप ड्रॉवर एप्सचे ऑटोमॅटिकली वर्गीकरण करते.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">नवीन फीचर</string>
     <string name="branch_privacy_policy">गोपनीयता धोरण</string>
     <string name="branch_search_guide_description">आमचे शोध परिणाम आता बरेच व्यापक आहेत</string>
-    <string name="branch_search_guide_privacy">ही सेवा Branch Metrics Inc. द्वारा समर्थित आहे. आपली स्थान माहिती, शोध चौकशी आणि Google जाहिराती आयडी Branch शी शेअर केली जातील. ही सेवा वापरण्यापूर्वी Branch च्या <font color="#B3000000"><a href="http://url1"> नियम व अटी </a> </font> आणि <font color="#B3000000"><a href="http://url2">गोपनीयता धोरण</a></font>" वाचा आणि त्यास सहमती द्या. "</string>
+    <string name="branch_search_guide_privacy">ही सेवा Branch Metrics Inc. द्वारा समर्थित आहे. आपली स्थान माहिती, शोध चौकशी आणि Google जाहिराती आयडी Branch शी शेअर केली जातील. ही सेवा वापरण्यापूर्वी Branch च्या <a href="http://url1"><font color="#B3000000">" नियम व अटी  "</font></a> आणि <a href="http://url2"><font color="#B3000000">गोपनीयता धोरण</font></a>" वाचा आणि त्यास सहमती द्या. "</string>
     <string name="branch_search_guide_title">तुम्ही तुमच्या आवडत्या एप्समध्ये काय शोधत आहात ते पहा</string>
     <string name="branch_terms_condition">अटी व नियम</string>
     <string name="branch_tip_title">क्विक फाईंडरसोबत, आपणास स्नॅपमध्ये आवश्यक असलेले सर्व काही सापडेल.</string>
@@ -552,7 +552,7 @@
     <string name="select_all">सर्व निवडा</string>
     <string name="send">पाठवा</string>
     <string name="server_error">एक सर्व्हर एरर आली. एक दोन मिनिटे प्रतिक्षा करा आणि पुन्हा प्रयत्न करा.</string>
-    <string name="service_double_attention">Branch Metrics Inc द्वारे वर्धित शोध कार्यक्षमता प्रदान केली गेली आहे. हे फीचर कार्य करण्यासाठी आम्हाला आपल्या शोध विनंत्या, Google जाहिराती आयडी आणि IP एड्रेसशाखा Branch Metrics Inc शी शेअर करणे आवश्यक आहे. हे फीचर वापरण्याआधी <font color="#B3000000"><a href="http://url1">एंड युजर डिस्कव्हरी अटी &amp; शर्ती</a></font>आणि <font color="#B3000000"><a href="http://url2">ब्रँच डिस्कव्हरी गोपनीयता धोरण</a></font> वाचा आणि सहमत व्हा.</string>
+    <string name="service_double_attention">Branch Metrics Inc द्वारे वर्धित शोध कार्यक्षमता प्रदान केली गेली आहे. हे फीचर कार्य करण्यासाठी आम्हाला आपल्या शोध विनंत्या, Google जाहिराती आयडी आणि IP एड्रेसशाखा Branch Metrics Inc शी शेअर करणे आवश्यक आहे. हे फीचर वापरण्याआधी <a href="http://url1"><font color="#B3000000">एंड युजर डिस्कव्हरी अटी &amp; शर्ती</font></a>आणि <a href="http://url2"><font color="#B3000000">ब्रँच डिस्कव्हरी गोपनीयता धोरण</font></a> वाचा आणि सहमत व्हा.</string>
     <string name="setting_close">बंद</string>
     <string name="setting_no_word">कोठेही</string>
     <string name="setting_only_widget_no_word">विजेट्स वर</string>
@@ -596,9 +596,9 @@
     <string name="system_text">ऑटो</string>
     <string name="task_access_locked_app_msg">एप लॉक सुरु केले</string>
     <string name="term_of_service">अटी व शर्ती</string>
-    <string name="terms_of_services_one">एप ड्रॉवर आणि क्विक फाईंडरमध्ये आपले स्वागत आहे. क्विक फाईंडर आपल्याला एप, इन-एपमधील कंटेंट आणि आयटम जलद ऑनलाइन शोधण्याची अनुमती देतो. ही वैशिष्ट्ये वापरण्यापूर्वी Xiaomi चे <font color="#B3000000"><a href="http://url1">गोपनीयता धोरण</a> </font> वाचा आणि त्यास सहमती द्या.</string>
+    <string name="terms_of_services_one">एप ड्रॉवर आणि क्विक फाईंडरमध्ये आपले स्वागत आहे. क्विक फाईंडर आपल्याला एप, इन-एपमधील कंटेंट आणि आयटम जलद ऑनलाइन शोधण्याची अनुमती देतो. ही वैशिष्ट्ये वापरण्यापूर्वी Xiaomi चे <a href="http://url1"><font color="#B3000000">गोपनीयता धोरण </font></a> वाचा आणि त्यास सहमती द्या.</string>
     <string name="terms_of_services_three">तुम्ही सेटिंग्जमध्ये हे फीचर बंद करू शकता.</string>
-    <string name="terms_of_services_two">एन्हान्सड सर्च वापरण्यासाठी तुमच्या सर्च क्वेरी, Google एडव्हर्टायजिंग आयडी, आणि IP एड्रेस यासह Branch Metrics Inc शी शेअर करणे आवश्यक आहे. Branch आपल्या वैयक्तिक माहितीनुसार <font color="#B3000000"><a href="http://url1">Branch Discovery गोपनीयता धोरणाशी</a></font>प्रक्रिया करेल. हे फीचर वापरण्याआधी आमच्या <font color="#B3000000"><a href="http://url2">एंड युजर Discovery अटी आणि शर्ती</a></font>आणि<font color="#B3000000"><a href="http://url3">Branch Discovery गोपनीयता धोरण</a></font>वाचा आणि सहमत व्हा.</string>
+    <string name="terms_of_services_two">एन्हान्सड सर्च वापरण्यासाठी तुमच्या सर्च क्वेरी, Google एडव्हर्टायजिंग आयडी, आणि IP एड्रेस यासह Branch Metrics Inc शी शेअर करणे आवश्यक आहे. Branch आपल्या वैयक्तिक माहितीनुसार <a href="http://url1"><font color="#B3000000">Branch Discovery गोपनीयता धोरणाशी</font></a>प्रक्रिया करेल. हे फीचर वापरण्याआधी आमच्या <a href="http://url2"><font color="#B3000000">एंड युजर Discovery अटी आणि शर्ती</font></a>आणि<a href="http://url3"><font color="#B3000000">Branch Discovery गोपनीयता धोरण</font></a>वाचा आणि सहमत व्हा.</string>
     <string name="thursday">गुरुवार</string>
     <string name="thursday_short">गुरु</string>
     <string name="thursday_shortest">गुरु</string>

@@ -270,12 +270,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"Калі ўключана функцыя павелічэння, вы можаце павялічыць маштаб на экране.
 
 "<b>Для гэтага</b>" запусціце функцыю павелічэння, а пасля націсніце ў любым месцы экрана.
-"<ul><li>Каб прагартаць, перацягніце пальцамі (двума ці больш).</li>"
-"<li>Каб адрэгуляваць маштаб, звядзіце ці развядзіце пальцы (два ці больш).</li></ul>"
+"<li><ul>"Каб прагартаць, перацягніце пальцамі (двума ці больш).
+"<li>Каб адрэгуляваць маштаб, звядзіце ці развядзіце пальцы (два ці больш).</li></ul></li>"
 
 "<b>Каб часова змяніць маштаб</b>", запусціце функцыю павелічэння, потым утрымлівайце націснутым любое месца на экране.
-"<ul><li>Перацягніце для навігацыі па экране.</li>"
-"<li>Падыміце палец, каб паменшыць маштаб.</li></ul>"
+"<li><ul>"Перацягніце для навігацыі па экране.
+"<li>Падыміце палец, каб паменшыць маштаб.</li></ul></li>"
 
 Павелічэнне маштабу клавіятуры ці панэлі навігацыі не прадугледжана."</string>
     <string name="accessibility_screen_magnification_navbar_title">Павялічваць кнопкай</string>
@@ -3686,8 +3686,8 @@ ID:%s
     <string name="fold_rule_default">Рэкамендаваныя</string>
     <string name="fold_rule_unimportant">Неважныя</string>
     <string name="fold_screen_application_adaptation_title">Карыстальніцкія макеты для складваемых прылад</string>
-    <string name="fold_screen_settings_title">Функцыі для складваемых прылад</string>
-    <string name="fold_screen_special_function_title">Функцыі для складваемых прылад</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Правілы групоўкі</string>
     <string name="font_cta_alert_btn_negative">Адмена</string>
     <string name="font_cta_alert_btn_positive">Згодзен</string>

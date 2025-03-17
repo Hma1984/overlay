@@ -8,11 +8,15 @@
     <string name="abc_activitychooserview_choose_application">Pasirinkite programą</string>
     <string name="abc_capital_off">IŠJUNGTI</string>
     <string name="abc_capital_on">ĮJUNGTI</string>
+    <string name="abc_menu_alt_shortcut_label">„Alt“ +</string>
+    <string name="abc_menu_ctrl_shortcut_label">„Ctrl“ +</string>
     <string name="abc_menu_delete_shortcut_label">„delete“</string>
     <string name="abc_menu_enter_shortcut_label">„enter“</string>
     <string name="abc_menu_function_shortcut_label">„Function“ +</string>
+    <string name="abc_menu_meta_shortcut_label">„Meta“ +</string>
     <string name="abc_menu_shift_shortcut_label">„Shift“ +</string>
     <string name="abc_menu_space_shortcut_label">„space“</string>
+    <string name="abc_menu_sym_shortcut_label">„Sym“ +</string>
     <string name="abc_prepend_shortcut_label">„Menu“ +</string>
     <string name="abc_search_hint">Ieškoti…</string>
     <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
@@ -29,6 +33,8 @@
     <string name="activate_esim_tips">Nepavyko aktyvuoti. Pabandykite dar kartą.</string>
     <string name="activating_esim_tips">Aktyvuojama…</string>
     <string name="address_dialing_introduction">Šią programėlę galite naudoti, kai skambinate, žiūrite skambučių istoriją ir tvarkote kontaktus.</string>
+    <string name="after_sales_support">After-sales support</string>
+    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">Popietė</string>
     <string name="agree">Sutinku</string>
     <string name="agree_and_next">Sutinku</string>
@@ -46,6 +52,7 @@
     <string name="ai_button_single_press_desc">Paspauskite DI mygtuką, kad peržiūrėtumėte „Mi“ DI nuorodas</string>
     <string name="ai_button_title">DI mygtukas</string>
     <string name="album_introduction">Šią programėlę galite naudoti tvarkyti, redaguoti ir gražinti nuotraukas bei vaizdo įrašus.</string>
+    <string name="am">Priešpiet</string>
     <string name="app_name">Paruošimas</string>
     <string name="application_package_introduction">Pakuotės diegėjas naudojamas diegti trečiųjų šalių programėles, įskaitant skenavimą prieš diegimą ir programėlių dekomendacijas po diegimo.</string>
     <string name="application_permissions">Programos teisės</string>
@@ -88,11 +95,17 @@
     <string name="cookies_title">Suasmenintas turinys ir slapukai</string>
     <string name="copy">Kopijuoti</string>
     <string name="data_traffic_enable_dialog_title">Jei šiuo metu nesate prisijungę prie „Wi-Fi“, jūsų įrenginys naudos mobiliuosius duomenis. Mobiliųjų duomenų naudojimas gali sugeneruoti papildomų mokesčių iš tinklo operatoriaus.</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Tradicinis kinų kalendorius</string>
     <string name="date_time_picker_dialog_title">Nustatyti datą ir laiką</string>
     <string name="default_font">Numatytasis</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Naudotokite piršto atspaudą prietaisui atrakinti, „Mi Pay“ mokėjimų patvirtinimui arba prisijungimui prie programų ir paslaugų.</string>
     <string name="desc_international_fingerprint">Naudoti pirštų atspaudą prietaisui atrakinti ar prisijungti prie programų ir paslaugų.</string>
+    <string name="device_information_usage_desc">This service allows you to view device info, connect your device to networks, and set up its features.</string>
     <string name="diagnose_report">Siųsti diagnostinius duomenis, siekiant aptikti ir analizuoti sistemines problemas ir pagerinti naudotojo patirtį. Tokius duomenis gali sudaryti asmeninė informacija (pvz., IP, vietovė, ar kt.)</string>
     <string name="disageement_abnormal_download">Jei nesutinkate suteikti šių leidimų arba bendrinti ir įkelti asmeninės informacijos, negalėsite naudotis šia paslauga.</string>
     <string name="disagree">Atšaukti</string>
@@ -109,12 +122,14 @@
     <string name="disagreement_location_service_abnormal">Jei nesutinkate suteikti šių teisių, negalėsite pasiekti vietos paslaugų. Galite bet kuriuo metu įjungti ar išjungti vietos paslaugas Nustatymų ir Privatumo apsaugoje.</string>
     <string name="disagreement_mi_account_abnormal">Jei nesutinkate suteikti šių teisių, negalėsite naudotis „Mi“ paskyros paslaugomis. Galite bet kuriuo metu įjungti ar išjungti „Mi“ paskyrą Nustatymų ir „Mi“ paskyros programose.</string>
     <string name="disagreement_service_not_working_properly">Jei nesutinkate suteikti šių teisių, negalėsite naudotis programėle.</string>
+    <string name="disagreement_service_not_working_properly_settings">"If you don't agree to grant these permissions, this service won't be able to work normally."</string>
     <string name="disagreement_service_not_working_properly_with_media_storage">Jei nuspręsite nesuteikti šių leidimų, paslauga neveiks tinkamai.</string>
     <string name="disagreement_terminate_bluetooth">Jei nenorite suteikti šių leidimų, negalėsite naudoti „Bluetooth“. Galite įjungti ir išjungti „Bluetooth“ bei pridėti „Bluetooth“ įrenginių eidami į Parametrai > Bluetooth.</string>
     <string name="disagreement_terminate_miuidaemon">Teises naudosime tik tada, kai pradėsite siųsti duomenis iš savo įrenginio, kuomet pažeistas jo ekranas. Jei nesutinkate suteikti šių teisių, negalėsite naudotis šia programėle.</string>
     <string name="disagreement_terminate_service">Jei nesutinkate suteikti šių leidimų arba bendrinti ir įkelti asmeninės informacijos, negalėsite naudotis šia programa. Tokiais atvejais, programos nustatymuose galite pasirinkti atsijungti iš šios programos, programą išdiegti arba apriboti programos teises skiltyje „Parametrai“.</string>
     <string name="download_introduction">Atsisiuntimai yra „Xunlei“ programėlė, naudojama siųstis ir tvarkyti atsisiųstą turinį (įskaitant programėlių turinį, vaizdo įrašus, sistemos atnaujinimus, temas ir naršyklės turinį) „Xiaomi“ įrenginių naudotojams.</string>
     <string name="early_morning">Rytas</string>
+    <string name="empty" />
     <string name="enable_accessibility_canceled">Pritaikymas neįgaliesiems atšauktas.</string>
     <string name="enable_accessibility_dialog_message">Įjungėte „TalkBack“ funkciją spaudžiant ekraną dviem klavišais ilgiau nei 10 sek. „TalkBack“ grįžtamasis balso ryšys pritaikytas žmonėms su matymo sutrikimais. Jei šią aplikaciją įjungėte netyčia, palieskite mygtuką „Atšaukti“ ir dukart spustelėkite ekraną.</string>
     <string name="enable_accessibility_dialog_negative_btn">Atšaukti</string>
@@ -125,23 +140,77 @@
     <string name="evening">Popietė</string>
     <string name="expand_button_title">Išplėstiniai</string>
     <string name="fast_application_introduction">Greitųjų programėlių paslaugos sistema yra bazinė paslaugų sistema, palaikanti greitųjų programėlių teikimą ir veikimą.</string>
+    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"MMM d 'd.'"</string>
+    <string name="fmt_date_long_year_month">"yyyy MMMM 'mėn.'"</string>
     <string name="fmt_date_long_year_month_day">"yyyy 'm.' MMMM d 'd.'"</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">yyyy-M</string>
     <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_year_month">"yyyy MMM 'mėn.'"</string>
     <string name="fmt_date_short_year_month_day">"yyyy 'm.' MMM d 'd.'"</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Numatytasis teksto dydis</string>
     <string name="font_hint_normal">Didinti teksto dydį</string>
     <string name="font_settings_sub_title">Pasirinkti sistemos šriftą</string>
     <string name="font_settings_title">Šrifto parametrai</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">Pagrindinis</string>
     <string name="font_use_case_title_example">Pavadinimas</string>
     <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
+    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
+For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">Penktadienis</string>
     <string name="friday_short">Pn.</string>
     <string name="friday_shortest">Pn.</string>
     <string name="game_introduction">Žaidimų įskiepis jums suteikia galimybę prisijungti, sukurti užsakymus, atlikti mokėjimus, naudoti kuponus ir dalyvauti reklamos renginiuose.</string>
+    <string name="get_imei_information">Access IMEI</string>
+    <string name="get_imei_information_settings">Access device unique identifier (IMEI)</string>
+    <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">Klasikinė</string>
     <string name="home_settings_poco_launcher">Programų skydelis</string>
     <string name="home_settings_title">Pasirinkite numatytąją vykdyklę</string>
@@ -152,8 +221,6 @@
     <string name="input_method_setting">Pasirinkite klaviatūrą</string>
     <string name="install_preinstall_app">Įkeliamos programos…</string>
     <string name="interconnection_communication_introduction">„Xiaomi“ tarptautinio komunikavimo paslaugos jums leidžia atrasti, prisijungti ir komunikuoti su kitais „Xiaomi“ įrenginiais.</string>
-    <string name="interconnection_service_global_item_title">„Xiaomi“ sujungiamumas</string>
-    <string name="interconnection_service_global_label">&lt;Data>„Xiaomi“ sujungiamumas leidžia įrenginiams sąveikauti tarpusavyje belaidžiu ryšiu. Įjungdami šią funciją sutinkate su „Xiaomi“ sujungiamumo &lt;a href=%1$s>privatumo politika&lt;/a >.&lt;/Data></string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -227,7 +294,7 @@
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
-    <string name="interconnection_service_summary_global">„Xiaomi“ sujungiamumo funkcijos gali skirtis priklausomai nuo įrenginio modelio ir sistemos versijos. Norėdami sužinoti daugiau, apsilankykite oficialioje sistemos svetainėje.</string>
+    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">Jei jūsų įrenginys yra pamestas, neturėsite galimybės užkirsti kelio kitiems asmenims naudoti jūsų įrenginį ir pasiekti jūsų duomenis, nebent nustatysite ekrano užraktą. Vis tiek praleisti?</string>
     <string name="item_facerecognition">Veido atpažinimas</string>
     <string name="item_fingerprint">Piršto atspaudas</string>
@@ -235,13 +302,16 @@
     <string name="item_lock_screen_password_only">Ekrano užraktas</string>
     <string name="item_return">Nustatyti</string>
     <string name="item_skip">Praleisti</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Vietos informacija bendrinama su skubios pagalbos tarnybomis</string>
     <string name="language_picker_other_languages_title">Daugiau kalbų</string>
     <string name="language_settings">Pasirinkti kalbą</string>
     <string name="locale_picker_other_locale_title">Daugiau regionų</string>
     <string name="locale_picker_title">Pasirinkite savo šalį</string>
+    <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">Siekiant atitikti keliamus skubios pagalbos tarnybų (policijos ir priešgaisrinės apsaugos tarnybos) reikalavimus, remdamiesi įstatymu, saugumo ir skubios pagalbos tikslams įgyvendinti mobiliojo ryšio operatoriai gali gauti mobiliųjų įrenginių vietos informaciją.</string>
     <string name="location_introduction">Vietos paslaugos suteikia daug su vieta susijusių paslaugų, kurios priklauso nuo jūsų lokacijos.</string>
+    <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">Skubios pagalbos tarnyba gali pateikti prašymą gauti jūsų dabartinę vietovę</string>
     <string name="lockscreen_introduction">„Fonų karuselė“ jums suteikia galimybę gauti naujausius vaizdus, pristatomus į jūsų užrakto ekraną kasdien.</string>
     <string name="media_storage_devices">Medijos talpinimo įrenginiai</string>
@@ -251,8 +321,10 @@
     <string name="midnight">Naktis</string>
     <string name="mint_keyboard_oobe_checkbox">Aš susipažinau ir sutinku su „Mint“ klaviatūros privatumo politika</string>
     <string name="mint_keyboard_oobe_terms">„Mint“ klaviatūros privatumo politika</string>
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">Nėra tinklo ryšio. Privatumo politiką peržiūrėkite apsilankę %s.</string>
     <string name="miui_provision">Pradinė sąranka</string>
+    <string name="miui_settings">Settings</string>
     <string name="miui_terms_no_network">Nėra tinklo ryšio. Naudotojo sutartį peržiūrėkite apsilankę %s.</string>
     <string name="miuix_access_state_desc">Pasirinkta</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Atžymėti viską</string>
@@ -338,6 +410,7 @@
     <string name="noon">Vidurdienis</string>
     <string name="not_set">Nenustatyta</string>
     <string name="note_introduction">Ši programa jums leidžia kurti, peržiūrėti ir redaguoti užrašus.</string>
+    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">Pagrindiniai nustatymai</string>
     <string name="other_settings_ad_dialog_agree">Įjungti</string>
     <string name="other_settings_ad_dialog_content">Išjungus pritaikytas skelbimų rekomendacijas, bus rodomas toks pat skelbimų kiekis kaip įjungus šią funkciją. Tačiau skelbimai nebus pagrįsti jūsų asmeniniais pasirinkimais, todėl nebus aktualūs.</string>
@@ -374,6 +447,7 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="other_settings_user_experience">Naudotojų patirties programa</string>
     <string name="other_settings_user_experience_summary">Padėkite mums tobulinti mūsų produktus ir paslaugas su mumis pasidalinant vartojimo statistika ir analitiniais duomenimis.</string>
     <string name="other_settings_user_experience_summary_index">Išsamiau</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">Pasiekti kalendorių</string>
     <string name="permission_access_calendar_fast_application_summary">Leisti greitosioms programėlėms pasiekti jūsų kalendorių;</string>
     <string name="permission_account">Įrenginio paskyrų prieiga</string>
@@ -407,6 +481,8 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="permission_download_introduction">Atsiųstų elementų talpinimas ir išsaugojimas įrenginyje</string>
     <string name="permission_enable_disable_bluetooth_summary">Netoliese esančių įrenginių aptikimas, norint prisijungti ir perduoti duomenis</string>
     <string name="permission_fast_pairing">Kad galėtų rasti netoliese esančius įrenginius, „Mi Link“ turi prisijungti prie interneto ir gauti šias teises:</string>
+    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
+    <string name="permission_get_imei_information_summary_settings">For displaying device info and specs</string>
     <string name="permission_imei_service">IMEI prieiga, paslaugų, susijusių su jūsų įrenginiu, teikimas</string>
     <string name="permission_interaction_introduction">Nuotraukų ir vaizdo įrašų išsaugojimas įrenginyje</string>
     <string name="permission_location">Vietos informacijos prieiga:</string>
@@ -439,9 +515,11 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="permission_read_call_records">Skambučių istorijos redagavimas</string>
     <string name="permission_read_call_records_introduction">Elementų pridėjimas į skambučių istoriją ir blokuojamų skambučių trynimas</string>
     <string name="permission_read_contacts">Kontaktų prieiga</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
     <string name="permission_read_device_store">Pasiekti įrenginio saugyklą</string>
     <string name="permission_read_device_store_summary">Pasiekti atsisiųstus šaltinio failus ir šaltinio konfigūracinius failus;</string>
     <string name="permission_read_message">Prieiga prie tekstinių pranešimų</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">Užrašų ir priedų prieiga</string>
     <string name="permission_read_send_message">Siųsti ir gauti SMS</string>
     <string name="permission_read_send_message_fast_application_summary">Leisti greitosioms programėlėms siųsti ir gauti SMS;</string>
@@ -484,6 +562,7 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="permission_write_device_store_summary">Talpinti atsisiųsto šaltinio konfigūracinius failus.</string>
     <string name="permission_xunlei_introduction">Prisijungimas prie paskyrų ir jų valdymas, siekiant teikti „Xunlei“ paslaugas</string>
     <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
+    <string name="pm">Popiet</string>
     <string name="poco_agree_terms_other">(Įskaitant „POCO“ vykdyklės privatumo politiką ir naudotojo sutartį)</string>
     <string name="poco_launcher_privacy_policy">„POCO“ vykdyklės privatumo politika</string>
     <string name="poco_launcher_user_agreement">„POCO“ vykdyklės naudotojo sutartis</string>
@@ -506,6 +585,8 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="provision_inputmethod_policy_description1">Privatumo politika</string>
     <string name="provision_next">Kitas</string>
     <string name="provision_skip_underline">Praleisti</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Jums gali patikti</string>
     <string name="recorder_introduction">Šią programą galite naudoti garsų įrašymui ir atsarginių kopijų kūrimui debesyje.</string>
     <string name="refuse_cookie">Atmesti slapukus</string>
@@ -514,6 +595,7 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
 \u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
     <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
+    <string name="require_device_information_statement">To be able to provide basic services, the following permissions are required:</string>
     <string name="require_miuidaemon_authority_statement">Siekiant jums teikti šią paslaugą, turite suteikti toliau išvardytas teises, reikalingas jūsų asmeninės informacijos rinkimui:</string>
     <string name="require_network_and_authority_statement">Kad galėtų tinkamai veikti, šiai paslaugai reikia prisijungti prie interneto ir gauti toliau nurodytas teises:</string>
     <string name="require_network_authority_statement">Kad galėtų tinkamai veikti, šiai paslaugai reikia prisijungti prie interneto ir gauti toliau nurodytas teises:</string>
@@ -533,11 +615,13 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="service_interconnection_communication">„Xiaomi“ internetinio bendravimo paslaugos</string>
     <string name="service_location_share_policy">&lt;Data>Perskaitykite ir sutikite su &lt;a href=%1$s>Vietos paslaugų privatumo nurodymu&lt;/a > prieš tęsdami.&lt;/Data></string>
     <string name="service_mi_account">„Mi“ paskyra</string>
+    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">Kontaktai ir telefonas</string>
     <string name="service_name_album">Galerija</string>
     <string name="service_name_application_package">Paketų diegimo programa</string>
     <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">Atsarginės kopijos</string>
+    <string name="service_name_bluetooth">„Bluetooth“</string>
     <string name="service_name_calculator">Skaičiuotuvas</string>
     <string name="service_name_camera">Fotoaparatas</string>
     <string name="service_name_carrier">Pareiškimas dėl kurjerio paslaugų</string>
@@ -553,7 +637,9 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="service_name_location">Vietos paslaugos</string>
     <string name="service_name_lockscreen">„Fonų karuselė“</string>
     <string name="service_name_message">Pranešimai</string>
+    <string name="service_name_note">Užrašai</string>
     <string name="service_name_phone_service">电话服务</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">Diktofonas</string>
     <string name="service_name_screen_recording">Ekrano įrašymas</string>
     <string name="service_name_security">Saugumas</string>
@@ -563,10 +649,12 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="service_policy_adjust_content">„Xunlei“ privatumo politika</string>
     <string name="service_policy_download">&lt;Data>Perskaitykite ir sutikite su &lt;a href=%1$s>„Xunlei“ privatumo politika&lt;/a > ir &lt;a href=%1$s>„Xunlei“ tinklo paslaugų naudotojo sutartimi&lt;/a > prieš tęsdami.&lt;/Data></string>
     <string name="service_privacy_index">Privatumo politika</string>
+    <string name="service_security_over_r">&lt;Data>Prieš pradėdami naudoti „Saugumą“ susipažinkite ir sutikite su mūsų &lt;a href=%1$s>privatumo politika&lt;/a>.&lt;br/>&lt;br/>Vadovaujantis „Android“ &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> standartais, vienkartinis leidimas bus panaikintas per nustatytą laikotarpį (po maždaug &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>), kai atitinkama programa nustos veikti. Šią programą atidarius per šį trumpą laikotarpį, leidimas bus panaikintas tuo metu.&lt;/Data></string>
     <string name="service_sim_activation">SIM kortelės aktyvavimas</string>
     <string name="servicestate_title">Pareiškimas apie pagrindines paslaugas</string>
     <string name="setting_locale">Nustatomas regionas…</string>
     <string name="shut_down">Išsijungti</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">SIM kortelės tikrinimas…</string>
     <string name="sim_card_detecting_check">Nepavyko aptikti SIM kortelės. Įsitikinkite, kad SIM kortelė tinkamai įdiegta ir jums užtenka sąskaitos lėšų.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Leisti prisijungimą prie mobiliųjų tinklų? Jei taip, įdėta SIM kortelė bus naudojama prisijungti prie mobiliųjų duomenų tinklų.</string>
@@ -578,6 +666,7 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="sim_card_detection_mobile_not_available">SIM kortelei nepavyko prisijungti prie tinklo</string>
     <string name="sim_card_detection_sb_esim">Aktyvinti eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Neaktyvuota</string>
+    <string name="sim_card_do_not_select_dial_card">Select SIM card when dialing</string>
     <string name="sim_dectection_next">Tęsti</string>
     <string name="sim_redetection">Patikrinti dar kartą</string>
     <string name="sim_scard_detecting_check_mobile_not_available">Jūsų SIM kortelei nepavyko prisijungti prie veikiančio operatoriaus tinklo. Įsitikinkite, kad jūsų sąskaitos likutis pakankamas ir pabandykite prisijungti dar kartą.</string>
@@ -587,28 +676,42 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="skip_gesture_guide_dialog_title">Viso ekrano gestai</string>
     <string name="skip_underline">Praleisti šį žingsnį</string>
     <string name="start_up_slogan">Yours alone</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_not_set">Nenustatyta</string>
     <string name="sunday">Sekmadienis</string>
     <string name="sunday_short">Sk.</string>
     <string name="sunday_shortest">Sk.</string>
     <string name="system_navigation_mode">Sistemos naršymo būdai</string>
+    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
+    <string name="system_update_title">System updates</string>
     <string name="systemdesktop_introduction">Pagrindinio ekrano paslaugos įskiepis jums suteikia pagrindines funkcijas, pavyzdžiui, pagrindinį ekraną, sistemos UI ir ekrano kopijas.</string>
     <string name="term_condition_detail">Kasdien gaukite nuostabius vaizdus ir įdomias istorijas užrakto ekrane. Ši funkcija be jūsų sutikimo nenaudos jūsų duomenų personalizavimui. Prieš naudodamiesi šia funkcija, perskaitykite ir sutikite su trečiosios šalies turinio teikėjo &lt;a href =%1$s> privatumo politika &lt;/a> ir &lt;a href =%2$s> naudotojo sutartimi &lt;/a>.</string>
+    <string name="terms_of_label_period">". "</string>
+    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Nuostatos ir sąlygos</string>
+    <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">„Mi“ parduotuvė</string>
     <string name="terms_of_use_label_RMS">Leidimų valdymas</string>
     <string name="terms_of_use_label_ai_assistant">DI vedlys</string>
     <string name="terms_of_use_label_app_vault">Programų saugykla</string>
     <string name="terms_of_use_label_back">Atsarginių kopijų darymo paslauga</string>
     <string name="terms_of_use_label_ble">Mišrios vietos teikėjas</string>
+    <string name="terms_of_use_label_cloud">„Xiaomi debesis“</string>
     <string name="terms_of_use_label_communication_service">„Xiaomi“ internetinio bendravimo paslaugos</string>
+    <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
     <string name="terms_of_use_label_finddevice">Rasti įrenginį</string>
     <string name="terms_of_use_label_game">Žaidimai</string>
     <string name="terms_of_use_label_home">Pagrindinis ekranas</string>
     <string name="terms_of_use_label_htmlViewer">HTML skaityklė</string>
+    <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">„Mi Link“</string>
+    <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">Horizontalus rodymas</string>
+    <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">„Mi“ paskyra</string>
+    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
+    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">OS DI parametrai</string>
     <string name="terms_of_use_label_package">Paketų diegimo programa</string>
     <string name="terms_of_use_label_parallel_windows">Sugretinti langai</string>
@@ -616,6 +719,7 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="terms_of_use_label_power_detection">Maitinimo šaltinio detektorius</string>
     <string name="terms_of_use_label_power_performance">Baterija ir sparta</string>
     <string name="terms_of_use_label_quickapp">Greitosios programos</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Saugaus elemento programa</string>
     <string name="terms_of_use_label_simcard">SIM aktyvavimo paslauga</string>
     <string name="terms_of_use_label_smart_service">Išmaniosios paslaugos</string>
@@ -623,8 +727,10 @@ Jūsų siunčiamuose duomenyse bus nurodyti bendrieji jūsų įrenginio duomenys
     <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">Saviregistracijos paslauga</string>
     <string name="terms_of_use_label_translation">Vertimo paslauga</string>
+    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Sistemos atnaujinimo paslauga (tikrina, ar yra naujinių ir informuoja apie naujas versijas)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Prieš naudodami sistemą, turite perskaityti ir sutikti su mūsų naudotojo sutartimi ir privatumo politika. Apsaugosime jūsų asmeninę informaciją pagal taikomus įstatymus, teisės aktus ir privatumo politikas. Kai aktyvuojate savo įrenginį, prie tinklo prisijungs ir jūsų vietos prieigą gaus toliau nurodytos paslaugos:</string>
+    <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Fono paveikslėlis</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -637,6 +743,7 @@ Prieš naudodami šią funkciją, turite sutikti su „Kika“ privatumo politik
 Prieš naudodami šią funkciją, turite sutikti su „Mint“ privatumo politika."</string>
     <string name="terms_of_use_lable_gms">„Google Play“ paslaugos</string>
     <string name="terms_of_use_lable_smart_cards">Išmaniosios kortelės</string>
+    <string name="terms_of_use_lable_vsimcore">MConnService</string>
     <string name="terms_of_use_lable_xmsf">„Xiaomi“ paslaugų sąsaja</string>
     <string name="terms_privacy_policy_input_method_facemoji">„Facemoji“ privatumo politika</string>
     <string name="terms_privacy_policy_input_method_kika">„Kika“ privatumo politika</string>
@@ -646,6 +753,7 @@ Prieš naudodami šią funkciją, turite sutikti su „Mint“ privatumo politik
     <string name="the_armed_forces_day">Ginkluotųjų pajėgų diena</string>
     <string name="the_armys_day">PLA diena</string>
     <string name="the_childrens_day">Vaikų diena</string>
+    <string name="the_chinese_youth_day">Jaunimo diena</string>
     <string name="the_christmas_day">Kalėdos</string>
     <string name="the_double_ninth_festival">Yang šventė</string>
     <string name="the_dragon_boat_festival">Drakono valčių šventė</string>
@@ -683,6 +791,8 @@ Prieš naudodami šią funkciją, turite sutikti su „Mint“ privatumo politik
     <string name="thursday_short">Kt.</string>
     <string name="thursday_shortest">Kt.</string>
     <string name="time_picker_dialog_title">Nustatyti laiką</string>
+    <string name="time_picker_label_hour">V</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="title_fingerprint">Nustatyti ekrano užraktą</string>
     <string name="title_set_fingerprint">Ekrano užraktas</string>
     <string name="today">Šiandien</string>
@@ -709,24 +819,8 @@ Prieš naudodami šią funkciją, turite sutikti su „Mint“ privatumo politik
     <string name="wednesday_shortest">Tr.</string>
     <string name="welcome">Sveiki</string>
     <string name="withdraw_consent">Jei atšauksite sutikimą, fonų karuselės paslaugos bus išjungtos.</string>
+    <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
+    <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">Vakar</string>
     <string name="zone_picker_title">Pasirinkti laiko juostą</string>
-    <string name="fmt_date_numeric_year_month">yyyy-M</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
-    <string name="service_name_note">Užrašai</string>
-    <string name="the_chinese_youth_day">Jaunimo diena</string>
-    <string name="time_picker_label_hour">V</string>
-    <string name="abc_menu_alt_shortcut_label">„Alt“ +</string>
-    <string name="abc_menu_ctrl_shortcut_label">„Ctrl“ +</string>
-    <string name="abc_menu_meta_shortcut_label">„Meta“ +</string>
-    <string name="abc_menu_sym_shortcut_label">„Sym“ +</string>
-    <string name="am">Priešpiet</string>
-    <string name="fmt_date_long_year_month">"yyyy MMMM 'mėn.'"</string>
-    <string name="fmt_date_short_year_month">"yyyy MMM 'mėn.'"</string>
-    <string name="pm">Popiet</string>
-    <string name="terms_of_use_label_cloud">„Xiaomi debesis“</string>
-    <string name="service_name_bluetooth">„Bluetooth“</string>
 </resources>

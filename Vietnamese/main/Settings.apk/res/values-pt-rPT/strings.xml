@@ -157,7 +157,7 @@ Ligar esta funcionalidade e tocar no botão de acessibilidade no fundo do ecrã 
     <string name="accessibility_screen_magnification_navbar_short_summary">Tocar num botão para utilizar o zoom</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Quando a ampliação estiver activada, utilize o botão de acessibilidade na parte inferior do ecrã para ampliar rapidamente.
 
-"<b>Para utilizar o zoom</b>, toque no botão de acessibilidade e, em seguida, toque em qualquer ponto do ecrã. <ul><li>Arraste dois ou mais dedos para se deslocar</li> <li>Junte dois ou mais dedos para ajustar o zoom</li></ul> <b>Para utilizar o zoom temporariamente</b>, toque no botão de acessibilidade e, em seguida, toque sem soltar em qualquer ponto do ecrã. <ul><li>Arraste para se mover no ecrã</li> <li>Levante o dedo para diminuir o zoom</li></ul> Não é possível utilizar o teclado ou a barra de navegação para aumentar o zoom</string>
+"<b>Para utilizar o zoom</b>, toque no botão de acessibilidade e, em seguida, toque em qualquer ponto do ecrã. <li><ul>Arraste dois ou mais dedos para se deslocar <li>Junte dois ou mais dedos para ajustar o zoom</li></ul></li> <b>Para utilizar o zoom temporariamente</b>, toque no botão de acessibilidade e, em seguida, toque sem soltar em qualquer ponto do ecrã. <li><ul>Arraste para se mover no ecrã <li>Levante o dedo para diminuir o zoom</li></ul></li> Não é possível utilizar o teclado ou a barra de navegação para aumentar o zoom</string>
     <string name="accessibility_screen_magnification_navbar_title">Ampliar com botão</string>
     <string name="accessibility_screen_magnification_short_summary">Toque 3 vezes para utilizar o zoom</string>
     <string name="accessibility_screen_magnification_shortcut_title">Atalho de Gestos de ampliação</string>
@@ -3039,8 +3039,8 @@ To learn more, contact your credit provider."</string>
     <string name="fold_rule_default">Recomendadas</string>
     <string name="fold_rule_unimportant">Não importantes</string>
     <string name="fold_screen_application_adaptation_title">Layouts personalizados para dispositivos dobráveis</string>
-    <string name="fold_screen_settings_title">Funcionalidades para dispositivos dobráveis</string>
-    <string name="fold_screen_special_function_title">Funcionalidades para dispositivos dobráveis</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Regras para notificações agrupadas</string>
     <string name="font_cta_alert_btn_negative">Cancelar</string>
     <string name="font_cta_alert_btn_positive">Concordar</string>

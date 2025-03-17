@@ -122,7 +122,7 @@
     <string name="back">უკან</string>
     <string name="backup_fail">გამშვების რეზერვირება ვერ ხერხდება</string>
     <string name="branch_feature_description">აპლიკაციების გარდა, Quick Finder-ს შეუძლია ონლაინ აპლიკაციაში შინაარსი და საგნების პოვნა.</string>
-    <string name="branch_guide_attention">ეს სერვისი უზრუნველყოფილია Branch Metrics Inc-ის მიერ. თქვენი ადგილმდებარეობის ინფორმაცია, ძებნის შეკითხვები და Google რეკლამების ID-ს, IP მისამართი გაზიარებული იქნება Branch-თან. ამ სერვისების გამოყენებამდე წაიკითხეთ Branch-ის<font color="#B3000000"><a href="http://url1">წესებსა და პირობებს</a></font>და<font color="#B3000000"><a href="http://url2">კონფიდენციალურობის პოლიტიკას</a></font>.</string>
+    <string name="branch_guide_attention">ეს სერვისი უზრუნველყოფილია Branch Metrics Inc-ის მიერ. თქვენი ადგილმდებარეობის ინფორმაცია, ძებნის შეკითხვები და Google რეკლამების ID-ს, IP მისამართი გაზიარებული იქნება Branch-თან. ამ სერვისების გამოყენებამდე წაიკითხეთ Branch-ის<a href="http://url1"><font color="#B3000000">წესებსა და პირობებს</font></a>და<a href="http://url2"><font color="#B3000000">კონფიდენციალურობის პოლიტიკას</font></a>.</string>
     <string name="branch_guide_description_one">ჩვენ ყველა თქვენს აპლიკაციას ჩავსვამთ აპლიკაციათა დაფაზე. თქვენი მთავარი ეკრანი ორგანიზებულად გამოიყურება.</string>
     <string name="branch_guide_description_three">ჩამონტაჟებული ძიების საშუალებით, თქვენ ნახავთ ყველაფრის საჭიროებას, რაც გჭირდებათ.</string>
     <string name="branch_guide_description_two">აპლიკაციათა დაფა ავტომატურად ახასიათებს აპლიკაციებს.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">ახალი ფუნქცია</string>
     <string name="branch_privacy_policy">კონფიდენციალურობის პოლიტიკა</string>
     <string name="branch_search_guide_description">ჩვენი ძიების შედეგები ახლა ბევრად უფრო სრულყოფილია</string>
-    <string name="branch_search_guide_privacy">ეს სერვისი უზრუნველყოფილია Branch Metrics Inc-ის მიერ. თქვენი ადგილმდებარეობის ინფორმაცია, ძებნის შეკითხვები და Google რეკლამების ID გაზიარებული იქნება Branch-თან. ამ სერვისების გამოყენებამდე წაიკითხეთ Branch-ის<font color="#B3000000"><a href="http://url1">წესებსა და პირობებს</a></font>და<font color="#B3000000"><a href="http://url2">კონფიდენციალურობის პოლიტიკას</a></font>.</string>
+    <string name="branch_search_guide_privacy">ეს სერვისი უზრუნველყოფილია Branch Metrics Inc-ის მიერ. თქვენი ადგილმდებარეობის ინფორმაცია, ძებნის შეკითხვები და Google რეკლამების ID გაზიარებული იქნება Branch-თან. ამ სერვისების გამოყენებამდე წაიკითხეთ Branch-ის<a href="http://url1"><font color="#B3000000">წესებსა და პირობებს</font></a>და<a href="http://url2"><font color="#B3000000">კონფიდენციალურობის პოლიტიკას</font></a>.</string>
     <string name="branch_search_guide_title">იპოვნეთ რასაც თქვენ ეძებთ თქვენს საყვარელ აპლიკაციებში</string>
     <string name="branch_terms_condition">წესები და პირობები</string>
     <string name="branch_tip_title">სწრაფი მაძიებლის საშუალებით შეგიძლიათ ნახოთ ყველაფერი რაც თქვენ გჭირდებათ.</string>
@@ -550,7 +550,7 @@
     <string name="select_all">მონიშნეთ ყველა</string>
     <string name="send">გაგზავნა</string>
     <string name="server_error">დაფიქსირდა სერვერის შეცდომა. დაელოდეთ ერთი ან ორი წუთი და კიდევ სცადათ.</string>
-    <string name="service_double_attention">ეს სერვისი უზრუნველყოფილია Branch Metrics Inc-ის მიერ. თქვენი ადგილმდებარეობის ინფორმაცია, ძებნის შეკითხვები და Google რეკლამების ID-ს და IP მისამართი გაზიარებული იქნება Branch-თან. ამ სერვისების გამოყენებამდე წაიკითხეთ Branch-ის<font color="#B3000000"><a href="http://url1">წესებსა და პირობებს</a></font>და<font color="#B3000000"><a href="http://url2">კონფიდენციალურობის პოლიტიკას</a></font>.</string>
+    <string name="service_double_attention">ეს სერვისი უზრუნველყოფილია Branch Metrics Inc-ის მიერ. თქვენი ადგილმდებარეობის ინფორმაცია, ძებნის შეკითხვები და Google რეკლამების ID-ს და IP მისამართი გაზიარებული იქნება Branch-თან. ამ სერვისების გამოყენებამდე წაიკითხეთ Branch-ის<a href="http://url1"><font color="#B3000000">წესებსა და პირობებს</font></a>და<a href="http://url2"><font color="#B3000000">კონფიდენციალურობის პოლიტიკას</font></a>.</string>
     <string name="setting_close">გამორთვა</string>
     <string name="setting_no_word">ყველგან</string>
     <string name="setting_only_widget_no_word">ვიჯეტებზე</string>
@@ -594,9 +594,9 @@
     <string name="system_text">ავტო</string>
     <string name="task_access_locked_app_msg">აპლიკაციის ბლოკირება ჩართულია</string>
     <string name="term_of_service">წესები და პირობები</string>
-    <string name="terms_of_services_one">კეთილი იყოს თქვენი მობრძანება აპლიკაციათა დაფაში და სწრაფ ძებნაში. სწრაფი მოძებნა საშუალებას გაძლევთ სწრაფად იპოვოთ აპლიკაციები, აპლიკაციის შიდა შინაარსი და საგნები ონლაინ რეჟიმში. წაიკითხეთ და დაეთანხმეთ Xiaomi-ს <font color="#B3000000"><a href="http://url1">კონფიდენციალურობის პოლიტიკას </a></font> ამ მახასიათებლების გამოყენებამდე.</string>
+    <string name="terms_of_services_one">კეთილი იყოს თქვენი მობრძანება აპლიკაციათა დაფაში და სწრაფ ძებნაში. სწრაფი მოძებნა საშუალებას გაძლევთ სწრაფად იპოვოთ აპლიკაციები, აპლიკაციის შიდა შინაარსი და საგნები ონლაინ რეჟიმში. წაიკითხეთ და დაეთანხმეთ Xiaomi-ს <a href="http://url1"><font color="#B3000000">კონფიდენციალურობის პოლიტიკას </font></a> ამ მახასიათებლების გამოყენებამდე.</string>
     <string name="terms_of_services_three">ამ ფუნქციის გამორთვა შეგიძლიათ პარამეტრებიდან.</string>
-    <string name="terms_of_services_two">გაძლიერებული ძიების გამოყენება მოითხოვს საჭირო პირადი ინფორმაციის, მათ შორის თქვენი საძიებო მოთხოვნების, Google Advertising ID-სა და IP მისამართის გაზიარებას, Branch Metrics Inc. ფილიალი დაამუშავებს თქვენს პირად ინფორმაციას შესაბამისად <font color="#B3000000"><a href="http://url1">Branch Discovery-ის კონფიდენციალურობის პოლიტიკა</a></font>. წაიკითხეთ და დაეთანხმეთ <font color="#B3000000"><a href="http://url2">End User Discovery-ის წესებსა &amp; პირობებს</a></font>და <font color="#B3000000"><a href="http://url3">Branch Discovery-ის კონფიდენციალურობის პოლიტიკას</a></font>ამ ფუნქციის გამოყენებამე.</string>
+    <string name="terms_of_services_two">გაძლიერებული ძიების გამოყენება მოითხოვს საჭირო პირადი ინფორმაციის, მათ შორის თქვენი საძიებო მოთხოვნების, Google Advertising ID-სა და IP მისამართის გაზიარებას, Branch Metrics Inc. ფილიალი დაამუშავებს თქვენს პირად ინფორმაციას შესაბამისად <a href="http://url1"><font color="#B3000000">Branch Discovery-ის კონფიდენციალურობის პოლიტიკა</font></a>. წაიკითხეთ და დაეთანხმეთ <a href="http://url2"><font color="#B3000000">End User Discovery-ის წესებსა &amp; პირობებს</font></a>და <a href="http://url3"><font color="#B3000000">Branch Discovery-ის კონფიდენციალურობის პოლიტიკას</font></a>ამ ფუნქციის გამოყენებამე.</string>
     <string name="thursday">ხუთშაბათი</string>
     <string name="thursday_short">ხუთ</string>
     <string name="thursday_shortest">ხუთ</string>

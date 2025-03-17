@@ -263,12 +263,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"Когато функцията за увеличение е включена, можете да увеличавате мащаба на екрана.
 
 "<b>За да промените мащаба</b>", стартирайте функцията за увеличение, след което докоснете произволно място на екрана.
-"<ul><li>Плъзнете 2 или повече пръсти, за да превъртите.</li>"
-"<li>Съберете или разтворете 2 или повече пръсти, за да коригирате мащаба.</li></ul>"
+"<li><ul>"Плъзнете 2 или повече пръсти, за да превъртите.
+"<li>Съберете или разтворете 2 или повече пръсти, за да коригирате мащаба.</li></ul></li>"
 
 "<b>За да промените временно мащаба</b>", стартирайте функцията за увеличение, след което докоснете и задръжте произволно място на екрана.
-"<ul><li>Плъзнете пръста си, за да се придвижите на екрана.</li>"
-"<li>Вдигнете пръста си, за да намалите мащаба.</li></ul>"
+"<li><ul>"Плъзнете пръста си, за да се придвижите на екрана.
+"<li>Вдигнете пръста си, за да намалите мащаба.</li></ul></li>"
 
 Не можете да увеличавате мащаба на клавиатурата или лентата за навигация."</string>
     <string name="accessibility_screen_magnification_navbar_title">Увеличаване на мащаба с пряк път</string>
@@ -3547,8 +3547,8 @@ aptX адаптивен: режим Кодек"</string>
     <string name="fold_rule_default">Препоръчано</string>
     <string name="fold_rule_unimportant">Маловажно</string>
     <string name="fold_screen_application_adaptation_title">Персонализирани оформления за сгъваеми устройства</string>
-    <string name="fold_screen_settings_title">Функции за сгъваеми устройства</string>
-    <string name="fold_screen_special_function_title">Функции за сгъваеми устройства</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Правила за групирани известия</string>
     <string name="font_cta_alert_btn_negative">Отказ</string>
     <string name="font_cta_alert_btn_positive">Приемам</string>

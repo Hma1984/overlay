@@ -2477,7 +2477,7 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
     <string name="preferred_network_mode_gsm_wcdma_lte">GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA ưa thích</string>
     <string name="preferred_network_mode_lte_only">Chỉ LTE</string>
-    <string name="hide_error_from_network_text">Không thể xử lý yêu cầu</string>
+    <string name=" hide_error_from_network_text">Không thể xử lý yêu cầu</string>
     <string name="network_3G">3G</string>
     <string name="network_2G">2G</string>
     <string name="network_1x">1x</string>

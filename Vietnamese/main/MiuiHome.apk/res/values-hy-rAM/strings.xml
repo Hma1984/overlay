@@ -122,7 +122,7 @@
     <string name="back">Ետ</string>
     <string name="backup_fail">Չհաջողվեց ռեզերվային պատճենել գործարկողը</string>
     <string name="branch_feature_description">Բացի հավելվածներից, Արագ Որոնիչը կարող է առցանց գտնել հավելվածի ներսում պարունակող նյութեր</string>
-    <string name="branch_guide_attention">Ընդլայնված որոնման օգտագործումը պահանջում է ձեր որոնման հարցումների, Google Ads ID- ի և IP հասցեի կիսումը Branch Metrics Inc.-ի հետ: Կարդացեք և համաձայնվեք <font color="#B3000000"><a href="http://url1"> Վերջնական օգտագործողի հայտնաբերման դրույթներին և պայմաններին </a></font> և <font color="#B3000000"><a href="http://url2"> Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականության </a></font> նախքան այս գործառույթն օգտագործելը:</string>
+    <string name="branch_guide_attention">Ընդլայնված որոնման օգտագործումը պահանջում է ձեր որոնման հարցումների, Google Ads ID- ի և IP հասցեի կիսումը Branch Metrics Inc.-ի հետ: Կարդացեք և համաձայնվեք <a href="http://url1"><font color="#B3000000"> Վերջնական օգտագործողի հայտնաբերման դրույթներին և պայմաններին </font></a> և <a href="http://url2"><font color="#B3000000"> Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականության </font></a> նախքան այս գործառույթն օգտագործելը:</string>
     <string name="branch_guide_description_one">Մենք ձեր բոլոր ծրագրերը կտեղադրենք Հավելվածի գզրոցում: Ձեր հիմնական էկրանը կոկիկ և կազմակերպված տեսք կունենա:</string>
     <string name="branch_guide_description_three">Ներկառուցված որոնման միջոցով դուք կկարողանաք գտնել այն, ինչ ձեզ հարկավոր է:</string>
     <string name="branch_guide_description_two">Ծրագրաշարն ինքնաբերաբար դասակարգում է հավելվածները:</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">Նոր ֆունկցիա</string>
     <string name="branch_privacy_policy">Գաղտինության Քաղաքականություն</string>
     <string name="branch_search_guide_description">Մեր որոնման արդյունքները այժմ շատ ավելի ընդգրկուն են</string>
-    <string name="branch_search_guide_privacy">Այս ծառայությունը գործում է Branch Metrics Inc.- ի կողմից: Ձեր գտնվելու վայրի տեղեկատվությունը, որոնման հարցումները և Google Ads ID- ն բաժանվելու են Մասնաճյուղի հետ: Կարդացեք և համաձայնեք մասնաճյուղի <font color="#B3000000"><a href="http://url1">Պայմաններ և դրույթներ</a></font> և <font color="#B3000000"><a href="http://url2"> Գաղտնիության Քաղաքականություն</a></font> այս ծառայությունից օգտվելուց առաջ:</string>
+    <string name="branch_search_guide_privacy">Այս ծառայությունը գործում է Branch Metrics Inc.- ի կողմից: Ձեր գտնվելու վայրի տեղեկատվությունը, որոնման հարցումները և Google Ads ID- ն բաժանվելու են Մասնաճյուղի հետ: Կարդացեք և համաձայնեք մասնաճյուղի <a href="http://url1"><font color="#B3000000">Պայմաններ և դրույթներ</font></a> և <a href="http://url2"><font color="#B3000000"> Գաղտնիության Քաղաքականություն</font></a> այս ծառայությունից օգտվելուց առաջ:</string>
     <string name="branch_search_guide_title">Գտեք այն, ինչ փնտրում եք ձեր նախընտրած ծրագրերում</string>
     <string name="branch_terms_condition">Դրույթներ և Պայմաններ</string>
     <string name="branch_tip_title">Արագ Որոնիչի միջոցով դուք կարող եք գտնել այն ամենը, ինչ ձեզ հարկավոր է:</string>
@@ -552,7 +552,7 @@
     <string name="select_all">Ընտրել բոլորը</string>
     <string name="send">Ուղարկել</string>
     <string name="server_error">Առաջացել է սերվերի սխալ: Մեկ-երկու րոպե սպասեք և կրկին փորձեք:</string>
-    <string name="service_double_attention">Որոնման ընդլայնված գործառույթը տրամադրվում է Branch Metrics Inc.- ի կողմից. Այս հատկությունն աշխատեցնելու համար մենք պետք է կիսենք ձեր որոնման հարցումները, Google Ads ID-ի և IP հասցեն Branch Metrics Inc.-ի հետ: Կարդացեք և համաձայնվեք <font color="#B3000000"><a href="http://url1"> Վերջնական օգտագործողի հայտնաբերման դրույթներին և պայմաններին </a></font> և <font color="#B3000000"><a href="http://url2"> Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականության </a></font> նախքան այս գործառույթն օգտագործելը:</string>
+    <string name="service_double_attention">Որոնման ընդլայնված գործառույթը տրամադրվում է Branch Metrics Inc.- ի կողմից. Այս հատկությունն աշխատեցնելու համար մենք պետք է կիսենք ձեր որոնման հարցումները, Google Ads ID-ի և IP հասցեն Branch Metrics Inc.-ի հետ: Կարդացեք և համաձայնվեք <a href="http://url1"><font color="#B3000000"> Վերջնական օգտագործողի հայտնաբերման դրույթներին և պայմաններին </font></a> և <a href="http://url2"><font color="#B3000000"> Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականության </font></a> նախքան այս գործառույթն օգտագործելը:</string>
     <string name="setting_close">Անջատված է</string>
     <string name="setting_no_word">Ամենուրեք</string>
     <string name="setting_only_widget_no_word">Վիդջեթների վրա</string>
@@ -596,9 +596,9 @@
     <string name="system_text">Ավտոմատ</string>
     <string name="task_access_locked_app_msg">Հավելվածի արգելափակումը միացված է</string>
     <string name="term_of_service">Դրույթներ և պայմաններ</string>
-    <string name="terms_of_services_one">Բարի գալուստ drawրագրաշար և Արագ որոնող: Արագ որոնիչը հնարավորություն է տալիս ավելի արագ գտնել առցանց ծրագրեր, ներլցված բովանդակություն և իրեր: Կարդացեք և համաձայնվեք Xiaomi- ի հետ <font color="#B3000000"><a href="http://url1">Գաղտնիության Քաղաքականություն</a></font> նախքան այս գործառույթներն օգտագործելը:</string>
+    <string name="terms_of_services_one">Բարի գալուստ drawրագրաշար և Արագ որոնող: Արագ որոնիչը հնարավորություն է տալիս ավելի արագ գտնել առցանց ծրագրեր, ներլցված բովանդակություն և իրեր: Կարդացեք և համաձայնվեք Xiaomi- ի հետ <a href="http://url1"><font color="#B3000000">Գաղտնիության Քաղաքականություն</font></a> նախքան այս գործառույթներն օգտագործելը:</string>
     <string name="terms_of_services_three">Կարող եք անջատել այս հնարավորությունը Կարգավորումներում.</string>
-    <string name="terms_of_services_two">Ընդլայնված որոնման օգտագործումը պահանջում է անհրաժեշտ անձնական տեղեկությունների, այդ թվում ՝ ձեր որոնման հարցումների, Google գովազդային ID- ի և IP հասցեի փոխանակում, Branch Metrics Inc.- ի մասնաճյուղը կվերամշակի ձեր անձնական տվյալները ՝ համաձայն <font color="#B3000000"><a href="http://url1">Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականություն</a></font>. Կարդացեք և համաձայնվեք <font color="#B3000000"><a href="http://url2">Վերջնական օգտագործողի հայտնաբերման պայմանները</a></font> և <font color="#B3000000"><a href="http://url3">Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականություն</a></font> նախքան այս գործառույթն օգտագործելը:</string>
+    <string name="terms_of_services_two">Ընդլայնված որոնման օգտագործումը պահանջում է անհրաժեշտ անձնական տեղեկությունների, այդ թվում ՝ ձեր որոնման հարցումների, Google գովազդային ID- ի և IP հասցեի փոխանակում, Branch Metrics Inc.- ի մասնաճյուղը կվերամշակի ձեր անձնական տվյալները ՝ համաձայն <a href="http://url1"><font color="#B3000000">Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականություն</font></a>. Կարդացեք և համաձայնվեք <a href="http://url2"><font color="#B3000000">Վերջնական օգտագործողի հայտնաբերման պայմանները</font></a> և <a href="http://url3"><font color="#B3000000">Մասնաճյուղի հայտնաբերման Գաղտնիության Քաղաքականություն</font></a> նախքան այս գործառույթն օգտագործելը:</string>
     <string name="thursday">Հինգշաբթի</string>
     <string name="thursday_short">Հնգ</string>
     <string name="thursday_shortest">Հնգ</string>

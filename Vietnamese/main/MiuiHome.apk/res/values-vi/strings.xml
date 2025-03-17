@@ -151,7 +151,7 @@
     <string name="backup_fail">Không thể sao lưu trình khởi chạy</string>
     <string name="bottomsheet_action_expand_halfway">Mở rộng nửa chừng</string>
     <string name="branch_feature_description">Bên cạnh ứng dụng, Quick Finder có thể tìm nội dung trong ứng dụng và các mục trực tuyến.</string>
-    <string name="branch_guide_attention">Sử dụng tìm kiếm nâng cao yêu cầu chia sẻ các yêu cầu tìm kiếm, ID Quảng cáo Google và địa chỉ IP của bạn với Branch Metrics Inc. Đọc và đồng ý với <font color="#B3000000"><a href="http://url1">Điều khoản &amp; Điều kiện Khám phá Người dùng Cuối</a></font> và <font color="#B3000000"><a href="http://url2">Chính sách Riêng tư Branch Discovery</a></font> trước khi sử dụng tính năng này.</string>
+    <string name="branch_guide_attention">Sử dụng tìm kiếm nâng cao yêu cầu chia sẻ các yêu cầu tìm kiếm, ID Quảng cáo Google và địa chỉ IP của bạn với Branch Metrics Inc. Đọc và đồng ý với <a href="http://url1"><font color="#B3000000">Điều khoản &amp; Điều kiện Khám phá Người dùng Cuối</font></a> và <a href="http://url2"><font color="#B3000000">Chính sách Riêng tư Branch Discovery</font></a> trước khi sử dụng tính năng này.</string>
     <string name="branch_guide_description_one">Chúng tôi sẽ đặt tất cả các ứng dụng vào Ngăn ứng dụng. Màn hình chính sẽ trông gọn gàng và có tổ chức.</string>
     <string name="branch_guide_description_three">Với tính năng tìm kiếm tích hợp, bạn sẽ có thể tìm thấy bất cứ thứ gì mình cần trong tích tắc!</string>
     <string name="branch_guide_description_two">Ngăn ứng dụng tự động phân loại ứng dụng.</string>
@@ -166,7 +166,7 @@
     <string name="branch_new_feature">Tính năng mới</string>
     <string name="branch_privacy_policy">Chính sách Riêng tư</string>
     <string name="branch_search_guide_description">Kết quả tìm kiếm của chúng tôi hiện đã hoàn thiện hơn</string>
-    <string name="branch_search_guide_privacy">Dịch vụ này được cung cấp bởi Branch Metrics Inc. Thông tin vị trí, truy vấn tìm kiếm và ID Quảng cáo Google của bạn sẽ được chia sẻ với Branch. Đọc và đồng ý với <font color="#B3000000"><a href="http://url1">Điều khoản và Điều kiện</a></font> và <font color="#B3000000"><a href="http://url2">Chính sách Riêng tư</a></font> của Branch trước khi sử dụng dịch vụ.</string>
+    <string name="branch_search_guide_privacy">Dịch vụ này được cung cấp bởi Branch Metrics Inc. Thông tin vị trí, truy vấn tìm kiếm và ID Quảng cáo Google của bạn sẽ được chia sẻ với Branch. Đọc và đồng ý với <a href="http://url1"><font color="#B3000000">Điều khoản và Điều kiện</font></a> và <a href="http://url2"><font color="#B3000000">Chính sách Riêng tư</font></a> của Branch trước khi sử dụng dịch vụ.</string>
     <string name="branch_search_guide_title">Tìm ứng dụng bạn cần trong ứng dụng yêu thích</string>
     <string name="branch_terms_condition">Điều khoản và Điều kiện</string>
     <string name="branch_tip_title">Với Quick Finder, bạn có thể tìm thấy mọi thứ mình cần trong tích tắc.</string>
@@ -640,7 +640,7 @@ Tăng cường bảo mật."</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="send">Gửi</string>
     <string name="server_error">Lỗi máy chủ. Chờ một vài phút rồi thử lại.</string>
-    <string name="service_double_attention">Tính năng tìm kiếm nâng cao được cung cấp bởi Branch Metrics Inc. Để tính năng này hoạt động, chúng tôi cần chia sẻ các yêu cầu tìm kiếm, ID Quảng cáo Google và địa chỉ IP của bạn với Branch Metrics Inc. Đọc và đồng ý với <font color="#B3000000"><a href="http://url1">Điều khoản &amp; Điều kiện Khám phá Người dùng Cuối</a></font> và <font color="#B3000000"><a href="http://url2">Chính sách Riêng tư Branch Discovery</a></font> trước khi sử dụng tính năng này.</string>
+    <string name="service_double_attention">Tính năng tìm kiếm nâng cao được cung cấp bởi Branch Metrics Inc. Để tính năng này hoạt động, chúng tôi cần chia sẻ các yêu cầu tìm kiếm, ID Quảng cáo Google và địa chỉ IP của bạn với Branch Metrics Inc. Đọc và đồng ý với <a href="http://url1"><font color="#B3000000">Điều khoản &amp; Điều kiện Khám phá Người dùng Cuối</font></a> và <a href="http://url2"><font color="#B3000000">Chính sách Riêng tư Branch Discovery</font></a> trước khi sử dụng tính năng này.</string>
     <string name="setting_close">Tắt</string>
     <string name="setting_no_word">Mọi nơi</string>
     <string name="setting_only_widget_no_word">Tiện ích</string>
@@ -684,9 +684,9 @@ Tăng cường bảo mật."</string>
     <string name="system_text">Hệ thống</string>
     <string name="task_access_locked_app_msg">Đã mở khóa ứng dụng</string>
     <string name="term_of_service">Điều khoản và Điều kiện</string>
-    <string name="terms_of_services_one">Chào mừng bạn sử dụng Ngăn ứng dụng và Quick Finder. Quick Finder cho phép bạn tìm ứng dụng, nội dung trong ứng dụng và các mục trực tuyến nhanh hơn. Đọc và đồng ý với <font color="#B3000000"><a href="http://url1">Chính sách Riêng tư</a></font> của Xiaomi trước khi sử dụng các tính năng này.</string>
+    <string name="terms_of_services_one">Chào mừng bạn sử dụng Ngăn ứng dụng và Quick Finder. Quick Finder cho phép bạn tìm ứng dụng, nội dung trong ứng dụng và các mục trực tuyến nhanh hơn. Đọc và đồng ý với <a href="http://url1"><font color="#B3000000">Chính sách Riêng tư</font></a> của Xiaomi trước khi sử dụng các tính năng này.</string>
     <string name="terms_of_services_three">Bạn có thể tắt tính năng này trong Cài đặt.</string>
-    <string name="terms_of_services_two">Sử dụng tìm kiếm nâng cao yêu cầu chia sẻ thông tin cá nhân cần thiết, bao gồm các truy vấn tìm kiếm, ID Quảng cáo Google và địa chỉ IP của bạn với Branch Metrics Inc. Branch sẽ xử lý thông tin cá nhân của bạn theo <font color="#B3000000"><a href="http://url1">Chính sách Riêng tư Branch Discovery</a></font>. Đọc và đồng ý với <font color="#B3000000"><a href="http://url2">Điều khoản &amp; Điều kiện Khám phá Người dùng Cuối</a></font> và <font color="#B3000000"><a href="http://url3">Chính sách Riêng tư Branch Discovery</a></font> trước khi sử dụng tính năng này.</string>
+    <string name="terms_of_services_two">Sử dụng tìm kiếm nâng cao yêu cầu chia sẻ thông tin cá nhân cần thiết, bao gồm các truy vấn tìm kiếm, ID Quảng cáo Google và địa chỉ IP của bạn với Branch Metrics Inc. Branch sẽ xử lý thông tin cá nhân của bạn theo <a href="http://url1"><font color="#B3000000">Chính sách Riêng tư Branch Discovery</font></a>. Đọc và đồng ý với <a href="http://url2"><font color="#B3000000">Điều khoản &amp; Điều kiện Khám phá Người dùng Cuối</font></a> và <a href="http://url3"><font color="#B3000000">Chính sách Riêng tư Branch Discovery</font></a> trước khi sử dụng tính năng này.</string>
     <string name="thursday">Thứ Năm</string>
     <string name="thursday_short">Th 5</string>
     <string name="thursday_shortest">Th 5</string>

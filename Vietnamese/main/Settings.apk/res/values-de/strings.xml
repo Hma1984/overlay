@@ -139,7 +139,7 @@
     <string name="accessibility_dialog_button_deny">Verweigern</string>
     <string name="accessibility_disable_animations">Animationen entfernen</string>
     <string name="accessibility_disable_animations_summary">Bewegung am Bildschirm verringern</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Farbkorrektur kann hilfreich sein, wenn Sie Folgendes möchten:<ol><li> Farben genauer sehen</li><li> Farben entfernen, um sich besser zu konzentrieren</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Farbkorrektur kann hilfreich sein, wenn Sie Folgendes möchten:<li><ol> Farben genauer sehen<li> Farben entfernen, um sich besser zu konzentrieren</li></ol></li></string>
     <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
     <string name="accessibility_display_inversion_preference_intro_text">Farbumkehr macht helle Bildschirme dunkel. Sie macht auch dunkle Bildschirme hell.</string>
     <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Nicht vergessen&lt;/b>&lt;br/> &lt;ol> &lt;li> Farben ändern sich in Medien und Bildern&lt;/li> &lt;li> Farbumkehr funktioniert bei allen Apps&lt;/li> &lt;li> Um einen dunklen Hintergrund anzuzeigen, kann stattdessen das dunkle Thema verwendet werden&lt;/li> &lt;/ol></string>
@@ -260,12 +260,12 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Eingabehilfentaste unten 
     <string name="accessibility_screen_magnification_navbar_summary">"Wenn Vergrößerung eingeschaltet ist, können Sie am Bildschirm hereinzoomen.
 
 "<b>Zum Zoomen</b>" Vergrößerung starten, dann irgendwo auf den Bildschirm tippen.
-"<ul><li>• 2 oder mehr Finger zum Scrollen ziehen</li>"
-"<li>• 2 oder mehr Finger drücken, um den Zoom einzustellen</li></ul>"
+"<li><ul>"• 2 oder mehr Finger zum Scrollen ziehen
+"<li>• 2 oder mehr Finger drücken, um den Zoom einzustellen</li></ul></li>"
 
 "<b>Zum temporären Zoomen</b>" Vergrößerung starten, dann irgendwo auf dem Bildschirm gedrückt halten.
-"<ul><li>• Ziehen zum Bewegen auf dem Bildschirm</li>"
-"<li>• Finger heben, um herauszuzoomen</li></ul>"
+"<li><ul>"• Ziehen zum Bewegen auf dem Bildschirm
+"<li>• Finger heben, um herauszuzoomen</li></ul></li>"
 
 Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="accessibility_screen_magnification_navbar_title">Vergrößern mit Geste</string>
@@ -3578,8 +3578,8 @@ Um mehr zu erfahren, wenden Sie sich an Ihren Kreditanbieter."</string>
     <string name="fold_rule_default">Empfohlen</string>
     <string name="fold_rule_unimportant">Unwichtig</string>
     <string name="fold_screen_application_adaptation_title">Eigene Layouts für faltbare Geräte</string>
-    <string name="fold_screen_settings_title">Funktionen für faltbare Geräte</string>
-    <string name="fold_screen_special_function_title">Funktionen für faltbare Geräte</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Regeln für gruppierte Benachrichtigungen</string>
     <string name="font_cta_alert_btn_negative">Abbrechen</string>
     <string name="font_cta_alert_btn_positive">Zustimmen</string>

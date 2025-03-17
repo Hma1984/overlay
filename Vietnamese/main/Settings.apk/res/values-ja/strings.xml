@@ -263,12 +263,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"[拡大] を ON にすると、画面で拡大操作を行えます。
 
 "<b>ズーム</b>"するには、[拡大] を ON にして画面をタップします。
-"<ul><li>2 本以上の指をドラッグしてスクロール</li>"
-"<li>2 本以上の指でピンチ操作して拡大率を調節</li></ul>"
+"<li><ul>"2 本以上の指をドラッグしてスクロール
+"<li>2 本以上の指でピンチ操作して拡大率を調節</li></ul></li>"
 
 "<b>一時的にズーム</b>"するには、[拡大] を ON にして画面を長押しします。
-"<ul><li>ドラッグで画面上を移動</li>"
-"<li>指を放してズームアウト</li></ul>"
+"<li><ul>"ドラッグで画面上を移動
+"<li>指を放してズームアウト</li></ul></li>"
 
 キーボードやナビゲーション バーでは拡大操作は行えません。"</string>
     <string name="accessibility_screen_magnification_navbar_title">ショートカットで拡大</string>
@@ -3563,8 +3563,8 @@ Googleアカウントなど、アカウントによっては、スマートフ�
     <string name="fold_rule_default">推奨</string>
     <string name="fold_rule_unimportant">重要でない</string>
     <string name="fold_screen_application_adaptation_title">折りたたみ式デバイスのカスタムレイアウト</string>
-    <string name="fold_screen_settings_title">折りたたみ式デバイスの機能</string>
-    <string name="fold_screen_special_function_title">折りたたみ式デバイスの機能</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">グループ化された通知のルール</string>
     <string name="font_cta_alert_btn_negative">キャンセル</string>
     <string name="font_cta_alert_btn_positive">同意</string>

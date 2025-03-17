@@ -580,7 +580,7 @@
     <string name="passport_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="passport_privacy_policy_required">Πολιτική Απορρήτου (υποχρεωτική)</string>
     <string name="passport_provision_input_email_register_prompt">Τα προσωπικά σας δεδομένα θα αποθηκευτούν σύμφωνα με τους νόμους και τους κανονισμούς της περιοχής που επιλέγετε.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d χαρακτήρες με τουλάχιστον %3$d των ακόλουθων τύπων: γράμματα, ψηφία, ειδικά σύμβολα</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> χαρακτήρες με τουλάχιστον <xliff id="min_pwd_type" refersto="2">%3$d</xliff> των ακόλουθων τύπων: γράμματα, ψηφία, ειδικά σύμβολα</string>
     <string name="passport_qq_login_btn_content_description">Σύνδεση μέσω QQ</string>
     <string name="passport_querying_phone_info">Γίνεται αίτηση για πληροφορίες λογαριασμού…</string>
     <string name="passport_quick_login">Σύνδεση</string>

@@ -540,7 +540,7 @@ Unaweza kuingia kwenye Akaunti yako ya Xiaomi ukitumia %s sasa."</string>
     <string name="passport_privacy_policy">Sera ya Faragha</string>
     <string name="passport_privacy_policy_required">Sera ya Faragha (lazima)</string>
     <string name="passport_provision_input_email_register_prompt">Data yako ya kibinafsi itahifadhiwa kwa mujibu wa sheria na kanuni za eneo ulilochagua.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d herufi za angalau %3$d ya aina zifuatazo: herufi, tarakimu, alama maalum</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> herufi za angalau <xliff id="min_pwd_type" refersto="2">%3$d</xliff> ya aina zifuatazo: herufi, tarakimu, alama maalum</string>
     <string name="passport_qq_login_btn_content_description">Ingia ukitumia QQ</string>
     <string name="passport_querying_phone_info">Inaomba maelezo ya akaunti…</string>
     <string name="passport_quick_login">Ingia</string>

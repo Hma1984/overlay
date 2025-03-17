@@ -501,7 +501,7 @@
     <string name="color_effect_entry_berry">კენკრა</string>
     <string name="color_effect_entry_blackgold">ოქროს მომენტები</string>
     <string name="color_effect_entry_blackgold_describe">ეს მაღალი კონტრასტული ფილტრი ინარჩუნებს მხოლოდ ყვითელ და მუქ ლურჯ ფერებს. გამოიყენეთ იგი ღამის ქალაქის კარგად განათებულ ქუჩებში.</string>
-    <string name="color_effect_entry_blackice">\u1ca8ავი ყინული</string>
+    <string name="color_effect_entry_blackice">Შავი ყინული</string>
     <string name="color_effect_entry_blackwhite">შავი და თეთრი</string>
     <string name="color_effect_entry_classic">კლასიკური</string>
     <string name="color_effect_entry_cookie">ნამცხვარი</string>
@@ -1264,8 +1264,8 @@
     <string name="parameter_description_sub_title">მიიღეთ სრული კონტროლი ფოტოებისა და ვიდეოების გადაღებაზე</string>
     <string name="parameter_ef_split_description">თქვენ შეგიძლიათ გადაიტანოთ ექსპოზიციის რგოლი ფოკუსის რგოლიდან და ორი ვარიანტი ცალკე მოაწყოთ.</string>
     <string name="parameter_ef_split_title">ცალკეული ფოკუსირების და ექსპოზიციის გაზომვა</string>
-    <string name="parameter_et_description">ავტომატური ლინზის \u1c93ახურვის სიჩქარე განისაზღვრება კამერის შუქზე მრიცხველის მიერ. როდესაც ხელით შეარჩევთ ლინზის დახურვის სიჩქარეს გახსოვდეთ, რომ რაც უფრო გრძელია ლინზის გახსნა, მით უფრო მეტი შუქი შედის ობიექტივში, რაც თქვენს სურათს უფრო ნათელს გახდის.</string>
-    <string name="parameter_et_title">ლინზის \u1c93ახურვის სიჩქარე</string>
+    <string name="parameter_et_description">ავტომატური ლინზის Დახურვის სიჩქარე განისაზღვრება კამერის შუქზე მრიცხველის მიერ. როდესაც ხელით შეარჩევთ ლინზის დახურვის სიჩქარეს გახსოვდეთ, რომ რაც უფრო გრძელია ლინზის გახსნა, მით უფრო მეტი შუქი შედის ობიექტივში, რაც თქვენს სურათს უფრო ნათელს გახდის.</string>
+    <string name="parameter_et_title">ლინზის Დახურვის სიჩქარე</string>
     <string name="parameter_exposure_description">ეს ფუნქცია საშუალებას გაძლევთ კომპენსაცია გაუკეთოთ იმ შემთხვევაში, თუ გსურთ თქვენი სურათი იყოს ნათელი ან მუქი, ვიდრე შემოთავაზებულია თავად კამერის მიერ.</string>
     <string name="parameter_exposure_feecback_description">მონიშეთ ცისფერად და ზედმეტად გამოხატული ადგილები წითლად, რათა შეძლოთ ექსპოზიციის სწორად რეგულირება.</string>
     <string name="parameter_exposure_feecback_title">ესპოზიციის შემოწმება</string>

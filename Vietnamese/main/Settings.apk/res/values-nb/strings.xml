@@ -265,12 +265,12 @@ Aktiver denne funksjonen og trykk på Tilgjengelighet-knappen nederst på skjerm
     <string name="accessibility_screen_magnification_navbar_summary">"Når forstørrelse er slått på, kan du zoome inn på skjermen.
 
 "<b>For å zoome</b>", start forstørring og trykk hvor som helst på skjermen.
-"<ul><li>Dra to eller flere fingre for å rulle</li>"
-"<li>Knip to eller flere fingre for å justere zoomen</li></ul>"
+"<li><ul>"Dra to eller flere fingre for å rulle
+"<li>Knip to eller flere fingre for å justere zoomen</li></ul></li>"
 
 "<b>For å zoome midlertidig</b>", start forstørring og trykk og hold hvor som helst på skjermen.
-"<ul><li>Dra for å bevege deg rundt på skjermen</li>"
-"<li>Løft fingeren for å zoome ut</li></ul>"
+"<li><ul>"Dra for å bevege deg rundt på skjermen
+"<li>Løft fingeren for å zoome ut</li></ul></li>"
 
 Du kan ikke zoome inn på tastaturet eller navigasjonsraden."</string>
     <string name="accessibility_screen_magnification_navbar_title">Forstørr med snarvei</string>
@@ -3524,8 +3524,8 @@ For å finne ut mer, kontakt kredittleverandøren."</string>
     <string name="fold_rule_default">Anbefalt</string>
     <string name="fold_rule_unimportant">Uviktig</string>
     <string name="fold_screen_application_adaptation_title">Egendefinerte layouter for sammenleggbare enheter</string>
-    <string name="fold_screen_settings_title">Funksjoner for sammenleggbare enheter</string>
-    <string name="fold_screen_special_function_title">Funksjoner for sammenleggbare enheter</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Regler for grupperte varsler</string>
     <string name="font_cta_alert_btn_negative">Avbryt</string>
     <string name="font_cta_alert_btn_positive">Godta</string>

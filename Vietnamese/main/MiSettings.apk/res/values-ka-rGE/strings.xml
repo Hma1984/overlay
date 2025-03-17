@@ -367,7 +367,7 @@
     <string name="screen_paper_mode_apps_loading">ერთი წამით…</string>
     <string name="screen_time_lock">ეკრანის დროის ბლოკირება</string>
     <string name="sea_eagle_info">თეთრი კუდიანი არწივები ძლიერი მწვერვალის მტაცებლები და ოპორტუნისტი ფრინველები არიან, რომლებიც, ჩვეულებრივ, ღია წყლის თევზებით იკვებებიან.</string>
-    <string name="sea_otter">\u1c96ღვის წავი</string>
+    <string name="sea_otter">Ზღვის წავი</string>
     <string name="seal_info">ზღვის ლომები არის ზღვის ძუძუმწოვრები, რომელთაც შეუძლიათ სწრაფად იმოძრაონ ღრმა წყლებში, იკვებონ თევზებით და კრევეტებით.</string>
     <string name="search_app_name">აპლიკაციების მოძებნა</string>
     <string name="search_app_tips">აპლიკაციების ძიება</string>
@@ -389,7 +389,7 @@
     <string name="steady_on_screen_notification_title">დადეთ თქვენი ტელეფონი და შეისვენეთ</string>
     <string name="steady_on_screen_notification_title_pad">დადეთ თქვენი ტელეფონი და შეისვენეთ</string>
     <string name="steady_on_screen_notify">მაცნობეთ უწყვეტი გამოყენების შესახებ</string>
-    <string name="steady_on_screen_notify_new">\u1ca8ესვენება</string>
+    <string name="steady_on_screen_notify_new">Შესვენება</string>
     <string name="steady_on_screen_ntf_msg">ყველა ფუნქცია ხელახლა იქნება %1$s-ში</string>
     <string name="steady_on_screen_setting">დროის ლიმიტი უწყვეტი სესიებისთვის</string>
     <string name="steady_on_screen_summary">დროის ლიმიტი უწყვეტი სესიებისთვის</string>

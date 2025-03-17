@@ -594,7 +594,7 @@ Podeu iniciar la sessió al vostre compte Xiaomi mitjançant %s ara."</string>
     <string name="passport_privacy_policy">Política de privadesa</string>
     <string name="passport_privacy_policy_required">Política de privadesa (obligatòria)</string>
     <string name="passport_provision_input_email_register_prompt">Les vostres dades personals s’emmagatzemaran d’acord amb les lleis i regulacions de la regió que seleccioneu.</string>
-    <string name="passport_provision_password_req_notice">"%1$d-%2$d caràcters d'almenys %3$d dels tipus següents: lletres, dígits, símbols especials"</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff>" caràcters d'almenys "<xliff id="min_pwd_type" refersto="2">%3$d</xliff> dels tipus següents: lletres, dígits, símbols especials</string>
     <string name="passport_qq_login_btn_content_description">Inicieu sessió amb QQ</string>
     <string name="passport_querying_phone_info">"S'està sol·licitant la informació del compte…"</string>
     <string name="passport_quick_login">Inicia la sessió</string>

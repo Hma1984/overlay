@@ -154,7 +154,7 @@
     <string name="branch_deepview_button">"Aconsegueix l'app"</string>
     <string name="branch_deepview_button_description">"Veure aquest contingut immediatament després d'instal·lar"</string>
     <string name="branch_feature_description">"A més de les aplicacions, el Cercador ràpid pot trobar contingut de l'aplicació i elements en línia."</string>
-    <string name="branch_guide_attention">"L'ús de la cerca millorada requereix compartir les sol·licituds de cerca, l'identificador de Google Ads i l'adreça IP amb Branch Metrics Inc. Llegiu i accepteu "<font color="#B3000000"><a href="http://url1">"condicions &amp; condicions de descobriment d'usuaris finals"</a></font> i <font color="#B3000000"><a href="http://url2">política de privadesa de Descobriment de sucursals</a></font>" abans d'utilitzar aquesta funció."</string>
+    <string name="branch_guide_attention">"L'ús de la cerca millorada requereix compartir les sol·licituds de cerca, l'identificador de Google Ads i l'adreça IP amb Branch Metrics Inc. Llegiu i accepteu "<a href="http://url1"><font color="#B3000000">"condicions &amp; condicions de descobriment d'usuaris finals"</font></a> i <a href="http://url2"><font color="#B3000000">política de privadesa de Descobriment de sucursals</font></a>" abans d'utilitzar aquesta funció."</string>
     <string name="branch_guide_description_one">"Posarem totes les aplicacions al calaix d'aplicacions. La pantalla d'inici es veurà ordenada i organitzada."</string>
     <string name="branch_guide_description_three">Amb la cerca integrada, podreu trobar tot el que necessiteu en un instant!</string>
     <string name="branch_guide_description_two">"El calaix d'aplicacions classifica les aplicacions automàticament."</string>
@@ -653,7 +653,7 @@ Seguretat millorada."</string>
     <string name="select_all">Seleccioneu-ho tot</string>
     <string name="send">Envia</string>
     <string name="server_error">"S'ha produït un error al servidor. Espera un parell de minuts i torna-ho a provar."</string>
-    <string name="service_double_attention">"La funcionalitat de cerca millorada la proporciona Branch Metrics Inc. Perquè aquesta funció funcioni, hem de compartir les sol·licituds de cerca, l'identificador de Google Ads i l'adreça IP amb Branch Metrics Inc. Llegir i acceptar "<font color="#B3000000"><a href="http://url1">"Condicions &amp; Condicions de descobriment d'usuaris finals"</a></font> i <font color="#B3000000"><a href="http://url2">Política de privadesa de Branch Discovery</a></font>" abans d'utilitzar aquesta funció."</string>
+    <string name="service_double_attention">"La funcionalitat de cerca millorada la proporciona Branch Metrics Inc. Perquè aquesta funció funcioni, hem de compartir les sol·licituds de cerca, l'identificador de Google Ads i l'adreça IP amb Branch Metrics Inc. Llegir i acceptar "<a href="http://url1"><font color="#B3000000">"Condicions &amp; Condicions de descobriment d'usuaris finals"</font></a> i <a href="http://url2"><font color="#B3000000">Política de privadesa de Branch Discovery</font></a>" abans d'utilitzar aquesta funció."</string>
     <string name="setting_close">Apagat</string>
     <string name="setting_no_word">Enlloc</string>
     <string name="setting_only_widget_no_word">En ginys</string>
@@ -697,9 +697,9 @@ Seguretat millorada."</string>
     <string name="system_text">Automàtic</string>
     <string name="task_access_locked_app_msg">"Bloquejador d'aplicacions activat"</string>
     <string name="term_of_service">Termes i condicions</string>
-    <string name="terms_of_services_one">"\"Benvingut al calaix de l'aplicació i al cercador ràpid. El Cercador ràpid us permet trobar aplicacions, contingut des de l'aplicació i elements en línia més ràpidament. Llegiu i accepteu la política de privadesa \""<font color="#B3000000"><a href="http://url1">de Xiaomi</a></font>" abans d'utilitzar aquestes funcions."</string>
+    <string name="terms_of_services_one">"\"Benvingut al calaix de l'aplicació i al cercador ràpid. El Cercador ràpid us permet trobar aplicacions, contingut des de l'aplicació i elements en línia més ràpidament. Llegiu i accepteu la política de privadesa \""<a href="http://url1"><font color="#B3000000">de Xiaomi</font></a>" abans d'utilitzar aquestes funcions."</string>
     <string name="terms_of_services_three">Podeu desactivar aquesta funció a la configuració.</string>
-    <string name="terms_of_services_two">"L'ús de la cerca millorada requereix compartir la informació personal necessària, incloses les consultes de cerca, l'identificador de publicitat de Google i l'adreça IP, amb Branch Metrics Inc. Branch processarà la vostra informació personal d'acord amb "<font color="#B3000000"><a href="http://url1">política de privadesa de Branch Discovery</a></font>. Llegiu i accepteu <font color="#B3000000"><a href="http://url2">"condicions &amp; condicions de descobriment d'usuaris finals"</a></font> i <font color="#B3000000"><a href="http://url3">política de privadesa de Descodificament de sucursals</a></font>" abans d'utilitzar aquesta funció."</string>
+    <string name="terms_of_services_two">"L'ús de la cerca millorada requereix compartir la informació personal necessària, incloses les consultes de cerca, l'identificador de publicitat de Google i l'adreça IP, amb Branch Metrics Inc. Branch processarà la vostra informació personal d'acord amb "<a href="http://url1"><font color="#B3000000">política de privadesa de Branch Discovery</font></a>. Llegiu i accepteu <a href="http://url2"><font color="#B3000000">"condicions &amp; condicions de descobriment d'usuaris finals"</font></a> i <a href="http://url3"><font color="#B3000000">política de privadesa de Descodificament de sucursals</font></a>" abans d'utilitzar aquesta funció."</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>

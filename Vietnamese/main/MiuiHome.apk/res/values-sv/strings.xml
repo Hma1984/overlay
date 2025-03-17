@@ -142,7 +142,7 @@
     <string name="backup_fail">Kunde inte backningen launcher</string>
     <string name="bottomsheet_action_expand_halfway">Utöka till hälften</string>
     <string name="branch_feature_description">Förutom appar kan Quick Finder hitta innehåll i appar, och objekt online.</string>
-    <string name="branch_guide_attention">Användning av förbättrad sökning kräver delning av dina sökfrågor, Google Ads ID, och IP-adress med Branch Metrics Inc. Läs och acceptera <font color="#B3000000"><a href="http://url1">reglerna &amp; villkoren för upptäckt av slutanvändare</a></font> och <font color="#B3000000"><a href="http://url2">Integritetspolicyn för upptäckt av Branch</a></font> innan du använder denna funktion.</string>
+    <string name="branch_guide_attention">Användning av förbättrad sökning kräver delning av dina sökfrågor, Google Ads ID, och IP-adress med Branch Metrics Inc. Läs och acceptera <a href="http://url1"><font color="#B3000000">reglerna &amp; villkoren för upptäckt av slutanvändare</font></a> och <a href="http://url2"><font color="#B3000000">Integritetspolicyn för upptäckt av Branch</font></a> innan du använder denna funktion.</string>
     <string name="branch_guide_description_one">Vi kommer lägga alla dina appar i Applådan. Din hemskärm kommer se prydlig och organiserad ut.</string>
     <string name="branch_guide_description_three">Med inbyggd sökning kommer du kunna hitta vad du än behöver på ett ögonblick!</string>
     <string name="branch_guide_description_two">Applåda kategoriserar appar automatiskt.</string>
@@ -157,7 +157,7 @@
     <string name="branch_new_feature">Ny funktion</string>
     <string name="branch_privacy_policy">Integritetspolicy</string>
     <string name="branch_search_guide_description">Våra sökresultat är mycket mer omfattande nu</string>
-    <string name="branch_search_guide_privacy">Denna tjänst drivs av Branch Metrics Inc. Din platsinfo, sökfrågor, och Google Ads ID kommer att delas med Branch. Läs och acceptera Branchs <font color="#B3000000"><a href="http://url1">Regler och Villkor</a></font> och <font color="#B3000000"><a href="http://url2">Integritetspolicy</a></font> innan du använder denna tjänst.</string>
+    <string name="branch_search_guide_privacy">Denna tjänst drivs av Branch Metrics Inc. Din platsinfo, sökfrågor, och Google Ads ID kommer att delas med Branch. Läs och acceptera Branchs <a href="http://url1"><font color="#B3000000">Regler och Villkor</font></a> och <a href="http://url2"><font color="#B3000000">Integritetspolicy</font></a> innan du använder denna tjänst.</string>
     <string name="branch_search_guide_title">Hitta vad du söker efter i dina favorit-appar</string>
     <string name="branch_terms_condition">Regler och villkor</string>
     <string name="branch_tip_title">Med Quick Finder hittar du allt du behöver på ett ögonblick.</string>
@@ -586,7 +586,7 @@ Utökad säkerhet."</string>
     <string name="select_all">Välj alla</string>
     <string name="send">Skicka</string>
     <string name="server_error">Ett serverfel inträffade. Vänta en minut eller två och försök igen.</string>
-    <string name="service_double_attention">Förbättrad sökfunktionalitet tillhandahålls av Branch Metrics Inc. För att få denna funktion att fungera behöver vi dela dina sökfrågor, Google Ads ID, och IP-adress med Branch Metrics Inc. Läs och acceptera <font color="#B3000000"><a href="http://url1">reglerna &amp; villkoren för upptäckt av slutanvändare</a></font> och <font color="#B3000000"><a href="http://url2">Integritetspolicyn för upptäckt av Branch</a></font> innan du använder denna funktion.</string>
+    <string name="service_double_attention">Förbättrad sökfunktionalitet tillhandahålls av Branch Metrics Inc. För att få denna funktion att fungera behöver vi dela dina sökfrågor, Google Ads ID, och IP-adress med Branch Metrics Inc. Läs och acceptera <a href="http://url1"><font color="#B3000000">reglerna &amp; villkoren för upptäckt av slutanvändare</font></a> och <a href="http://url2"><font color="#B3000000">Integritetspolicyn för upptäckt av Branch</font></a> innan du använder denna funktion.</string>
     <string name="setting_close">Av</string>
     <string name="setting_no_word">Var som helst</string>
     <string name="setting_only_widget_no_word">I widgetar</string>
@@ -628,9 +628,9 @@ Utökad säkerhet."</string>
     <string name="system_shortcuts_remove">Ta bort</string>
     <string name="task_access_locked_app_msg">Slog på applås</string>
     <string name="term_of_service">Regler och villkor</string>
-    <string name="terms_of_services_one">Välkommen till App drawer och Quick Finder. Quick Finder tillåter dig hitta appar, innehåll i appar, och objekt online fortare. Läs och acceptera Xiaomis <font color="#B3000000"><a href="http://url1">Integritetspolicy</a></font> innan du använder dessa funktioner.</string>
+    <string name="terms_of_services_one">Välkommen till App drawer och Quick Finder. Quick Finder tillåter dig hitta appar, innehåll i appar, och objekt online fortare. Läs och acceptera Xiaomis <a href="http://url1"><font color="#B3000000">Integritetspolicy</font></a> innan du använder dessa funktioner.</string>
     <string name="terms_of_services_three">Du kan inaktivera den här funktionen i inställningarna.</string>
-    <string name="terms_of_services_two">Användning av förbättrad sökning kräver delning av nödvändig personlig information, inklusive dina sökfrågor, Google Annons ID, och IP-adress, med Branch Metrics Inc. Branch kommer behandla din personliga information i enlighet med <font color="#B3000000"><a href="http://url1">Branchs integritetspolicy för upptäckt</a></font>. Läs och acceptera <font color="#B3000000"><a href="http://url2">reglerna &amp; villkoren för upptäckt av slutanvändare</a></font> och <font color="#B3000000"><a href="http://url3">Branchs integritetspolicy för upptäckt</a></font> innan du använder denna funktion.</string>
+    <string name="terms_of_services_two">Användning av förbättrad sökning kräver delning av nödvändig personlig information, inklusive dina sökfrågor, Google Annons ID, och IP-adress, med Branch Metrics Inc. Branch kommer behandla din personliga information i enlighet med <a href="http://url1"><font color="#B3000000">Branchs integritetspolicy för upptäckt</font></a>. Läs och acceptera <a href="http://url2"><font color="#B3000000">reglerna &amp; villkoren för upptäckt av slutanvändare</font></a> och <a href="http://url3"><font color="#B3000000">Branchs integritetspolicy för upptäckt</font></a> innan du använder denna funktion.</string>
     <string name="thursday">Torsdag</string>
     <string name="thursday_short">Tor</string>
     <string name="thursday_shortest">Tor</string>

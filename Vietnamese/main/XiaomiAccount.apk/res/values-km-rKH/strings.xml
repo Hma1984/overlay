@@ -508,7 +508,7 @@
     <string name="passport_privacy_policy">គោលការណ៍ឯកជនភាព</string>
     <string name="passport_privacy_policy_required">គោលការណ៍​​ឯកជនភាព (ចាំបាច់)</string>
     <string name="passport_provision_input_email_register_prompt">ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកនឹងត្រូវបានរក្សាទុកស្របតាមច្បាប់និងបទបញ្ជានៃតំបន់ដែលអ្នកជ្រើសរើស។</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d តូអក្សរ ហើយយ៉ាងហោចណាស់ស្របនឹងលក្ខ័ណ្ឌ %3$d ដែលបានរាយនៅខាងក្រោយ: អក្សរ, លេខ, សញ្ញា</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> តូអក្សរ ហើយយ៉ាងហោចណាស់ស្របនឹងលក្ខ័ណ្ឌ <xliff id="min_pwd_type" refersto="2">%3$d</xliff> ដែលបានរាយនៅខាងក្រោយ: អក្សរ, លេខ, សញ្ញា</string>
     <string name="passport_qq_login_btn_content_description">ចុះឈ្មោះចូលដោយប្រើ QQ</string>
     <string name="passport_querying_phone_info">កំពុង​ស្នើសុំ​ព័ត៌មាន​គណនី…</string>
     <string name="passport_quick_login">ចូលប្រព័ន្ធ</string>

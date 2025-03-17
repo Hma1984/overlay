@@ -511,7 +511,7 @@
     <string name="passport_privacy_policy">પ્રાઇવસી પોલિસી</string>
     <string name="passport_privacy_policy_required">ગોપનીયતા નીતિ (આવશ્યક)</string>
     <string name="passport_provision_input_email_register_prompt">તમારો વ્યક્તિગત ડેટા તમે પસંદ કરેલા પ્રદેશના કાયદા અને નિયમો અનુસાર સંગ્રહિત કરવામાં આવશે.</string>
-    <string name="passport_provision_password_req_notice">"નીચેના પ્રકારોના ઓછામાં ઓછા %3$d ના %1$d%2$d વર્ણ: અક્ષર, અંક, વિશેષ પ્રતીક "</string>
+    <string name="passport_provision_password_req_notice">નીચેના પ્રકારોના ઓછામાં ઓછા <xliff id="min_pwd_type" refersto="2">%3$d</xliff> ના <xliff id="min_pwd_len" refersto="8">%1$d</xliff><xliff id="max_pwd_len" refersto="16">%2$d</xliff>" વર્ણ: અક્ષર, અંક, વિશેષ પ્રતીક "</string>
     <string name="passport_qq_login_btn_content_description">QQ વડે સાઇન ઇન કરો</string>
     <string name="passport_querying_phone_info">એકાઉન્ટ માહિતીની વિનંતી કરી રહ્યું છે…</string>
     <string name="passport_quick_login">સાઇન ઇન</string>

@@ -591,7 +591,7 @@ ID вашего аккаунта: %s"</string>
     <string name="passport_privacy_policy">Политика конфиденциальности</string>
     <string name="passport_privacy_policy_required">Политика конфиденциальности (обязательно)</string>
     <string name="passport_provision_input_email_register_prompt">Ваши личные данные будут храниться в соответствии с законами и правилами выбранного региона.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d символов, не менее %3$d символов следующих типов: буквы, цифры, специальные символы</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> символов, не менее <xliff id="min_pwd_type" refersto="2">%3$d</xliff> символов следующих типов: буквы, цифры, специальные символы</string>
     <string name="passport_qq_login_btn_content_description">Вход через QQ</string>
     <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
     <string name="passport_quick_login">Войти</string>

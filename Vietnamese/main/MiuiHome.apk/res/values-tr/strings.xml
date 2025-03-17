@@ -144,7 +144,7 @@
     <string name="backup_fail">Başlatıcı yedeklenemedi</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
     <string name="branch_feature_description">Hızlı Bulucu, uygulamaların haricinde uygulama içi içeriği ve ögeleri de çevrim içi olarak bulabilir.</string>
-    <string name="branch_guide_attention">Gelişmiş aramayı kullanmak, arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmayı gerektirir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Son Kullanıcı Keşif Şartlar &amp; Koşullarını</a></font> ve <font color="#B3000000"><a href="http://url2">Branch Keşif Gizlilik Politikasını</a></font> okuyun ve kabul edin.</string>
+    <string name="branch_guide_attention">Gelişmiş aramayı kullanmak, arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmayı gerektirir. Bu özelliği kullanmadan önce <a href="http://url1"><font color="#B3000000">Son Kullanıcı Keşif Şartlar &amp; Koşullarını</font></a> ve <a href="http://url2"><font color="#B3000000">Branch Keşif Gizlilik Politikasını</font></a> okuyun ve kabul edin.</string>
     <string name="branch_guide_description_one">Tüm uygulamalarınızı bir Uygulama çekmecesine koyacağız. Ana ekranınız temiz ve düzenli görünecek.</string>
     <string name="branch_guide_description_three">Dahili arama ile ihtiyacınız olan her şeyi bir çırpıda bulabileceksiniz!</string>
     <string name="branch_guide_description_two">Uygulama çekmecesi uygulamarı otomatik olarak kategorize eder.</string>
@@ -159,7 +159,7 @@
     <string name="branch_new_feature">Yeni özellik</string>
     <string name="branch_privacy_policy">Gizlilik Politikası</string>
     <string name="branch_search_guide_description">Arama sonuçlarımız şimdi çok daha kapsamlı</string>
-    <string name="branch_search_guide_privacy">Bu hizmet Branch Metrics Inc. tarafından sağlanmaktadır. Konum bilginiz, arama sorgularınız ve Google Reklamlar Kimliğiniz, Branch ile paylaşılacaktır. Bu hizmeti kullanmadan önce Branch <font color="#B3000000"><a href="http://url1">Şartlar ve Koşullar</a></font> ve <font color="#B3000000"><a href="http://url2">Gizlilik Politikasını</a></font> okuyun ve kabul edin.</string>
+    <string name="branch_search_guide_privacy">Bu hizmet Branch Metrics Inc. tarafından sağlanmaktadır. Konum bilginiz, arama sorgularınız ve Google Reklamlar Kimliğiniz, Branch ile paylaşılacaktır. Bu hizmeti kullanmadan önce Branch <a href="http://url1"><font color="#B3000000">Şartlar ve Koşullar</font></a> ve <a href="http://url2"><font color="#B3000000">Gizlilik Politikasını</font></a> okuyun ve kabul edin.</string>
     <string name="branch_search_guide_title">Aradığınızı favori uygulamalarınızda bulun</string>
     <string name="branch_terms_condition">Şartlar ve Koşullar</string>
     <string name="branch_tip_title">Hızlı Bulucu ile ihtiyacınız olan her şeyi bir çırpıda bulabilirsiniz.</string>
@@ -620,7 +620,7 @@ Arttırılmış güvenlik."</string>
     <string name="select_all">Tümünü seç</string>
     <string name="send">Gönder</string>
     <string name="server_error">Bir sunucu hatası meydana geldi. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
-    <string name="service_double_attention">Gelişmiş arama işlevi, Branch Metrics Inc. tarafından sağlanmaktadır. Bu özelliği çalıştırmak için arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmamız gerekir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Son Kullanıcı Keşif Şartlar &amp; Koşullarını</a></font> ve <font color="#B3000000"><a href="http://url2">Branch Keşif Gizlilik Politikasını</a></font> okuyun ve kabul edin.</string>
+    <string name="service_double_attention">Gelişmiş arama işlevi, Branch Metrics Inc. tarafından sağlanmaktadır. Bu özelliği çalıştırmak için arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmamız gerekir. Bu özelliği kullanmadan önce <a href="http://url1"><font color="#B3000000">Son Kullanıcı Keşif Şartlar &amp; Koşullarını</font></a> ve <a href="http://url2"><font color="#B3000000">Branch Keşif Gizlilik Politikasını</font></a> okuyun ve kabul edin.</string>
     <string name="setting_close">Kapalı</string>
     <string name="setting_no_word">Herhangi bir yer</string>
     <string name="setting_only_widget_no_word">Araçlarda</string>
@@ -664,9 +664,9 @@ Arttırılmış güvenlik."</string>
     <string name="system_text">Otomatik</string>
     <string name="task_access_locked_app_msg">Uygulama kilidi açıldı</string>
     <string name="term_of_service">Şartlar ve koşullar</string>
-    <string name="terms_of_services_one">"Uygulama çekmecesi ve Hızlı Bul'a hoş geldiniz! Hızlı bul, uygulamaları, uygulama içi içeriği ve ögeleri çevrim içi daha hızlı bulmanızı sağlar. Bu özellikleri kullanmadan önce Xiaomi "<font color="#B3000000"><a href="http://url1">"Gizlilik Politikası'nı"</a></font> okuyun ve kabul edin.</string>
+    <string name="terms_of_services_one">"Uygulama çekmecesi ve Hızlı Bul'a hoş geldiniz! Hızlı bul, uygulamaları, uygulama içi içeriği ve ögeleri çevrim içi daha hızlı bulmanızı sağlar. Bu özellikleri kullanmadan önce Xiaomi "<a href="http://url1"><font color="#B3000000">"Gizlilik Politikası'nı"</font></a> okuyun ve kabul edin.</string>
     <string name="terms_of_services_three">Bu özelliği Ayarlar menüsünde kapatabilirsiniz.</string>
-    <string name="terms_of_services_two">Gelişmiş aramayı kullanmak, arama sorgularınız, Google Reklam Kimliğiniz, IP adresiniz de dahil olmak üzere gerekli kişisel bilgileri Branch Metrics Inc. ile paylaşmayı gerektiri. Branch, <font color="#B3000000"><a href="http://url1">"Branch Keşif Gizlilik Politikası'na göre"</a></font> kişisel bilgilerinizi işleyecektir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url2">Son Kullanıcı Keşif Şartlar &amp; Koşulları</a></font> ve <font color="#B3000000"><a href="http://url3">"Branch Keşif Gizlilik Politikası'nı"</a></font> okuyun ve kabul edin.</string>
+    <string name="terms_of_services_two">Gelişmiş aramayı kullanmak, arama sorgularınız, Google Reklam Kimliğiniz, IP adresiniz de dahil olmak üzere gerekli kişisel bilgileri Branch Metrics Inc. ile paylaşmayı gerektiri. Branch, <a href="http://url1"><font color="#B3000000">"Branch Keşif Gizlilik Politikası'na göre"</font></a> kişisel bilgilerinizi işleyecektir. Bu özelliği kullanmadan önce <a href="http://url2"><font color="#B3000000">Son Kullanıcı Keşif Şartlar &amp; Koşulları</font></a> ve <a href="http://url3"><font color="#B3000000">"Branch Keşif Gizlilik Politikası'nı"</font></a> okuyun ve kabul edin.</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Prş</string>
     <string name="thursday_shortest">Prş</string>

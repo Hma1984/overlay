@@ -153,7 +153,7 @@
     <string name="branch_deepview_button">Obtener la aplicación</string>
     <string name="branch_deepview_button_description">Ver este contenido inmediatamente después de la instalación</string>
     <string name="branch_feature_description">Además de las aplicaciones, Buscador Rápido puede encontrar contenido en la aplicación y elementos en línea.</string>
-    <string name="branch_guide_attention">La búsqueda mejorada necesita compartir tus solicitudes, el ID de Google Ads y la dirección IP con Branch Metrics Inc. Lee y acepta <font color="#B3000000"><a href="http://url1">Términos de usuarios finales &amp; Condiciones</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de usar esta función.</string>
+    <string name="branch_guide_attention">La búsqueda mejorada necesita compartir tus solicitudes, el ID de Google Ads y la dirección IP con Branch Metrics Inc. Lee y acepta <a href="http://url1"><font color="#B3000000">Términos de usuarios finales &amp; Condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de privacidad</font></a> antes de usar esta función.</string>
     <string name="branch_guide_description_one">Pondremos todas tus aplicaciones en el cajón de aplicaciones. Tu pantalla de inicio se verá ordenada y organizada.</string>
     <string name="branch_guide_description_three">¡Con la búsqueda integrada, podrás encontrar lo que necesites en un instante!</string>
     <string name="branch_guide_description_two">El cajón de aplicaciones clasifica las aplicaciones automáticamente.</string>
@@ -169,7 +169,7 @@
     <string name="branch_new_feature">Nueva caracteristica</string>
     <string name="branch_privacy_policy">Política de privacidad</string>
     <string name="branch_search_guide_description">Nuestros resultados de búsqueda son mucho más completos ahora</string>
-    <string name="branch_search_guide_privacy">\"Este servicio lo proporciona Branch Metrics Inc. Tu ubicación, consultas y el ID de Google se compartirán con Branch Metrics Inc. Lee y acepta los \"<font color="#B3000000"><a href="http://url1">Términos y condiciones</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de utilizarlo.</string>
+    <string name="branch_search_guide_privacy">\"Este servicio lo proporciona Branch Metrics Inc. Tu ubicación, consultas y el ID de Google se compartirán con Branch Metrics Inc. Lee y acepta los \"<a href="http://url1"><font color="#B3000000">Términos y condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de privacidad</font></a> antes de utilizarlo.</string>
     <string name="branch_search_guide_title">Encuentra lo que buscas en tus aplicaciones favoritas</string>
     <string name="branch_terms_condition">Términos y Condiciones</string>
     <string name="branch_tip_title">Con Buscador Rápido, puedes encontrar todo lo que necesitas en un instante.</string>
@@ -634,7 +634,7 @@ Seguridad mejorada."</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="send">Enviar</string>
     <string name="server_error">Se produjo un error del servidor. Espera un par de minutos e inténtalo otra vez.</string>
-    <string name="service_double_attention">La búsqueda mejorada comparte tus solicitudes, el ID de Google Ads y tu dirección IP con Branch Metrics Inc. Lee y acepta <font color="#B3000000"><a href="http://url1">Términos de usuarios finales &amp; Condiciones</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de usarla.</string>
+    <string name="service_double_attention">La búsqueda mejorada comparte tus solicitudes, el ID de Google Ads y tu dirección IP con Branch Metrics Inc. Lee y acepta <a href="http://url1"><font color="#B3000000">Términos de usuarios finales &amp; Condiciones</font></a> y <a href="http://url2"><font color="#B3000000">Política de privacidad</font></a> antes de usarla.</string>
     <string name="setting_close">Apagado</string>
     <string name="setting_no_word">En cualquier lugar</string>
     <string name="setting_only_widget_no_word">En widgets</string>
@@ -678,9 +678,9 @@ Seguridad mejorada."</string>
     <string name="system_text">Automático</string>
     <string name="task_access_locked_app_msg">Bloqueo de aplicaciones activado</string>
     <string name="term_of_service">Términos y Condiciones</string>
-    <string name="terms_of_services_one">\"Te damos la bienvenida al Cajón de Aplicaciones y al Buscador Rápido. Puedes encontrar aplicaciones, contenido y elementos en línea más rápido. Lee y acepta la \"<font color="#B3000000"><a href="http://url1">Política de Privacidad</a></font> de Xiaomi antes de usar esta función.</string>
+    <string name="terms_of_services_one">\"Te damos la bienvenida al Cajón de Aplicaciones y al Buscador Rápido. Puedes encontrar aplicaciones, contenido y elementos en línea más rápido. Lee y acepta la \"<a href="http://url1"><font color="#B3000000">Política de Privacidad</font></a> de Xiaomi antes de usar esta función.</string>
     <string name="terms_of_services_three">Puedes desactivar esta función en Configuración.</string>
-    <string name="terms_of_services_two">La búsqueda mejorada comparte información personal, incluidas tus búsquedas, el ID de Google y tu dirección IP con Branch Metrics Inc. que procesará esta información personal de acuerdo con la Política de privacidad de <font color="#B3000000"><a href="http://url1">Branch Discovery</a></font>. Lee y acepta <font color="#B3000000"><a href="http://url2">Términos de usuarios finales &amp; Condiciones</a></font> y <font color="#B3000000"><a href="http://url3">Política de privacidad</a></font> antes de usarla.</string>
+    <string name="terms_of_services_two">La búsqueda mejorada comparte información personal, incluidas tus búsquedas, el ID de Google y tu dirección IP con Branch Metrics Inc. que procesará esta información personal de acuerdo con la Política de privacidad de <a href="http://url1"><font color="#B3000000">Branch Discovery</font></a>. Lee y acepta <a href="http://url2"><font color="#B3000000">Términos de usuarios finales &amp; Condiciones</font></a> y <a href="http://url3"><font color="#B3000000">Política de privacidad</font></a> antes de usarla.</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>

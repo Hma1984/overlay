@@ -121,7 +121,7 @@
     <string name="back">Tagasi</string>
     <string name="backup_fail">Käivitajat ei õnnestunud varundada</string>
     <string name="branch_feature_description">Lisaks rakendustele leiab kiirotsing rakendusesisese sisu ja üksused veebis.</string>
-    <string name="branch_guide_attention">Tõhustatud otsingu kasutamine nõuab teie otsingupäringute, Google Ads ID ja IP-aadressi jagamist ettevõttega Branch Metrics Inc. Enne selle funktsiooni kasutamist lugege ja nõustuge <font color="#B3000000"><a href="http://url1">lõppkasutaja otsinguterminite &amp; tingimustega</a></font> ja <font color="#B3000000"><a href="http://url2">"Branch'i otsingute privaatsuseeskirjadega"</a></font>.</string>
+    <string name="branch_guide_attention">Tõhustatud otsingu kasutamine nõuab teie otsingupäringute, Google Ads ID ja IP-aadressi jagamist ettevõttega Branch Metrics Inc. Enne selle funktsiooni kasutamist lugege ja nõustuge <a href="http://url1"><font color="#B3000000">lõppkasutaja otsinguterminite &amp; tingimustega</font></a> ja <a href="http://url2"><font color="#B3000000">"Branch'i otsingute privaatsuseeskirjadega"</font></a>.</string>
     <string name="branch_guide_description_one">Paneme kõik sinu rakendused rakenduste sahtlisse. Sinu avakuva näeb välja korras ja organiseeritud.</string>
     <string name="branch_guide_description_three">Sisseehitatud otsinguga leiad kiirelt kõik mis vaja!</string>
     <string name="branch_guide_description_two">Rakenduste sahtel jagab rakendused automaatselt kategooriatesse.</string>
@@ -136,7 +136,7 @@
     <string name="branch_new_feature">Uus funktsioon</string>
     <string name="branch_privacy_policy">Privaatsuspoliitika</string>
     <string name="branch_search_guide_description">Otsingutulemid on nüüd palju põhjalikumad</string>
-    <string name="branch_search_guide_privacy">"Seda teenust pakub Branch Metrics Inc. Teie asukohateavet, otsingupäringuid ja Google Ads'i ID-d jagatakse Branch'iga. Lugege ja nõustuge enne teenuse kasutamist Branch'i "<font color="#B3000000"><a href="http://url1">Tingimuste</a></font> ja <font color="#B3000000"><a href="http://url2">Privaatsuspoliitikaga</a></font>.</string>
+    <string name="branch_search_guide_privacy">"Seda teenust pakub Branch Metrics Inc. Teie asukohateavet, otsingupäringuid ja Google Ads'i ID-d jagatakse Branch'iga. Lugege ja nõustuge enne teenuse kasutamist Branch'i "<a href="http://url1"><font color="#B3000000">Tingimuste</font></a> ja <a href="http://url2"><font color="#B3000000">Privaatsuspoliitikaga</font></a>.</string>
     <string name="branch_search_guide_title">Leidke oma lemmikrakendustest see, mida otsite</string>
     <string name="branch_terms_condition">Tingimused</string>
     <string name="branch_tip_title">Kiirotsingu abil leiate kõik vajaliku kohe.</string>
@@ -546,7 +546,7 @@ Täiustatud turvalisus."</string>
     <string name="select_all">Vali kõik</string>
     <string name="send">Saada</string>
     <string name="server_error">Tekkis serveri viga. Oodake mõni minut ja proovige uuesti.</string>
-    <string name="service_double_attention">Tõhustatud otsingufunktsiooni tagab Branch Metrics Inc. Selle funktsiooni kasutamine nõuab teie otsingupäringute, Google Ads ID ja IP-aadressi jagamist ettevõttega Branch Metrics Inc. Enne selle funktsiooni kasutamist lugege ja nõustuge <font color="#B3000000"><a href="http://url1">lõppkasutaja otsinguterminite &amp; tingimustega</a></font> ja <font color="#B3000000"><a href="http://url2">"Branch'i otsingute privaatsuseeskirjadega"</a></font>.</string>
+    <string name="service_double_attention">Tõhustatud otsingufunktsiooni tagab Branch Metrics Inc. Selle funktsiooni kasutamine nõuab teie otsingupäringute, Google Ads ID ja IP-aadressi jagamist ettevõttega Branch Metrics Inc. Enne selle funktsiooni kasutamist lugege ja nõustuge <a href="http://url1"><font color="#B3000000">lõppkasutaja otsinguterminite &amp; tingimustega</font></a> ja <a href="http://url2"><font color="#B3000000">"Branch'i otsingute privaatsuseeskirjadega"</font></a>.</string>
     <string name="setting_close">Väljas</string>
     <string name="setting_no_word">Igal pool</string>
     <string name="setting_only_widget_no_word">Vidinatel</string>
@@ -590,9 +590,9 @@ Täiustatud turvalisus."</string>
     <string name="system_text">Automaatne</string>
     <string name="task_access_locked_app_msg">Rakenduse lukk on sisse lülitatud</string>
     <string name="term_of_service">Tingimused</string>
-    <string name="terms_of_services_one">Tere tulemast rakenduste sahtlisse ja kiirotsingusse. Kiirotsing aitab leida veebist rakendusi, rakendusesisest sisu ja muid artikleid kiiremini. Lugege Xiaomi <font color="#B3000000"><a href="http://url1">privaatsuspoliitikat</a></font> ja nõustuge sellega enne nende funktsioonide kasutamist.</string>
+    <string name="terms_of_services_one">Tere tulemast rakenduste sahtlisse ja kiirotsingusse. Kiirotsing aitab leida veebist rakendusi, rakendusesisest sisu ja muid artikleid kiiremini. Lugege Xiaomi <a href="http://url1"><font color="#B3000000">privaatsuspoliitikat</font></a> ja nõustuge sellega enne nende funktsioonide kasutamist.</string>
     <string name="terms_of_services_three">Võite lülitada selle funktsiooni välja Seadetes.</string>
-    <string name="terms_of_services_two">Täiustatud otsingu kasutamine eeldab vajalike isikuandmete, sh teie otsingupäringute, Google Advertising ID ning IP-aadressi jagamist Branch Metrics Inc.-ga. Branch töötleb teie isikuandmeid vastavalt <font color="#B3000000"><a href="http://url1">"Branch'i otsingute privaatsuspoliitikale"</a></font>. Lugege <font color="#B3000000"><a href="http://url2">lõppkasutaja otsingutermineid ja tingimusi</a></font> ning <font color="#B3000000"><a href="http://url3">"Branch'i otsingute privaatsuspoliitikat"</a></font> ja nõustuge nendega enne selle funktsiooni kasutamist.</string>
+    <string name="terms_of_services_two">Täiustatud otsingu kasutamine eeldab vajalike isikuandmete, sh teie otsingupäringute, Google Advertising ID ning IP-aadressi jagamist Branch Metrics Inc.-ga. Branch töötleb teie isikuandmeid vastavalt <a href="http://url1"><font color="#B3000000">"Branch'i otsingute privaatsuspoliitikale"</font></a>. Lugege <a href="http://url2"><font color="#B3000000">lõppkasutaja otsingutermineid ja tingimusi</font></a> ning <a href="http://url3"><font color="#B3000000">"Branch'i otsingute privaatsuspoliitikat"</font></a> ja nõustuge nendega enne selle funktsiooni kasutamist.</string>
     <string name="thursday">neljapäev</string>
     <string name="thursday_short">N</string>
     <string name="thursday_shortest">N</string>

@@ -267,12 +267,12 @@ Slå på denna funktion och klicka på knappen Tillgänglighet nederst på din s
     <string name="accessibility_screen_magnification_navbar_summary">"När förstoring har aktiverats kan du zooma in på skärmen.
 
 "<b>Om du vill zooma</b>" aktiverar du förstoring och trycker var som helst på skärmen.
-"<ul><li>Scrolla genom att dra med minst två fingrar.</li>"
-"<li>Justera zoomen genom att nypa med minst två fingrar.</li></ul>"
+"<li><ul>"Scrolla genom att dra med minst två fingrar.
+"<li>Justera zoomen genom att nypa med minst två fingrar.</li></ul></li>"
 
 "<b>Om du vill zooma tillfälligt</b>" aktiverar du förstoring och trycker länge var som helst på skärmen.
-"<ul><li>Flytta runt på skärmen genom att dra.</li>"
-"<li>Zooma ut genom att lyfta fingret.</li></ul>"
+"<li><ul>"Flytta runt på skärmen genom att dra.
+"<li>Zooma ut genom att lyfta fingret.</li></ul></li>"
 
 Det går inte att zooma in på tangentbordet eller navigeringsfältet."</string>
     <string name="accessibility_screen_magnification_navbar_title">Förstora med genväg</string>
@@ -3508,8 +3508,8 @@ Kontakta långivaren om du vill veta mer."</string>
     <string name="fold_rule_default">Rekommenderas</string>
     <string name="fold_rule_unimportant">Oviktigt</string>
     <string name="fold_screen_application_adaptation_title">Anpassade utformningar för vikbara enheter</string>
-    <string name="fold_screen_settings_title">Funktioner för vikbara enheter</string>
-    <string name="fold_screen_special_function_title">Funktioner för vikbara enheter</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Regler för grupperade notifikationer</string>
     <string name="font_cta_alert_btn_negative">Avbryt</string>
     <string name="font_cta_alert_btn_positive">Acceptera</string>

@@ -3014,6 +3014,10 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="restart_app">Khởi động lại App Vault</string>
     <string name="server_china">Hiện tại: Trung Quốc</string>
     <string name="server_global">Hiện tại: Quốc tế</string>
-    <string name="eu_server_vault">Đổi server cho App Vault (Khởi động lại App Vault để áp dụng)</string>
+    <string name="eu_server_vault">Nhà cung cấp Tiện ích Xiaomi.eu</string>
     <string name="eu_server_vault_sum">Khởi động lại App Vault để áp dụng</string>
+    <string name="scroll_anim">Hoạt ảnh cuộn trong kho Tiện ích</string>
+    <string name="scroll_anim_sum">Nó có thể gây ra hiện tượng rung khi cuộn ở các thiết bị cấp thấp</string>
+    <string name="restart_app_vault">Nhấn để khởi động lại App Vault</string>
+    <string name="modifications_tn">Tùy chỉnh nâng cao</string>
 </resources>

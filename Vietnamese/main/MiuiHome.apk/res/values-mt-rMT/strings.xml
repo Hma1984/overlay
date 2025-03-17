@@ -122,7 +122,7 @@
     <string name="back">Lura</string>
     <string name="backup_fail">Ma setax isir il-backup tal-lanċatur</string>
     <string name="branch_feature_description">"Barra l-apps, Quick Finder tista' ssib il-kontenut tal-apps u l-affarijiet li jinsabu onlajn."</string>
-    <string name="branch_guide_attention">"Biex tuża t-tiftix imtejjeb triq taqsam it-tfittxijiet, l-ID ta' Google Ads u l-indirizz IP tiegħek ma' Branch Metrics Inc. Qabel tuża dil-faċilità, aqra u aqbel mat-"<font color="#B3000000"><a href="http://url1">Termini u l-Kundizzjonijiet Discovery tal-Utent</a></font> u mal-<font color="#B3000000"><a href="http://url2">"Politika tal-Privatezza Discovery ta' Branch"</a></font>.</string>
+    <string name="branch_guide_attention">"Biex tuża t-tiftix imtejjeb triq taqsam it-tfittxijiet, l-ID ta' Google Ads u l-indirizz IP tiegħek ma' Branch Metrics Inc. Qabel tuża dil-faċilità, aqra u aqbel mat-"<a href="http://url1"><font color="#B3000000">Termini u l-Kundizzjonijiet Discovery tal-Utent</font></a> u mal-<a href="http://url2"><font color="#B3000000">"Politika tal-Privatezza Discovery ta' Branch"</font></a>.</string>
     <string name="branch_guide_description_one">Aħna npoġġu l-apps tiegħek fil-Kexxun tal-apps. L-Iskrin Prinċipali tiegħek jidher pulit u organizzat.</string>
     <string name="branch_guide_description_three">"Bi tfittxija inkorporata, int tkun tista' tfittex kulma jkollok bżonn fi ftit sekondi!"</string>
     <string name="branch_guide_description_two">"Il-Kexxun tal-apps jikkategorizza l-apps b'mod awtomatiku."</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">Faċilità ġdida</string>
     <string name="branch_privacy_policy">Politika tal-Privatezza</string>
     <string name="branch_search_guide_description">Ir-riżultati tat-tiftix tagħha issa huma ħafna aħjar</string>
-    <string name="branch_search_guide_privacy">"Das-servizz huwa grazzi għal Branch Metrics Inc. Il-post fejn tinsab, it-tiftixiet tiegħek u l-ID ta' Google Ads se jinqasmu ma' Branch. Aqra u aqbel mat-"<font color="#B3000000"><a href="http://url1">Termini u l-Kundizzjonijiet</a></font> u l-<font color="#B3000000"><a href="http://url2">Politika tal-Privatezza</a></font>" ta' Branch qabel tuża das-servizz."</string>
+    <string name="branch_search_guide_privacy">"Das-servizz huwa grazzi għal Branch Metrics Inc. Il-post fejn tinsab, it-tiftixiet tiegħek u l-ID ta' Google Ads se jinqasmu ma' Branch. Aqra u aqbel mat-"<a href="http://url1"><font color="#B3000000">Termini u l-Kundizzjonijiet</font></a> u l-<a href="http://url2"><font color="#B3000000">Politika tal-Privatezza</font></a>" ta' Branch qabel tuża das-servizz."</string>
     <string name="branch_search_guide_title">Sib dak li qed tfittex fl-apps favoriti tiegħek</string>
     <string name="branch_terms_condition">Termini u Kundizzjonijiet</string>
     <string name="branch_tip_title">"Grazzi għal Quick Finder, tista' ssib dak kollu li teħtieġ f'leħħa ta' berqa."</string>
@@ -537,7 +537,7 @@ Sigurtà mtejba."</string>
     <string name="select_all">Agħżel kollox</string>
     <string name="send">Ibgħat</string>
     <string name="server_error">"Seħħ żball fis-server. Stenna minuta jew tnejn u erġa' pprova."</string>
-    <string name="service_double_attention">"Il-faċilità tat-tiftix imtejjeb hija grazzi għal Branch Metrics Inc. Biex dil-faċilità tkun tista' taħdem, jeħtiġilna naqsmu t-tfittxijiet, l-ID ta' Google Ads u l-Indirizz IP tiegħek ma' Branch Metrics Inc. Qabel tuża dil-faċilità, aqra u aqbel mat-"<font color="#B3000000"><a href="http://url1">Termini u l-Kundizzjonijiet Discovery tal-Utent</a></font> u mal-<font color="#B3000000"><a href="http://url2">"Politika tal-Privatezza Discovery ta' Branch"</a></font>.</string>
+    <string name="service_double_attention">"Il-faċilità tat-tiftix imtejjeb hija grazzi għal Branch Metrics Inc. Biex dil-faċilità tkun tista' taħdem, jeħtiġilna naqsmu t-tfittxijiet, l-ID ta' Google Ads u l-Indirizz IP tiegħek ma' Branch Metrics Inc. Qabel tuża dil-faċilità, aqra u aqbel mat-"<a href="http://url1"><font color="#B3000000">Termini u l-Kundizzjonijiet Discovery tal-Utent</font></a> u mal-<a href="http://url2"><font color="#B3000000">"Politika tal-Privatezza Discovery ta' Branch"</font></a>.</string>
     <string name="setting_close">Mitfija</string>
     <string name="setting_no_word">Kullimkien</string>
     <string name="setting_only_widget_no_word">Fuq il-wiġits</string>
@@ -581,9 +581,9 @@ Sigurtà mtejba."</string>
     <string name="system_text">Awto</string>
     <string name="task_access_locked_app_msg">Xgħelt il-katnazz tal-app</string>
     <string name="term_of_service">Termini u kundizzjonijiet</string>
-    <string name="terms_of_services_one">Merħba fil-Kexxun tal-apps u fi Quick Finder. Quick Finder tħallik issib l-apps, il-kontenut fl-apps u affarijiet oħra onlajn iktar malajr. Qabel tuża dal-faċilitajiet, aqra u aqbel mal-<font color="#B3000000"><a href="http://url1">Politika tal-Privatezza</a></font>" ta' Xiaomi."</string>
+    <string name="terms_of_services_one">Merħba fil-Kexxun tal-apps u fi Quick Finder. Quick Finder tħallik issib l-apps, il-kontenut fl-apps u affarijiet oħra onlajn iktar malajr. Qabel tuża dal-faċilitajiet, aqra u aqbel mal-<a href="http://url1"><font color="#B3000000">Politika tal-Privatezza</font></a>" ta' Xiaomi."</string>
     <string name="terms_of_services_three">"Tista' titfi dil-faċilità mill-Għażliet."</string>
-    <string name="terms_of_services_two">"Biex tkun tista' tuża t-tiftix imtejjeb trid taqsam l-informazzjoni personali meħtieġa, inklużi t-tfittxijiet tiegħek, l-ID tar-Riklami ta' Google u l-indirizz IP tiegħek ma' Branch Metrics Inc. Branch se tipproċessa l-informazzjoni personali tiegħek skont il-"<font color="#B3000000"><a href="http://url1">"Politika tal-Privatezza ta' Branch Discovery"</a></font>. Qabel tuża dil-faċilità, aqra u aqbel mat-<font color="#B3000000"><a href="http://url2">"Termini u l-Kundizzjonijiet ta' Discovery"</a></font> u mal-<font color="#B3000000"><a href="http://url3">"Politika tal-Privatezza ta' Branch Discovery"</a></font>.</string>
+    <string name="terms_of_services_two">"Biex tkun tista' tuża t-tiftix imtejjeb trid taqsam l-informazzjoni personali meħtieġa, inklużi t-tfittxijiet tiegħek, l-ID tar-Riklami ta' Google u l-indirizz IP tiegħek ma' Branch Metrics Inc. Branch se tipproċessa l-informazzjoni personali tiegħek skont il-"<a href="http://url1"><font color="#B3000000">"Politika tal-Privatezza ta' Branch Discovery"</font></a>. Qabel tuża dil-faċilità, aqra u aqbel mat-<a href="http://url2"><font color="#B3000000">"Termini u l-Kundizzjonijiet ta' Discovery"</font></a> u mal-<a href="http://url3"><font color="#B3000000">"Politika tal-Privatezza ta' Branch Discovery"</font></a>.</string>
     <string name="thursday">Il-Ħamis</string>
     <string name="thursday_short">Ħam</string>
     <string name="thursday_shortest">Ħam</string>

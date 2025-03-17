@@ -258,7 +258,7 @@ Activeu aquesta funció i toqueu el botó Accessibilitat a la part inferior de l
     <string name="accessibility_screen_magnification_navbar_short_summary">Toca un botó per fer zoom</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Quan l'opció d'ampliació està activada, pots ampliar la pantalla.
 
-\""<b>Per ampliar-la</b>"\", activa l'opció i toca qualsevol punt de la pantalla. \""<ul><li>Arrossega dos o més dits per desplaçar-te.</li>\" \"<li>Pinça amb dos o més dits per ajustar el zoom.</li></ul>\" \"<b>Per fer zoom temporalment</b>"\", activa l'ampliació i mantén premut qualsevol punt de la pantalla. \""<ul><li>"\"Arrossega per moure't per la pantalla.\""</li>\" \"<li>Aixeca el dit per allunyar la pantalla.</li></ul>\" No es pot ampliar el teclat ni la barra de navegació.</string>
+\""<b>Per ampliar-la</b>"\", activa l'opció i toca qualsevol punt de la pantalla. \""<li><ul>Arrossega dos o més dits per desplaçar-te.\" \"<li>Pinça amb dos o més dits per ajustar el zoom.</li></ul></li>\" \"<b>Per fer zoom temporalment</b>"\", activa l'ampliació i mantén premut qualsevol punt de la pantalla. \""<li><ul>"\"Arrossega per moure't per la pantalla.\"\" \""<li>Aixeca el dit per allunyar la pantalla.</li></ul></li>\" No es pot ampliar el teclat ni la barra de navegació.</string>
     <string name="accessibility_screen_magnification_navbar_title">Amplia amb una drecera</string>
     <string name="accessibility_screen_magnification_short_summary">Toca tres cops per fer zoom</string>
     <string name="accessibility_screen_magnification_shortcut_title">"Drecera d'ampliació"</string>
@@ -1085,7 +1085,7 @@ Les còpies de seguretat s'emmagatzemen a Núvol Xiaomi i s'hi pot accedir sense
     <string name="battery_details_title">"Ús de la bateria de l'aplicació"</string>
     <string name="battery_footer_summary">"La durada de la bateria restant és aproximada i pot variar en funció de l'ús"</string>
     <string name="battery_full_charge_last">Durada aproximada de la càrrega completa</string>
-    <string name="battery_header_title_alternate">^1<small><font size="20">%</font></small></string>
+    <string name="battery_header_title_alternate">^1<font size="20"><small>%</small></font></string>
     <string name="battery_indicator_style">Indicador de bateria</string>
     <string name="battery_indicator_title">Indicador de bateria</string>
     <string name="battery_info_awake_battery">Temps de bateria en ús:</string>
@@ -3683,8 +3683,8 @@ Per obtenir més informació, contacta amb l'entitat de crèdit."</string>
     <string name="fold_rule_default">Recomanat</string>
     <string name="fold_rule_unimportant">Sense importància</string>
     <string name="fold_screen_application_adaptation_title">Dissenys personalitzats per a dispositius plegables</string>
-    <string name="fold_screen_settings_title">Característiques per a dispositius plegables</string>
-    <string name="fold_screen_special_function_title">Característiques per a dispositius plegables</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Normes per les notificacions agrupades</string>
     <string name="font_cta_alert_btn_negative">Cancel·la</string>
     <string name="font_cta_alert_btn_positive">Acceptar</string>

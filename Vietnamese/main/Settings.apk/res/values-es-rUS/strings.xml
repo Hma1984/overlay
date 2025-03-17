@@ -256,7 +256,7 @@ Active esta función y toque el botón Accesibilidad en la parte inferior de la 
     <string name="accessibility_screen_magnification_navbar_short_summary">Presiona un botón para ampliar</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Cuando la ampliación esté activada, podrás acercar el contenido en pantalla.
 
-\""<b>Para usar el zoom</b>\", inicia la ampliación y, luego, presiona cualquier parte de la pantalla. \"<ul><li>Arrastra 2 o más dedos para desplazarte.</li>\" \"<li>Pellizca con 2 o más dedos para ajustar el zoom.</li></ul>\" \"<b>Para hacer zoom de manera temporal</b>\", inicia la ampliación y, luego, mantén presionada cualquier parte de la pantalla. \"<ul><li>Arrastra el dedo para moverte por la pantalla.</li>\" \"<li>Levanta el dedo para alejar el contenido.</li></ul>\" No puedes acercar con el teclado ni en la barra de navegación.</string>
+\""<b>Para usar el zoom</b>\", inicia la ampliación y, luego, presiona cualquier parte de la pantalla. \"<li><ul>Arrastra 2 o más dedos para desplazarte.\" \"<li>Pellizca con 2 o más dedos para ajustar el zoom.</li></ul></li>\" \"<b>Para hacer zoom de manera temporal</b>\", inicia la ampliación y, luego, mantén presionada cualquier parte de la pantalla. \"<li><ul>Arrastra el dedo para moverte por la pantalla.\" \"<li>Levanta el dedo para alejar el contenido.</li></ul></li>\" No puedes acercar con el teclado ni en la barra de navegación.</string>
     <string name="accessibility_screen_magnification_navbar_title">Ampliar con gesto</string>
     <string name="accessibility_screen_magnification_short_summary">Presiona tres veces para ampliar</string>
     <string name="accessibility_screen_magnification_shortcut_title">Atajo de aumento</string>
@@ -3654,8 +3654,8 @@ Para obtener más información, comuníquese con su proveedor de crédito."</str
     <string name="fold_rule_default">Recomendado</string>
     <string name="fold_rule_unimportant">No relevante</string>
     <string name="fold_screen_application_adaptation_title">Diseños personalizados para dispositivos plegables</string>
-    <string name="fold_screen_settings_title">Funciones para dispositivos plegables</string>
-    <string name="fold_screen_special_function_title">Funciones para dispositivos plegables</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Reglas para notificaciones en grupo</string>
     <string name="font_cta_alert_btn_negative">Cancelar</string>
     <string name="font_cta_alert_btn_positive">Aceptar</string>

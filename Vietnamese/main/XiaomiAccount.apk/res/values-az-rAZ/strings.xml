@@ -583,7 +583,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="passport_privacy_policy">Gizlilik Siyasəti</string>
     <string name="passport_privacy_policy_required">Gizlilik Siyasəti (məcburi)</string>
     <string name="passport_provision_input_email_register_prompt">Şəxsi məlumatlarınız seçdiyiniz bölgə qanunlarına və qaydalarına uyğun olaraq saxlanacaqdır.</string>
-    <string name="passport_provision_password_req_notice">Aşağıdakılardan ən azı %3$d dənəsi ilə %1$d-%2$d simvol: hərf, rəqəm, xüsusi simvollar</string>
+    <string name="passport_provision_password_req_notice">Aşağıdakılardan ən azı <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dənəsi ilə <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> simvol: hərf, rəqəm, xüsusi simvollar</string>
     <string name="passport_qq_login_btn_content_description">QQ ilə daxil olun</string>
     <string name="passport_querying_phone_info">Hesab məlumatı tələb edilir…</string>
     <string name="passport_quick_login">Daxil ol</string>

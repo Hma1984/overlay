@@ -256,7 +256,7 @@ Bu özəlliyi açın və menyunu açmaq üçün ekranınızın aşağısındakı
     <string name="accessibility_screen_magnification_navbar_short_summary">Yaxınlaşdırmaq üçün bir düyməyə toxunun</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Böyütmə işə düşəndə, ekranınızda yaxınlaşdıra bilərsiniz.
 
-\""<b>Yaxınlaşdırmaq üçün</b>\", böyütməni başladın, daha sonra ekranında istənilən yerə toxunun. \"<ul><li>Sürüşdürmək üçün 2 və ya daha çox barmaqla sürükləyin</li>\" \"<li>Yaxınlaşdırmanı ayarlamaq üçün 2 və ya daha çox barmaqla çimdikləyin</li></ul>\" \"<b>Müvəqqəti yaxınlaşdırmaq üçün</b>\", böyütməni başladın, daha sonra ekranında istənilən yerə toxunun. \"<ul><li>Ekranda hərəkət etmək üçün sürükləyin</li>\" \"<li>Uzaqlaşdırmaq üçün barmağınızı götürün</li></ul>\" Klaviaturada və ya naviqasiya çubuğunda yaxınlaşdıra bilməzsiniz.</string>
+\""<b>Yaxınlaşdırmaq üçün</b>\", böyütməni başladın, daha sonra ekranında istənilən yerə toxunun. \"<li><ul>Sürüşdürmək üçün 2 və ya daha çox barmaqla sürükləyin\" \"<li>Yaxınlaşdırmanı ayarlamaq üçün 2 və ya daha çox barmaqla çimdikləyin</li></ul></li>\" \"<b>Müvəqqəti yaxınlaşdırmaq üçün</b>\", böyütməni başladın, daha sonra ekranında istənilən yerə toxunun. \"<li><ul>Ekranda hərəkət etmək üçün sürükləyin\" \"<li>Uzaqlaşdırmaq üçün barmağınızı götürün</li></ul></li>\" Klaviaturada və ya naviqasiya çubuğunda yaxınlaşdıra bilməzsiniz.</string>
     <string name="accessibility_screen_magnification_navbar_title">Qısayolla böyütmə</string>
     <string name="accessibility_screen_magnification_short_summary">Yaxınlaşdırmaq üçün 3 dəfə toxunun</string>
     <string name="accessibility_screen_magnification_shortcut_title">Böyüdücü qısayolu</string>
@@ -3662,8 +3662,8 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="fold_rule_default">Tövsiyə edilən</string>
     <string name="fold_rule_unimportant">Vacib olmayan</string>
     <string name="fold_screen_application_adaptation_title">Qatlana bilən cihazlar üçün özəl düzümlər</string>
-    <string name="fold_screen_settings_title">Qatlana bilən cihazlar üçün özəlliklər</string>
-    <string name="fold_screen_special_function_title">Qatlana bilən cihazlar üçün özəlliklər</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Qruplaşdırılmış bildirişlər üçün qaydalar</string>
     <string name="font_cta_alert_btn_negative">İmtina</string>
     <string name="font_cta_alert_btn_positive">Razıyam</string>

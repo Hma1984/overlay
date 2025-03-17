@@ -506,7 +506,7 @@ Sa võid kohe sisse logida oma Xiaomi kontole, kasutades %s."</string>
     <string name="passport_privacy_policy">Privaatsuspoliitika</string>
     <string name="passport_privacy_policy_required">Privaatsuspoliitika (kohustuslik)</string>
     <string name="passport_provision_input_email_register_prompt">Sinu isiklikud andmed salvestatakse vastavalt valitud piirkonna seadustele ja eeskirjadele.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d tähemärki, vähemalt %3$d järgmistest tüüpidest: tähed, numbrid, erimärgid</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> tähemärki, vähemalt <xliff id="min_pwd_type" refersto="2">%3$d</xliff> järgmistest tüüpidest: tähed, numbrid, erimärgid</string>
     <string name="passport_qq_login_btn_content_description">Logi sisse QQ-ga</string>
     <string name="passport_querying_phone_info">Kontoinfo päring…</string>
     <string name="passport_quick_login">Logi sisse</string>

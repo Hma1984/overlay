@@ -264,12 +264,12 @@ A menü megnyitásához kapcsolja be ezt a funkciót, és koppintson a képerny�
     <string name="accessibility_screen_magnification_navbar_summary">"Ha be van kapcsolva a nagyítás funkció, ránagyíthat a képernyő tartalmára.
 
 A "<b>nagyításhoz</b>", indítsa el a funkciót, majd koppintson a kívánt területre a képernyőn.
-"<ul><li>Görgetéshez húzza legalább két ujját a képernyőn.</li>"
-"<li>A nagyítás mértékét két vagy több ujjának össze- vagy széthúzásával módosíthatja.</li></ul>"
+"<li><ul>"Görgetéshez húzza legalább két ujját a képernyőn.
+"<li>A nagyítás mértékét két vagy több ujjának össze- vagy széthúzásával módosíthatja.</li></ul></li>"
 
 "<b>Ideiglenes nagyításhoz</b>" indítsa el a funkciót, majd tartsa lenyomva a kívánt területet a képernyőn.
-"<ul><li>Ujját lenyomva tartva mozoghat a képernyőn.</li>"
-"<li>A méret visszaállításához emelje fel ujját a képernyőről.</li></ul>"
+"<li><ul>"Ujját lenyomva tartva mozoghat a képernyőn.
+"<li>A méret visszaállításához emelje fel ujját a képernyőről.</li></ul></li>"
 
 A billentyűzeten és a navigációs sávon nem lehetséges a nagyítás."</string>
     <string name="accessibility_screen_magnification_navbar_title">Nagyítás gyorsparanccsal</string>
@@ -1074,7 +1074,7 @@ A biztonsági mentések a Xiaomi Cloudban vannak tárolva és vezeték nélkül 
     <string name="battery_details_title">Alkalmazás akkuhasználata</string>
     <string name="battery_footer_summary">A fennmaradó akkumulátor-élettartam becsült érték, a használattól függően módosulhat</string>
     <string name="battery_full_charge_last">A legmagasabb töltöttségi szinttel körülbelül ennyit bír:</string>
-    <string name="battery_header_title_alternate">^1<small><font size="20">%</font></small></string>
+    <string name="battery_header_title_alternate">^1<font size="20"><small>%</small></font></string>
     <string name="battery_indicator_style">Akkumulátorkijelzés</string>
     <string name="battery_indicator_title">Akkumulátorkijelzés</string>
     <string name="battery_info_awake_battery">Ébrenléti idő akkumulátoron:</string>
@@ -3541,8 +3541,8 @@ További információért forduljon a hitelezőhöz."</string>
     <string name="fold_rule_default">Ajánlott</string>
     <string name="fold_rule_unimportant">Nem fontos</string>
     <string name="fold_screen_application_adaptation_title">Egyedi elrendezések összecsukható készülékekhez</string>
-    <string name="fold_screen_settings_title">Funkciók összecsukható készülékekhez</string>
-    <string name="fold_screen_special_function_title">Funkciók összecsukható készülékekhez</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">A csoportos értesítések szabályai</string>
     <string name="font_cta_alert_btn_negative">Mégse</string>
     <string name="font_cta_alert_btn_positive">Elfogadom</string>

@@ -208,7 +208,7 @@
     <string name="no_longer_receive">გსურთ ამ მოწყობილობის დაბლოკვა? თქვენ ვერ შეძლებთ მისგან ფაილების მიღებას.</string>
     <string name="noon">შუადღე</string>
     <string name="notification_channel_name">შეტყობინებები გადატანისას</string>
-    <string name="operate_too_fast">\u1cabალიან სწრაფად! დაველოდოთ მიმდინარე ოპერაციების დასრულებამდე.</string>
+    <string name="operate_too_fast">Ძალიან სწრაფად! დაველოდოთ მიმდინარე ოპერაციების დასრულებამდე.</string>
     <string name="pc_device_model_name">კომპიუტერი</string>
     <string name="pc_redmi_device_model_name">Redmi-ს ლეპტოპი</string>
     <string name="pc_xiaomi_device_model_name">Xiaomi-ს ლეპტოპი</string>

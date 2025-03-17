@@ -243,7 +243,7 @@
     <string name="ftp_anonymous_login">ანონიმური ავტორიზაცია</string>
     <string name="ftp_anonymous_warning_msg">ანონიმურობის მახასიათებლებმა შეიძლება საფრთხე შეუქმნას უსაფრთხოებას. გსურთ თვისება მაინც გამოიყენოთ?</string>
     <string name="ftp_anonymous_warning_title">ყურადღება</string>
-    <string name="ftp_invalid_username">მომხმარებლის სახელი არ შეიძლება შეიცავდეს სპეციალურ სიმბოლოებს. \u1ca8ეიყვანეთ სხვა სახელი.</string>
+    <string name="ftp_invalid_username">მომხმარებლის სახელი არ შეიძლება შეიცავდეს სპეციალურ სიმბოლოებს. Შეიყვანეთ სხვა სახელი.</string>
     <string name="ftp_invalid_username_or_password">მომხმარებლის სახელი ან პაროლი არასწორია.</string>
     <string name="ftp_open_port_error">პორტის გახსნა ვერ მოხერხდა. შეამოწმეთ ქსელთან კავშირი ან ხელახლა გადატვირთეთ პორტის ნომერი.</string>
     <string name="ftp_password_hint">პაროლი</string>

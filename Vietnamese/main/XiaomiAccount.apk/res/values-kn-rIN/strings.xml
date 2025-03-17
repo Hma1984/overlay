@@ -509,7 +509,7 @@
     <string name="passport_privacy_policy">ಗೌಪ್ಯತೆ ನೀತಿ</string>
     <string name="passport_privacy_policy_required">ಗೌಪ್ಯತಾ ನೀತಿ (ಕಡ್ಡಾಯ)</string>
     <string name="passport_provision_input_email_register_prompt">ನೀವು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರದೇಶದ ಕಾನೂನುಗಳು ಹಾಗೂ ನಿಬಂಧನೆಗಳ ಆಧಾರದ ಮೇಲೆ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ.</string>
-    <string name="passport_provision_password_req_notice">ಈ ಕೆಳಗಿನ ಪ್ರಕಾರಗಳ %3$dನಲ್ಲಿ ಕನಿಷ್ಠ %1$d-%2$d ಅಕ್ಷರಗಳು: ಅಕ್ಷರಗಳು, ಅಂಕಿಗಳು, ವಿಶೇಷ ಚಿಹ್ನೆಗಳು</string>
+    <string name="passport_provision_password_req_notice">ಈ ಕೆಳಗಿನ ಪ್ರಕಾರಗಳ <xliff id="min_pwd_type" refersto="2">%3$d</xliff>ನಲ್ಲಿ ಕನಿಷ್ಠ <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> ಅಕ್ಷರಗಳು: ಅಕ್ಷರಗಳು, ಅಂಕಿಗಳು, ವಿಶೇಷ ಚಿಹ್ನೆಗಳು</string>
     <string name="passport_qq_login_btn_content_description">QQ ಮೂಲಕ ಸೈನ್‌ ಇನ್‌ ಆಗಿ</string>
     <string name="passport_querying_phone_info">ಖಾತೆ ಮಾಹಿತಿ ಪಡೆದುಕೊಳ್ಳಲಾಗುತ್ತಿದೆ…</string>
     <string name="passport_quick_login">ಸೈನ್‌ ಇನ್‌</string>

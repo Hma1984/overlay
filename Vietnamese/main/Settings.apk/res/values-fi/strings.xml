@@ -266,12 +266,12 @@ Laita tämä ominaisuus päälle ja napauta näytön alareunassa olevaa Esteett�
     <string name="accessibility_screen_magnification_navbar_summary">"Kun suurennus on käytössä, voit suurentaa näytöllä olevia kohteita.
 
 "<b>Zoomaa:</b>" käynnistä suurennus ja napauta sitten haluamaasi kohtaa näytöllä
-"<ul><li>Vieritä: vedä vähintään kahta sormea näytön poikki</li>"
-"<li>Säädä zoomausta: nipistä vähintään kaksi sormea yhteen tai levitä ne erilleen</li></ul>"
+"<li><ul>"Vieritä: vedä vähintään kahta sormea näytön poikki
+"<li>Säädä zoomausta: nipistä vähintään kaksi sormea yhteen tai levitä ne erilleen</li></ul></li>"
 
 "<b>Zoomaa väliaikaisesti:</b>" käynnistä suurennus ja paina pitkään missä tahansa näytöllä
-"<ul><li>Liiku näytöllä: vedä sormea eri suuntiin</li>"
-"<li>Loitonna: nosta sormi</li></ul>"
+"<li><ul>"Liiku näytöllä: vedä sormea eri suuntiin
+"<li>Loitonna: nosta sormi</li></ul></li>"
 
 Suurennus ei toimi näppäimistöllä tai siirtymispalkissa."</string>
     <string name="accessibility_screen_magnification_navbar_title">Suurenna pikanäppäimellä</string>
@@ -3531,8 +3531,8 @@ Pyydä lisätietoja luoton myöntäjältä."</string>
     <string name="fold_rule_default">Suositeltu</string>
     <string name="fold_rule_unimportant">Merkityksetön</string>
     <string name="fold_screen_application_adaptation_title">Mukautetut asettelut taitettaville laitteille</string>
-    <string name="fold_screen_settings_title">Ominaisuudet taitettaville laitteille</string>
-    <string name="fold_screen_special_function_title">Ominaisuudet taitettaville laitteille</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Säännöt ryhmitellyille ilmoituksille</string>
     <string name="font_cta_alert_btn_negative">Peruuta</string>
     <string name="font_cta_alert_btn_positive">Hyväksy</string>

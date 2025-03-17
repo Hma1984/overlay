@@ -146,7 +146,7 @@
     <string name="accessibility_dialog_button_stop">Остановить</string>
     <string name="accessibility_disable_animations">Отключить анимацию</string>
     <string name="accessibility_disable_animations_summary">Уменьшить количество анимации на экране</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<li><ol> Видеть цвета более точно<li> Убрать цвета, чтобы сосредоточиться</li></ol></li></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_display_inversion_preference_intro_text">Инверсия цветов позволяет сделать светлые цвета темными, а темные – светлыми.</string>
     <string name="accessibility_display_inversion_preference_subtitle">Может снизить производительность</string>
@@ -3672,8 +3672,8 @@ ID: %s
     <string name="fold_rule_default">По умолчанию</string>
     <string name="fold_rule_unimportant">Неважные</string>
     <string name="fold_screen_application_adaptation_title">Настройка макетов для складных устройств</string>
-    <string name="fold_screen_settings_title">Функции для складных устройств</string>
-    <string name="fold_screen_special_function_title">Функции для складных устройств</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Правила групповых уведомлений</string>
     <string name="font_cta_alert_btn_negative">Отмена</string>
     <string name="font_cta_alert_btn_positive">Принимаю</string>

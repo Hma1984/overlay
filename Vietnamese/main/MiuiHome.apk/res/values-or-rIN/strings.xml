@@ -122,7 +122,7 @@
     <string name="back">ବ୍ୟାକ୍</string>
     <string name="backup_fail">ଲଞ୍ଚର ବ୍ୟାକଅପ କରାଯାଇପାରିଲା ନାହିଁ</string>
     <string name="branch_feature_description">ଆପ୍ସ ସହିତ, କୁଇକ୍ ଫାଇଣ୍ଡର ଅନଲାଇନ୍ ଇନ-ଆପ୍ କଣ୍ଟେଣ୍ଟ ଏବଂ ଆଇଟମ ପାଇପାରିବେ।</string>
-    <string name="branch_guide_attention">ଉନ୍ନତ ସନ୍ଧାନ ବ୍ୟବହାର କରିବା Branch Metrics Inc ସହିତ ଆପଣଙ୍କ ସନ୍ଧାନ ଅନୁରୋଧ, Google Ads ଏବଂ IP ଠିକଣା ସେଆର୍ କରିବା ଦରକାର କରେ। ଏହି ଫିଚର୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ <font color="#B3000000"><a href="http://url1">ଉପଭୋକ୍ତା ଡିସକଭରୀ ଚୁକ୍ତି ଓ ସର୍ତ୍ତାବଳୀ </a></font> ଏବଂ <font color="#B3000000"><a href="http://url2">ବ୍ରାଞ୍ଚ ଡିସକଭରୀ ଗୋପନୀୟତା ନୀତି</a></font>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
+    <string name="branch_guide_attention">ଉନ୍ନତ ସନ୍ଧାନ ବ୍ୟବହାର କରିବା Branch Metrics Inc ସହିତ ଆପଣଙ୍କ ସନ୍ଧାନ ଅନୁରୋଧ, Google Ads ଏବଂ IP ଠିକଣା ସେଆର୍ କରିବା ଦରକାର କରେ। ଏହି ଫିଚର୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ <a href="http://url1"><font color="#B3000000">ଉପଭୋକ୍ତା ଡିସକଭରୀ ଚୁକ୍ତି ଓ ସର୍ତ୍ତାବଳୀ </font></a> ଏବଂ <a href="http://url2"><font color="#B3000000">ବ୍ରାଞ୍ଚ ଡିସକଭରୀ ଗୋପନୀୟତା ନୀତି</font></a>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
     <string name="branch_guide_description_one">ଆମେ ଆପଣଙ୍କ ସମସ୍ତ ଆପ୍ସକୁ ଆପ୍ ଡ୍ରୟରରେ ରଖିବୁ। ଆପଣଙ୍କ ହୋମ ସ୍କ୍ରିନ୍ ସଫା ଏବଂ ବ୍ୟବସ୍ଥିତ ଦେଖାଯିବ।</string>
     <string name="branch_guide_description_three">ସେଥିରେ ରହିଛି ସନ୍ଧାନ ସୁବିଧା, ଆପଣ ଯାହା ଚାହାଁନ୍ତି ତାହା ଶୀଘ୍ର ପାଇବାକୁ ସମର୍ଥ ହେବେ!</string>
     <string name="branch_guide_description_two">ଆପ୍ ଡ୍ରୟର ସ୍ୱତଃ ଆପ୍ସ ବର୍ଗୀକୃତ କରେ।</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">ନୂତନ ଫିଚର୍</string>
     <string name="branch_privacy_policy">ଗୋପନୀୟତା ନୀତି</string>
     <string name="branch_search_guide_description">ଆମର ସନ୍ଧାନ ଫଳାଫଳ ଏବେ ଅଧିକ ବିସ୍ତୃତ ହୋଇଛି</string>
-    <string name="branch_search_guide_privacy">ସେବାଟି Branch Metrics Inc ଦ୍ୱାରା ସଂଚାଳିତ। ଆପଣଙ୍କ ସ୍ଥାନ ସୂଚନା, ସନ୍ଧାନ ପ୍ରଶ୍ନ, ଏବଂ Google Ads ID, Branch ସହିତ ସେଆର୍ କରାଯିବ। ଏହି ସେବା ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ ଆପଣ Branchର <font color="#B3000000"><a href="http://url1">ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ</a></font> ଏବଂ <font color="#B3000000"><a href="http://url2">ଗୋପନୀୟତା ନୀତି</a></font>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
+    <string name="branch_search_guide_privacy">ସେବାଟି Branch Metrics Inc ଦ୍ୱାରା ସଂଚାଳିତ। ଆପଣଙ୍କ ସ୍ଥାନ ସୂଚନା, ସନ୍ଧାନ ପ୍ରଶ୍ନ, ଏବଂ Google Ads ID, Branch ସହିତ ସେଆର୍ କରାଯିବ। ଏହି ସେବା ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ ଆପଣ Branchର <a href="http://url1"><font color="#B3000000">ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ</font></a> ଏବଂ <a href="http://url2"><font color="#B3000000">ଗୋପନୀୟତା ନୀତି</font></a>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
     <string name="branch_search_guide_title">ଆପଣଙ୍କ ପସନ୍ଦର ଆପ୍ସରେ ଆପଣ ଯାହା ଚାହୁଁଛନ୍ତି ତାହା ଖୋଜନ୍ତୁ</string>
     <string name="branch_terms_condition">ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ</string>
     <string name="branch_tip_title">କୁଇକ୍ ଫାଇଣ୍ଡରରେ ଆପଣଙ୍କୁ ଯାହା ଦରକାର ଶୀଘ୍ର ପାଇପାରିବେ।</string>
@@ -552,7 +552,7 @@
     <string name="select_all">ସମସ୍ତ ଚୟନ କରନ୍ତୁ</string>
     <string name="send">ପଠାନ୍ତୁ</string>
     <string name="server_error">ଏକ ସର୍ଭର ତ୍ରୁଟି ଘଟିଛି। ଗୋଟିଏ ବା ଦୁଇ ମିନିଟ ଅପେକ୍ଷା କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
-    <string name="service_double_attention">ଉନ୍ନତ ସନ୍ଧାନ କାର୍ଯ୍ୟଦକ୍ଷତା Branch Metrics Inc ଦ୍ୱାରା ଦିଆଯାଏ। ଏହି ଫିଚର ଆପଣଙ୍କ ପାଇଁ କାମ କରିବାକୁ ଆମେ Branch Metrics Inc ସହିତ ଆପଣଙ୍କ ସନ୍ଧାନ ଅନୁରୋଧ, Google Ads ଏବଂ IP ଠିକଣା ସେଆର୍ କରିବା ଦରକାର କରୁ। ଏହି ଫିଚର୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ <font color="#B3000000"><a href="http://url1">ଉପଭୋକ୍ତା ଡିସକଭରୀ ଚୁକ୍ତି ଓ ସର୍ତ୍ତାବଳୀ </a></font> ଏବଂ <font color="#B3000000"><a href="http://url2">ବ୍ରାଞ୍ଚ ଡିସକଭରୀ ଗୋପନୀୟତା ନୀତି</a></font>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
+    <string name="service_double_attention">ଉନ୍ନତ ସନ୍ଧାନ କାର୍ଯ୍ୟଦକ୍ଷତା Branch Metrics Inc ଦ୍ୱାରା ଦିଆଯାଏ। ଏହି ଫିଚର ଆପଣଙ୍କ ପାଇଁ କାମ କରିବାକୁ ଆମେ Branch Metrics Inc ସହିତ ଆପଣଙ୍କ ସନ୍ଧାନ ଅନୁରୋଧ, Google Ads ଏବଂ IP ଠିକଣା ସେଆର୍ କରିବା ଦରକାର କରୁ। ଏହି ଫିଚର୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ <a href="http://url1"><font color="#B3000000">ଉପଭୋକ୍ତା ଡିସକଭରୀ ଚୁକ୍ତି ଓ ସର୍ତ୍ତାବଳୀ </font></a> ଏବଂ <a href="http://url2"><font color="#B3000000">ବ୍ରାଞ୍ଚ ଡିସକଭରୀ ଗୋପନୀୟତା ନୀତି</font></a>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
     <string name="setting_close">ବନ୍ଦ</string>
     <string name="setting_no_word">ଯେ କୌଣସି ସ୍ଥାନରେ</string>
     <string name="setting_only_widget_no_word">ୱିଜେଟରେ</string>
@@ -596,9 +596,9 @@
     <string name="system_text">ସ୍ୱତଃ</string>
     <string name="task_access_locked_app_msg">ଆପ୍‌ ଲକ୍ ଚାଲୁ ହୋଇଛି</string>
     <string name="term_of_service">ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ</string>
-    <string name="terms_of_services_one">ଆପ୍ ଡ୍ରୟର ଏବଂ କୁଇକ୍ ଫାଇଣ୍ଡରକୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ। କୁଇକ୍ ଫାଇଣ୍ଡର୍ ଆପଣଙ୍କୁ ଆପ୍ସ, ଇନ୍-ଆପ୍ କଣ୍ଟେଣ୍ଟ ଏବଂ ଆଇଟମଗୁଡ଼ିକୁ ଅନଲାଇନ୍ ଶୀଘ୍ର ଖୋଜିବାକୁ ଆପଣଙ୍କୁ ସକ୍ଷମ କରିଥାଏ। ଏଇ ଫିଚରଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ Xiaomiର <font color="#B3000000"><a href="http://url1">ଗୋପନୀୟତା ନୀତି</a></font>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
+    <string name="terms_of_services_one">ଆପ୍ ଡ୍ରୟର ଏବଂ କୁଇକ୍ ଫାଇଣ୍ଡରକୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ। କୁଇକ୍ ଫାଇଣ୍ଡର୍ ଆପଣଙ୍କୁ ଆପ୍ସ, ଇନ୍-ଆପ୍ କଣ୍ଟେଣ୍ଟ ଏବଂ ଆଇଟମଗୁଡ଼ିକୁ ଅନଲାଇନ୍ ଶୀଘ୍ର ଖୋଜିବାକୁ ଆପଣଙ୍କୁ ସକ୍ଷମ କରିଥାଏ। ଏଇ ଫିଚରଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ Xiaomiର <a href="http://url1"><font color="#B3000000">ଗୋପନୀୟତା ନୀତି</font></a>ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
     <string name="terms_of_services_three">ଆପଣ ସେଟିଂସ୍‌ରେ ଏହି ଫିଚର ବନ୍ଦ କରିପାରିବେ।</string>
-    <string name="terms_of_services_two">ଉନ୍ନତ ସନ୍ଧାନ ବ୍ୟବହାର କରିବା ଆପଣଙ୍କ ସନ୍ଧାନ ପ୍ରଶ୍ନ, Google ବିଜ୍ଞାପନ ID ଏବଂ IP ଠିକଣା, Branch Metrics Inc ସମେତ ଆବଶ୍ୟକ ବ୍ୟକ୍ତିଗତ ସୂଚନା ସେଆର କରିବା ଆବଶ୍ୟକ କରେ। Branch ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ସୂଚନାକୁ <font color="#B3000000"><a href="http://url1">Branch Discovery ଗୋପନୀୟତା ନୀତି</a></font> ଅନୁସାରେ ପ୍ରୋସେସ୍ କରିବ। ଏଇ ଫିଚର୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ<font color="#B3000000"><a href="http://url2">End User Discovery ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ</a></font> ଏବଂ <font color="#B3000000"><a href="http://url3">Branch Discovery ଗୋପନୀୟତା ନୀତି</a></font> ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
+    <string name="terms_of_services_two">ଉନ୍ନତ ସନ୍ଧାନ ବ୍ୟବହାର କରିବା ଆପଣଙ୍କ ସନ୍ଧାନ ପ୍ରଶ୍ନ, Google ବିଜ୍ଞାପନ ID ଏବଂ IP ଠିକଣା, Branch Metrics Inc ସମେତ ଆବଶ୍ୟକ ବ୍ୟକ୍ତିଗତ ସୂଚନା ସେଆର କରିବା ଆବଶ୍ୟକ କରେ। Branch ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ସୂଚନାକୁ <a href="http://url1"><font color="#B3000000">Branch Discovery ଗୋପନୀୟତା ନୀତି</font></a> ଅନୁସାରେ ପ୍ରୋସେସ୍ କରିବ। ଏଇ ଫିଚର୍ ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ<a href="http://url2"><font color="#B3000000">End User Discovery ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ</font></a> ଏବଂ <a href="http://url3"><font color="#B3000000">Branch Discovery ଗୋପନୀୟତା ନୀତି</font></a> ପଢ଼ି ସହମତ ହୁଅନ୍ତୁ।</string>
     <string name="thursday">ଗୁରୁବାର</string>
     <string name="thursday_short">ଗୁରୁ</string>
     <string name="thursday_shortest">ଗୁରୁ</string>

@@ -121,7 +121,7 @@
     <string name="back">Kembali</string>
     <string name="backup_fail">Tidak dapat menyandar pelancar</string>
     <string name="branch_feature_description">Selain apl, Quick Finder juga boleh mencari kandungan dan item dalam apl atas talian.</string>
-    <string name="branch_guide_attention">Menggunakan carian yang dipertingkatkan memerlukan berkongsi permintaan carian anda, ID Google Ads, dan alamat IP dengan Branch Metrics Inc. Baca dan bersetuju dengan <font color="#B3000000"><a href="http://url1">Terma &amp; Syarat End User Discovery</a></font> dan <font color="#B3000000"><a href="http://url2"> Dasar Privasi Branch Discovery </a></font> sebelum menggunakan ciri ini.</string>
+    <string name="branch_guide_attention">Menggunakan carian yang dipertingkatkan memerlukan berkongsi permintaan carian anda, ID Google Ads, dan alamat IP dengan Branch Metrics Inc. Baca dan bersetuju dengan <a href="http://url1"><font color="#B3000000">Terma &amp; Syarat End User Discovery</font></a> dan <a href="http://url2"><font color="#B3000000"> Dasar Privasi Branch Discovery </font></a> sebelum menggunakan ciri ini.</string>
     <string name="branch_guide_description_one">Kami akan memasukkan semua apl anda ke dalam Apl menu. Skrin Utama anda akan kelihatan kemas dan teratur.</string>
     <string name="branch_guide_description_three">Dengan carian terbina dalam, anda akan dapat mencari apa sahaja yang anda perlukan dalam sekelip mata!</string>
     <string name="branch_guide_description_two">Apl menu mengkategorikan apl secara automatik.</string>
@@ -136,7 +136,7 @@
     <string name="branch_new_feature">Ciri baru</string>
     <string name="branch_privacy_policy">Dasar Privasi</string>
     <string name="branch_search_guide_description">Hasil carian kami lebih komprehensif sekarang</string>
-    <string name="branch_search_guide_privacy">Perkhidmatan ini dikuasakan oleh Branch Metrics Inc. Maklumat lokasi anda, pertanyaan carian, dan ID Google Ads akan dikongsi dengan Branch. Baca dan setuju untuk dengan <font color="#B3000000"><a href="http://url1">Terma dan Syarat</a></font> dan <font color="#B3000000"><a href="http://url2">Dasar Privasi</a></font> sebelum menggunakan perkhidmatan ini.</string>
+    <string name="branch_search_guide_privacy">Perkhidmatan ini dikuasakan oleh Branch Metrics Inc. Maklumat lokasi anda, pertanyaan carian, dan ID Google Ads akan dikongsi dengan Branch. Baca dan setuju untuk dengan <a href="http://url1"><font color="#B3000000">Terma dan Syarat</font></a> dan <a href="http://url2"><font color="#B3000000">Dasar Privasi</font></a> sebelum menggunakan perkhidmatan ini.</string>
     <string name="branch_search_guide_title">Cari apa yang anda cari dalam apl kegemaran anda</string>
     <string name="branch_terms_condition">Terma dan Syarat</string>
     <string name="branch_tip_title">Dengan Quick Finders, anda dapat mencari semua yang anda perlukan dalam sekelip mata.</string>
@@ -525,7 +525,7 @@ Keselamatan yang dipertingkatkan."</string>
     <string name="select_all">Pilih semua</string>
     <string name="send">Hantar</string>
     <string name="server_error">Ralat server berlaku. Tunggu sebentar dan cuba lagi.</string>
-    <string name="service_double_attention">Fungsi carian yang dipertingkatkan disediakan oleh Branch Metrics Inc. Untuk menjadikan ciri ini berfungsi, kami perlu berkongsi permintaan carian anda, ID Google Ads, dan alamat IP dengan Branch Metrics Inc. Baca dan bersetuju dengan <font color="#B3000000"><a href="http://url1">Terma &amp; Syarat End User Discovery</a></font> dan <font color="#B3000000"><a href="http://url2"> Dasar Privasi Branch Discovery </a></font> sebelum menggunakan ciri ini.</string>
+    <string name="service_double_attention">Fungsi carian yang dipertingkatkan disediakan oleh Branch Metrics Inc. Untuk menjadikan ciri ini berfungsi, kami perlu berkongsi permintaan carian anda, ID Google Ads, dan alamat IP dengan Branch Metrics Inc. Baca dan bersetuju dengan <a href="http://url1"><font color="#B3000000">Terma &amp; Syarat End User Discovery</font></a> dan <a href="http://url2"><font color="#B3000000"> Dasar Privasi Branch Discovery </font></a> sebelum menggunakan ciri ini.</string>
     <string name="setting_close">Mati</string>
     <string name="setting_no_word">Di mana sahaja</string>
     <string name="setting_only_widget_no_word">Pada widget</string>
@@ -566,9 +566,9 @@ Keselamatan yang dipertingkatkan."</string>
     <string name="system_shortcuts_remove">Padam</string>
     <string name="task_access_locked_app_msg">Apl Kunci diaktifkan</string>
     <string name="term_of_service">Terma dan syarat</string>
-    <string name="terms_of_services_one">Selamat datang ke Apl Menu dan Pencari Pantas. Pencari Pantas membolehkan anda mencari apl, kandungan dalam apl, dan item dalam talian dengan lebih pantas. Baca dan bersetuju dengan <font color="#B3000000"><a href="http://url1">Dasar Privasi</a></font> Xiaomi sebelum menggunakan ciri ini.</string>
+    <string name="terms_of_services_one">Selamat datang ke Apl Menu dan Pencari Pantas. Pencari Pantas membolehkan anda mencari apl, kandungan dalam apl, dan item dalam talian dengan lebih pantas. Baca dan bersetuju dengan <a href="http://url1"><font color="#B3000000">Dasar Privasi</font></a> Xiaomi sebelum menggunakan ciri ini.</string>
     <string name="terms_of_services_three">Anda boleh mematikan ciri ini di Tetapan.</string>
-    <string name="terms_of_services_two">Menggunakan carian yang dipertingkatkan memerlukan perkongsian maklumat peribadi yang diperlukan, termasuk pertanyaan carian anda, ID Iklan Google, dan alamat IP, dengan Branch Metrics Inc. Branch akan memproses maklumat peribadi anda sesuai dengan <font color="#B3000000"><a href="http://url1">Dasar Privasi Branch Discovery</a></font>. Baca dan bersetuju dengan <font color="#B3000000"><a href="http://url2"> Terma &amp; Syarat Pengguna Akhir Discovery</a></font> dan <font color="#B3000000"><a href="http://url3">Dasar Privasi Branch Discovery</a></font> sebelum menggunakan ciri ini.</string>
+    <string name="terms_of_services_two">Menggunakan carian yang dipertingkatkan memerlukan perkongsian maklumat peribadi yang diperlukan, termasuk pertanyaan carian anda, ID Iklan Google, dan alamat IP, dengan Branch Metrics Inc. Branch akan memproses maklumat peribadi anda sesuai dengan <a href="http://url1"><font color="#B3000000">Dasar Privasi Branch Discovery</font></a>. Baca dan bersetuju dengan <a href="http://url2"><font color="#B3000000"> Terma &amp; Syarat Pengguna Akhir Discovery</font></a> dan <a href="http://url3"><font color="#B3000000">Dasar Privasi Branch Discovery</font></a> sebelum menggunakan ciri ini.</string>
     <string name="thursday">Khamis</string>
     <string name="thursday_short">Kha</string>
     <string name="thursday_shortest">Kha</string>

@@ -121,7 +121,7 @@
     <string name="back">​ກັບ​ຄືນ</string>
     <string name="backup_fail">ບໍ່ສາມາດສຳຮອງຂໍ້ມູນຕົວເປີດໃຊ້ໄດ້</string>
     <string name="branch_feature_description">ນອກຈາກແອັບແລ້ວ, Quick Finder ຍັງສາມາດຄົ້ນຫາເນື້ອຫາພາຍໃນແອັບແລະລາຍການອອນໄລນ໌.</string>
-    <string name="branch_guide_attention">ການໃຊ້ການຄົ້ນຫາຂັ້ນສູງຈຳເປັນຕ້ອງແຊຣ໌ຄຳຂໍການຄົ້ນຫາ, ລະຫັດ ID ໂຄສະນາ Google ແລະທີ່ຢູ່ IP ກັບ Branch Metrics Inc. ອ່ານແລະເຫັນດີກັບ <font color="#B3000000"><a href="http://url1">ຂໍ້ກຳນົດແລະເງື່ອນໄຂການຄົ້ນຫາຜູ້ໃຊ້ປາຍທາງ</a></font> ແລະ <font color="#B3000000"><a href="http://url2">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວໃນການຄົ້ນຫາ Branch</a></font> ກ່ອນນຳໃຊ້ຄຸນສົມບັດນີ້.</string>
+    <string name="branch_guide_attention">ການໃຊ້ການຄົ້ນຫາຂັ້ນສູງຈຳເປັນຕ້ອງແຊຣ໌ຄຳຂໍການຄົ້ນຫາ, ລະຫັດ ID ໂຄສະນາ Google ແລະທີ່ຢູ່ IP ກັບ Branch Metrics Inc. ອ່ານແລະເຫັນດີກັບ <a href="http://url1"><font color="#B3000000">ຂໍ້ກຳນົດແລະເງື່ອນໄຂການຄົ້ນຫາຜູ້ໃຊ້ປາຍທາງ</font></a> ແລະ <a href="http://url2"><font color="#B3000000">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວໃນການຄົ້ນຫາ Branch</font></a> ກ່ອນນຳໃຊ້ຄຸນສົມບັດນີ້.</string>
     <string name="branch_guide_description_one">ເຮົາຈະໃສ່ແອັບທັງໝົດຂອງທ່ານໃນລິ້ນຊັກແອັບ. ໜ້າຈໍຫຼັກຂອງທ່ານຈະເບິ່ງຮຽບຮ້ອຍແລະເປັນລະບຽບ.</string>
     <string name="branch_guide_description_three">ດ້ວຍການຄົ້ນຫາໃນຕົວ, ທ່ານສາມາດຄົ້ນຫາສິ່ງທີ່ທ່ານຕ້ອງການໄດ້ໃນພິບຕາ!</string>
     <string name="branch_guide_description_two">ລິ້ນຊັກແອັັບຈະຈັດໝວດໝູ່ແອັບໂດຍອັດຕະໂນມັດ.</string>
@@ -136,7 +136,7 @@
     <string name="branch_new_feature">ຄຸນສົມບັດໃໝ່</string>
     <string name="branch_privacy_policy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
     <string name="branch_search_guide_description">ຜົນການຄົ້ນຫາຂອງພວກເຮົາສົມບູນກວ່າເກົ່າໃນຕອນນີ້</string>
-    <string name="branch_search_guide_privacy">ບໍລິການນີ້ສະໜັບສະໜູນໂດຍ Branch Metrics Inc. ຂໍ້ມູນຕຳແໜ່ງທີ່ຕັ້ງຂອງທ່ານ, ຄຳຄົ້ນຫາແລະລະຫັດໂຄສະນາ Google ຈະຖືກແຊຣ໌ໃຫ້ Branch. ອ່ານແລະເຫັນດີກັບ <font color="#B3000000"><a href="http://url1">ຂໍ້ກຳນົດແລະເງື່ອນ​ໄຂ</a></font> ແລະ <font color="#B3000000"><a href="http://url2">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a></font> ຂອງ Branch ກ່ອນນຳໃຊ້ບໍລິການນີ້.</string>
+    <string name="branch_search_guide_privacy">ບໍລິການນີ້ສະໜັບສະໜູນໂດຍ Branch Metrics Inc. ຂໍ້ມູນຕຳແໜ່ງທີ່ຕັ້ງຂອງທ່ານ, ຄຳຄົ້ນຫາແລະລະຫັດໂຄສະນາ Google ຈະຖືກແຊຣ໌ໃຫ້ Branch. ອ່ານແລະເຫັນດີກັບ <a href="http://url1"><font color="#B3000000">ຂໍ້ກຳນົດແລະເງື່ອນ​ໄຂ</font></a> ແລະ <a href="http://url2"><font color="#B3000000">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</font></a> ຂອງ Branch ກ່ອນນຳໃຊ້ບໍລິການນີ້.</string>
     <string name="branch_search_guide_title">ຄົ້ນຫາສິ່ງທີ່ທ່ານຕ້ອງການໃນແອັບທີ່ມັກຂອງທ່ານ</string>
     <string name="branch_terms_condition">​ຂໍ້​ກຳ​ນົດແລະເງື່ອນ​ໄຂ</string>
     <string name="branch_tip_title">ດ້ວຍ Quick Finder ທ່ານສາມາດຄົ້ນຫາທຸກສິ່ງທຸກຢ່າງໄດ້ໃນພິບຕາ.</string>
@@ -544,7 +544,7 @@
     <string name="select_all">​ເລືອກ​ທັງ​ໝົດ</string>
     <string name="send">​ສົ່ງ</string>
     <string name="server_error">ເຊີບເວີເກີດຂໍ້ຜິດພາດ. ລໍຖ້າໜຶ່ງຫຼືສອງນາທີແລະລອງອີກຄັ້ງ.</string>
-    <string name="service_double_attention">ຟັງຊັ່ນການຄົ້ນຫາຂັ້ນສູງແມ່ນສະໜອງໂດຍ Branch Metrics Inc. ເພື່ອໃຊ້ງານຄຸນສົມບັດນີ້, ພວກເຮົາຕ້ອງແຊຣ໌ຄຳຂໍການຄົ້ນຫາ, ລະຫັດ ID ໂຄສະນາ Google ແລະທີ່ຢູ່ IP ກັບ Branch Metrics Inc. ອ່ານແລະເຫັນດີກັບ <font color="#B3000000"><a href="http://url1">ຂໍ້ກຳນົດແລະເງື່ອນໄຂການຄົ້ນຫາຜູ້ໃຊ້ປາຍທາງ</a></font> ແລະ <font color="#B3000000"><a href="http://url2">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວໃນການຄົ້ນຫາ Branch</a></font> ກ່ອນນຳໃຊ້ຄຸນສົມບັດນີ້.</string>
+    <string name="service_double_attention">ຟັງຊັ່ນການຄົ້ນຫາຂັ້ນສູງແມ່ນສະໜອງໂດຍ Branch Metrics Inc. ເພື່ອໃຊ້ງານຄຸນສົມບັດນີ້, ພວກເຮົາຕ້ອງແຊຣ໌ຄຳຂໍການຄົ້ນຫາ, ລະຫັດ ID ໂຄສະນາ Google ແລະທີ່ຢູ່ IP ກັບ Branch Metrics Inc. ອ່ານແລະເຫັນດີກັບ <a href="http://url1"><font color="#B3000000">ຂໍ້ກຳນົດແລະເງື່ອນໄຂການຄົ້ນຫາຜູ້ໃຊ້ປາຍທາງ</font></a> ແລະ <a href="http://url2"><font color="#B3000000">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວໃນການຄົ້ນຫາ Branch</font></a> ກ່ອນນຳໃຊ້ຄຸນສົມບັດນີ້.</string>
     <string name="setting_close">​ປິດ</string>
     <string name="setting_no_word">ທຸກບ່ອນ</string>
     <string name="setting_only_widget_no_word">ເທິງ widgets</string>
@@ -587,9 +587,9 @@
     <string name="system_text">ອັດຕະໂນມັດ</string>
     <string name="task_access_locked_app_msg">ເປີດແອັບລັອກແລ້ວ</string>
     <string name="term_of_service">ຂໍ້ກຳນົດແລະເງື່ອນ​ໄຂ</string>
-    <string name="terms_of_services_one">ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ສູ່ລີ້ນຊັກແອັບແລະ Quick Finder. Quick Finder ຊ່ວຍໃຫ້ທ່ານຄົ້ນຫາແອັບ, ເນື້ອຫາໃນແອັບແລະລາຍການອອນໄລນ໌ໄດ້ໄວຂຶ້ນ. ອ່ານແລະຕົກລົງເຫັນດີກັບ <font color="#B3000000"><a href="http://url1">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a></font> ຂອງ Xiaomi ກ່ອນນຳໃຊ້ຄຸນສົມບັດເຫຼົ່ານີ້.</string>
+    <string name="terms_of_services_one">ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ສູ່ລີ້ນຊັກແອັບແລະ Quick Finder. Quick Finder ຊ່ວຍໃຫ້ທ່ານຄົ້ນຫາແອັບ, ເນື້ອຫາໃນແອັບແລະລາຍການອອນໄລນ໌ໄດ້ໄວຂຶ້ນ. ອ່ານແລະຕົກລົງເຫັນດີກັບ <a href="http://url1"><font color="#B3000000">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</font></a> ຂອງ Xiaomi ກ່ອນນຳໃຊ້ຄຸນສົມບັດເຫຼົ່ານີ້.</string>
     <string name="terms_of_services_three">ທ່ານສາມາດປິດຄຸນສົມບັດນີ້ໄດ້ໃນການຕັ້ງຄ່າ.</string>
-    <string name="terms_of_services_two">ການໃຊ້ການຄົ້ນຫາຂັ້ນສູງຈຳເປັນຕ້ອງແຊຣ໌ຂໍ້ມູນສ່ວນຕົວທີ່ຈຳເປັນ, ລວມທັງຄຳຄົ້ນຫາຂອງທ່ານ, ID ໂຄສະນາ Google ແລະທີ່ຢູ່ IP ກັບ Branch Metrics Inc. Branch ຈະປະມວນຜົນຂໍ້ມູນສ່ວນຕົວຂອງທ່ານໃຫ້ສອດຄ່ອງກັບ <font color="#B3000000"><a href="http://url1">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Branch Discovery</a></font>. ອ່ານແລະເຫັນດີກັບ <font color="#B3000000"><a href="http://url2">ຂໍ້ກຳນົດແລະເງື່ອນໄຂຂອງຜູ້ໃຊ້ສຸດທ້າຍ Discovery</a></font> ແລະ <font color="#B3000000"><a href="http://url3">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Branch Discovery</a></font> ກ່ອນການນຳໃຊ້ຄຸນສົມບັດນີ້.</string>
+    <string name="terms_of_services_two">ການໃຊ້ການຄົ້ນຫາຂັ້ນສູງຈຳເປັນຕ້ອງແຊຣ໌ຂໍ້ມູນສ່ວນຕົວທີ່ຈຳເປັນ, ລວມທັງຄຳຄົ້ນຫາຂອງທ່ານ, ID ໂຄສະນາ Google ແລະທີ່ຢູ່ IP ກັບ Branch Metrics Inc. Branch ຈະປະມວນຜົນຂໍ້ມູນສ່ວນຕົວຂອງທ່ານໃຫ້ສອດຄ່ອງກັບ <a href="http://url1"><font color="#B3000000">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Branch Discovery</font></a>. ອ່ານແລະເຫັນດີກັບ <a href="http://url2"><font color="#B3000000">ຂໍ້ກຳນົດແລະເງື່ອນໄຂຂອງຜູ້ໃຊ້ສຸດທ້າຍ Discovery</font></a> ແລະ <a href="http://url3"><font color="#B3000000">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Branch Discovery</font></a> ກ່ອນການນຳໃຊ້ຄຸນສົມບັດນີ້.</string>
     <string name="thursday">ວັນພະຫັດ</string>
     <string name="thursday_short">ພະຫັດ</string>
     <string name="thursday_shortest">ພະຫັດ</string>

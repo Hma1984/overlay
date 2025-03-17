@@ -8,7 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Изаберите апликацију</string>
     <string name="abc_capital_off">ИСКЉУЧЕНО</string>
     <string name="abc_capital_on">УКЉУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">тастер за размак</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Претражите…</string>
     <string name="abc_searchview_description_clear">Обришите упит</string>
     <string name="abc_searchview_description_query">Претражите упит</string>
@@ -24,6 +33,8 @@
     <string name="activate_esim_tips">Активирање није успело. Покушајте опет.</string>
     <string name="activating_esim_tips">Активирање…</string>
     <string name="address_dialing_introduction">Ову апликацију можете да користите за упућивање позива, прегледање историје позива и управљање контактима.</string>
+    <string name="after_sales_support">After-sales support</string>
+    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">Поподне</string>
     <string name="agree">Прихватам</string>
     <string name="agree_and_next">Прихватам</string>
@@ -41,6 +52,7 @@
     <string name="ai_button_single_press_desc">Притисните AI тастер да бисте приказали Mi AI пречице</string>
     <string name="ai_button_title">AI дугме</string>
     <string name="album_introduction">Ову апликацију можете да користите за управљање, уређивање и улепшавање фотографија и видео снимака.</string>
+    <string name="am">Пре подне</string>
     <string name="app_name">Обезбеђење</string>
     <string name="application_package_introduction">Алат за инсталацију пакета користи се за инсталирање апликација трећих страна, укључујући услуге скенирања пре инсталације и препоруке апликација након инсталације.</string>
     <string name="application_permissions">Дозволе апликацијa</string>
@@ -48,6 +60,7 @@
     <string name="back">Назад</string>
     <string name="backup_introduction">Ову апликацију можете користити за бекап и враћање ставки на уређај.</string>
     <string name="bluetooth_introduction">Bluetooth користи систем за бежичну комуникацију. Да би могао нормално да ради, Bluetooth-у су потребне следеће дозволе:</string>
+    <string name="bluetooth_usage_desc">Initial setup allows you to set your basic preferences for this device. To set up your device successfully, Bluetooth system services will use the following permissions:</string>
     <string name="boot_video_replay">Пусти опет</string>
     <string name="boot_video_skip">Прескочи</string>
     <string name="calculator_introduction">Ову апликацију можете користити за рачунање, претварање јединица и валута и процену рата кредита.</string>
@@ -82,9 +95,14 @@
     <string name="cookies_title">Персонализовани садржај и колачићи</string>
     <string name="copy">Копирај</string>
     <string name="data_traffic_enable_dialog_title">Ако сада нисте повезани на Wi-Fi, уређај ће користити мобилне податке. Коришћење мобилних података може повећати трошкове.</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Кинески традиционални календар</string>
     <string name="date_time_picker_dialog_title">Подесите датум и време</string>
     <string name="default_font">Задато</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Користите свој отисак прста за откључавање уређаја, потврђивање Мi Pay трансакције, или за пријаву на апликације и услуге.</string>
     <string name="desc_international_fingerprint">Користите отисак прста да бисте откључали свој уређај или се пријавили на апликације и услуге.</string>
     <string name="device_information_usage_desc">Ова услуга вам омогућава да видите информације о уређају, повежете свој уређај са мрежама и подесите његове функције.</string>
@@ -111,27 +129,76 @@
     <string name="disagreement_terminate_service">Нећете моћи користити ову апликацију ако не дате потребне дозволе или одбијете дељење и отпремање ваших личних података. У том случају је можете деинсталирати, одјавити се са ње или јој ограничити дозволе у Подешавањима.</string>
     <string name="download_introduction">Апликација Преузимања, коју пружа Xunlei, се користи за преузимање и управљање преузетим садржајем (укључујући садржај Продавнице апликација, видео снимке, ажурирања система, теме и садржај прегледача) за кориснике Xiaomi уређаја.</string>
     <string name="early_morning">Јутро</string>
+    <string name="empty" />
     <string name="enable_accessibility_canceled">Приступачност је отказана.</string>
     <string name="enable_accessibility_dialog_message">Укључили сте TalkBack притиском на екран са два прста више од 10 секунди. TalkBack пружа гласовне повратне информације особама са оштећеним видoм. Ако га случајно укључите, додирните дугме Откажи, пa затим двапут додирните екран.</string>
     <string name="enable_accessibility_dialog_negative_btn">Откажи</string>
     <string name="enable_accessibility_dialog_positive_btn">ОК</string>
+    <string name="enable_or_disable_bluetooth">Turning Bluetooth on and off</string>
     <string name="eras_ad">Н.Е</string>
     <string name="eras_bc">П.Н.Е</string>
     <string name="evening">Поподне</string>
     <string name="expand_button_title">Напредно</string>
     <string name="fast_application_introduction">Услужни оквир брзих апликација је основни услужни оквир који подржава брзу дистрибуцију и рад апликација.</string>
+    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy.</string>
     <string name="fmt_date_long_year_month_day">d. MMMM yyyy.</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d. M.</string>
+    <string name="fmt_date_numeric_year">yyyy.</string>
+    <string name="fmt_date_numeric_year_month">M. yyyy.</string>
     <string name="fmt_date_numeric_year_month_day">d. M. yyyy.</string>
+    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d. MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy.</string>
     <string name="fmt_date_short_year_month_day">d. MMM yyyy.</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy.</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'сати'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"H 'сати'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Задата величина текста</string>
     <string name="font_hint_normal">Повећај величину текста</string>
     <string name="font_settings_sub_title">Изаберите фонт система</string>
     <string name="font_settings_title">Подешавања фонта</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">Тело</string>
     <string name="font_use_case_title_example">Наслов</string>
     <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics и MIUIBI) је основна системска услуга која пружа push обавештења, превенцију ризика, статистичке и аналитичке могућности. Да бисмо пружaли ове услуге, потребно је да прикупимо и обрадимо релевантне и неопходне личне податке. Приликом прикупљања и обраде таквих података, придржаваћемо се важећих закона, прописа и других нормативних докумената.</string>
@@ -141,6 +208,7 @@
     <string name="friday_short">Пет</string>
     <string name="friday_shortest">Пет</string>
     <string name="game_introduction">Додатак за игре Вам омогућава пријављивање, поручивање, довршетак плаћања, коришћење купона и учешће у промоцијама.</string>
+    <string name="get_imei_information">Access IMEI</string>
     <string name="get_imei_information_settings">Приступ јединственом идентификатору уређаја (IMEI)</string>
     <string name="google_service_introduction">За нормалан рад, потребно је да Google Play буде повезан на интернет, приступа вашој локацији, има могућност да шаље SMS и ММС, снима звук, упућује позиве, приступа календарским догађајима, историји позива, сензорима, складишту, камери, информацијама о уређају и налозима.</string>
     <string name="home_settings_miui_home">Класика</string>
@@ -153,8 +221,6 @@
     <string name="input_method_setting">Изабери тастатуру</string>
     <string name="install_preinstall_app">Учитавање апликација…</string>
     <string name="interconnection_communication_introduction">Xiaomi Internet Communication Services вам омогућавају да откривате, повезујете се и комуницирате са другим Xiaomi уређајима.</string>
-    <string name="interconnection_service_global_item_title">Xiaomi интерконективност</string>
-    <string name="interconnection_service_global_label">&lt;Data>Xiaomi интерконективност омогућава вашим уређајима да међусобно комуницирају бежично. Укључивањем овог прекидача прихватате &lt;a href=%1$s>Правила о приватности&lt;/a > Xiaomi интерконективности.&lt;/Data></string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -228,7 +294,7 @@
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
-    <string name="interconnection_service_summary_global">Функције Xiaomi интерконективности се могу разликовати у зависности од модела уређаја и верзије система. Посетите званични веб-сајт система да бисте сазнали више.</string>
+    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">Ако вам нестане уређај, нећете моћи да спречите друге да га користе и приступају вашим подацима, осим ако не подесите Закључавање екрана. Ипак прескочити?</string>
     <string name="item_facerecognition">Откључавање лицем</string>
     <string name="item_fingerprint">Отисак прста</string>
@@ -236,13 +302,16 @@
     <string name="item_lock_screen_password_only">Закључавање екрана</string>
     <string name="item_return">Подеси</string>
     <string name="item_skip">Прескочи</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Дељење података о локацији спасилачким службама за хитне случајеве</string>
     <string name="language_picker_other_languages_title">Више језика</string>
     <string name="language_settings">Изаберите језик</string>
     <string name="locale_picker_other_locale_title">Више региона</string>
     <string name="locale_picker_title">Изаберите ваш регион</string>
+    <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">У складу са законом, мобилини оператори могу добијати податке о локацији мобилног уређаја ради испуњавања захтева органа за пружање помоћи и спашавање у хитним случајевима (ватрогасци и полиција).</string>
     <string name="location_introduction">Услуге лоцирања су различите и засноване су на подацима о вашој локацији.</string>
+    <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">Службе за спашавање у хитним случајевима могу на захтев добити Вашу тренутну локацију</string>
     <string name="lockscreen_introduction">Ротирајућа позадина вам свакодневно доноси свеже слике на Закључани екран.</string>
     <string name="media_storage_devices">Уређаји за складиштење медија</string>
@@ -252,7 +321,9 @@
     <string name="midnight">Ноћ</string>
     <string name="mint_keyboard_oobe_checkbox">Прочитао сам и прихватам Правила о приватности Mint тастатуре</string>
     <string name="mint_keyboard_oobe_terms">Правила о приватности Mint тастатуре</string>
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">Нисте повезани на интернет. Прочитајте Правила о приватности на %s.</string>
+    <string name="miui_provision">Initial setup</string>
     <string name="miui_settings">Подешавања</string>
     <string name="miui_terms_no_network">Нисте повезани на интернет. Погледајте Кориснички уговор на %s.</string>
     <string name="miuix_access_state_desc">Изабрано</string>
@@ -339,6 +410,7 @@
     <string name="noon">Подне</string>
     <string name="not_set">Није подешено</string>
     <string name="note_introduction">Ова апликација омогућава креирање, преглед и уређивање белешки.</string>
+    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">Основна подешавања</string>
     <string name="other_settings_ad_dialog_agree">Укључи</string>
     <string name="other_settings_ad_dialog_content">Када су препоруке персонализоване рекламне препоруке искључене, и даље ћете видети исти број реклама као и када је функција укључена. Међутим, рекламе више неће бити релевантне јер се неће заснивати на вашим личним преференцијама.</string>
@@ -347,6 +419,10 @@
     <string name="other_settings_ad_disable_summary">Искључивање персонализованих огласа</string>
     <string name="other_settings_ad_enable">Персонализуј огласе</string>
     <string name="other_settings_ad_enable_summary">Персонализовани огласи засновани на Вашим интересовањима</string>
+    <string name="other_settings_alarm_assistance">Emergency location</string>
+    <string name="other_settings_alarm_assistance_privacy">Privacy Policy</string>
+    <string name="other_settings_alarm_assistance_summary">"You can send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, or 122. Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature."</string>
+    <string name="other_settings_alarm_assistance_user">User Agreement</string>
     <string name="other_settings_auto_update">Аутоматска ажурирања система</string>
     <string name="other_settings_auto_update_summary">Систем ће изабрати најбоље време за преузимање и инсталирање ажурирања. Уређај ће се аутоматски рестартовати да би се промене примениле.</string>
     <string name="other_settings_auto_update_summary_v1">Дозволите систему да изабере најбоље време за преузимање и инсталирање ажурирања. Уређај ће се аутоматски рестартовати да би се промене примениле.</string>
@@ -371,6 +447,7 @@
     <string name="other_settings_user_experience">Програм корисничког искуства</string>
     <string name="other_settings_user_experience_summary">Помозите нам да побољшамо наше производе и услуге дељењем статистике коришћења и аналитике са нама.</string>
     <string name="other_settings_user_experience_summary_index">Приказ детаља</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">Приступ календару</string>
     <string name="permission_access_calendar_fast_application_summary">За омогућавање брзим апликацијама да приступе календару;</string>
     <string name="permission_account">Приступите налозима преко уређаја</string>
@@ -402,7 +479,9 @@
     <string name="permission_direct_call">Позивај</string>
     <string name="permission_direct_call_introduction">За додавање ставки на Листу блокираних</string>
     <string name="permission_download_introduction">За кеширање преузетих ставки и њихово чување на уређају</string>
+    <string name="permission_enable_disable_bluetooth_summary">For finding devices nearby in order to connect and transfer data</string>
     <string name="permission_fast_pairing">Да би могао да пронађе уређаје у близини, потребно је повезати Mi Link на интернет и дати му следеће дозволе:</string>
+    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
     <string name="permission_get_imei_information_summary_settings">За приказ информација и спецификација уређаја</string>
     <string name="permission_imei_service">За IMEI приступ ради пружања услуга повезаних са уређајем</string>
     <string name="permission_interaction_introduction">За чување фотографија и видеа на уређају</string>
@@ -436,9 +515,11 @@
     <string name="permission_read_call_records">Уређивање историје позива</string>
     <string name="permission_read_call_records_introduction">За додавање ставки у историју позива и брисање блокираних позива</string>
     <string name="permission_read_contacts">Приступање контактима</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
     <string name="permission_read_device_store">Приступ складишту уређаја</string>
     <string name="permission_read_device_store_summary">За приступ преузетим изворним фајловима и изворним конфигурацијским фајловима;</string>
     <string name="permission_read_message">Приступ текстуалним порукама</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">За приступање белешкама и прилозима</string>
     <string name="permission_read_send_message">Слање и примање SMS-а</string>
     <string name="permission_read_send_message_fast_application_summary">За омогућавање брзим апликацијама да шаљу и примају SMS;</string>
@@ -481,6 +562,7 @@
     <string name="permission_write_device_store_summary">За кеширање преузетих изворних конфигурационих фајлова.</string>
     <string name="permission_xunlei_introduction">За пријављивање на системске налоге и управљање њима ради пружања Xunlei услуга</string>
     <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
+    <string name="pm">После подне</string>
     <string name="poco_agree_terms_other">(Укључујући POCO Launcher Правила о приватности и Кориснички уговор)</string>
     <string name="poco_launcher_privacy_policy">POCO Launcher Правила о приватности</string>
     <string name="poco_launcher_user_agreement">POCO Launcher Кориснички уговор</string>
@@ -503,6 +585,8 @@
     <string name="provision_inputmethod_policy_description1">Правила о приватности</string>
     <string name="provision_next">Даље</string>
     <string name="provision_skip_underline">Прескочи</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Препоручено</string>
     <string name="recorder_introduction">Ову апликацију можете користити за снимање звука и бекап снимака на cloud-у.</string>
     <string name="refuse_cookie">Одбаци колачиће</string>
@@ -528,13 +612,16 @@
     <string name="service_agreement">Прочитао сам и прихватам Одредбе и услове.</string>
     <string name="service_company_adjust_content">Кориснички уговор за Xunlei Network Services</string>
     <string name="service_fast_pairing_policy">&lt;Data>Прочитајте и прихватите &lt;a href=%1$s>Mi Link Правила о приватности&lt;/a > пре него што наставите.&lt;/Data></string>
+    <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
     <string name="service_location_share_policy">&lt;Data>Прочитајте и прихватите &lt;a href=%1$s>Изјаву о приватности услуга лоцирања&lt;/a > пре него што наставите.&lt;/Data></string>
     <string name="service_mi_account">Mi Налог</string>
+    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">Контакти и Телефон</string>
     <string name="service_name_album">Галерија</string>
     <string name="service_name_application_package">Инсталер пакета</string>
     <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">Бекапи</string>
+    <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Калкулатор</string>
     <string name="service_name_camera">Камера</string>
     <string name="service_name_carrier">Изјава о услугама оператора</string>
@@ -543,13 +630,16 @@
     <string name="service_name_content_center">Центар за садржај</string>
     <string name="service_name_download">Преузимања</string>
     <string name="service_name_fast_application">Оквир брзих апликација</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">Додатак за игре</string>
     <string name="service_name_google_service">Изјава о Google услугама</string>
     <string name="service_name_ims">IMS услуге</string>
     <string name="service_name_location">Услуге лоцирања</string>
     <string name="service_name_lockscreen">Ротирајућа позадина</string>
     <string name="service_name_message">Поруке</string>
+    <string name="service_name_note">Белешке</string>
     <string name="service_name_phone_service">电话服务</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">Снимач</string>
     <string name="service_name_screen_recording">Снимач екрана</string>
     <string name="service_name_security">Безбедност</string>
@@ -559,10 +649,12 @@
     <string name="service_policy_adjust_content">Xunlei Правила о приватности</string>
     <string name="service_policy_download">&lt;Data>Прочитајте и прихватите &lt;a href=%1$s>Xunlei Правила о приватности&lt;/a > и &lt;a href=%1$s>Кориснички уговор за Xunlei Network Services&lt;/a > пре него што наставите.&lt;/Data></string>
     <string name="service_privacy_index">Правила о приватности</string>
+    <string name="service_security_over_r">&lt;Data>Прочитајте и прихватите наша &lt;a href=%1$s>Правила о приватности&lt;/a>.&lt;br/>&lt;br/>У складу са Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> стандардима, једнократна дозвола ће бити повучена у одређеном временском периоду (око &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>) након што одговарајућа апликација престане да ради. Ако отворите апликацију током овог кратког временског периода, дозвола ће тада бити повучена.&lt;/Data></string>
     <string name="service_sim_activation">Активирање SIM картицe</string>
     <string name="servicestate_title">Изјава о основним услугама</string>
     <string name="setting_locale">Постављање регије…</string>
     <string name="shut_down">Искључивање</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">Проверавање SIM-а…</string>
     <string name="sim_card_detecting_check">SIM није пронађена. Проверите да ли је SIM картица правилно постављена и да ли имате довољно средстава на рачуну.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Дозволити повезивање на мреже мобилних података? Ако то дозволите, уметнута SIM картица ће се користити за повезивање на мреже мобилних података.</string>
@@ -574,6 +666,7 @@
     <string name="sim_card_detection_mobile_not_available">Повезивање SIM картице на мрежу није успело</string>
     <string name="sim_card_detection_sb_esim">Активирај eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Није активирано</string>
+    <string name="sim_card_do_not_select_dial_card">Select SIM card when dialing</string>
     <string name="sim_dectection_next">Настави</string>
     <string name="sim_redetection">Поново провери</string>
     <string name="sim_scard_detecting_check_mobile_not_available">Ваша SIM картица не може да се повеже на важећу мрежу оператора. Проверите да ли имате довољно кредита на рачуну и покушајте опет.</string>
@@ -583,6 +676,8 @@
     <string name="skip_gesture_guide_dialog_title">Покрети на целом екрану</string>
     <string name="skip_underline">Прескочите овај корак</string>
     <string name="start_up_slogan">Само Ваш</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_not_set">Није постављено</string>
     <string name="sunday">Недеља</string>
     <string name="sunday_short">Нед</string>
@@ -592,20 +687,31 @@
     <string name="system_update_title">Ажурирања система</string>
     <string name="systemdesktop_introduction">Додатак за услуге Почетног екрана вам пружа основне функције, попут Почетног екрана, системског корисничког интерфејса и сликања екрана.</string>
     <string name="term_condition_detail">Свакодневно добијајте феноменалне слике и узбудљиве приче на Закључаном екрану. Ова функција неће користити ваше податке за персонализацију без вашег пристанка. Пре коришћења ове фунцкије, прочитајте и прихватите &lt;a href =%1$s>Правила о приватности&lt;/a> и &lt;a href =%2$s>Кориснички уговор&lt;/a> треће стране као добављача.</string>
+    <string name="terms_of_label_period">". "</string>
+    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Одредбе и услови</string>
+    <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">Mi Продавница</string>
     <string name="terms_of_use_label_RMS">Менаџер дозвола</string>
     <string name="terms_of_use_label_ai_assistant">AI помоћник</string>
     <string name="terms_of_use_label_app_vault">Трезор апликација</string>
     <string name="terms_of_use_label_back">Услуга бекапа</string>
     <string name="terms_of_use_label_ble">Добављач спојене локације</string>
+    <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
+    <string name="terms_of_use_label_communication_service">Xiaomi Internet Communication Services</string>
+    <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
     <string name="terms_of_use_label_finddevice">Пронађи уређај</string>
     <string name="terms_of_use_label_game">Игре</string>
     <string name="terms_of_use_label_home">Почетни екран</string>
     <string name="terms_of_use_label_htmlViewer">HTML Прегледач</string>
+    <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
+    <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">Пејзажни приказ</string>
+    <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Mi Налог</string>
+    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
+    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">OS AI подешавања</string>
     <string name="terms_of_use_label_package">Инсталатер пакета</string>
     <string name="terms_of_use_label_parallel_windows">Паралелни прозори</string>
@@ -613,6 +719,7 @@
     <string name="terms_of_use_label_power_detection">Детектор напајања</string>
     <string name="terms_of_use_label_power_performance">Батерија и перформансе</string>
     <string name="terms_of_use_label_quickapp">Брзе апликације</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Примена Безбедносног елемента</string>
     <string name="terms_of_use_label_simcard">Услуга акривирања SIM картице</string>
     <string name="terms_of_use_label_smart_service">Паметни уређаји</string>
@@ -620,8 +727,10 @@
     <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">Услуга саморегистрације</string>
     <string name="terms_of_use_label_translation">Услуге превода</string>
+    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Услуга ажурирања система (проверава ажурирања на мрежи и обавештава о новим верзијама)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Пре коришћења система, морате прочитати и прихватити наш Кориснички уговор и Правила о приватности. Ваше личне податке штитимо у складу са релевантним законима, прописима и правилима о приватности. Када се ваш уређај активира, следеће услуге ће се повезати на мрежу и приступити вашој локацији:</string>
+    <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Позадина</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -634,6 +743,8 @@
 Пре коришћења ове функције морате прихватити Правила о приватности Mint тастатуре."</string>
     <string name="terms_of_use_lable_gms">Google Play услуге</string>
     <string name="terms_of_use_lable_smart_cards">Паметне картице</string>
+    <string name="terms_of_use_lable_vsimcore">MConnService</string>
+    <string name="terms_of_use_lable_xmsf">Xiaomi service framework</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Правила о приватности</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Правила о приватности</string>
     <string name="the_anniversary_of_lifting_martial_law">Годишњица укидања војне власти</string>
@@ -642,6 +753,7 @@
     <string name="the_armed_forces_day">Дан оружаних снага</string>
     <string name="the_armys_day">Дан армије</string>
     <string name="the_childrens_day">Дан деце</string>
+    <string name="the_chinese_youth_day">Дан младости</string>
     <string name="the_christmas_day">Божић</string>
     <string name="the_double_ninth_festival">Фестивал дупле деветке</string>
     <string name="the_dragon_boat_festival">Фестивал змајевих бродова</string>
@@ -679,6 +791,8 @@
     <string name="thursday_short">Чет</string>
     <string name="thursday_shortest">Чет</string>
     <string name="time_picker_dialog_title">Подеси време</string>
+    <string name="time_picker_label_hour">Ч</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="title_fingerprint">Подесите закључавање екрана</string>
     <string name="title_set_fingerprint">Закључавање екрана</string>
     <string name="today">Данас</string>
@@ -705,25 +819,8 @@
     <string name="wednesday_shortest">Сре</string>
     <string name="welcome">Добродошли</string>
     <string name="withdraw_consent">Ако повучете сагласност, услуге Ротирајуће позадине ће бити деактивиране.</string>
+    <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
+    <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">Јуче</string>
     <string name="zone_picker_title">Изаберите часовну зону</string>
-    <string name="fmt_date_numeric_year_month">M. yyyy.</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
-    <string name="service_name_note">Белешке</string>
-    <string name="the_chinese_youth_day">Дан младости</string>
-    <string name="time_picker_label_hour">Ч</string>
-    <string name="am">Пре подне</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy.</string>
-    <string name="fmt_date_short_year_month">MMM yyyy.</string>
-    <string name="fmt_date_year">yyyy.</string>
-    <string name="fmt_time_minute">"m'мин'"</string>
-    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
-    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
-    <string name="fmt_time_second">"s'с'"</string>
-    <string name="fmt_time_second_millis">"s.S'с'"</string>
-    <string name="pm">После подне</string>
-    <string name="fmt_date_numeric_year">yyyy.</string>
 </resources>

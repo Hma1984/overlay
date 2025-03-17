@@ -460,7 +460,7 @@ Puoi accedere al tuo account Xiaomi utilizzando %s ora."</string>
     <string name="passport_privacy_policy">Informativa sulla Privacy</string>
     <string name="passport_privacy_policy_required">Informativa Privacy (obbligatorio)</string>
     <string name="passport_provision_input_email_register_prompt">I tuoi dati personali saranno conservati in conformità alle leggi e ai regolamenti della regione da te selezionata.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d caratteri di almeno %3$d dei seguenti tipi: lettere, cifre, simboli speciali</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caratteri di almeno <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dei seguenti tipi: lettere, cifre, simboli speciali</string>
     <string name="passport_querying_phone_info">Richiesta informazioni telefono utente…</string>
     <string name="passport_quick_login">Accedi</string>
     <string name="passport_quick_login_step2_title">Verifica in 2 passaggi</string>

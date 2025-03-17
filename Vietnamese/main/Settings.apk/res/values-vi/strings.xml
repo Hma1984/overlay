@@ -282,8 +282,8 @@ Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng."</s
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
+"<li><ul>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -3580,8 +3580,8 @@ Nếu không thanh toán đúng hạn, tổ chức tín dụng có thể khoá t
     <string name="fold_rule_default">Đề xuất</string>
     <string name="fold_rule_unimportant">Không quan trọng</string>
     <string name="fold_screen_application_adaptation_title">Tùy chỉnh bố cục đối với thiết bị có thể gập lại</string>
-    <string name="fold_screen_settings_title">Tính năng cho thiết bị có thể gập lại</string>
-    <string name="fold_screen_special_function_title">Tính năng cho thiết bị có thể gập lại</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Quy tắc nhóm thông báo</string>
     <string name="font_cta_alert_btn_negative">Hủy</string>
     <string name="font_cta_alert_btn_positive">Đồng ý</string>

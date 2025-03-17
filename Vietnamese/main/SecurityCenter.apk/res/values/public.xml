@@ -7990,22 +7990,24 @@
     <public type="string" name="force_max_fps" id="0x7f041da0" />
     <public type="string" name="force_max_fps_sum" id="0x7f041da1" />
     <public type="string" name="force_temp_fps" id="0x7f041da2" />
-    <public type="string" name="warningcenter_smarthome" id="0x7f041da3" />
-    <public type="string" name="permission_privacy_link" id="0x7f041da4" />
-    <public type="string" name="virus_detail_split_line_text" id="0x7f041da5" />
-    <public type="string" name="celcius_symbol" id="0x7f041da6" />
-    <public type="string" name="m3_sys_motion_easing_emphasized" id="0x7f041da7" />
-    <public type="string" name="m3_sys_motion_easing_standard" id="0x7f041da8" />
-    <public type="string" name="marketSdkVersion" id="0x7f041da9" />
-    <public type="string" name="material_motion_easing_emphasized" id="0x7f041daa" />
-    <public type="string" name="app_manager_autostart_title" id="0x7f041dab" />
-    <public type="string" name="mtrl_picker_cancel" id="0x7f041dac" />
-    <public type="string" name="gamebox_display_5" id="0x7f041dad" />
-    <public type="string" name="gb_advance_settings_screen_hdr_gear5" id="0x7f041dae" />
-    <public type="string" name="gb_advance_settings_screen_hdr_gear5_short" id="0x7f041daf" />
-    <public type="string" name="task_title_nfc" id="0x7f041db0" />
-    <public type="string" name="title_condition_nfc" id="0x7f041db1" />
-    <public type="string" name="title_result_nfc" id="0x7f041db2" />
-    <public type="string" name="verify_allow" id="0x7f041db3" />
-    <public type="string" name="verify_denied" id="0x7f041db4" />
+    <public type="string" name="update_pif" id="0x7f041da3" />
+    <public type="string" name="update_pif_sum" id="0x7f041da4" />
+    <public type="string" name="warningcenter_smarthome" id="0x7f041da5" />
+    <public type="string" name="permission_privacy_link" id="0x7f041da6" />
+    <public type="string" name="virus_detail_split_line_text" id="0x7f041da7" />
+    <public type="string" name="celcius_symbol" id="0x7f041da8" />
+    <public type="string" name="m3_sys_motion_easing_emphasized" id="0x7f041da9" />
+    <public type="string" name="m3_sys_motion_easing_standard" id="0x7f041daa" />
+    <public type="string" name="marketSdkVersion" id="0x7f041dab" />
+    <public type="string" name="material_motion_easing_emphasized" id="0x7f041dac" />
+    <public type="string" name="app_manager_autostart_title" id="0x7f041dad" />
+    <public type="string" name="mtrl_picker_cancel" id="0x7f041dae" />
+    <public type="string" name="gamebox_display_5" id="0x7f041daf" />
+    <public type="string" name="gb_advance_settings_screen_hdr_gear5" id="0x7f041db0" />
+    <public type="string" name="gb_advance_settings_screen_hdr_gear5_short" id="0x7f041db1" />
+    <public type="string" name="task_title_nfc" id="0x7f041db2" />
+    <public type="string" name="title_condition_nfc" id="0x7f041db3" />
+    <public type="string" name="title_result_nfc" id="0x7f041db4" />
+    <public type="string" name="verify_allow" id="0x7f041db5" />
+    <public type="string" name="verify_denied" id="0x7f041db6" />
 </resources>

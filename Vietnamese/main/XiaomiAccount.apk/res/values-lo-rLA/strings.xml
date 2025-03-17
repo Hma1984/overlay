@@ -507,7 +507,7 @@
     <string name="passport_privacy_policy">​ນະ​ໂຍບາຍ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ</string>
     <string name="passport_privacy_policy_required">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ (ຈຳເປັນ)</string>
     <string name="passport_provision_input_email_register_prompt">ຂໍ້ມູນສ່ວນຕົວຂອງທ່ານຈະຖືກຈັດເກັບໄວ້ຕາມກົດໝາຍແລະລະບຽບການຂອງພາກພື້ນທີ່ທ່ານເລືອກ.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d ອັກຂະຫຼະຢ່າງໜ້ອຍ %3$d ປະເພດຕໍ່ໄປນີ້: ຕົວອັກສອນ, ຕົວເລກ, ສັນຍາລັກພິເສດ</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> ອັກຂະຫຼະຢ່າງໜ້ອຍ <xliff id="min_pwd_type" refersto="2">%3$d</xliff> ປະເພດຕໍ່ໄປນີ້: ຕົວອັກສອນ, ຕົວເລກ, ສັນຍາລັກພິເສດ</string>
     <string name="passport_qq_login_btn_content_description">ເຂົ້າສູ່ລະບົບດ້ວຍ QQ</string>
     <string name="passport_querying_phone_info">ກຳລັງຂໍຂໍ້ມູນບັນຊີ…</string>
     <string name="passport_quick_login">ເຂົ້າ​ສູ່​ລະ​ບົບ</string>

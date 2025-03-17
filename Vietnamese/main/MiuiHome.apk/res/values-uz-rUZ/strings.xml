@@ -122,7 +122,7 @@
     <string name="back">Orqaga</string>
     <string name="backup_fail">Nusxalab bo‘lmadi</string>
     <string name="branch_feature_description">Ilovalardan tashqari, Quick Finder ilova ichidagi tarkib va ​​narsalarni onlayn ravishda topishi mumkin.</string>
-    <string name="branch_guide_attention">Kengaytirilgan qidiruvdan foydalanish sizning qidiruv so‘rovlaringiz, Google Ads ID raqami va IP-manzilingizni Branch Metrics Inc bilan ulashishni talab qiladi. Ushbu xususiyatdan foydalanishdan oldin <font color="#B3000000"><a href="http://url1">Oxirgi Foydalanuvchini Kashfiyot Shartlari &amp; Sharoitlar</a></font> and <font color="#B3000000"><a href="http://url2">Branch Kashfiyot Maxfiylik Siyosati</a></font> bilan tanishib chiqing va rozi bo‘ling.</string>
+    <string name="branch_guide_attention">Kengaytirilgan qidiruvdan foydalanish sizning qidiruv so‘rovlaringiz, Google Ads ID raqami va IP-manzilingizni Branch Metrics Inc bilan ulashishni talab qiladi. Ushbu xususiyatdan foydalanishdan oldin <a href="http://url1"><font color="#B3000000">Oxirgi Foydalanuvchini Kashfiyot Shartlari &amp; Sharoitlar</font></a> and <a href="http://url2"><font color="#B3000000">Branch Kashfiyot Maxfiylik Siyosati</font></a> bilan tanishib chiqing va rozi bo‘ling.</string>
     <string name="branch_guide_description_one">Barcha ilovalaringizni Ilova menyusiga joylashtiramiz. Asosiy ekraningiz chiroyli va tartibli ko‘rinadi.</string>
     <string name="branch_guide_description_three">O‘rnatilgan qidiruv yordamida bir zumda kerakli narsalarni topishingiz mumkin!</string>
     <string name="branch_guide_description_two">Ilova menyusi ilovalarni avtomatik ravishda toifalarga ajratadi.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">Yangi xususiyat</string>
     <string name="branch_privacy_policy">Maxfiylik Siyosati</string>
     <string name="branch_search_guide_description">Bizning qidiruv natijalarimiz hozir yanada batafsilroq</string>
-    <string name="branch_search_guide_privacy">Ushbu xizmat Branch Metrics Inc. tomonidan qo‘llab-quvvatlanadi. Sizning joylashuvingiz haqidagi ma’lumot, qidiruv so‘rovlari va Google Ads ID raqami Branch‘ga taqdim etiladi. Ushbu xizmatdan foydalanishdan oldin Branch‘ning <font color="#B3000000"><a href="http://url1">Shartlar va Sharoitlar</a></font> va <font color="#B3000000"><a href="http://url2">Maxfiylik Siyosati</a></font> bilan tanishib chiqing.</string>
+    <string name="branch_search_guide_privacy">Ushbu xizmat Branch Metrics Inc. tomonidan qo‘llab-quvvatlanadi. Sizning joylashuvingiz haqidagi ma’lumot, qidiruv so‘rovlari va Google Ads ID raqami Branch‘ga taqdim etiladi. Ushbu xizmatdan foydalanishdan oldin Branch‘ning <a href="http://url1"><font color="#B3000000">Shartlar va Sharoitlar</font></a> va <a href="http://url2"><font color="#B3000000">Maxfiylik Siyosati</font></a> bilan tanishib chiqing.</string>
     <string name="branch_search_guide_title">Sevimli ilovalaringizda nimani qidirayotganingizni toping</string>
     <string name="branch_terms_condition">Shartlar va Sharoitlar</string>
     <string name="branch_tip_title">Quick Finder yordamida kerakli barcha narsalarni bir zumda topishingiz mumkin.</string>
@@ -543,7 +543,7 @@ Kengaytirilgan xavfsizlik."</string>
     <string name="select_all">Barchasini tanlash</string>
     <string name="send">Jo‘natish</string>
     <string name="server_error">Server xatosi. Birozdan keyin qaytadan ko‘ring.</string>
-    <string name="service_double_attention">Kengaytirilgan qidirish funktsiyasi Branch Metrics Inc. tomonidan taqdim etilgan. Xususiyat ishlashi uchun sizning qidiruv so‘rovlaringiz, Google Ads ID raqami va IP-manzilingizni Branch Metrics Inc. bilan ulashishni talab qiladi. Ushbu xususiyatdan foydalanishdan oldin <font color="#B3000000"><a href="http://url1">Oxirgi Foydalanuvchini Kashfiyot Shartlari &amp; Sharoitlar</a></font> and <font color="#B3000000"><a href="http://url2">Branch Kashfiyot Maxfiylik Siyosati</a></font> bilan tanishib chiqing va rozi bo‘ling.</string>
+    <string name="service_double_attention">Kengaytirilgan qidirish funktsiyasi Branch Metrics Inc. tomonidan taqdim etilgan. Xususiyat ishlashi uchun sizning qidiruv so‘rovlaringiz, Google Ads ID raqami va IP-manzilingizni Branch Metrics Inc. bilan ulashishni talab qiladi. Ushbu xususiyatdan foydalanishdan oldin <a href="http://url1"><font color="#B3000000">Oxirgi Foydalanuvchini Kashfiyot Shartlari &amp; Sharoitlar</font></a> and <a href="http://url2"><font color="#B3000000">Branch Kashfiyot Maxfiylik Siyosati</font></a> bilan tanishib chiqing va rozi bo‘ling.</string>
     <string name="setting_close">O‘chiq</string>
     <string name="setting_no_word">Har qanday joyda</string>
     <string name="setting_only_widget_no_word">Vidjetlarda</string>
@@ -587,9 +587,9 @@ Kengaytirilgan xavfsizlik."</string>
     <string name="system_text">Avto</string>
     <string name="task_access_locked_app_msg">Ilova qulfi yoniq</string>
     <string name="term_of_service">Shartlar va sharoitlar</string>
-    <string name="terms_of_services_one">Ilova menyusi va Quick Finder‘ga xush kelibsiz. Quick Finder sizga ilovalarni, ilova ichidagi tarkibni va narsalarni Internetda tezroq topishga imkon beradi. Ushbu xususiyatlardan foydalanishdan oldin Xiaomi‘ning <font color="#B3000000"><a href="http://url1">Maxfiylik Siyosati</a></font> ni o‘qing va unga rozilik bildiring.</string>
+    <string name="terms_of_services_one">Ilova menyusi va Quick Finder‘ga xush kelibsiz. Quick Finder sizga ilovalarni, ilova ichidagi tarkibni va narsalarni Internetda tezroq topishga imkon beradi. Ushbu xususiyatlardan foydalanishdan oldin Xiaomi‘ning <a href="http://url1"><font color="#B3000000">Maxfiylik Siyosati</font></a> ni o‘qing va unga rozilik bildiring.</string>
     <string name="terms_of_services_three">Ushbu xususiyatni Sozlamalarda o‘chirsangiz bo‘ladi.</string>
-    <string name="terms_of_services_two">Kengaytirilgan qidiruvdan foydalanish uchun shaxsiy ma’lumotlar, shu jumladan qidiruv so‘rovlaringiz, Google Reklama ID‘si va IP-manzilingiz Branch Metrics Inc. bilan ulanishi kerak. Branch sizning shaxsiy ma’lumotlaringizni <font color="#B3000000"><a href="http://url1">Branch Kashfiyot Maxfiylik Siyosati</a></font> muvofiq ravishda ishlatadi. Ushbu xususiyatdan foydalanishdan oldin <font color="#B3000000"><a href="http://url1">Oxirgi Foydalanuvchini Kashfiyot Shartlari &amp; Sharoitlar</a></font> va <font color="#B3000000"><a href="http://url2">Branch Kashfiyot Maxfiylik Siyosati</a></font> bilan tanishib chiqing va rozi bo‘ling.</string>
+    <string name="terms_of_services_two">Kengaytirilgan qidiruvdan foydalanish uchun shaxsiy ma’lumotlar, shu jumladan qidiruv so‘rovlaringiz, Google Reklama ID‘si va IP-manzilingiz Branch Metrics Inc. bilan ulanishi kerak. Branch sizning shaxsiy ma’lumotlaringizni <a href="http://url1"><font color="#B3000000">Branch Kashfiyot Maxfiylik Siyosati</font></a> muvofiq ravishda ishlatadi. Ushbu xususiyatdan foydalanishdan oldin <a href="http://url1"><font color="#B3000000">Oxirgi Foydalanuvchini Kashfiyot Shartlari &amp; Sharoitlar</font></a> va <a href="http://url2"><font color="#B3000000">Branch Kashfiyot Maxfiylik Siyosati</font></a> bilan tanishib chiqing va rozi bo‘ling.</string>
     <string name="thursday">Payshanba</string>
     <string name="thursday_short">Pay</string>
     <string name="thursday_shortest">Pay</string>

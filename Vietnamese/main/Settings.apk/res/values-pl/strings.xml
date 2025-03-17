@@ -3564,8 +3564,8 @@ Aby dowiedzieć się więcej, skontaktuj się z operatorem udzielającym kredytu
     <string name="fold_rule_default">Zalecane</string>
     <string name="fold_rule_unimportant">Nieistotne</string>
     <string name="fold_screen_application_adaptation_title">Własne układy dla składanych urządzeń</string>
-    <string name="fold_screen_settings_title">Funkcje dla składanych urządzeń</string>
-    <string name="fold_screen_special_function_title">Funkcje dla składanych urządzeń</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Ważność powiadomień</string>
     <string name="font_cta_alert_btn_negative">Anuluj</string>
     <string name="font_cta_alert_btn_positive">Zgadzam się</string>

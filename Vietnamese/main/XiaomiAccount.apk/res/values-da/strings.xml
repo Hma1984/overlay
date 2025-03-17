@@ -553,7 +553,7 @@ Du kan logge ind på din Xiaomi-konto ved hjælp af %s nu."</string>
     <string name="passport_privacy_policy">Privatlivspolitik</string>
     <string name="passport_privacy_policy_required">Privatlivspolitik (obligatorisk)</string>
     <string name="passport_provision_input_email_register_prompt">Dine personlige data lagres i henhold til love og bestemmelser for den region, du vælger.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d tegn på mindst %3$d af følgende typer: bogstaver, tal, specialle symboler</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> tegn på mindst <xliff id="min_pwd_type" refersto="2">%3$d</xliff> af følgende typer: bogstaver, tal, specialle symboler</string>
     <string name="passport_qq_login_btn_content_description">Log ind med QQ</string>
     <string name="passport_querying_phone_info">Anmoder om kontooplysninger…</string>
     <string name="passport_quick_login">Log ind</string>

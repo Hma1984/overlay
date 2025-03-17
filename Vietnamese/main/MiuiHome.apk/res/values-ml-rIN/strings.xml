@@ -122,7 +122,7 @@
     <string name="back">മടങ്ങുക</string>
     <string name="backup_fail">ലോഞ്ചർ ബാക്കപ്പുചെയ്യാനായില്ല</string>
     <string name="branch_feature_description">ആപ്പുകൾ കൂടാതെ, ദ്രുത ഫൈൻഡറിന് ആപ്പിലെ ഉള്ളടക്കവും ഇനങ്ങളും ഓൺലൈനിൽ കണ്ടെത്താൻ കഴിയും.</string>
-    <string name="branch_guide_attention">മെച്ചപ്പെടുത്തിയ തിരയൽ ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ തിരയൽ അഭ്യർത്ഥനകൾ, Google പരസ്യ ഐഡി, IP വിലാസം എന്നിവ Branch Metrics Inc-മായി പങ്കിടേണ്ടതുണ്ട്. ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് മുമ്പ് <font color="#B3000000"><a href="http://url1">അന്തിമ ഉപയോക്തൃ കണ്ടെത്തൽ നിബന്ധനകളും ഉപാധികളും</a></font>, <font color="#B3000000"><a href="http://url2">Branch Discovery സ്വകാര്യതാ നയവും</a></font> വായിച്ച് അംഗീകരിക്കേണ്ടതുണ്ട്.</string>
+    <string name="branch_guide_attention">മെച്ചപ്പെടുത്തിയ തിരയൽ ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ തിരയൽ അഭ്യർത്ഥനകൾ, Google പരസ്യ ഐഡി, IP വിലാസം എന്നിവ Branch Metrics Inc-മായി പങ്കിടേണ്ടതുണ്ട്. ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് മുമ്പ് <a href="http://url1"><font color="#B3000000">അന്തിമ ഉപയോക്തൃ കണ്ടെത്തൽ നിബന്ധനകളും ഉപാധികളും</font></a>, <a href="http://url2"><font color="#B3000000">Branch Discovery സ്വകാര്യതാ നയവും</font></a> വായിച്ച് അംഗീകരിക്കേണ്ടതുണ്ട്.</string>
     <string name="branch_guide_description_one">ഞങ്ങൾ നിങ്ങളുടെ എല്ലാ ആപ്പുകളും ആപ്പ് ഡ്രോയറിൽ വയ്ക്കും. നിങ്ങളുടെ ഹോം സ്‌ക്രീൻ വൃത്തിയും ചിട്ടയും ഉള്ളതായി കാണപ്പെടും.</string>
     <string name="branch_guide_description_three">അന്തർനിർമ്മിത തിരയൽ ഉപയോഗിച്ച്, നിങ്ങൾക്ക് ആവശ്യമുള്ളതെല്ലാം ഒറ്റയടിക്ക് കണ്ടെത്താൻ കഴിയും!</string>
     <string name="branch_guide_description_two">ആപ്പ് ഡ്രോയർ ആപ്പുകളെ സ്വയമേവ വർഗീകരിക്കുന്നു.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">പുതിയ ഫീച്ചർ</string>
     <string name="branch_privacy_policy">സ്വകാര്യതാ നയം</string>
     <string name="branch_search_guide_description">ഞങ്ങളുടെ തിരയൽ ഫലങ്ങൾ ഇപ്പോൾ കൂടുതൽ സമഗ്രമാണ്</string>
-    <string name="branch_search_guide_privacy">ഈ സേവനം നൽകുന്നത് Branch Metrics Inc. ആണ്. നിങ്ങളുടെ ലൊക്കേഷൻ വിവരങ്ങൾ, തിരയൽ അന്വേഷണങ്ങൾ, Google പരസ്യ ഐഡി എന്നിവ Branch-മായി പങ്കിടും. ഈ സേവനം ഉപയോഗിക്കുന്നതിന് മുമ്പ് Branch-ന്റെ <font color="#B3000000"><a href="http://url1">ഉപാധികളും നിബന്ധനകളും</a></font>, <font color="#B3000000"><a href="http://url2">സ്വകാര്യതാ നയം</a></font> എന്നിവ വായിക്കുകയും അംഗീകരിക്കുകയും ചെയ്യുക.</string>
+    <string name="branch_search_guide_privacy">ഈ സേവനം നൽകുന്നത് Branch Metrics Inc. ആണ്. നിങ്ങളുടെ ലൊക്കേഷൻ വിവരങ്ങൾ, തിരയൽ അന്വേഷണങ്ങൾ, Google പരസ്യ ഐഡി എന്നിവ Branch-മായി പങ്കിടും. ഈ സേവനം ഉപയോഗിക്കുന്നതിന് മുമ്പ് Branch-ന്റെ <a href="http://url1"><font color="#B3000000">ഉപാധികളും നിബന്ധനകളും</font></a>, <a href="http://url2"><font color="#B3000000">സ്വകാര്യതാ നയം</font></a> എന്നിവ വായിക്കുകയും അംഗീകരിക്കുകയും ചെയ്യുക.</string>
     <string name="branch_search_guide_title">നിങ്ങളുടെ പ്രിയപ്പെട്ട ആപ്പുകളിൽ നിങ്ങൾ തിരയുന്നത് കണ്ടെത്തുക</string>
     <string name="branch_terms_condition">ഉപാധികളും നിബന്ധനകളും</string>
     <string name="branch_tip_title">ദ്രുത ഫൈൻഡർ ഉപയോഗിച്ച്, നിങ്ങൾക്ക് ആവശ്യമുള്ളതെല്ലാം ഒറ്റയടിക്ക് കണ്ടെത്താൻ കഴിയും.</string>
@@ -553,7 +553,7 @@
     <string name="select_all">എല്ലാം തിരഞ്ഞെടുക്കുക</string>
     <string name="send">അയക്കുക</string>
     <string name="server_error">ഒരു സെർവർ പിശക് സംഭവിച്ചു. ഒന്നോ രണ്ടോ മിനിറ്റ് കാത്തിരുന്ന് വീണ്ടും ശ്രമിക്കുക.</string>
-    <string name="service_double_attention">മെച്ചപ്പെടുത്തിയ തിരയൽ‌ പ്രവർ‌ത്തനം Branch Metrics Inc‌ നൽ‌കുന്നു. ഈ ഫീച്ചർ പ്രവർ‌ത്തിക്കുന്നതിന്, നിങ്ങളുടെ തിരയൽ‌ അഭ്യർ‌ത്ഥനകൾ‌, Google പരസ്യ ഐഡി, IP വിലാസം എന്നിവ Branch Metrics Inc-മായി പങ്കിടേണ്ടതുണ്ട്. ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് മുമ്പ് <font color="#B3000000"><a href="http://url1">അന്തിമ ഉപയോക്തൃ കണ്ടെത്തൽ നിബന്ധനകളും ഉപാധികളും</a></font>, <font color="#B3000000"><a href="http://url2">Branch Discovery സ്വകാര്യതാ നയവും</a></font> വായിച്ച് അംഗീകരിക്കേണ്ടതുണ്ട്.</string>
+    <string name="service_double_attention">മെച്ചപ്പെടുത്തിയ തിരയൽ‌ പ്രവർ‌ത്തനം Branch Metrics Inc‌ നൽ‌കുന്നു. ഈ ഫീച്ചർ പ്രവർ‌ത്തിക്കുന്നതിന്, നിങ്ങളുടെ തിരയൽ‌ അഭ്യർ‌ത്ഥനകൾ‌, Google പരസ്യ ഐഡി, IP വിലാസം എന്നിവ Branch Metrics Inc-മായി പങ്കിടേണ്ടതുണ്ട്. ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് മുമ്പ് <a href="http://url1"><font color="#B3000000">അന്തിമ ഉപയോക്തൃ കണ്ടെത്തൽ നിബന്ധനകളും ഉപാധികളും</font></a>, <a href="http://url2"><font color="#B3000000">Branch Discovery സ്വകാര്യതാ നയവും</font></a> വായിച്ച് അംഗീകരിക്കേണ്ടതുണ്ട്.</string>
     <string name="setting_close">ഓഫാക്കുക</string>
     <string name="setting_no_word">എവിടെയും</string>
     <string name="setting_only_widget_no_word">വിജറ്റുകളിൽ</string>
@@ -597,9 +597,9 @@
     <string name="system_text">സ്വയം</string>
     <string name="task_access_locked_app_msg">ആപ്പ് ലോക്ക് ഓൺ ചെയ്തു</string>
     <string name="term_of_service">ഉപാധികളും നിബന്ധനകളും</string>
-    <string name="terms_of_services_one">ആപ്പ് ഡ്രോയർ, ക്വിക്ക് ഫൈൻഡർ എന്നിവയിലേക്ക് സ്വാഗതം. ആപ്പുകൾ, ഇൻ-ആപ്പ് ഉള്ളടക്കം, ഇനങ്ങൾ എന്നിവ ഓൺലൈനിൽ വേഗത്തിൽ കണ്ടെത്താൻ ക്വിക്ക് ഫൈൻഡർ നിങ്ങളെ അനുവദിക്കുന്നു. ഈ ഫീച്ചറുകൾ ഉപയോഗിക്കുന്നതിന് മുമ്പ് Xiaomi-യുടെ <font color="#B3000000"><a href="http://url1">സ്വകാര്യതാ നയം</a></font> വായിച്ച് അംഗീകരിക്കുക.</string>
+    <string name="terms_of_services_one">ആപ്പ് ഡ്രോയർ, ക്വിക്ക് ഫൈൻഡർ എന്നിവയിലേക്ക് സ്വാഗതം. ആപ്പുകൾ, ഇൻ-ആപ്പ് ഉള്ളടക്കം, ഇനങ്ങൾ എന്നിവ ഓൺലൈനിൽ വേഗത്തിൽ കണ്ടെത്താൻ ക്വിക്ക് ഫൈൻഡർ നിങ്ങളെ അനുവദിക്കുന്നു. ഈ ഫീച്ചറുകൾ ഉപയോഗിക്കുന്നതിന് മുമ്പ് Xiaomi-യുടെ <a href="http://url1"><font color="#B3000000">സ്വകാര്യതാ നയം</font></a> വായിച്ച് അംഗീകരിക്കുക.</string>
     <string name="terms_of_services_three">ക്രമീകരണത്തിൽ ഈ ഫീച്ചർ ഓഫാക്കാൻ നിങ്ങൾക്കാകും.</string>
-    <string name="terms_of_services_two">മെച്ചപ്പെടുത്തിയ തിരയൽ ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ തിരയൽ അന്വേഷണങ്ങൾ, Google പരസ്യ ഐഡി, IP വിലാസം എന്നിവ ഉൾപ്പെടെ ആവശ്യമായ വ്യക്തിഗത വിവരങ്ങൾ Branch Metrics Inc ഉപയോഗിച്ച് പങ്കിടേണ്ടതുണ്ട്. <font color="#B3000000"><a href="http://url1">Branch ഡിസ്കവറി സ്വകാര്യതാ നയം</a></font> അനുസരിച്ച് Branch നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങൾ പ്രോസസ്സ് ചെയ്യും. ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിനുമുമ്പ് <font color="#B3000000"><a href="http://url2">അന്തിമ ഉപയോക്തൃ ഡിസ്കവറി നിബന്ധനകളും നിബന്ധനകളും</a></font>, <font color="#B3000000"><a href="http://url3">Branch ഡിസ്കവറി സ്വകാര്യതാ നയവും</a></font> വായിച്ച് അംഗീകരിക്കേണ്ടതുണ്ട്.</string>
+    <string name="terms_of_services_two">മെച്ചപ്പെടുത്തിയ തിരയൽ ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ തിരയൽ അന്വേഷണങ്ങൾ, Google പരസ്യ ഐഡി, IP വിലാസം എന്നിവ ഉൾപ്പെടെ ആവശ്യമായ വ്യക്തിഗത വിവരങ്ങൾ Branch Metrics Inc ഉപയോഗിച്ച് പങ്കിടേണ്ടതുണ്ട്. <a href="http://url1"><font color="#B3000000">Branch ഡിസ്കവറി സ്വകാര്യതാ നയം</font></a> അനുസരിച്ച് Branch നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങൾ പ്രോസസ്സ് ചെയ്യും. ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിനുമുമ്പ് <a href="http://url2"><font color="#B3000000">അന്തിമ ഉപയോക്തൃ ഡിസ്കവറി നിബന്ധനകളും നിബന്ധനകളും</font></a>, <a href="http://url3"><font color="#B3000000">Branch ഡിസ്കവറി സ്വകാര്യതാ നയവും</font></a> വായിച്ച് അംഗീകരിക്കേണ്ടതുണ്ട്.</string>
     <string name="thursday">വ്യാഴം</string>
     <string name="thursday_short">വ്യാഴം</string>
     <string name="thursday_shortest">വ്യാഴം</string>

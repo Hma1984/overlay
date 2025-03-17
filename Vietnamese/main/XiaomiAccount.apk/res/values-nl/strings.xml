@@ -549,7 +549,7 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="passport_privacy_policy">Privacybeleid</string>
     <string name="passport_privacy_policy_required">Privacybeleid (vereist)</string>
     <string name="passport_provision_input_email_register_prompt">Uw persoonlijke data worden opgeslagen in overeenstemming met de wet- en regelgeving van de regio die u selecteert.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d tekens van ten minste %3$d van de volgende typen: letters, cijfers, speciale symbolen</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> tekens van ten minste <xliff id="min_pwd_type" refersto="2">%3$d</xliff> van de volgende typen: letters, cijfers, speciale symbolen</string>
     <string name="passport_qq_login_btn_content_description">Inloggen met QQ</string>
     <string name="passport_querying_phone_info">Accountgegevens opvragen…</string>
     <string name="passport_quick_login">Inloggen</string>

@@ -741,7 +741,7 @@ If the two devices can't be connected to the same network, turn on Miracast on y
     <string name="quick_settings_device_dialog_message">თუ ჩართავთ ამ ფუნქციას, თქვენ შეძლებთ იპოვოთ ახლომდებარე ტელევიზორები, დინამიკები და მანქანები მართვის ცენტრში. გსურთ ჩართოთ ახლავე?</string>
     <string name="quick_settings_device_dialog_positive">ჩართვა</string>
     <string name="quick_settings_device_dialog_title">აღმოაჩინეთ ახლომდებარე მოწყობილობი</string>
-    <string name="quick_settings_notification_control_center">\u1ca8ეტყობინებები და სტატუსის ველი</string>
+    <string name="quick_settings_notification_control_center">Შეტყობინებები და სტატუსის ველი</string>
     <string name="remote_speaker_loop">ითამაშეთ თანმიმდევრობით</string>
     <string name="remote_speaker_repeat">გამეორება</string>
     <string name="san_wait_msg_1">ჩართეთ უკაბელო მაუწყებლობის ფუნქცია სამიზნე მოწყობილობაში</string>

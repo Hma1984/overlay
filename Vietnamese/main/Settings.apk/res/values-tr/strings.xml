@@ -266,12 +266,12 @@ Bu özelliği etkinleştirin ve menüyü açmak için ekranınızın altındaki 
     <string name="accessibility_screen_magnification_navbar_summary">"Büyütme açıldığında ekranınızda yakınlaştırma yapabilirsiniz.
 
 "<b>Yakınlaştırmak için</b>", büyütmeyi başlatın, ardından ekranda herhangi bir yere dokunun.
-"<ul><li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
-"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızı birbirine yaklaştırın</li></ul>"
+"<li><ul>"Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızı birbirine yaklaştırın</li></ul></li>"
 
 "<b>Geçici olarak yakınlaştırmak için</b>", büyütmeyi başlatın, ardından ekranda herhangi bir yere dokunup basılı tutun.
-"<ul><li>Ekranda hareket etmek için sürükleyin</li>"
-"<li>Uzaklaştırmak için parmağınızı çekin</li></ul>"
+"<li><ul>"Ekranda hareket etmek için sürükleyin
+"<li>Uzaklaştırmak için parmağınızı çekin</li></ul></li>"
 
 Klavyede veya gezinme çubuğundayken yakınlaştırma yapamazsınız."</string>
     <string name="accessibility_screen_magnification_navbar_title">Kısayolla büyütme</string>
@@ -1074,7 +1074,7 @@ Yedekler Xiaomi Cloud'ta depolanır ve kablosuz olarak erişilebilir. Bu yöntem
     <string name="battery_details_title">Uygulamaların pil kullanımı</string>
     <string name="battery_footer_summary">Kalan pil ömrü yaklaşık bir değerdir ve kullanıma dayalı olarak değişebilir</string>
     <string name="battery_full_charge_last">Tam şarjla yaklaşık kullanım süresi:</string>
-    <string name="battery_header_title_alternate"><small><font size="20">%</font></small>^1</string>
+    <string name="battery_header_title_alternate"><font size="20"><small>%</small></font>^1</string>
     <string name="battery_indicator_style">Pil göstergesi</string>
     <string name="battery_indicator_title">Pil göstergesi</string>
     <string name="battery_info_awake_battery">Pille uyanık kalınan süre:</string>
@@ -3555,8 +3555,8 @@ Daha fazla bilgi edinmek için sözleşmeli cihaz sağlayıcınızla iletişime 
     <string name="fold_rule_default">Önerilen</string>
     <string name="fold_rule_unimportant">Önemsiz</string>
     <string name="fold_screen_application_adaptation_title">Katlanabilir cihazlar özel düzenler</string>
-    <string name="fold_screen_settings_title">Katlanabilir cihazlar için özellikler</string>
-    <string name="fold_screen_special_function_title">Katlanabilir cihazlar için özellikler</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Gruplandırılmış bildirimler için kurallar</string>
     <string name="font_cta_alert_btn_negative">İptal</string>
     <string name="font_cta_alert_btn_positive">Kabul et</string>

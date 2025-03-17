@@ -121,7 +121,7 @@
     <string name="back">Atrás</string>
     <string name="backup_fail">Non se puido copiar o lanzador</string>
     <string name="branch_feature_description">Ademais de aplicacións, Quick Finder pode atopar contido dentro das aplicacións e elementos en liña.</string>
-    <string name="branch_guide_attention">Usar a procura mellorada precisa compartir as túas procuras, Google Ads ID e enderezo IP con Branch Metrics Inc. Le e acepta os <font color="#B3000000"><a href="http://url1">Termos do usuario final de Discovery e as Condicións</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Branch Discovery </a></font> antes de usar esta función.</string>
+    <string name="branch_guide_attention">Usar a procura mellorada precisa compartir as túas procuras, Google Ads ID e enderezo IP con Branch Metrics Inc. Le e acepta os <a href="http://url1"><font color="#B3000000">Termos do usuario final de Discovery e as Condicións</font></a> e a <a href="http://url2"><font color="#B3000000">Política de Branch Discovery </font></a> antes de usar esta función.</string>
     <string name="branch_guide_description_one">Poñeremos todas as túas aplicaicóns no Caixón de aplicacións. A túa pantalla de Inicio verase limpa e organizada.</string>
     <string name="branch_guide_description_three">Coa procura incorporada, poderás atopar o que necesites nun momento!</string>
     <string name="branch_guide_description_two">O Caixón de aplicacións clasifica as aplicacións automaticamente.</string>
@@ -136,7 +136,7 @@
     <string name="branch_new_feature">Nova característica</string>
     <string name="branch_privacy_policy">Política de privacidade</string>
     <string name="branch_search_guide_description">O nosos resultados de búsqueda son máis completos agora</string>
-    <string name="branch_search_guide_privacy">Este servizo está ofrecido por Branch Metrics Inc. A información da túa ubicación, as túas procuras e o ID de Google Ads ID compartiranse con Branch. Le e acepta os <font color="#B3000000"><a href="http://url1">Termos e condicións</a></font> e a <font color="#B3000000"><a href="http://url2">Política de privacidade</a></font> de Branch antes de usar este servizo.</string>
+    <string name="branch_search_guide_privacy">Este servizo está ofrecido por Branch Metrics Inc. A información da túa ubicación, as túas procuras e o ID de Google Ads ID compartiranse con Branch. Le e acepta os <a href="http://url1"><font color="#B3000000">Termos e condicións</font></a> e a <a href="http://url2"><font color="#B3000000">Política de privacidade</font></a> de Branch antes de usar este servizo.</string>
     <string name="branch_search_guide_title">Atopa o que estás buscando nas túas aplicacións favoritas</string>
     <string name="branch_terms_condition">Termos e condicións</string>
     <string name="branch_tip_title">Con Quick Finder, podes atopar todo o que necesitas nun momento.</string>
@@ -541,7 +541,7 @@ Seguranza mellorada."</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="send">Enviar</string>
     <string name="server_error">Produciuse un erro no servidor, agarda un minuto ou dous e téntao de novo.</string>
-    <string name="service_double_attention">A funcionalidade de procura mellorada está fornecida por Branch Metrics Inc. Para que esta característica funcione, precisamos compartir as túas procuras, Google Ads ID, e o enderezo IP con Branch Metrics Inc. Le e acepta os <font color="#B3000000"><a href="http://url1">Termos do usuario final de Discovery e as Conditions</a></font> e a <font color="#B3000000"><a href="http://url2">Política de privacidade de Branch Discovery</a></font> antes de usar esta función.</string>
+    <string name="service_double_attention">A funcionalidade de procura mellorada está fornecida por Branch Metrics Inc. Para que esta característica funcione, precisamos compartir as túas procuras, Google Ads ID, e o enderezo IP con Branch Metrics Inc. Le e acepta os <a href="http://url1"><font color="#B3000000">Termos do usuario final de Discovery e as Conditions</font></a> e a <a href="http://url2"><font color="#B3000000">Política de privacidade de Branch Discovery</font></a> antes de usar esta función.</string>
     <string name="setting_close">Desactivado</string>
     <string name="setting_no_word">En calquera lugar</string>
     <string name="setting_only_widget_no_word">Nos widgets</string>
@@ -583,9 +583,9 @@ Seguranza mellorada."</string>
     <string name="system_shortcuts_remove">Eliminar</string>
     <string name="task_access_locked_app_msg">Bloqueo de pantalla activado</string>
     <string name="term_of_service">Termos e condicións</string>
-    <string name="terms_of_services_one">Benvido ao Caixón de aplicación e Quick Finder. Quick Finder axúdate a atopar aplicacións, contido integrado nas aplicacións e elementos en liña máis rápido. Le e acepta a <font color="#B3000000"><a href="http://url1">Política de Privacidade</a></font> de Xiaomi antes de usar estas características.</string>
+    <string name="terms_of_services_one">Benvido ao Caixón de aplicación e Quick Finder. Quick Finder axúdate a atopar aplicacións, contido integrado nas aplicacións e elementos en liña máis rápido. Le e acepta a <a href="http://url1"><font color="#B3000000">Política de Privacidade</font></a> de Xiaomi antes de usar estas características.</string>
     <string name="terms_of_services_three">Pode desactivar esta característica nos Axustes.</string>
-    <string name="terms_of_services_two">Para utilizar a búsqueda mellorada é preciso compartir información personal necesaria, como as consultas de búsqueda, o ID de publicidade de Google e a dirección IP, con Branch Metrics Inc. Branch procesará a túa información personal dacordo coa <font color="#B3000000"><a href="http://url1">Política de Privacidade de Branch Discovery</a></font>. Le e acepta os <font color="#B3000000"><a href="http://url2">Termos e Condicións do Usuario Final de Discovery</a></font> e a <font color="#B3000000"><a href="http://url3">Política de Privacidade de Branch Discovery</a></font> antes de usar esta característica.</string>
+    <string name="terms_of_services_two">Para utilizar a búsqueda mellorada é preciso compartir información personal necesaria, como as consultas de búsqueda, o ID de publicidade de Google e a dirección IP, con Branch Metrics Inc. Branch procesará a túa información personal dacordo coa <a href="http://url1"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a>. Le e acepta os <a href="http://url2"><font color="#B3000000">Termos e Condicións do Usuario Final de Discovery</font></a> e a <a href="http://url3"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a> antes de usar esta característica.</string>
     <string name="thursday">Xoves</string>
     <string name="thursday_short">Xov</string>
     <string name="thursday_shortest">Xov</string>

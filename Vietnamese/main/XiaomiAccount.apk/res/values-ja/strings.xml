@@ -580,7 +580,7 @@
     <string name="passport_privacy_policy">プライバシーポリシー</string>
     <string name="passport_privacy_policy_required">プライバシーポリシー（必須）</string>
     <string name="passport_provision_input_email_register_prompt">個人情報は、ご利用者が選択した地域の法令に基づいて保管されます。</string>
-    <string name="passport_provision_password_req_notice">文字、数字、特殊記号のうち%3$d種類以上を含む%1$d～%2$d桁のパスワード</string>
+    <string name="passport_provision_password_req_notice">文字、数字、特殊記号のうち<xliff id="min_pwd_type" refersto="2">%3$d</xliff>種類以上を含む<xliff id="min_pwd_len" refersto="8">%1$d</xliff>～<xliff id="max_pwd_len" refersto="16">%2$d</xliff>桁のパスワード</string>
     <string name="passport_qq_login_btn_content_description">QQでサインイン</string>
     <string name="passport_querying_phone_info">アカウント情報をリクエスト中…</string>
     <string name="passport_quick_login">サインイン</string>

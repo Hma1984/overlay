@@ -122,7 +122,7 @@
     <string name="back">ਵਾਪਸ</string>
     <string name="backup_fail">ਲਾਂਚਰ ਦੀ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਿਆ</string>
     <string name="branch_feature_description">ਐਪਾਂ ਤੋਂ ਇਲਾਵਾ, ਕਵਿੱਕ ਫ਼ਾਈਂਡਰ ਐਪ ਵਿੱਚਲੀ ਸਮੱਗਰੀ ਅਤੇ ਆਈਟਮਾਂ ਆਨਲਾਈਨ ਖੋਜ ਸਕਦਾ ਹੈ।</string>
-    <string name="branch_guide_attention">ਵਿਸਤ੍ਰਿਤ ਖੋਜ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਖੋਜ ਬੇਨਤੀਆਂ, Google Ads ਆਈਡੀ ਅਤੇ Branch Metrics Inc. ਦੇ ਨਾਲ IP ਪਤੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ <font color="#B3000000"><a href="http://url1">ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਖੋਜ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</a></font> ਅਤੇ <font color="#B3000000"><a href="http://url2">Branch ਖੋਜ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a></font> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਇਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
+    <string name="branch_guide_attention">ਵਿਸਤ੍ਰਿਤ ਖੋਜ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਖੋਜ ਬੇਨਤੀਆਂ, Google Ads ਆਈਡੀ ਅਤੇ Branch Metrics Inc. ਦੇ ਨਾਲ IP ਪਤੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ <a href="http://url1"><font color="#B3000000">ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਖੋਜ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</font></a> ਅਤੇ <a href="http://url2"><font color="#B3000000">Branch ਖੋਜ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</font></a> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਇਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
     <string name="branch_guide_description_one">ਅਸੀਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਐਪ ਡ੍ਰਾਅਰ ਵਿੱਚ ਪਾਵਾਂਗੇ। ਤੁਹਾਡੀ ਹੋਮ ਸਕ੍ਰੀਨ ਸਾਫ਼ ਅਤੇ ਵਿਵਸਥਿਤ ਦਿਖਾਈ ਦੇਵੇਗੀ।</string>
     <string name="branch_guide_description_three">ਬਿਲਟ-ਇਨ ਖੋਜ ਨਾਲ, ਤੁਸੀਂ ਪਲਾਂ ਵਿੱਚ ਹੀ ਆਪਣੀ ਲੋੜ ਦੀ ਹਰ ਚੀਜ਼ ਲੱਭ ਸਕੋਗੇ!</string>
     <string name="branch_guide_description_two">"ਐਪ ਡ੍ਰਾਅਰ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਐਪਾਂ ਸ਼੍ਰੇਣੀਗਤ ਕਰਦਾ ਹੈ।"</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">ਨਵੀਂ ਵਿਸ਼ੇਸ਼ਤਾ</string>
     <string name="branch_privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</string>
     <string name="branch_search_guide_description">ਸਾਡੇ ਖੋਜ ਨਤੀਜੇ ਹੁਣ ਹੋਰ ਜ਼ਿਆਦਾ ਵਿਸਤ੍ਰਿਤ ਹੋ ਗਏ ਹਨ</string>
-    <string name="branch_search_guide_privacy">ਇਹ ਸੇਵਾ Branch Metrics Inc. ਵੱਲੋਂ ਉਪਲਬਧ ਕਰਵਾਈ ਗਈ ਹੈ। ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਦੀ ਜਾਣਕਾਰੀ, ਖੋਜ ਪੁੱਛ-ਗਿਛ ਅਤੇ Google Ads ਆਈਡੀ Branch ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਵੇਗੀ। ਇਸ ਸੇਵਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Branch ਦੇ <font color="#B3000000"><a href="http://url1">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</a></font> ਅਤੇ <font color="#B3000000"><a href="http://url2">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a></font> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਉਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
+    <string name="branch_search_guide_privacy">ਇਹ ਸੇਵਾ Branch Metrics Inc. ਵੱਲੋਂ ਉਪਲਬਧ ਕਰਵਾਈ ਗਈ ਹੈ। ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਦੀ ਜਾਣਕਾਰੀ, ਖੋਜ ਪੁੱਛ-ਗਿਛ ਅਤੇ Google Ads ਆਈਡੀ Branch ਨਾਲ ਸਾਂਝੀ ਕੀਤੀ ਜਾਵੇਗੀ। ਇਸ ਸੇਵਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Branch ਦੇ <a href="http://url1"><font color="#B3000000">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</font></a> ਅਤੇ <a href="http://url2"><font color="#B3000000">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</font></a> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਉਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
     <string name="branch_search_guide_title">ਦੇਖੋ ਕਿ ਤੁਸੀਂ ਆਪਣੀਆਂ ਪਸੰਦੀਦਾ ਐਪਾਂ ਵਿੱਚ ਕੀ ਲੱਭ ਰਹੇ ਹੋ</string>
     <string name="branch_terms_condition">ਨਿਯਮ ਤੇ ਸ਼ਰਤਾਂ</string>
     <string name="branch_tip_title">ਕਵਿੱਕ ਫ਼ਾਈਂਡਰ ਨਾਲ, ਤੁਸੀਂ ਝੱਟ ਚੀਜ਼ਾਂ ਲੱਭ ਸਕਦੇ ਹੋ।</string>
@@ -553,7 +553,7 @@
     <string name="select_all">ਸਾਰੇ ਚੁਣੋ</string>
     <string name="send">ਭੇਜੋ</string>
     <string name="server_error">ਇੱਕ ਸਰਵਰ ਤਰੁੱਟੀ ਆਈ ਹੈ। ਥੋੜ੍ਹੀ ਦੇਰ ਉਡੀਕ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
-    <string name="service_double_attention">ਵਿਸਤ੍ਰਿਤ ਖੋਜ ਕਾਰਜਾਤਮਕਤਾ Branch Metrics Inc. ਵੱਲੋਂ ਪ੍ਰਦਾਨ ਕੀਤੀ ਗਈ ਹੈ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਣ ਲਈ, ਸਾਨੂੰ ਤੁਹਾਡੀਆਂ ਖੋਜ ਬੇਨਤੀਆਂ, Google Ads ਆਈਡੀ ਅਤੇ Branch Metrics Inc. ਦੇ ਨਾਲ IP ਪਤੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨਾ ਪਵੇਗਾ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ <font color="#B3000000"><a href="http://url1">ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਖੋਜ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</a></font> ਅਤੇ <font color="#B3000000"><a href="http://url2">Branch ਖੋਜ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a></font> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਇਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
+    <string name="service_double_attention">ਵਿਸਤ੍ਰਿਤ ਖੋਜ ਕਾਰਜਾਤਮਕਤਾ Branch Metrics Inc. ਵੱਲੋਂ ਪ੍ਰਦਾਨ ਕੀਤੀ ਗਈ ਹੈ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਣ ਲਈ, ਸਾਨੂੰ ਤੁਹਾਡੀਆਂ ਖੋਜ ਬੇਨਤੀਆਂ, Google Ads ਆਈਡੀ ਅਤੇ Branch Metrics Inc. ਦੇ ਨਾਲ IP ਪਤੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨਾ ਪਵੇਗਾ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ <a href="http://url1"><font color="#B3000000">ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਖੋਜ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</font></a> ਅਤੇ <a href="http://url2"><font color="#B3000000">Branch ਖੋਜ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</font></a> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਇਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
     <string name="setting_close">ਬੰਦ</string>
     <string name="setting_no_word">ਕਿਤੇ ਵੀ</string>
     <string name="setting_only_widget_no_word">ਵਿਜੇਟ ਉੱਤੇ</string>
@@ -597,9 +597,9 @@
     <string name="system_text">ਸਵੈਚਲਿਤ</string>
     <string name="task_access_locked_app_msg">ਐਪ ਲਾਕ ਚਾਲੂ ਕੀਤਾ ਗਿਆ</string>
     <string name="term_of_service">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</string>
-    <string name="terms_of_services_one">ਐਪ ਡ੍ਰਾਅਰ ਅਤੇ ਕਵਿੱਕ ਫ਼ਾਈਂਡਰ ਵਿੱਚ ਤੁਹਾਡਾ ਜੀ ਆਇਆਂ ਨੂੰ। ਕਵਿੱਕ ਫ਼ਾਈਂਡਰ ਤੁਹਾਨੂੰ ਐਪਾਂ, ਐਪਾਂ-ਵਿੱਚ ਸਮੱਗਰੀ ਅਤੇ ਆਈਟਮਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਆਨਲਾਈਨ ਲੱਭਣ ਦਿੰਦਾ ਹੈ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Xiaomi ਦੀ <font color="#B3000000"><a href="http://url1">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a></font> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਉਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
+    <string name="terms_of_services_one">ਐਪ ਡ੍ਰਾਅਰ ਅਤੇ ਕਵਿੱਕ ਫ਼ਾਈਂਡਰ ਵਿੱਚ ਤੁਹਾਡਾ ਜੀ ਆਇਆਂ ਨੂੰ। ਕਵਿੱਕ ਫ਼ਾਈਂਡਰ ਤੁਹਾਨੂੰ ਐਪਾਂ, ਐਪਾਂ-ਵਿੱਚ ਸਮੱਗਰੀ ਅਤੇ ਆਈਟਮਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਆਨਲਾਈਨ ਲੱਭਣ ਦਿੰਦਾ ਹੈ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Xiaomi ਦੀ <a href="http://url1"><font color="#B3000000">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</font></a> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਉਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
     <string name="terms_of_services_three">ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।</string>
-    <string name="terms_of_services_two">ਵਿਸਤ੍ਰਿਤ ਖੋਜ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ, ਜਿਸ ਵਿੱਚ ਤੁਹਾਡੀ ਖੋਜ ਸੰਬੰਧੀ ਪੁੱਛ-ਗਿੱਛ, Google ਵਿਗਿਆਪਨ ਆਈਡੀ ਅਤੇ IP ਪਤੇ ਨੂੰ Branch Metrics Inc. ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। Branch ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਉੱਤੇ <font color="#B3000000"><a href="http://url1">Branch Discovery ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a></font> ਮੁਤਾਬਕ ਪ੍ਰਕਿਰਿਆ ਕਰੇਗਾ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ <font color="#B3000000"><a href="http://url2"> ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਖੋਜ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</a></font> ਅਤੇ <font color="#B3000000"><a href="http://url3">Branch Discovery ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a></font> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਉਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
+    <string name="terms_of_services_two">ਵਿਸਤ੍ਰਿਤ ਖੋਜ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ, ਜਿਸ ਵਿੱਚ ਤੁਹਾਡੀ ਖੋਜ ਸੰਬੰਧੀ ਪੁੱਛ-ਗਿੱਛ, Google ਵਿਗਿਆਪਨ ਆਈਡੀ ਅਤੇ IP ਪਤੇ ਨੂੰ Branch Metrics Inc. ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। Branch ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਉੱਤੇ <a href="http://url1"><font color="#B3000000">Branch Discovery ਪਰਦੇਦਾਰੀ ਨੀਤੀ</font></a> ਮੁਤਾਬਕ ਪ੍ਰਕਿਰਿਆ ਕਰੇਗਾ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ <a href="http://url2"><font color="#B3000000"> ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਖੋਜ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</font></a> ਅਤੇ <a href="http://url3"><font color="#B3000000">Branch Discovery ਪਰਦੇਦਾਰੀ ਨੀਤੀ</font></a> ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਉਸ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।</string>
     <string name="thursday">ਵੀਰਵਾਰ</string>
     <string name="thursday_short">ਵੀਰ</string>
     <string name="thursday_shortest">ਵੀਰ</string>

@@ -224,12 +224,12 @@ Lze tomu předejít změnou zkratky pro zvětšení z trojitého klepnutí na j
     <string name="accessibility_screen_magnification_navbar_summary">"Když je zapnuté zvětšení, můžete přibližovat obsah na obrazovce.
 
 "<b>Chcete-li obsah přiblížit</b>", spusťte zvětšení a poté klepněte kamkoliv na obrazovku.
-"<ul><li>Přetažením dvěma nebo více prsty můžete obsah posouvat.</li>"
-"<li>Stažením nebo roztažením dvou či více prstů upravíte přiblížení.</li></ul>"
+"<li><ul>"Přetažením dvěma nebo více prsty můžete obsah posouvat.
+"<li>Stažením nebo roztažením dvou či více prstů upravíte přiblížení.</li></ul></li>"
 
 "<b>Chcete-li obsah přiblížit dočasně</b>", spusťte zvětšení a poté se dotkněte libovolného místa na obrazovce a podržte ho.
-"<ul><li>Přetažením se můžete pohybovat po obrazovce.</li>"
-"<li>Zvednutím prstu zobrazení vrátíte do původního stavu.</li></ul>"
+"<li><ul>"Přetažením se můžete pohybovat po obrazovce.
+"<li>Zvednutím prstu zobrazení vrátíte do původního stavu.</li></ul></li>"
 
 Na klávesnici a navigačním panelu přiblížení není k dispozici."</string>
     <string name="accessibility_screen_magnification_navbar_title">Zvětšení zkratkou</string>

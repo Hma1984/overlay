@@ -263,12 +263,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"Όταν η μεγέθυνση είναι ενεργοποιημένη, μπορείτε να μεγεθύνετε την οθόνη σας.
 
 "<b>Για εστίαση </b>", ανοίξτε τη μεγέθυνση και, στη συνέχεια, πατήστε οπουδήποτε στην οθόνη σας.
-"<ul><li>Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση</li>"
-"<li>Πλησιάστε 2 ή περισσότερα δάχτυλα για να προσαρμόσετε την εστίαση</li></ul>"
+"<li><ul>"Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση
+"<li>Πλησιάστε 2 ή περισσότερα δάχτυλα για να προσαρμόσετε την εστίαση</li></ul></li>"
 
 "<b>Για προσωρινή εστίαση</b>", ανοίξτε τη μεγέθυνση και, στη συνέχεια, αγγίξτε παρατεταμένα οπουδήποτε στην οθόνη.
-"<ul><li>Σύρετε για να μετακινηθείτε στην οθόνη</li>"
-"<li>Ανασηκώστε το δάχτυλο για σμίκρυνση</li></ul>"
+"<li><ul>"Σύρετε για να μετακινηθείτε στην οθόνη
+"<li>Ανασηκώστε το δάχτυλο για σμίκρυνση</li></ul></li>"
 
 Δεν μπορείτε να κάνετε μεγέθυνση στο πληκτρολόγιο ή τη γραμμή πλοήγησης."</string>
     <string name="accessibility_screen_magnification_navbar_title">Συντόμ. μεγέθυνσης</string>
@@ -3550,8 +3550,8 @@ aptX Bluetooth: Λειτουργία κωδικοποιητή"</string>
     <string name="fold_rule_default">Προτεινόμενα</string>
     <string name="fold_rule_unimportant">Ασήμαντα</string>
     <string name="fold_screen_application_adaptation_title">Προσαρμοσμένες διατάξεις για αναδιπλούμενες συσκευές</string>
-    <string name="fold_screen_settings_title">Λειτουργίες για αναδιπλούμενες συσκευές</string>
-    <string name="fold_screen_special_function_title">Λειτουργίες για αναδιπλούμενες συσκευές</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Κανόνες ομαδοποιημένων ειδοποιήσεων</string>
     <string name="font_cta_alert_btn_negative">Ακύρωση</string>
     <string name="font_cta_alert_btn_positive">Αποδοχή</string>

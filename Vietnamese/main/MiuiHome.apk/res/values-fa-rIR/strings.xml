@@ -122,7 +122,7 @@
     <string name="back">بازگشت</string>
     <string name="backup_fail">از لانچر نسخه پشتیبان گرفته نشد</string>
     <string name="branch_feature_description">علاوه بر برنامه‌ها، جستجوی سریع می‌تواند مطالب و موارد محتوا برنامه را به صورت آنلاین پیدا کند.</string>
-    <string name="branch_guide_attention">استفاده از جستجوی بهبود یافته نیازمند هم‌رسانی درخواست‌های جستجوی شما، شناسه آگهی‌های Google و نشانی IPها با Branch Metrics Inc است. پیش از استفاده از این ویژگی <font color="#B3000000"><a href="http://url1">شرایط و ضوابط اکتشاف کاربر نهایی</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی اکتشاف Branch</a></font> را خوانده و بپذیرید.</string>
+    <string name="branch_guide_attention">استفاده از جستجوی بهبود یافته نیازمند هم‌رسانی درخواست‌های جستجوی شما، شناسه آگهی‌های Google و نشانی IPها با Branch Metrics Inc است. پیش از استفاده از این ویژگی <a href="http://url1"><font color="#B3000000">شرایط و ضوابط اکتشاف کاربر نهایی</font></a> و <a href="http://url2"><font color="#B3000000">سیاست حفظ حریم خصوصی اکتشاف Branch</font></a> را خوانده و بپذیرید.</string>
     <string name="branch_guide_description_one">ما برنامه‌های شما را در کشوی برنامه می‌گذاریم. صفحه اصلی شما مرتب و منظم دیده خواهد شد.</string>
     <string name="branch_guide_description_three">با جستجوی داخلی، هر آنچه را که نیاز دارید می‌توانید در یک لحظه بیابید!</string>
     <string name="branch_guide_description_two">کشوی برنامه برنامه‌ها را به صورت خودکار دسته‌بندی می‌کند.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">ویژگی جدید</string>
     <string name="branch_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="branch_search_guide_description">نتایج جستجوی ما حالا همه‌جانبه‌تر هستند</string>
-    <string name="branch_search_guide_privacy">این خدمات توسط Branch Metrics Inc ارائه شده‌اند. اطلاعات موقعیت، جستجوهای انجام شده و شناسه تبلیغات Google شما با Branch هم‌رسانی خواهد شد. پیش از استفادهد ااز این خدمات <font color="#B3000000"><a href="http://url1">شرایط و ضوابط</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی</a></font> Branch را خوانده و بپذیرید.</string>
+    <string name="branch_search_guide_privacy">این خدمات توسط Branch Metrics Inc ارائه شده‌اند. اطلاعات موقعیت، جستجوهای انجام شده و شناسه تبلیغات Google شما با Branch هم‌رسانی خواهد شد. پیش از استفادهد ااز این خدمات <a href="http://url1"><font color="#B3000000">شرایط و ضوابط</font></a> و <a href="http://url2"><font color="#B3000000">سیاست حفظ حریم خصوصی</font></a> Branch را خوانده و بپذیرید.</string>
     <string name="branch_search_guide_title">چیزهایی که در برنامه مورد پسندتان دنبالش هستید را بیابید</string>
     <string name="branch_terms_condition">شرایط و ضوابط</string>
     <string name="branch_tip_title">با جستجوی سریع می‌توانید هر آنچه را که نیاز دارید در یک لحظه پیدا کنید.</string>
@@ -552,7 +552,7 @@
     <string name="select_all">انتخاب همه</string>
     <string name="send">ارسال</string>
     <string name="server_error">یک خطای سرور رخ داده است. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
-    <string name="service_double_attention">ویژگی جستجوی بهبود یافته توسط Branch Metrics Inc ارائه شده است. برای کار کردن این ویژگی، ما به هم‌رسانی درخواست‌های جستجوی شما، شناسه آگهی‌های Google و نشانی IPها با Branch Metrics Inc نیاز داریم. پیش از استفاده از این ویژگی <font color="#B3000000"><a href="http://url1">شرایط و ضوابط اکتشاف کاربر نهایی</a></font> و <font color="#B3000000"><a href="http://url2">سیاست حفظ حریم خصوصی اکتشاف Branch</a></font> را خوانده و بپذیرید.</string>
+    <string name="service_double_attention">ویژگی جستجوی بهبود یافته توسط Branch Metrics Inc ارائه شده است. برای کار کردن این ویژگی، ما به هم‌رسانی درخواست‌های جستجوی شما، شناسه آگهی‌های Google و نشانی IPها با Branch Metrics Inc نیاز داریم. پیش از استفاده از این ویژگی <a href="http://url1"><font color="#B3000000">شرایط و ضوابط اکتشاف کاربر نهایی</font></a> و <a href="http://url2"><font color="#B3000000">سیاست حفظ حریم خصوصی اکتشاف Branch</font></a> را خوانده و بپذیرید.</string>
     <string name="setting_close">خاموش</string>
     <string name="setting_no_word">در هر کجا</string>
     <string name="setting_only_widget_no_word">روی ابزارک‌ها</string>
@@ -596,9 +596,9 @@
     <string name="system_text">خودکار</string>
     <string name="task_access_locked_app_msg">قفل برنامه روشن شد</string>
     <string name="term_of_service">شرایط و ضوابط</string>
-    <string name="terms_of_services_one">به کشوی برنامه و جستجوی سریع خوش آمدید. جستجوی سریع به شما اجازه یافتن برنامه‌ها، محتوای درون برنامه‌ای و موارد آنلاین را سریع‌تر می‌دهد. پیش از استفاده از این ویژگی <font color="#B3000000"><a href="http://url1">سیاست حفظ حریم خصوصی</a></font> Xiaomi را خوانده و بپذیرید.</string>
+    <string name="terms_of_services_one">به کشوی برنامه و جستجوی سریع خوش آمدید. جستجوی سریع به شما اجازه یافتن برنامه‌ها، محتوای درون برنامه‌ای و موارد آنلاین را سریع‌تر می‌دهد. پیش از استفاده از این ویژگی <a href="http://url1"><font color="#B3000000">سیاست حفظ حریم خصوصی</font></a> Xiaomi را خوانده و بپذیرید.</string>
     <string name="terms_of_services_three">شما می‌توانید این ویژگی را در تنظیمات خاموش کنید.</string>
-    <string name="terms_of_services_two">استفاده از جستجوی بهبود یافته نیازمند هم‌رسانی اطلاعات شخصی لازم از جمله تلاش‌های جستجو، شناسه تبلیغات Google و نشانی IP با Branch Metrics Inc است. Branch اطلاعات شخصی شما را بر اساس <font color="#B3000000"><a href="http://url1">سیاست حفظ حریم خصوصی Branch Discovery</a></font> پردازش می‌کند. پیش از استفاده از این ویژگی <font color="#B3000000"><a href="http://url2">شرایط و ضوابط کاربر نهایی Discovery</a></font> و <font color="#B3000000"><a href="http://url3">سیاست حفظ حریم خصوصی Branch Discovery </a></font> را خوانده و بپذیرید.</string>
+    <string name="terms_of_services_two">استفاده از جستجوی بهبود یافته نیازمند هم‌رسانی اطلاعات شخصی لازم از جمله تلاش‌های جستجو، شناسه تبلیغات Google و نشانی IP با Branch Metrics Inc است. Branch اطلاعات شخصی شما را بر اساس <a href="http://url1"><font color="#B3000000">سیاست حفظ حریم خصوصی Branch Discovery</font></a> پردازش می‌کند. پیش از استفاده از این ویژگی <a href="http://url2"><font color="#B3000000">شرایط و ضوابط کاربر نهایی Discovery</font></a> و <a href="http://url3"><font color="#B3000000">سیاست حفظ حریم خصوصی Branch Discovery </font></a> را خوانده و بپذیرید.</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>

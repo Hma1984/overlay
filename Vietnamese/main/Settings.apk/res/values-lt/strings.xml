@@ -268,12 +268,12 @@ Norėdami paleisti meniu, įjunkite šią funkciją ir bakstelėkite ekrano apa�
     <string name="accessibility_screen_magnification_navbar_summary">"Kai didinimas įjungtas, galite artinti ekraną.
 
 "<b>Jei norite keisti mastelį,</b>", įjunkite didinimą, tada palieskite bet kurioje ekrano vietoje.
-"<ul><li>Slinkite vilkdami dviem ar daugiau pirštų</li>"
-"<li>Koreguokite mastelį suimdami dviem ar daugiau pirštų</li></ul>"
+"<li><ul>"Slinkite vilkdami dviem ar daugiau pirštų
+"<li>Koreguokite mastelį suimdami dviem ar daugiau pirštų</li></ul></li>"
 
 "<b>Jei norite laikinai pakeisti mastelį</b>", įjunkite didinimą, tada palieskite ir palaikykite bet kurioje ekrano vietoje.
-"<ul><li>Naršykite ekraną vilkdami pirštu</li>"
-"<li>Pakelkite pirštą, kad tolintumėte</li></ul>"
+"<li><ul>"Naršykite ekraną vilkdami pirštu
+"<li>Pakelkite pirštą, kad tolintumėte</li></ul></li>"
 
 Negalite artinti naudodami klaviatūrą ar naršymo juostą."</string>
     <string name="accessibility_screen_magnification_navbar_title">Didinimas naudojant spart. klavišą</string>
@@ -3569,8 +3569,8 @@ Jei norite sužinoti daugiau, susisiekite su kredito teikėju."</string>
     <string name="fold_rule_default">Rekomenduojama</string>
     <string name="fold_rule_unimportant">Nesvarbu</string>
     <string name="fold_screen_application_adaptation_title">Pasirinktinis išdėstymas atlenkiamiems įrenginiams</string>
-    <string name="fold_screen_settings_title">Funkcijos atlenkiamiems įrenginiams</string>
-    <string name="fold_screen_special_function_title">Funkcijos atlenkiamiems įrenginiams</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Grupuotų pranešimų taisyklės</string>
     <string name="font_cta_alert_btn_negative">Atšaukti</string>
     <string name="font_cta_alert_btn_positive">Sutinku</string>

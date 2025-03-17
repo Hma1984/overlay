@@ -2327,7 +2327,7 @@ das suas sessões de jogo"</string>
     <string name="gtb_timer">Temporizador</string>
     <string name="gtb_voice_changer">Modificador de voz</string>
     <string name="gtb_wlan_speed_tips">A utilizar Mi Wi-Fi…</string>
-    <string name="guide_get_operator_error"><u><font color="#33b4ff">Operadora errada?</font></u></string>
+    <string name="guide_get_operator_error"><font color="#33b4ff"><u>Operadora errada?</u></font></string>
     <string name="guide_operator_text">"A sua operadora actual: "</string>
     <string name="guide_quck_open">Ligar</string>
     <string name="guide_second_text">Após definir a sua operadora, vamos monitorizar a sua utilização de dados móveis diária ao enviar uma mensagem de texto gratuita. Quando detectarmos que passou o limite de utilização de dados, vai notificá-lo e desligá-lo da rede</string>

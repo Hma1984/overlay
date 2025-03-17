@@ -145,7 +145,7 @@
     <string name="backup_fail">Neizdevās dublēt palaidēju</string>
     <string name="bottomsheet_action_expand_halfway">Izvērst līdz pusei</string>
     <string name="branch_feature_description">Papildus lietotnēm Ātrais meklētājs tiešsaistē var atrast saturu un vienumus lietotnē.</string>
-    <string name="branch_guide_attention">Lai izmantotu uzlaboto meklēšanu, ir nepieciešami meklēšanas pieprasījumu, Google reklāmu ID un IP adreses koplietošana, izmantojot Branch Metrics Inc. Izlasiet un piekrītiet mūsu <font color="#B3000000"><a href="http://url1">Discovery lietošanas nosacījumiem&amp;Noteikumiem</a></font> un <font color="#B3000000"><a href="http://url2">Branch Discovery Konfidencialitātes politikai</a></font>, pirms šīs iespējas izmantošanas.</string>
+    <string name="branch_guide_attention">Lai izmantotu uzlaboto meklēšanu, ir nepieciešami meklēšanas pieprasījumu, Google reklāmu ID un IP adreses koplietošana, izmantojot Branch Metrics Inc. Izlasiet un piekrītiet mūsu <a href="http://url1"><font color="#B3000000">Discovery lietošanas nosacījumiem&amp;Noteikumiem</font></a> un <a href="http://url2"><font color="#B3000000">Branch Discovery Konfidencialitātes politikai</font></a>, pirms šīs iespējas izmantošanas.</string>
     <string name="branch_guide_description_one">Mēs ievietosim visas jūsu lietotnes Lietotņu atvilktnē. Sākuma ekrāns izskatīsies veikls un sakārtots.</string>
     <string name="branch_guide_description_three">Izmantojot iebūvēto meklēšanu, jūs ātri atradīsit visu nepieciešamo!</string>
     <string name="branch_guide_description_two">Lietotņu atvilktne automātiski kategorizē lietotnes.</string>
@@ -160,7 +160,7 @@
     <string name="branch_new_feature">Jauna iespēja</string>
     <string name="branch_privacy_policy">Konfidencialitātes politika</string>
     <string name="branch_search_guide_description">Mūsu meklēšanas rezultāti tagad ir daudz visaptverošāki</string>
-    <string name="branch_search_guide_privacy">Šo pakalpojumu nodrošina Branch Metrics Inc. Jūsu atrašanās vietas informācija, meklēšanas vaicājumi un Google reklāmu ID tiks kopīgoti ar filiāli. Izlasiet un piekrītiet Branch <font color="#B3000000"><a href="http://url1">Noteikumiem un nosacījumiem</a></font> un <font color="#B3000000"><a href="http://url2">Konfidencialitātes politikai</a></font> pirms pakalpojuma izmantošanas.</string>
+    <string name="branch_search_guide_privacy">Šo pakalpojumu nodrošina Branch Metrics Inc. Jūsu atrašanās vietas informācija, meklēšanas vaicājumi un Google reklāmu ID tiks kopīgoti ar filiāli. Izlasiet un piekrītiet Branch <a href="http://url1"><font color="#B3000000">Noteikumiem un nosacījumiem</font></a> un <a href="http://url2"><font color="#B3000000">Konfidencialitātes politikai</font></a> pirms pakalpojuma izmantošanas.</string>
     <string name="branch_search_guide_title">Atrodiet meklēto savās iecienītākajās lietotnēs</string>
     <string name="branch_terms_condition">Noteikumi un nosacījumi</string>
     <string name="branch_tip_title">Ar Ātro meklētāju, visu, kas jums vajadzīgs, varat atrast vienā rāvienā.</string>
@@ -617,7 +617,7 @@ Uzlabota drošība."</string>
     <string name="select_all">Izvēlēt visus</string>
     <string name="send">Sūtīt</string>
     <string name="server_error">Radās servera kļūda. Pagaidiet pāris minūtes un mēģiniet vēlreiz.</string>
-    <string name="service_double_attention">Uzlaboto meklēšanu nodrošina Branch Metrics Inc. Lai izmantotu šo funkciju, ir nepieciešami meklēšanas pieprasījumu, Google reklāmu ID un IP adreses koplietošana, izmantojot Branch Metrics Inc. Izlasiet un piekrītiet mūsu <font color="#B3000000"><a href="http://url1">Discovery lietošanas nosacījumiem&amp;Noteikumiem</a></font> un <font color="#B3000000"><a href="http://url2">Branch Discovery Konfidencialitātes politikai</a></font>, pirms šīs iespējas izmantošanas.</string>
+    <string name="service_double_attention">Uzlaboto meklēšanu nodrošina Branch Metrics Inc. Lai izmantotu šo funkciju, ir nepieciešami meklēšanas pieprasījumu, Google reklāmu ID un IP adreses koplietošana, izmantojot Branch Metrics Inc. Izlasiet un piekrītiet mūsu <a href="http://url1"><font color="#B3000000">Discovery lietošanas nosacījumiem&amp;Noteikumiem</font></a> un <a href="http://url2"><font color="#B3000000">Branch Discovery Konfidencialitātes politikai</font></a>, pirms šīs iespējas izmantošanas.</string>
     <string name="setting_close">Izsl.</string>
     <string name="setting_no_word">Jebkur</string>
     <string name="setting_only_widget_no_word">Uz logrīkiem</string>
@@ -661,9 +661,9 @@ Uzlabota drošība."</string>
     <string name="system_text">Automātisks</string>
     <string name="task_access_locked_app_msg">Lietotņu bloķēšana ieslēgta</string>
     <string name="term_of_service">Noteikumi un nosacījumi</string>
-    <string name="terms_of_services_one">Esiet sveicināti Lietotņu atvilktnē un Ātrajā meklētājā! Ātrais meklētājs ļauj ātrāk atrast lietotnes, lietotņu saturu un vienumus tiešsaistē. izlasīt un piekrītiet Xiaomi <font color="#B3000000"><a href="http://url1">Konfidencialitātes politikai</a></font> pirms šīs funkcijas izmantošanas.</string>
+    <string name="terms_of_services_one">Esiet sveicināti Lietotņu atvilktnē un Ātrajā meklētājā! Ātrais meklētājs ļauj ātrāk atrast lietotnes, lietotņu saturu un vienumus tiešsaistē. izlasīt un piekrītiet Xiaomi <a href="http://url1"><font color="#B3000000">Konfidencialitātes politikai</font></a> pirms šīs funkcijas izmantošanas.</string>
     <string name="terms_of_services_three">Jūs šo funkciju varat izslēgt Iestatījumos.</string>
-    <string name="terms_of_services_two">Lai izmantotu uzlaboto meklēšanu, ir nepieciešama nepieciešamās personiskās informācijas, tostarp meklēšanas vaicājumu, Google reklamēšanas ID un IP adreses, kopīgošana, izmantojot Branch Metrics Inc. Filiāle apstrādās jūsu personisko informāciju saskaņā ar <font color="#B3000000"><a href="http://url1">Branch Discovery Konfidencialitātes politiku</a></font>. Izlasiet un piekrītiet <font color="#B3000000"><a href="http://url2">Gala lietotāja licences līgumam un Nosacījumiem</a></font> un <font color="#B3000000"><a href="http://url3">Branch Discovery Konfidencialitātes politikai</a></font> pirms šīs funkcijas izmantošanas.</string>
+    <string name="terms_of_services_two">Lai izmantotu uzlaboto meklēšanu, ir nepieciešama nepieciešamās personiskās informācijas, tostarp meklēšanas vaicājumu, Google reklamēšanas ID un IP adreses, kopīgošana, izmantojot Branch Metrics Inc. Filiāle apstrādās jūsu personisko informāciju saskaņā ar <a href="http://url1"><font color="#B3000000">Branch Discovery Konfidencialitātes politiku</font></a>. Izlasiet un piekrītiet <a href="http://url2"><font color="#B3000000">Gala lietotāja licences līgumam un Nosacījumiem</font></a> un <a href="http://url3"><font color="#B3000000">Branch Discovery Konfidencialitātes politikai</font></a> pirms šīs funkcijas izmantošanas.</string>
     <string name="thursday">Ceturtdiena</string>
     <string name="thursday_short">Ce</string>
     <string name="thursday_shortest">Ce</string>

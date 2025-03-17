@@ -510,7 +510,7 @@ Ka na iya shiga Asusun Xiaomi dinka ta hanyar amfani da %s yanzu."</string>
     <string name="passport_privacy_policy">Sharuddan Bayanai</string>
     <string name="passport_privacy_policy_required">Sharuddan Bayanai (tilas)</string>
     <string name="passport_provision_input_email_register_prompt">Bayananka na sirri za a adana su daidai da dokoki da manhaja yankin da ka zaɓa.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d haruffa koda %3$d na wadannan irin: haruffa, lambobi, da alamomi na musaman</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> haruffa koda <xliff id="min_pwd_type" refersto="2">%3$d</xliff> na wadannan irin: haruffa, lambobi, da alamomi na musaman</string>
     <string name="passport_qq_login_btn_content_description">Shiga da QQ</string>
     <string name="passport_querying_phone_info">Bukatar bayanan asusun …</string>
     <string name="passport_quick_login">Shiga asusun</string>

@@ -101,7 +101,7 @@
     <string name="branch_deepview_button">Získat aplikaci</string>
     <string name="branch_deepview_button_description">Zobrazit tento obsah ihned po instalaci</string>
     <string name="branch_feature_description">Kromě aplikací dokáže Rychlé vyhledávání najít obsah v aplikaci a položky online.</string>
-    <string name="branch_guide_attention">Používání Rychlého vyhledávání vyžaduje sdílení vašich údajů pro vyhledávání, ID a ID adresy IP se společností Branch Metrics Inc. Přečtěte si a vyjádřete souhlas s <font color=" #B3000000"><a href="http://url1">Podmínkami používání</a></font> a <font color="#B3000000"><a href="http://url2">Ochranou soukromí</a></font> před použitím této funkce.</string>
+    <string name="branch_guide_attention">Používání Rychlého vyhledávání vyžaduje sdílení vašich údajů pro vyhledávání, ID a ID adresy IP se společností Branch Metrics Inc. Přečtěte si a vyjádřete souhlas s <a href="http://url1"><font color=" #B3000000">Podmínkami používání</font></a> a <a href="http://url2"><font color="#B3000000">Ochranou soukromí</font></a> před použitím této funkce.</string>
     <string name="branch_guide_description_one">Všechny vaše aplikace umístíme do seznamu aplikací. Vaše plocha bude vypadat elegantně a uspořádaně.</string>
     <string name="branch_guide_description_three">Díky vyhledávání budete moci rychle najít vše, co potřebujete!</string>
     <string name="branch_guide_description_two">Seznam aplikací automaticky kategorizuje aplikace.</string>
@@ -116,7 +116,7 @@
     <string name="branch_new_feature">Nová funkce</string>
     <string name="branch_privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="branch_search_guide_description">Naše výsledky vyhledávání jsou nyní mnohem komplexnější</string>
-    <string name="branch_search_guide_privacy">Tuto službu poskytuje společnost Branch Metrics Inc. Informace o vaší poloze, vyhledávací dotazy a Google Ads ID budou sdíleny. Přečtěte si a vyjádřete souhlas s <font color="#B3000000"><a href="http:// url1 ">Smluvní podmínky</a></font> a <font color="#B3000000"><a href="http://url2">Zásady ochrany osobních údajů</a></font> před použitím této služby.</string>
+    <string name="branch_search_guide_privacy">Tuto službu poskytuje společnost Branch Metrics Inc. Informace o vaší poloze, vyhledávací dotazy a Google Ads ID budou sdíleny. Přečtěte si a vyjádřete souhlas s <a href="http:// url1 "><font color="#B3000000">Smluvní podmínky</font></a> a <a href="http://url2"><font color="#B3000000">Zásady ochrany osobních údajů</font></a> před použitím této služby.</string>
     <string name="branch_search_guide_title">Najděte to, co hledáte ve svých oblíbených aplikacích</string>
     <string name="branch_terms_condition">Smluvní podmínky</string>
     <string name="branch_tip_title">Pomocí Rychlého vyhledávání najdete vše, co potřebujete, v okamžiku.</string>

@@ -2701,7 +2701,7 @@
     <public type="string" name="preferred_network_mode_gsm_wcdma_lte" id="0x7f040a6c" />
     <public type="string" name="preferred_network_mode_gsm_wcdma_preferred" id="0x7f040a6d" />
     <public type="string" name="preferred_network_mode_lte_only" id="0x7f040a6e" />
-    <public type="string" name="hide_error_from_network_text" id="0x7f040a6f" />
+    <public type="string" name=" hide_error_from_network_text" id="0x7f040a6f" />
     <public type="string" name="network_3G" id="0x7f040a70" />
     <public type="string" name="network_2G" id="0x7f040a71" />
     <public type="string" name="network_1x" id="0x7f040a72" />

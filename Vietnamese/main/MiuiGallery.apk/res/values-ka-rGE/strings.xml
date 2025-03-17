@@ -1673,7 +1673,7 @@
     <string name="privacy_permission_disagree">არ არის მინიჭებული</string>
     <string name="privacy_permission_location">ადგილმდებარეობა</string>
     <string name="privacy_permission_location_detail">რუკაზე ფოტოების და ვიდეოების შენახვისთვის</string>
-    <string name="privacy_permission_request_message"><Data>გალერეას ესაჭიროება წვდომა %3$s-ზე. ჩვენს მიერ შეგროვებული ინფორმაცია გამოყენებული იქნება ჩვენი &lt;a href=\"%1$s\">\"\u1c9bომსახურების პირობებისა\"&lt;/a> და &lt;a href=\"%2$s\">\"კონფიდენციალურობის პოლიტიკის\"&lt;/a> შესაბამისად. დავუშვა წვდომა?</Data></string>
+    <string name="privacy_permission_request_message"><Data>გალერეას ესაჭიროება წვდომა %3$s-ზე. ჩვენს მიერ შეგროვებული ინფორმაცია გამოყენებული იქნება ჩვენი &lt;a href=\"%1$s\">\"Მომსახურების პირობებისა\"&lt;/a> და &lt;a href=\"%2$s\">\"კონფიდენციალურობის პოლიტიკის\"&lt;/a> შესაბამისად. დავუშვა წვდომა?</Data></string>
     <string name="privacy_permission_request_negative">შემცირება</string>
     <string name="privacy_permission_request_positive">დაშვება</string>
     <string name="privacy_permission_request_title">საჭიროა ნებართვები</string>
@@ -2072,7 +2072,7 @@
     <string name="slim_stop_v2">შეჩერება</string>
     <string name="slim_subtitle_slim_space_prefix">გამოანთავისუფლეთ %1$s %2$s</string>
     <string name="slim_subtitle_sync_off_no_slimdata">ჩართეთ სინქრონიზაცია Cloud-თან, რათა მიიღოთ გამონთავისუფლებული მეხსიერების შეფასება</string>
-    <string name="slim_subtitle_sync_on_no_slimdata">სინქრონიზაცია. \u1c9bოგვიანებით სცადეთ.</string>
+    <string name="slim_subtitle_sync_on_no_slimdata">სინქრონიზაცია. Მოგვიანებით სცადეთ.</string>
     <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">განაახლეთ თქვენი Cloud მეხსიერების გეგმა მეტი ერთეულის სინქრონიზაციისთვის</string>
     <string name="slim_success_tip">გამოანთავისუფლეთ %s მეხსიერება</string>
     <string name="slim_upgrade_button">განახლება</string>
@@ -2305,7 +2305,7 @@
     <string name="tsb_action_completed_allow_closed">ჩართეთ რეზერვაცია</string>
     <string name="tsb_action_completed_open">იხილეთ სარეზერვო ასლების სტატუსი</string>
     <string name="tsb_action_err">დაფიქსირდა შეცდომა. კიდევ სცადეთ.</string>
-    <string name="tsb_action_err_fast">გადატანის განახლება ვერ მოხერხდა. \u1caeვალ კიდევ სცადეთ.</string>
+    <string name="tsb_action_err_fast">გადატანის განახლება ვერ მოხერხდა. Ხვალ კიდევ სცადეთ.</string>
     <string name="tsb_action_file_failed">გასაგებია</string>
     <string name="tsb_action_need_retry">კიდევ სცადეთ</string>
     <string name="tsb_action_not_started">გადაიტანეთ ერთეულები</string>

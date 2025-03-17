@@ -588,7 +588,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="passport_privacy_policy">Política de Privacidade</string>
     <string name="passport_privacy_policy_required">Política de Privacidade (obrigatória)</string>
     <string name="passport_provision_input_email_register_prompt">Seus dados pessoais serão armazenados de acordo com as leis e regulamentos da região que você selecionar.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d caracteres de pelo menos %3$d dos seguintes tipos: letras, números, símbolos</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caracteres de pelo menos <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dos seguintes tipos: letras, números, símbolos</string>
     <string name="passport_qq_login_btn_content_description">Entrar com QQ</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login">Fazer login</string>

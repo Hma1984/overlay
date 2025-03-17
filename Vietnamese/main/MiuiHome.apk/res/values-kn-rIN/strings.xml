@@ -122,7 +122,7 @@
     <string name="back">ಹಿಂದೆ</string>
     <string name="backup_fail">ಲಾಂಚರ್‌ ಬ್ಯಾಕಪ್‌ ಮಾಡಲಾಗಲಿಲ್ಲ</string>
     <string name="branch_feature_description">ಆ್ಯಪ್‌ಗಳು ಅಲ್ಲದೇ, ಕ್ವಿಕ್‌ ಫೈಂಡರ್‌ ಇನ್‌-ಆ್ಯಪ್‌ ಕಂಟೆಂಟ್‌ ಮತ್ತು ಆನ್‌ಲೈನ್‌ ಐಟಂಗಳನ್ನು ಕೂಡ ಪತ್ತೆ ಮಾಡುತ್ತದೆ.</string>
-    <string name="branch_guide_attention">ವರ್ಧಿತ ಹುಡುಕಾಟವನ್ನು ಬಳಸಲು, ನಿಮ್ಮ ಹುಡುಕಾಟ ವಿನಂತಿಗಳು, Google Ads ID, ಮತ್ತು ಐಪಿ ವಿಳಾಸವನ್ನು Branch Metrics Inc. ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಈ ಫೀಚರ್ ಬಳಸುವ ಮುನ್ನ ನೀವು <font color="#B3000000"><a href="http://url1">ಅಂತಿಮ ಬಳಕೆದಾರ ನಿಯಮಗಳು&amp; ಷರತ್ತುಗಳು</a></font> ಮತ್ತು<font color="#B3000000"><a href="http://url2">ಬ್ರಾಂಚ್‌ ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</a></font>ಗಳನ್ನು ಓದಿ, ಸಮ್ಮತಿಸಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="branch_guide_attention">ವರ್ಧಿತ ಹುಡುಕಾಟವನ್ನು ಬಳಸಲು, ನಿಮ್ಮ ಹುಡುಕಾಟ ವಿನಂತಿಗಳು, Google Ads ID, ಮತ್ತು ಐಪಿ ವಿಳಾಸವನ್ನು Branch Metrics Inc. ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಈ ಫೀಚರ್ ಬಳಸುವ ಮುನ್ನ ನೀವು <a href="http://url1"><font color="#B3000000">ಅಂತಿಮ ಬಳಕೆದಾರ ನಿಯಮಗಳು&amp; ಷರತ್ತುಗಳು</font></a> ಮತ್ತು<a href="http://url2"><font color="#B3000000">ಬ್ರಾಂಚ್‌ ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</font></a>ಗಳನ್ನು ಓದಿ, ಸಮ್ಮತಿಸಬೇಕಾಗುತ್ತದೆ.</string>
     <string name="branch_guide_description_one">ನಿಮ್ಮ ಎಲ್ಲಾ ಆ್ಯಪ್‌ಗಳನ್ನು ಆ್ಯಪ್‌ ಡ್ರಾಯರ್‌ನಲ್ಲಿ ಇರಿಸುತ್ತೇವೆ. ನಿಮ್ಮ ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌ ಸ್ವಚ್ಛವಾಗಿ, ಕ್ರಮಬದ್ಧವಾಗಿ ಕಾಣಿಸುತ್ತದೆ.</string>
     <string name="branch_guide_description_three">ಬಿಲ್ಟ್‌-ಇನ್‌ ಹುಡುಕಾಟದ ಸಹಾಯದಿಂದ, ನಿಮಗೆ ಬೇಕಾಗಿದ್ದನ್ನು ಕ್ಷಣಾರ್ಧದಲ್ಲಿ ಹುಡುಕಬಹುದು!</string>
     <string name="branch_guide_description_two">ಆ್ಯಪ್‌ ಡ್ರಾಯರ್‌ ಆ್ಯಪ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ವರ್ಗೀಕರಿಸುತ್ತದೆ.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">ಹೊಸ ಫೀಚರ್‌</string>
     <string name="branch_privacy_policy">ಗೌಪ್ಯತೆ ನೀತಿ</string>
     <string name="branch_search_guide_description">ನಿಮ್ಮ ಹುಡುಕಾಟ ಫಲಿತಾಂಶಗಳು ಈಗ ಬಹಳಷ್ಟು ಸ್ಪಷ್ಟವಾಗಿವೆ</string>
-    <string name="branch_search_guide_privacy">ಇದು Branch Metrics Inc ಸಂಚಾಲಿತ ಸೇವೆಯಾಗಿದೆ. ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ, ಹುಡುಕಾಟ ಪ್ರಶ್ನೆಗಳು ಮತ್ತು Google Ads ಐಡಿಯನ್ನು Branch ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ. ಈ ಸೇವೆಯನ್ನು ಬಳಸುವ ಮುನ್ನ Branch ನ <font color="#B3000000"><a href="http://url1">ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು</a></font> ಮತ್ತು <font color="#B3000000"><a href="http://url2">ಗೌಪ್ಯತೆ ನೀತಿ</a></font>ಯನ್ನು ಓದಿ ಮತ್ತು ಸಮ್ಮತಿಸಿ.</string>
+    <string name="branch_search_guide_privacy">ಇದು Branch Metrics Inc ಸಂಚಾಲಿತ ಸೇವೆಯಾಗಿದೆ. ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿ, ಹುಡುಕಾಟ ಪ್ರಶ್ನೆಗಳು ಮತ್ತು Google Ads ಐಡಿಯನ್ನು Branch ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ. ಈ ಸೇವೆಯನ್ನು ಬಳಸುವ ಮುನ್ನ Branch ನ <a href="http://url1"><font color="#B3000000">ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು</font></a> ಮತ್ತು <a href="http://url2"><font color="#B3000000">ಗೌಪ್ಯತೆ ನೀತಿ</font></a>ಯನ್ನು ಓದಿ ಮತ್ತು ಸಮ್ಮತಿಸಿ.</string>
     <string name="branch_search_guide_title">ನೀವೇನು ಹುಡುಕುತ್ತಿದ್ದೀರೋ ಅದನ್ನು ನಿಮ್ಮ ಮೆಚ್ಚಿನ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ನೋಡಿ</string>
     <string name="branch_terms_condition">ನಿಬಂಧನೆಗಳು ಮತ್ತು ಷರತ್ತುಗಳು</string>
     <string name="branch_tip_title">ಕ್ವಿಕ್‌ ಫೈಂಡರ್‌ ಸಹಾಯದಿಂದ, ನಿಮಗೆ ಬೇಕಾಗಿದ್ದನ್ನು ಅರೆಕ್ಷಣದಲ್ಲಿ ಹುಡುಕಬಹುದು.</string>
@@ -553,7 +553,7 @@
     <string name="select_all">ಎಲ್ಲಾ ಆಯ್ಕೆಮಾಡಿ</string>
     <string name="send">ಕಳುಹಿಸು</string>
     <string name="server_error">ಸರ್ವರ್‌ ದೋಷ ಎದುರಾಗಿದೆ. ಒಂದೆರಡು ನಿಮಿಷ ಕಾಯಿರಿ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
-    <string name="service_double_attention">ವರ್ಧಿತ ಹುಡುಕಾಟ ಕಾರ್ಯವನ್ನು Branch Metrics Inc. ಒದಗಿಸುತ್ತಿದೆ. ಈ ಫೀಚರ್‌ ಕಾರ್ಯನಿರ್ವಹಿಸುವಂತೆ ಮಾಡಲು ನಿಮ್ಮ ಹುಡುಕಾಟ ವಿನಂತಿಗಳು, Google Ads ID, ಮತ್ತು ಐಪಿ ವಿಳಾಸವನ್ನು Branch Metrics Inc. ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಈ ಫೀಚರ್ ಬಳಸುವ ಮುನ್ನ ನೀವು <font color="#B3000000"><a href="http://url1">ಅಂತಿಮ ಬಳಕೆದಾರ ನಿಯಮಗಳು&amp; ಷರತ್ತುಗಳು</a></font> ಮತ್ತು<font color="#B3000000"><a href="http://url2">Branch ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</a></font>ಗಳನ್ನು ಓದಿ, ಸಮ್ಮತಿಸಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="service_double_attention">ವರ್ಧಿತ ಹುಡುಕಾಟ ಕಾರ್ಯವನ್ನು Branch Metrics Inc. ಒದಗಿಸುತ್ತಿದೆ. ಈ ಫೀಚರ್‌ ಕಾರ್ಯನಿರ್ವಹಿಸುವಂತೆ ಮಾಡಲು ನಿಮ್ಮ ಹುಡುಕಾಟ ವಿನಂತಿಗಳು, Google Ads ID, ಮತ್ತು ಐಪಿ ವಿಳಾಸವನ್ನು Branch Metrics Inc. ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಈ ಫೀಚರ್ ಬಳಸುವ ಮುನ್ನ ನೀವು <a href="http://url1"><font color="#B3000000">ಅಂತಿಮ ಬಳಕೆದಾರ ನಿಯಮಗಳು&amp; ಷರತ್ತುಗಳು</font></a> ಮತ್ತು<a href="http://url2"><font color="#B3000000">Branch ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</font></a>ಗಳನ್ನು ಓದಿ, ಸಮ್ಮತಿಸಬೇಕಾಗುತ್ತದೆ.</string>
     <string name="setting_close">ಆಫ್</string>
     <string name="setting_no_word">ಎಲ್ಲಾದರೂ</string>
     <string name="setting_only_widget_no_word">ವಿಜೆಟ್‌ಗಳಲ್ಲಿ</string>
@@ -597,9 +597,9 @@
     <string name="system_text">ಸ್ವಯಂ</string>
     <string name="task_access_locked_app_msg">ಆ್ಯಪ್‌ ಲಾಕ್‌ ಆನ್ ಮಾಡಿ</string>
     <string name="term_of_service">ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು</string>
-    <string name="terms_of_services_one">ಆ್ಯಪ್‌ ಡ್ರಾಯರ್‌ ಮತ್ತು ಕ್ವಿಕ್‌ ಫೈಂಡರ್‌ಗೆ ಸುಸ್ವಾಗತ. ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಆ್ಯಪ್‌ಗಳನ್ನು ಹುಡುಕಲು, ಇನ್‌-ಆ್ಯಪ್‌ ಕೆಂಟೆಂಟ್‌ಗಳನ್ನು ನೋಡಲು ಮತ್ತು ಐಟಂಗಳನ್ನು ತ್ವರಿತಗತಿಯಲ್ಲಿ ಹುಡುಕಲು ಕ್ವಿಕ್‌ ಫೈಂಟರ್‌ ನಿಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ಫೀಚರ್‌ಗಳನ್ನು ಬಳಸುವ ಮುನ್ನ Xiaomi ಯ <font color="#B3000000"><a href="http://url1">ಗೌಪ್ಯತೆ ನೀತಿ</a></font>ಯನ್ನು ಓದಿ ಹಾಗೂ ಅವುಗಳಿಗೆ ಸಮ್ಮತಿಸಿ.</string>
+    <string name="terms_of_services_one">ಆ್ಯಪ್‌ ಡ್ರಾಯರ್‌ ಮತ್ತು ಕ್ವಿಕ್‌ ಫೈಂಡರ್‌ಗೆ ಸುಸ್ವಾಗತ. ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಆ್ಯಪ್‌ಗಳನ್ನು ಹುಡುಕಲು, ಇನ್‌-ಆ್ಯಪ್‌ ಕೆಂಟೆಂಟ್‌ಗಳನ್ನು ನೋಡಲು ಮತ್ತು ಐಟಂಗಳನ್ನು ತ್ವರಿತಗತಿಯಲ್ಲಿ ಹುಡುಕಲು ಕ್ವಿಕ್‌ ಫೈಂಟರ್‌ ನಿಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ಫೀಚರ್‌ಗಳನ್ನು ಬಳಸುವ ಮುನ್ನ Xiaomi ಯ <a href="http://url1"><font color="#B3000000">ಗೌಪ್ಯತೆ ನೀತಿ</font></a>ಯನ್ನು ಓದಿ ಹಾಗೂ ಅವುಗಳಿಗೆ ಸಮ್ಮತಿಸಿ.</string>
     <string name="terms_of_services_three">ನೀವು ಈ ಫೀಚರ್‌ ಅನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಆಫ್‌ ಮಾಡಬಹುದು.</string>
-    <string name="terms_of_services_two">ವರ್ಧಿತ ಹುಡುಕಾಟ ಬಳಸಲು, ಅಗತ್ಯವಿರುವ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಅಂದರೆ, ನಿಮ್ಮ ಹುಡುಕಾಟದ ಕ್ವೇರಿಗಳು, Google ಜಾಹೀರಾತು ಐಡಿ ಮತ್ತು ಐಪಿ ವಿಳಾಸವನ್ನು ಒಳಗೊಂಡಂತೆ ಹಲವು ಬಗೆಯ ಮಾಹಿತಿಯನ್ನು ನೀವು Branch Metrics Inc. ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. Branch ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು <font color="#B3000000"><a href="http://url1">Branch ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</a></font>ಗೆ ಅನುಸಾರ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ. ಈ ಫೀಚರ್‌ ಬಳಸುವ ಮುನ್ನ <font color="#B3000000"><a href="http://url2">ಅಂತಿಮ ಬಳಕೆದಾರ ಡಿಸ್ಕವರಿ ನಿಯಮಗಳು-ಷರತ್ತುಗಳು</a></font> ಮತ್ತು<font color="#B3000000"><a href="http://url3">Branch ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</a></font>ಗಳನ್ನು ಓದಿ ಹಾಗೂ ಅವುಗಳಿಗೆ ಸಮ್ಮತಿಸಿ.</string>
+    <string name="terms_of_services_two">ವರ್ಧಿತ ಹುಡುಕಾಟ ಬಳಸಲು, ಅಗತ್ಯವಿರುವ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. ಅಂದರೆ, ನಿಮ್ಮ ಹುಡುಕಾಟದ ಕ್ವೇರಿಗಳು, Google ಜಾಹೀರಾತು ಐಡಿ ಮತ್ತು ಐಪಿ ವಿಳಾಸವನ್ನು ಒಳಗೊಂಡಂತೆ ಹಲವು ಬಗೆಯ ಮಾಹಿತಿಯನ್ನು ನೀವು Branch Metrics Inc. ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ. Branch ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು <a href="http://url1"><font color="#B3000000">Branch ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</font></a>ಗೆ ಅನುಸಾರ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ. ಈ ಫೀಚರ್‌ ಬಳಸುವ ಮುನ್ನ <a href="http://url2"><font color="#B3000000">ಅಂತಿಮ ಬಳಕೆದಾರ ಡಿಸ್ಕವರಿ ನಿಯಮಗಳು-ಷರತ್ತುಗಳು</font></a> ಮತ್ತು<a href="http://url3"><font color="#B3000000">Branch ಡಿಸ್ಕವರಿ ಗೌಪ್ಯತೆ ನೀತಿ</font></a>ಗಳನ್ನು ಓದಿ ಹಾಗೂ ಅವುಗಳಿಗೆ ಸಮ್ಮತಿಸಿ.</string>
     <string name="thursday">ಗುರುವಾರ</string>
     <string name="thursday_short">ಗುರು</string>
     <string name="thursday_shortest">ಗುರು</string>

@@ -267,12 +267,12 @@ Schakel deze functie in en tik op de Toegankelijkheidsknop onderaan uw scherm om
     <string name="accessibility_screen_magnification_navbar_summary">"Als vergroting aanstaat, kun je op je scherm het beeld vergroten.
 
 "<b>Als je wilt inzoomen</b>", start je de vergroting en tik je waar dan ook op het scherm.
-"<ul><li>Veeg met 2 of meer vingers om te scrollen.</li>"
-"<li>Knijp 2 of meer vingers samen om de zoom aan te passen.</li></ul>"
+"<li><ul>"Veeg met 2 of meer vingers om te scrollen.
+"<li>Knijp 2 of meer vingers samen om de zoom aan te passen.</li></ul></li>"
 
 "<b>Als je tijdelijk wilt zoomen</b>", start je de vergroting, waarna je ergens op het scherm tikt en vasthoudt.
-"<ul><li>Sleep om een ander deel van het scherm weer te geven.</li>"
-"<li>Haal je vinger van het scherm om uit te zoomen.</li></ul>"
+"<li><ul>"Sleep om een ander deel van het scherm weer te geven.
+"<li>Haal je vinger van het scherm om uit te zoomen.</li></ul></li>"
 
 Je kunt niet inzoomen op het toetsenbord of de navigatiebalk."</string>
     <string name="accessibility_screen_magnification_navbar_title">Vergroten met sneltoets</string>
@@ -3503,8 +3503,8 @@ Neem contact op met je kredietverstrekker voor meer informatie."</string>
     <string name="fold_rule_default">Aanbevolen</string>
     <string name="fold_rule_unimportant">Onbelangrijk</string>
     <string name="fold_screen_application_adaptation_title">Aangepaste lay-outs voor opvouwbare apparaten</string>
-    <string name="fold_screen_settings_title">Functies voor opvouwbare apparaten</string>
-    <string name="fold_screen_special_function_title">Functies voor opvouwbare apparaten</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Regels voor gegroepeerde meldingen</string>
     <string name="font_cta_alert_btn_negative">Annuleren</string>
     <string name="font_cta_alert_btn_positive">Akkoord</string>

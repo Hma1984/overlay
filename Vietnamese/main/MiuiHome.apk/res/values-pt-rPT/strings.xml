@@ -125,7 +125,7 @@
     <string name="branch_deepview_button">Obter a aplicação</string>
     <string name="branch_deepview_button_description">Ver este conteúdo imediatamente após a instalação</string>
     <string name="branch_feature_description">Além de aplicações, o Localizador rápido pode encontrar conteúdo dentro das aplicações e itens online</string>
-    <string name="branch_guide_attention">Para utilizar a pesquisa melhorada é necessário partilhar as suas pesquisas, ID Google Ads ID e endereço IP com a Branch Metrics Inc. Leia e concorde com <font color="#B3000000"><a href="http://url1">Termos e Condições de Branch Discoverys</a></font> e <font color="#B3000000"><a href="http://url2">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
+    <string name="branch_guide_attention">Para utilizar a pesquisa melhorada é necessário partilhar as suas pesquisas, ID Google Ads ID e endereço IP com a Branch Metrics Inc. Leia e concorde com <a href="http://url1"><font color="#B3000000">Termos e Condições de Branch Discoverys</font></a> e <a href="http://url2"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a> antes de utilizar esta funcionalidade</string>
     <string name="branch_guide_description_one">Vamos pôr todas as suas aplicações na Gaveta de aplicações. O seu ecrã inicial vai parecer mais bonito e organizado</string>
     <string name="branch_guide_description_three">Com a pesquisa, vai poder encontrar tudo o que precisar num piscar de olhos!</string>
     <string name="branch_guide_description_two">A Gaveta de aplicações categoriza as aplicações automaticamente</string>
@@ -460,7 +460,7 @@ Segurança melhorada"</string>
     <string name="search_no_result">Sem resultados</string>
     <string name="select_all">Seleccionar tudo</string>
     <string name="server_error">Ocorreu um erro de servidor. Aguarde um momente e tente novamente</string>
-    <string name="service_double_attention">A pesquisa melhorada é fornecida por Branch Metrics Inc. Para funcionar, é necessário partilhar as suas pesquisas e endereço IP com a Branch Metrics Inc. Leia e concorde com <font color="#B3000000"><a href="http://url1">Termos e Condições de Branch Discoverys</a></font> e <font color="#B3000000"><a href="http://url2">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
+    <string name="service_double_attention">A pesquisa melhorada é fornecida por Branch Metrics Inc. Para funcionar, é necessário partilhar as suas pesquisas e endereço IP com a Branch Metrics Inc. Leia e concorde com <a href="http://url1"><font color="#B3000000">Termos e Condições de Branch Discoverys</font></a> e <a href="http://url2"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a> antes de utilizar esta funcionalidade</string>
     <string name="setting_close">Desligado</string>
     <string name="setting_no_word">Em todo o lado</string>
     <string name="setting_only_widget_no_word">Em widgets</string>
@@ -496,8 +496,8 @@ Segurança melhorada"</string>
     <string name="system_shortcuts_remove">Remover</string>
     <string name="task_access_locked_app_msg">Bloqueio de aplicações ligado</string>
     <string name="term_of_service">Termos e Condições</string>
-    <string name="terms_of_services_one">Bem-vindo à Gaveta de aplicações e Localizador rápido. O Localizador rápido permite que encontre aplicações, conteúdo dentro das aplicações e itens online mais rapidamente. Leia e concorede com <font color="#B3000000"><a href="http://url1">Política de Privacidade</a></font> da Xiaomi antes de utilizar estas funcionalidades</string>
-    <string name="terms_of_services_two">Para utilizar a pesquisa melhorada é necessário partilhar informações pessoais, incluindo pesquisas e endereço IP com a Branch Metrics Inc. A Branch vai processar as suas informações pessoais em concordância com <font color="#B3000000"><a href="http://url1">Política de Privacidade de Branch Discovery</a></font>. Leia e concorde com <font color="#B3000000"><a href="http://url2">Termos e Condições de Branch Discovery</a></font> e <font color="#B3000000"><a href="http://url3">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
+    <string name="terms_of_services_one">Bem-vindo à Gaveta de aplicações e Localizador rápido. O Localizador rápido permite que encontre aplicações, conteúdo dentro das aplicações e itens online mais rapidamente. Leia e concorede com <a href="http://url1"><font color="#B3000000">Política de Privacidade</font></a> da Xiaomi antes de utilizar estas funcionalidades</string>
+    <string name="terms_of_services_two">Para utilizar a pesquisa melhorada é necessário partilhar informações pessoais, incluindo pesquisas e endereço IP com a Branch Metrics Inc. A Branch vai processar as suas informações pessoais em concordância com <a href="http://url1"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a>. Leia e concorde com <a href="http://url2"><font color="#B3000000">Termos e Condições de Branch Discovery</font></a> e <a href="http://url3"><font color="#B3000000">Política de Privacidade de Branch Discovery</font></a> antes de utilizar esta funcionalidade</string>
     <string name="title_jeejen">Ecrã inicial Jeejen</string>
     <string name="toast_drag_to_assistant_reject">A iniciar assistente…</string>
     <string name="toast_screen_icons_misplaced">Restaurado de outra fonte. Alguns ícones podem não estar no sítio</string>

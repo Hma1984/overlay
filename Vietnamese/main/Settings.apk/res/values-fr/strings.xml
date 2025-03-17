@@ -139,7 +139,7 @@
     <string name="accessibility_dialog_button_stop">Arrêter</string>
     <string name="accessibility_disable_animations">Supprimer les animations</string>
     <string name="accessibility_disable_animations_summary">"Réduire les mouvements à l'écran"</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">"Réglez l'affichage des couleurs sur votre appareil. Cela peut être utile lorsque vous souhaitez :"<ol><li> Voir les couleurs avec plus de précision</li><li>Supprimer les couleurs pour vous aider à vous concentrer</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">"Réglez l'affichage des couleurs sur votre appareil. Cela peut être utile lorsque vous souhaitez :"<li><ol> Voir les couleurs avec plus de précision<li>Supprimer les couleurs pour vous aider à vous concentrer</li></ol></li></string>
     <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
     <string name="accessibility_display_inversion_preference_intro_text">"L'inversion des couleurs assombrit les écrans lumineux. Il éclaircit également les écrans sombres."</string>
     <string name="accessibility_display_inversion_preference_subtitle">Peut affecter les performances</string>
@@ -2957,8 +2957,8 @@ face à l'écran extérieur"</string>
     <string name="fold_rule_default">Recommandé</string>
     <string name="fold_rule_unimportant">Non important</string>
     <string name="fold_screen_application_adaptation_title">Dispositions personnalisées pour les appareils pliables</string>
-    <string name="fold_screen_settings_title">Fonctionnalités pour les appareils pliables</string>
-    <string name="fold_screen_special_function_title">Fonctionnalités pour les appareils pliables</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Règles pour les notifications groupées</string>
     <string name="font_cta_alert_btn_negative">Annuler</string>
     <string name="font_cta_alert_btn_positive">"D'accord"</string>

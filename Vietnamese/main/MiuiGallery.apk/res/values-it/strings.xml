@@ -578,9 +578,9 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="confirm_merge_face_albums">" \""<data> Unire questo album con %s? </data>"\" "</string>
     <string name="confirm_merge_many_face_albums">" \""<data> Unire questi album con %s? </data>"\" "</string>
     <string name="confirm_not_face">Nessuna corrispondenza</string>
-    <string name="confirm_recommandation_face_is">" \""<data> Sei sicuro che sia <font color="#323232"><b>%1$s</b></font>? Questo volto verrà spostato in \"%2$s\" dopo la conferma. </data>"\" "</string>
+    <string name="confirm_recommandation_face_is">" \""<data> Sei sicuro che sia <b><font color="#323232">%1$s</font></b>? Questo volto verrà spostato in \"%2$s\" dopo la conferma. </data>"\" "</string>
     <string name="confirm_recommandation_face_not">" \""<Data>\" Sei sicuro che non sia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? \"</Data>"\" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" \""<data> Sei sicuro che siano <font color="#323232"><b>%1$s</b></font>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>"\" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" \""<data> Sei sicuro che siano <b><font color="#323232">%1$s</font></b>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>"\" "</string>
     <string name="confirm_recommandation_multiple_faces_not">" \""<Data>\"Sei sicuro che non siano &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? \"</Data>"\" "</string>
     <string name="contact_tip">Contatto</string>
     <string name="context_menu_add_contact">Aggiungi ad un contatto</string>

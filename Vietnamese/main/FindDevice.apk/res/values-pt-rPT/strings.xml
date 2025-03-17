@@ -32,7 +32,7 @@ Contacte o seu comercial para mais detalhes"</string>
     <string name="find_device_error_server">Erro de servidor (%s)</string>
     <string name="find_device_error_unknown">Erro desconhecido (%s)</string>
     <string name="find_device_noise_title">Alarme de Localizar Dispositivo</string>
-    <string name="find_device_notice">Vá a <font color="#0099FF"><b>i.mi.com</b></font> para localizar, bloquear ou restaurar o seu dispositivo e tirar fotos remotamente</string>
+    <string name="find_device_notice">Vá a <b><font color="#0099FF">i.mi.com</font></b> para localizar, bloquear ou restaurar o seu dispositivo e tirar fotos remotamente</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">Para actualizar o estado do cartão SIM e garantir que todos os serviços estão a funcionar, uma &lt;font color=#0097FF>&lt;b>mensagem de texto paga&lt;/b>&lt;/font> vai ser enviada após trocar de cartões SIM</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Para actualizar o estado do cartão SIM e garantir que todos os serviços estão a funcionar, uma &lt;font color=#0097FF>&lt;b>mensagem de texto paga&lt;/b>&lt;/font> vai ser enviada após trocar de cartões SIM</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">Para actualizar o estado do cartão SIM e garantir que todos os serviços estão a funcionar, uma &lt;font color=#0097FF>&lt;b>mensagem de texto internacional paga&lt;/b>&lt;/font> vai ser enviada após trocar de cartões SIM</string>

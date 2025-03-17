@@ -1544,8 +1544,8 @@
     <string name="fold_rule_default">پیشنهاد شده</string>
     <string name="fold_rule_unimportant">غیر مهم</string>
     <string name="fold_screen_application_adaptation_title">طرح‌های سفارشی برای دستگاه‌های تا شدنی</string>
-    <string name="fold_screen_settings_title">ویژگی‌های دستگاه‌های تا شدنی</string>
-    <string name="fold_screen_special_function_title">ویژگی‌های دستگاه‌های تا شدنی</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">قوانین برای اعلان‌های گروهی</string>
     <string name="font_cta_alert_btn_negative">لغو</string>
     <string name="font_cta_alert_btn_positive">پذیرفتن</string>

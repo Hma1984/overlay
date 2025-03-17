@@ -1,301 +1,332 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
-    <string name="abc_action_bar_up_description">Yuxarı keç</string>
-    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
-    <string name="abc_action_mode_done">Hazırdır</string>
-    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
-    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
-    <string name="abc_capital_off">BAĞLI</string>
-    <string name="abc_capital_on">AÇIQ</string>
-    <string name="abc_menu_delete_shortcut_label">sil</string>
-    <string name="abc_menu_function_shortcut_label">Fn+</string>
-    <string name="abc_menu_space_shortcut_label">boşluq</string>
-    <string name="abc_prepend_shortcut_label">Menyu+</string>
-    <string name="abc_search_hint">Axtar…</string>
-    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
-    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
-    <string name="abc_searchview_description_search">Axtar</string>
-    <string name="abc_searchview_description_submit">Sorğu göndər</string>
-    <string name="abc_searchview_description_voice">Səsli axtarış</string>
-    <string name="abc_shareactionprovider_share_with">Paylaş</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
-    <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="access_calendar">Təqvimə müraciət</string>
-    <string name="access_non_personal_data">Cihazınızda şəxsi olmayan məlumatlara müraciət və istifadə ilə bağlı razılığı geri götürsəniz, \"Divar kağızı Karuseli\" xidmətləri deaktiv ediləcək və yığılmış bütün məlumatlar, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcək.</string>
-    <string name="accessibility_enabled">Əlçatımlılıq fəaldır.</string>
+    <string name="access_non_personal_data">Cihazınızdan fərdi olmayan məlumatların əldə edilməsinə və istifadəsinə razılığınızı geri götürsəniz, Divar kağızı Karuseli xidmətləri deaktiv ediləcək və toplanan məlumatlar tətbiq olunan qanun və qaydalarda göstərilən müddət ərzində silinəcəkdir.</string>
+    <string name="accessibility_enabled">Mümkünlük işə salındı.</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="activate_esim_tips">Aktivləşdirilə bilmədi. Yenidən sınayın.</string>
+    <string name="activate_esim_tips">Aktivləşdirlə bilmədi. Yenidən cəhd edin.</string>
     <string name="activating_esim_tips">Aktivləşdirilir…</string>
-    <string name="address_dialing_introduction">Bu tətbiqi zəng etmək, zəng tarixçəsinə baxmaq və kontaktları idarə etmək üçün istifadə edə bilərsiniz.</string>
+    <string name="address_dialing_introduction">Siz zəng etmək, zəng tarixçəsinə baxmaq və kontaktları idarə etmək üçün bu tətbiqdən istifadə edə bilərsiniz.</string>
     <string name="after_sales_support">Satış sonrası dəstək</string>
-    <string name="after_sales_support_introduction">Bu xidmət, satın aldığınız cihazlarla bağlı dəstək və yardım almağınıza imkan verir.</string>
+    <string name="after_sales_support_introduction">Bu xidmət sizə satın aldığınız cihazlarla bağlı dəstək və yardım almağa imkan verir.</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="agree">Razıyam</string>
-    <string name="agree_and_next">Razıyam</string>
-    <string name="agree_cookie">Çərəzləri qəbul et</string>
-    <string name="agree_terms">İstifadəçi Razılaşması və Gizlilik Siyasətini oxudum və qəbul edirəm.</string>
-    <string name="agree_terms_input_method_facemoji">Facemoji Gizlilik Siyasətini oxudum və razılaşıram.</string>
-    <string name="agree_terms_input_method_kika">Kika Gizlilik Siyasətini oxudum və razılaşıram.</string>
-    <string name="agreement_declare_use_network_and_location_china">"Əlavə olaraq, aşağıdakı xidmətlər şəbəkəyə bağlanacaq və yerləşmənizə müraciət edəcək: "</string>
-    <string name="agreement_declare_use_network_china">şəbəkəyə bağlanacaq.</string>
-    <string name="ai_button_desc">AI düyməsi, \"Mi AI\"ni açmağa və Mi AI qısayollarını istifadə etməyə icazə verir.</string>
-    <string name="ai_button_double_press">İki dəfə bas</string>
-    <string name="ai_button_double_press_desc">Özəl tapşırıqları tamamlamaq üçün AI düyməsinə iki dəfə basın</string>
-    <string name="ai_button_long_press">Basılı tut</string>
-    <string name="ai_button_long_press_desc">Mi AI ilə danışmaq üçün AI düyməsini basılı tutun</string>
+    <string name="agree">Qəbul et</string>
+    <string name="agree_and_next">Qəbul et</string>
+    <string name="agree_cookie">Kukiləri qəbul et</string>
+    <string name="agree_terms">İstifadəçi Sazişi və Gizlilik Siyasətini oxudum və qəbul edirəm.</string>
+    <string name="agree_terms_input_method_facemoji">Facemoji Gizlilik Siyasəti-ni oxudum və qəbul edirəm.</string>
+    <string name="agree_terms_input_method_kika">Kika Gizlilik Siyasəti-ni oxudum və qəbul edirəm.</string>
+    <string name="agreement_declare_use_network_and_location_china">"Bundan əlavə, aşağıdakı xidmətlər şəbəkəyə qoşulacaq və məkanınıza daxil olacaq: "</string>
+    <string name="ai_button_desc">AI düyməsi, Mi AI xüsusiyyətini başlatmağa və Mi AI qısayollarını istifadə etməyə imkan verir.</string>
+    <string name="ai_button_double_press">2 dəfə bas</string>
+    <string name="ai_button_double_press_desc">Xüsusi tapşırıqları tamamlamaq üçün AI düyməsinə 2 dəfə basın</string>
+    <string name="ai_button_long_press">Bas və basılı saxla</string>
+    <string name="ai_button_long_press_desc">Mi AI ilə danışmaq üçün AI düyməsinə basın və basılı saxlayın</string>
     <string name="ai_button_single_press">Bas</string>
     <string name="ai_button_single_press_desc">Mi AI qısayollarına baxmaq üçün AI düyməsinə basın</string>
     <string name="ai_button_title">AI düyməsi</string>
-    <string name="album_introduction">Bu tətbiqi fotoları və videoları idarə etmək, gözəlləşdirmək, onlara düzəliş etmək üçün istifadə edə bilərsiniz.</string>
-    <string name="application_extension_service">Tətbiq uzantı xidmətləri</string>
-    <string name="application_extension_service_introduction">Tətbiq uzantı xidmətləri, sizi daxil olma və doğrulama özəllikləri ilə təmin edəcək. Təməl xidmətləri təmin etmək üçün bu tətbiqin aşağıdakı icazələrə ehtiyacı var:</string>
-    <string name="application_package_introduction">Paket quraşdırıcı, quraşdırmadan əvvəlki skan və quraşdırmadan sonrakı tətbiq tövsiyə xidmətləri daxil olmaqla üçüncü tərəf tətbiqləri quraşdırmaq üçün istifadə olunur.</string>
+    <string name="album_introduction">Siz şəkil və videoları idarə etmək, redaktə etmək və gözəlləşdirmək üçün bu tətbiqdən istifadə edə bilərsiniz.</string>
+    <string name="am">GƏ</string>
+    <string name="app_name">Təchizat</string>
+    <string name="application_package_introduction">Paket quraşdırıcı, quraşdırma əvvəli analiz və quraşdırma sonrası tətbiq tövsiyələri xidmətləri də daxil olmaqla üçüncü tərəf tətbiqlərinin quraşdırılması üçün istifadə olunur.</string>
     <string name="application_permissions">Tətbiq icazələri</string>
-    <string name="aquire_device_info">Cihaz məlumatlarına müraciət</string>
-    <string name="authority_introduction">İcazə meneceri, bu cihazdakı tətbiq iicazələrini idarə etməyinizə imkan verən təməl bir xidmətdir.</string>
+    <string name="authority_introduction">权限管理服务是您对应用进行权限管理的基础服务。</string>
     <string name="back">Geri</string>
-    <string name="backup_introduction">Bu tətbiqi, cihazınızdakı elementləri nüsxələmək və bərpa etmək üçün istifadə edə bilərsiniz.</string>
-    <string name="bluetooth_introduction">Bluetooth, sistem tərəfindən naqilsiz rabitə üçün istifadə olunur. Normal işləyə bilməsi üçün, Bluetooth-un aşağıdakı icazələrə ehtiyacı var:</string>
-    <string name="bluetooth_usage_desc">İlk quraşdırma, bu cihaz üçün təməl tərcihlərinizi ayarlamağa icazə verir. Cihazınızı uğurla qurmaq üçün Bluetooth sistem xidmətləri, aşağıdakı icazələri istifadə edəcək:</string>
-    <string name="boot_video_replay">Yenidən oxut</string>
-    <string name="boot_video_skip">Ötür</string>
-    <string name="calculator_introduction">Bu tətbiqi hesablamalar, vahidləri və pul vahidlərini çevirmək və ipoteka ödənişlərinizi təxmin etmək üçün istifadə edə bilərsiniz.</string>
-    <string name="calendar_storage">Təqvim anbarı</string>
-    <string name="camera_application_introduction">Bu tətbiqi foto və video çəkmək üçün istifadə edə bilərsiniz.</string>
-    <string name="camera_introduction">Kamera tətbiqini foto və video çəkmək üçün istifadə edə bilərsiniz.</string>
-    <string name="carousel_cookies_content"><Data>\"Divar kağızı Karuseli\"ndə təsvirlərə və hekayələrə toxunduqda, onların tam versiyaları brauzerinizdə açılacaq. Güvənli üçüncü tərəf məzmun provayderimiz daha sonra maraqlarınıza uyğun gələn əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq verirsinizsə, onlar bu &lt;a href=\"%1$s\">Çərəz Siyasətində&lt;/a> açıqlandığı kimi brauzerinizdə çərəzlər yerləşdirəcək. Çərəzləri rədd etsəniz, Divar kağızı Karuseli hələ də işləyəcək, ancaq məzmun və tövsiyələri sizinlə əlaqəli olmaya bilər. İstənilən vaxt Ayarlarda tərcihlərinizi dəyişdirə bilərsiniz.</Data></string>
-    <string name="carousel_cookies_subtitle">Çərəzlər, Kilid ekranı təcrübənizi fərdiləşdirməyimizə icazə verir.</string>
-    <string name="carousel_cookies_title">Fərdiləşdirilmiş məzmun və çərəzlər</string>
-    <string name="carousel_privacy"><Data>\"\"Divar kağızı Karuseli\"ni istifadə etməzdən əvvəl, güvənli üçüncü tərəf xidmət provayderimizin &lt;a href=\"%1$s\">Gizlilik Siyasətini&lt;/a> və &lt;a href=\"%2$s\">İstifadəçi Razılaşmasını&lt;/a> oxuyun və razılaşın.\"</Data></string>
-    <string name="carousel_setting">\"Kilid ekranı\"nızı qurun</string>
-    <string name="carousel_setting_sub">Divar kağızı Karuseli, cihazınızın kilidini hər açdığınız zaman sizə təzə hekayələr göstərəcək</string>
-    <string name="carrier_introduction_china">Sizə təqdim olunan xidmətlərin keyfiyyətini artırmaq üçün bu cihazda işləyən proqramlar (SystemHelper, RegService və Carrier xidmətləri daxil olmaqla) bu cihaz və ya SIM kartınızla bağlı məlumatları (IMEI, IMSI, MSISDN, MEID, ICCID, MAC ünvanı, sistem versiyası, Android versiyası, cihaz modeli, təməl avadanlıq konfiqurasiyası və telefon nömrəsi daxil olmaqla), həmçinin təxmini yerləşmənizi (bölgə, koordinatlar, məhəllə identifikatoru və təməl stansiyası kimliyi) Wi-Fi, mobil şəbəkələr və ya SMS vasitəsilə operatorunuza göndərə bilər. Mobil operatorlar zəmanət verir ki, bu məlumatlar yalnız təhlil, xidmət keyfiyyətinin yaxşılaşdırılması və ya özəlləşdirilmiş xidmətləri və ya texnologiyaları təmin etmək üçün istifadə olunacaq və sizi şəxsən tanımağa imkan verəcək şəkildə heç kəslə paylaşılmayacaq. Detallar üçün operatorunuzun müvafiq bəyanatına baxın. Bütün əlaqəli xidmətlərin haqları (xidmət haqqı, xidmət ödənişi) haqqında operatorunuzdan soruşa bilərsiniz.</string>
-    <string name="check_box_label">&lt;Data>Bu özəlliyi işə salaraq, &lt;a href=%1$s>Gizlilik Siyasəti&lt;/a > ilə razılaşırsınız.&lt;/Data></string>
+    <string name="backup_introduction">Cihazınızdakı elementləri yedəkləmək və bərpa etmək üçün bu tətbiqdən istifadə edə bilərsiniz.</string>
+    <string name="bluetooth_introduction">Bluetooth sistem tərəfindən simsiz rabitə üçün istifadə olunur. Bluetooth-un normal işləməsi üçün aşağıdakı icazələr lazımdır:</string>
+    <string name="bluetooth_usage_desc">Initial setup allows you to set your basic preferences for this device. To set up your device successfully, Bluetooth system services will use the following permissions:</string>
+    <string name="boot_video_replay">Yenidən oynat</string>
+    <string name="boot_video_skip">Burax</string>
+    <string name="calculator_introduction">Bu tətbiqi hesablamalar, vahidləri və valyutaları konvertasiya etmək və ipoteka ödəmələrinizi qiymətləndirmək üçün istifadə edə bilərsiniz.</string>
+    <string name="camera_application_introduction">Şəkil və video çəkmək üçün bu tətbiqdən istifadə edə bilərsiniz.</string>
+    <string name="camera_introduction">Kamera tətbiqini şəkil və video çəkmək üçün istifadə edə bilərsiniz.</string>
+    <string name="carousel_cookies_content"><Data>Wallpaper Carousel-də şəkillər və hekayələrə toxunduğunuz zaman onların tam versiyaları brauzerinizdə açılacaq. Etibarlı üçüncü tərəf məzmun provayderimiz daha sonra maraqlarınıza uyğunlaşdırılmış əlavə məzmun və reklamlar tövsiyə edə bilər. Bu funksiyanı aktivləşdirməklə razılaşsanız, onlar bu &lt;a href=\"%1$s\">Kuki Siyasətində&lt;/a> təsvir edildiyi kimi, brauzerinizdə kukilər yerləşdirəcəklər. Kukilərdən imtina etsəniz, Wallpaper Carousel hələ də işləyəcək, lakin onun məzmunu və tövsiyələri sizin üçün uyğun olmaya bilər. Siz həmişə Parametrlərdə tərcihlərinizi dəyişə bilərsiniz.</Data></string>
+    <string name="carousel_cookies_subtitle">Kukilər bizə Kilid ekranı təcrübənizi fərdiləşdirməyə imkan verir.</string>
+    <string name="carousel_cookies_title">Fərdi məzmun və kukilər</string>
+    <string name="carousel_privacy"><Data>Etibarlı üçüncü tərəf xidmət provayderimizi oxuyun və razılaşın&lt;a href=\"%1$s\">Gizlilik Siyasəti&lt;/a> və &lt;a href=\"%2$s\">User Agreeİstifadçi ment&lt;/a> before using Wallpaper Carousel.</Data></string>
+    <string name="carousel_setting">Kilid ekranınızı təyin edin</string>
+    <string name="carousel_setting_sub">Divar kağızı Karuseli cihazınızın kilidini hər dəfə açdığınız zaman sizə təzə hekayələr göstərəcək</string>
+    <string name="carrier_introduction_china">Sizi daha yaxşı xidmətlərlə təmin etmək üçün cihazınızda (SystemHelper, RegService və Operator Xidmətləri daxil olmaqla) işləyən proseslər vaxtaşırı WLAN, mobil məlumat şəbəkəsi və ya ödənişsiz SMS vasitəsilə cihazınız və SIM kartınızla (IMEI, IMSI, MSISDN, MEID, ICCID, MAC ünvanı, sistem versiyası, Android versiyası, cihaz modeli və əsas avadanlıq spesifikasiyası daxil olmaqla) bağlı məlumatı, həmçinin təxmini məkan məlumatını (bölgə, koordinatlar, ərazi identifikatoru və baza stansiyası Kimliyi daxil olmaqla) operatora göndərə bilər. Operator yalnız xidmətlərin keyfiyyətini artırmaq və ya fərdiləşdirilmiş xidmətlər və ya texnologiyalar təqdim etmək üçün müvafiq məlumatları təhlil edəcəyini vəd edir və sizin şəxsiyyətinizi müəyyən edən heç bir formada müvafiq məlumatları üçüncü tərəflərə açıqlamayacaqdır. Xüsusi operator bəyanatı üstünlük təşkil edir. Bu xidmətdən istifadənin qiyməti ilə bağlı operatorunuzla məsləhətləşin.</string>
+    <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to the &lt;a href=%1$s>Mi Smart Hub Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="clock_introduction">Bu tətbiqi, saata baxmaq, həmçinin taymeri, dünya saatını, saniyəölçəni istifadə etmək, zəngli saat qurmaq və daha çoxu üçün istifadə edə bilərsiniz.</string>
+    <string name="clock_introduction">Bu tətbiqdən vaxta baxmaq, həmçinin taymer, dünya saatı, saniyəölçən, zəngli saatlar təyin etmək üçün və s. istifadə edə bilərsiniz.</string>
     <string name="close">Bağla</string>
-    <string name="close_location_service_setting">Yerləşmə müraciətini Ayarlar > Gizlilik qoruması > \"İdarə et\"də söndürə və ya \"Güvənlik\"də hər bir tətbiq üçün icazələri məhdudlaşdıra bilərsiniz.</string>
-    <string name="cm_terms_content">Sizə göstərilən xidmətləri təkmilləşdirmək üçün seçdiyiniz mobil şəbəkə operatoru Wi-Fi şəbəkələrini və ya mobil internet bağlantısını istifadə edərək şəxsi məlumatlarınızı və bu cihaz haqqında məlumatları öz serverlərinə yükləyə bilər. Bu məlumatlar, xidmətlərin keyfiyyətini artırmaq və daha fərdiləşdirilmiş məzmun təqdim etmək üçün yalnız statistik məqsədlərə görə isitfadə olunacaq. Bu məlumatlar, şəxsiyyətinizi müəyyənləşdirmək üçün istifadə olunmayacq və üçüncü tərəflərə açıqlanmayacaq.</string>
-    <string name="cm_terms_title">Mobil Şəbəkə Operator Razılaşması</string>
+    <string name="close_location_service_setting">Məkan müraciətini Tənzimləmələr > Gizlilik qoruması > İdarə et menyusundan söndürməyi seçə və ya təhlükəsizlikdə fərdi tətbiqlər üçün icazələri məhdudlaşdıra bilərsiniz.</string>
+    <string name="cm_terms_content">Sizə göstərilən xidmətləri təkmilləşdirmək üçün seçdiyiniz mobil şəbəkə operatoru şəxsi məlumatlarınızı və Wi-Fi şəbəkələrinizi və ya mobil internet əlaqənizi istifadə edərək, bu cihaz haqqında məlumatları öz serverlərinə yükləyə bilər. Bu məlumat yalnız xidmət keyfiyyətini artırmaq və daha çox şəxsiləşdirilmiş məzmun təmin etmək üçün statistik məqsədlər üçün istifadə olunacaq. Bu məlumat şəxsiyyətinizi müəyyən etmək üçün istifadə olunmayacaq və üçüncü şəxslərə açıqlanmayacaq.</string>
+    <string name="cm_terms_title">Mobil Şəbəkə Operator Sazişi</string>
     <string name="compass_introduction">Bu tətbiqi naviqasiya ilə birlikdə koordinatlara, atmosfer təzyiqinə, və yüksəkliyə baxmaq üçün istifadə edə bilərsiniz.</string>
-    <string name="congratulation_label">Artıq hazırsınız!​</string>
+    <string name="congratulation_label">Artıq hazırsınız!</string>
     <string name="congratulation_pre_label">Bir saniyə…</string>
     <string name="congratulation_pre_title">Sistem hazırlanır…</string>
     <string name="congratulation_swipe">Sistemə daxil olmaq üçün yuxarı sürüşdürün</string>
     <string name="congratulation_title">Quraşdırma tamamlandı</string>
     <string name="content_description_complete">Tamamlandı</string>
     <string name="content_description_start">Başlat</string>
-    <string name="content_introduction">Məzmun Mərkəzi, çoxsaylı kanallardan məzmunu və xidmətləri yığır. Burada məqalələr oxuya, videolar izləyə, gündəlik seçilmiş elementlərə baxa və məzmun tövsiyələri ala bilərsiniz.</string>
-    <string name="continue_to_enable_accessibility">Əlçatımlılığı fəallaşdırmaq üçün iki barmaqla basılı tutun.</string>
-    <string name="cookies_content_one">\"Divar kağızı Karuseli\"ndəki təsvirlərə və hekayələrə toxunduqda, onların tam versiyalarını brauzerinizdə açacağıq. Güvənilən üçüncü tərəf məzmun provayderimiz Taboola, maraqlarınıza uyğun əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq versəniz, Taboola, Taboola-nın &lt;a href =%1$s>Çərəz Siyasətində&lt;/a> qeyd olunduğu kimi cihazınıza brauzer vasitəsilə çərəzləri yerləşdirəcək. Çərəzlərin istifadəsindən imtina etsəniz, Divar kağızı Karuseli elementləri Kilid ekranınızda görünməyə davam edəcək və tam hekayələr brauzerinizdə açılacaq, ancaq əlavə tövsiyələr sizin üçün xüsusi olaraq seçilməyəcək. Tərcihlərinizi istənilən vaxt Ayarlarda dəyişdirə bilərsiniz.</string>
-    <string name="cookies_content_two">Güvənilən üçüncü tərəf məzmun provayderlərimizin, məzmun tövsiyələrini və reklamları maraqlarınıza görə fərdiləşdirmək məqsədilə çərəzləri istifadə etmələrini istəyib-istəmədiyinizə qərar verin.</string>
-    <string name="cookies_title">Fərdiləşdirilmiş məzmun və çərəzlər</string>
-    <string name="copy">Kopyala</string>
-    <string name="create_shortcut">Əsas ekran qısayolu</string>
-    <string name="data_traffic_enable_dialog_title">İndi Wi-Fi-a bağlanmamısınızsa, cihazınız mobil interneti istifadə edəcək. Mobil internet istifadəsi əlavə operator xərcləri yarada bilər.</string>
+    <string name="content_introduction">Məzmun Mərkəzi çoxsaylı kanallardan məzmunu və xidmətləri birləşdirir. Burada məqalələr oxuya, video izləyə bilər, gündəlik təqdim olunan elementlərə baxa və məzmun tövsiyələrini ala bilərsiniz.</string>
+    <string name="continue_to_enable_accessibility">Mümkünlüyü işə salmaq üçün iki barmaqla aşağı sürüşdürməyə davam edin.</string>
+    <string name="cookies_content_one">"Divar kağızı Karuseli-də şəkillərə və hekayələrə toxunduğunuzda, brauzerinizdə tam versiyalarını açacağıq. Etibarlı üçüncü tərəf məzmun təminatçımız Taboola, daha sonra maraqlarınıza uyğunlaşdırılmış əlavə məzmun və reklamlar tövsiyə edə bilər. Bu funksiyanı aktivləşdirməyə razısınızsa, Taboola, Taboola'nın &lt;a href =%1$s>Kuki Siyasəti&lt;/a> -də göstərildiyi kimi, cihazınıza brauzer vasitəsilə kukilər yerləşdirəcək."</string>
+    <string name="cookies_content_two">Etibarlı üçüncü tərəf məzmun təminatçılarımızın maraqlarınızı nəzərə alaraq məzmun tövsiyələrini və reklamları fərdiləşdirmək üçün kukilərdən istifadə etməsini istəməyinizə qərar verin.</string>
+    <string name="cookies_title">Fərdi məzmun və kukilər</string>
+    <string name="data_traffic_enable_dialog_title">İndi Wi-Fi şəbəkəsinə qoşulu deyilsinizsə, cihazınız mobil trafik istifadə edəcək. Mobil trafik istifadəsi əlavə operator xərcləri yarada bilər.</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
-    <string name="default_font">İlkin</string>
-    <string name="desc_fingerprint">Cihazınızın kilidini açmaq, Mi Pay əməliyyatlarını doğrulamaq və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı təyin et</string>
+    <string name="default_font">Standart</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="desc_extra_international_fingerprint" />
+    <string name="desc_fingerprint">Cihazınızın kilidini açmaq, Mi Pay əməliyyatların təsdiqləmək və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
     <string name="desc_international_fingerprint">Cihazınızın kilidini açmaq və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
-    <string name="device_information_usage_desc">Bu xidmət cihaz məlumatlarına baxmağınıza, cihazlarınızı şəbəkələrə bağlamağınıza və özəlliklərini qurmağınıza imkan verir.</string>
-    <string name="diagnose_report">Sistem problemlərini tapmaq və təhlil etmək və istifadəçi təcrübəsini təkmilləşdirmək üçün diaqnostika datalarını göndərin. Belə datalar şəxsi məlumatlar ehtiva edə bilər (məs: IP, yerləşmə və s.)</string>
-    <string name="disageement_abnormal_download">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz.</string>
-    <string name="disagree">İmtina</string>
-    <string name="disagree_unable_serve">Yuxarıdakı icəzələrlə razılaşmırsınızsa, bu xidməti istifadə edə bilməyəcəksiniz.</string>
-    <string name="disagreement_abnormal_running">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda bu tətbiqi istifadə etməməyi və ya Ayarlarda icazələri məhdudlaşdırmağı seçə bilərsiniz.</string>
-    <string name="disagreement_abnormal_running_fast_pairing">Belə icazələrin verilməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda icazələri məhdudlaşdırmağı və ya Ayarlarda bu özəlliyi söndürməyi seçə bilərsiniz.</string>
-    <string name="disagreement_application_not_working_properly">Bu icazələrin verilməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz.</string>
-    <string name="disagreement_donnot_use_application">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda bu tətbiqi istifadə etməməyi seçə bilərsiniz.</string>
-    <string name="disagreement_donnot_use_product">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu məhsulu istifadə edə bilməyəcəksiniz. Belə hallarda bu məhsulu istifadə etməməyi seçə bilərsiniz.</string>
-    <string name="disagreement_donnot_use_service">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz. Belə hallarda bu xidməti istifadə etməməyi seçə bilərsiniz.</string>
-    <string name="disagreement_exit_app">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda Ayarlarda hesabdan çıxış etməyi və ya icazələri məhdudlaşdırmağı seçə bilərsiniz.</string>
-    <string name="disagreement_fast_pairing_abnormal">Bu icazələri verməyə razı deyilsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Bu xidməti istənilən vaxt Ayarlar > Bluetooth > Əlavə ayarlar > \"Mi Link\"də işə sala və ya söndürə bilərsiniz.</string>
-    <string name="disagreement_function">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu özəlliyi istifadə edə bilməyəcəksiniz. Belə hallarda bu özəlliyi istifadə etməməyi seçə bilərsiniz.</string>
-    <string name="disagreement_location_service">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz.</string>
-    <string name="disagreement_location_service_abnormal">Bu icazələrin verilməsi ilə razılaşmasanız, yerləşmə xidmətlərini istifadə edə bilməyəcəksiniz. İstənilən vaxt Ayarlar > \"Gizlilik qoruması\"nda yerləşmə xidmətlərini açıb bağlaya bilərsiniz.</string>
-    <string name="disagreement_mi_account_abnormal">Bu icazələrin verilməsi ilə razılaşmasanız, Xiaomi Hesabı xidmətlərini istifadə edə bilməyəcəksiniz. İstənilən vaxt Ayarlar > \"Xiaomi Hesabı\"nda Xiaomi Hesabı xidmətlərini açıb bağlaya bilərsiniz.</string>
-    <string name="disagreement_service_not_working_properly">Bu icazələrin verilməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz.</string>
-    <string name="disagreement_service_not_working_properly_settings">Bu icazələrin verilməsi ilə razılaşmırsınızsa, bu xidmət normal işləyə bilməyəcək.</string>
-    <string name="disagreement_service_not_working_properly_with_media_storage">Bu icazələrin verilməməsini seçsəniz, bu xidmət normal işləyə bilməyəcək.</string>
-    <string name="disagreement_terminate_bluetooth">Bu icazələri vermək istəmirsinizsə, Bluetooth-u istifadə edə bilməyəcəksiniz. Ayarlar > \"Bluetooth\"da Bluetooth-u aça və ya bağlaya və Bluetooth cihazı əlavə edə bilərsiniz.</string>
-    <string name="disagreement_terminate_miuidaemon">İcazələri yalnız cihazınızın ekranı zzədələndikdə data ötürməsinə başladığınız zaman istifadə edəcəyik. Bu icazələrin verilməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz.</string>
-    <string name="disagreement_terminate_service">Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda Ayarlarda tətbiqi silməyi, hesabdan çıxış etməyi və ya icazələri məhdudlaşdırmağı seçə bilərsiniz.</string>
-    <string name="download_introduction">Endirilənlər, Xunlei tərəfindən təqdim edilən və Xiaomi cihazlarının istifadəçiləri üçün endirmələr və (Tətbiq mağazası məzmunu, videolar, sistem güncəlləmələri, temalar və brauzer məzmunu daxil olmaqla) endirilən məzmunu idarə etmək üçün istifadə olunan bir tətbiqdir.</string>
+    <string name="device_information_usage_desc">This service allows you to view device info, connect your device to networks, and set up its features.</string>
+    <string name="diagnose_report">Sistem problemlərini tapmaq və təhlil etmək və istifadəçi təcrübəsini təkmilləşdirmək üçün diaqnostik məlumat göndərin. Bu məlumatlara şəxsi məlumatlar daxil ola bilər (məs: IP, məkan və s.)</string>
+    <string name="disageement_abnormal_download">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu xidmətdən istifadə edə bilməyəcəksiniz.</string>
+    <string name="disagree">Ləğv et</string>
+    <string name="disagreement_abnormal_running">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz. Belə hallarda bu tətbiqdən istifadə etməməyi və ya Tənzimləmələrdə icazələri məhdudlaşdırmağı seçə bilərsiniz.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Bu növ icazələrin verilməsinə razı deyilsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz. Belə hallarda icazələri məhdudlaşdırmağı və Tənzimləmələrdə bu xüsusiyyəti söndürməyi seçə bilərsiniz.</string>
+    <string name="disagreement_application_not_working_properly">Bu icazələri verməyə razı deyilsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz.</string>
+    <string name="disagreement_donnot_use_application">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz. Belə hallarda bu tətbiqdən istifadə etməməyi seçə bilərsiniz.</string>
+    <string name="disagreement_donnot_use_product">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu xidmətdən istifadə edə bilməyəcəksiniz. Bu vəziyyətdə bu xidmətdən istifadə etməməyi seçə bilərsiniz.</string>
+    <string name="disagreement_donnot_use_service">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu xidmətdən istifadə edə bilməyəcəksiniz. Bu vəziyyətdə bu xidmətdən istifadə etməməyi seçə bilərsiniz.</string>
+    <string name="disagreement_exit_app">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz. Belə hallarda hesabdan çıxmağı və ya Tənzimləmələr menyusundan icazələri məhdudlaşdırmağı seçə bilərsiniz.</string>
+    <string name="disagreement_fast_pairing_abnormal">Bu icazələri verməyə razı deyilsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz. Bu xidməti istənilən vaxt Tənzimləmələr > Bluetooth > Əlavə tənzimləmələr > Mi Link menyusundan aça və ya söndürə bilərsiniz</string>
+    <string name="disagreement_function">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu xüsusiyyətdən istifadə edə bilməyəcəksiniz. Belə hallarda bu xüsusiyyəti istifadə etməməyi seçə bilərsiniz.</string>
+    <string name="disagreement_location_service">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu xidmətdən istifadə edə bilməyəcəksiniz.</string>
+    <string name="disagreement_location_service_abnormal">Bu icazələri verməyə razı deyilsinizsə, məkan xidmətlərindən istifadə edə bilməyəcəksiniz. Siz istənilən vaxt Tənzimləmələr > Gizliliyin qorunması menyusunda məkan xidmətlərini aça və ya söndürə bilərsiniz;</string>
+    <string name="disagreement_mi_account_abnormal">Bu icazələri verməyə razı deyilsinizsə, Mi Hesabı xidmətlərindən istifadə edə bilməyəcəksiniz. Mi Hesabı xidmətlərini istənilən vaxt Tənzimləmələr > Mi Hesabı aça və ya söndürə bilərsiniz.</string>
+    <string name="disagreement_service_not_working_properly">Bu icazələri verməyə razı deyilsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz.</string>
+    <string name="disagreement_service_not_working_properly_settings">"If you don't agree to grant these permissions, this service won't be able to work normally."</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">Bu icazələri verməməyi seçsəniz, xidmət normal işləyə bilməyəcək.</string>
+    <string name="disagreement_terminate_bluetooth">Bu icazələri vermək istəmirsinizsə, Bluetooth-dan istifadə edə bilməyəcəksiniz. Siz Bluetooth-u açıb söndürə və Tənzimləmələr > Bluetooth menyusundan Bluetooth cihazları əlavə edə bilərsiniz.</string>
+    <string name="disagreement_terminate_miuidaemon">Biz icazələrdən yalnız cihazın ekranı zədələndikdə məlumat ötürməyə başladığınız zaman istifadə edəcəyik. Bu icazələri verməyə razı deyilsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz.</string>
+    <string name="disagreement_terminate_service">Bu növ icazələrin verilməsinə və ya şəxsi məlumatlarınızı paylaşmağı və yükləməyi qəbul etmirsinizsə, bu tətbiqdən istifadə edə bilməyəcəksiniz. Belə hallarda tətbiqi silə bilər, hesabdan çıxış edə bilər, və ya Tənzimləmələr menyusundan icazələri məhdudlaşdıra bilərsiniz.</string>
+    <string name="download_introduction">Endirilənlər Xunlei tərəfindən təmin edilmiş, Xiaomi cihazlarının istifadəçiləri üçün endirmələr və endirilmiş məzmunu (o cümlədən, Tətbiq mağazası məzmunu, videolar, sistem yeniləmələri, temalar və brauzer məzmunu) idarə etmək üçün istifadə edilən tətbiqdir.</string>
     <string name="early_morning">Səhər</string>
-    <string name="enable_accessibility_canceled">Əlçatımlılıq ləğv edildi.</string>
-    <string name="enable_accessibility_dialog_message">Ekrana %1$d barmağınızla %2$d saniyədən çox basılı tutaraq TalkBack-ı işə saldınız. TalkBack, görmə məhdudiyyətli və zəif görən insanlar üçün səsli əks-əlaqəni təqdim edir. Səhvən işə salmısınızsa, İmtina düyməsinə basın, daha sonra ekrana iki dəfə toxunun.</string>
-    <string name="enable_accessibility_dialog_negative_btn">İmtina</string>
+    <string name="empty" />
+    <string name="enable_accessibility_canceled">Mümkünlük ləğv edildi.</string>
+    <string name="enable_accessibility_dialog_message">Ekrana 2 barmağınız ilə 10 saniyədən daha çox basılı saxlayaraq Talkback xüsusiyyətini açdınız. TalkBack görmə əlilliyi olan insanlar üçün səsli geri bildiriş təmin edər. TalkBack xüsusiyyətini təsadüfən açdınızsa, Ləğv et düyməsinə basın və ardınca ekrana iki dəfə toxunun.</string>
+    <string name="enable_accessibility_dialog_negative_btn">Ləğv et</string>
     <string name="enable_accessibility_dialog_positive_btn">Oldu</string>
-    <string name="enable_or_disable_bluetooth">Bluetooth-u aç/bağla</string>
-    <string name="eras_ad">B.E.</string>
-    <string name="eras_bc">B.E.Ə.</string>
+    <string name="enable_or_disable_bluetooth">Turning Bluetooth on and off</string>
+    <string name="eras_ad">B.E</string>
+    <string name="eras_bc">E.ə.</string>
     <string name="evening">Günortadan sonra</string>
-    <string name="expand_button_title">Qabaqcıl</string>
-    <string name="fast_application_introduction">Cəld tətbiqlər xidmət çərçivəsi, cəld tətbiqlərin paylanmasını və işləməsini dəstəkləyən təməl xidmət çərçivəsidir.</string>
-    <string name="fast_pairing_introduction">Mi Link, Bluetooth cihazlarına cəld şəkildə bağlanmağınıza imkan verir.</string>
+    <string name="fast_application_introduction">Cəld tətbiqlər xidməti çərçivəsi, tətbiqlərin sürətli paylanmasını və işləməsini dəstəkləyən əsas xidmət çərçivəsidir.</string>
+    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="font_hint_large">İlkin mətn ölçüsü</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'dəq'"</string>
+    <string name="fmt_time_minute_second">"m'dəq' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'dəq' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
+    <string name="font_hint_large">Varsayılan mətn ölçüsü</string>
     <string name="font_hint_normal">Mətn ölçüsünü artır</string>
-    <string name="font_settings_sub_title">Sistem şriftini seç</string>
-    <string name="font_settings_title">Şrift ayarları</string>
+    <string name="font_settings_sub_title">Sistem şriftini seçin</string>
+    <string name="font_settings_title">Şrift tənzimləmələri</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">Gövdə</string>
     <string name="font_use_case_title_example">Başlıq</string>
-    <string name="framework_introduction">Xiaomi service framework (Mi Push və Analytics) ani bildirişlər, riskləri önləmə, statistikalar və analitika imkanlarını təmin edən təməl bir sistem xidmətidir. Bu xidmətləri təmin etmək üçün əlaqəli və lazımi şəxsi məlumatları yığmağımız və emal etməyimiz lazımdır. Belə məlumatları yığarkən və emal edərkən, qüvvədə olan qanunlara, qaydalara və digər normativ sənədlərə əməl edəcəyik.</string>
-    <string name="framwork_base_service">"Ani (Push) bildiriş funksionallığını təmin etmək üçün aşağıdakı məlumatları yığmağımız lazımdır: cihaz identifikatorları (OAID və şifrələnmiş Android ID), ani xidmətləri istifadə edən tətbiqlər haqqında məlumatlar (məsələn, tətbiqin paket adı, versiyası və işləmə müddəti statusu), cihaz istehsalçısı, cihaz modeli, cihaz yaddaşı (RAM), əməliyyat sistemi versiyası, bölgə, SIM kart operatorunun adı, hazırkı şəbəkə növü və Wi-Fi statusu. Ani bildirişləri alma üsulunuzu Ayarlarda dəyişdirə bilərsiniz. Sizə tərcihlərinizə görə ani bildirişlər təqdim etmək üçün tərcihləriniz haqqında məlumatları da yığacağıq. Bura, bildirişləri əngəlləməyi seçib seçmədiyiniz, bildirişlərin Kilid ekranında görünməsinə icazə verib-verməməyinizlə bağlı tərcihlər daxildir.
-Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə bağlanmaq və sadalananlara müraciət etmək məqsədilə icazəyə ehtiyacımız var: yerləşməniz, cihaz IMEI-si, cihaz IMSI, cihaz identifikatorları (OAID, MAC ünvanı və şifrələnmiş Android ID), cihaz istehsalçısı, cihaz modeli, cihaz yaddaşı (RAM), əməliyyat sistemi versiyası, bölgə və hazırkı şəbəkə növü. Yuxarıdakı məlumatlar, bu cihazı istifadə etdiyiniz müddətcə gündə bir dəfə yığılacaq."</string>
+    <string name="framework_introduction">Xiaomi xidmət çərçivəsi (Mi Push, Analytics və MIUIBI) təkan bildirişləri, risklərin qarşısının alınması, statistika və analitika imkanlarını təmin edən əsas sistem xidmətidir. Bu xidmətləri təmin etmək üçün biz müvafiq və zəruri şəxsi məlumatları toplamalı və emal etməliyik. Bu cür məlumatların toplanması və işlənməsi zamanı biz qüvvədə olan qanunlara, qaydalara və digər normativ sənədlərə əməl edəcəyik.</string>
+    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
+For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">Cümə</string>
-    <string name="friday_short">Cüm</string>
-    <string name="friday_shortest">Cüm</string>
-    <string name="game_introduction">Oyunlar qoşması daxil olmağınıza, sifariş yaratmağınıza, ödənişləri tamamlamağınıza, kuponları istifadə etməyinizə və tanıtım tədbirlərində iştirak etməyinizə imkan verir.</string>
-    <string name="get_imei_information">IMEI müraciəti</string>
-    <string name="get_imei_information_settings">Cihazın unikal identifikatoruna müraciət (IMEI)</string>
-    <string name="google_service_introduction">Google Play, normal işləyə bilməsi və sadalananları edə bilməsi üçün internetə bağlanmalı və yerləşmənizə müraciət etməlidir: SMS və MMS göndərmə, səs yazma, zəng etmə, təqvim tədbirlərinə, zəng tarixçəsinə, sensorlara, anbara, kameraya, cihaz məlumatlarına və hesablara müraciət etmə.</string>
+    <string name="friday_short">C.</string>
+    <string name="friday_shortest">C.</string>
+    <string name="game_introduction">Oyunlar əlavəsi hesaba daxil olmağınıza, sifariş verməyinizə, ödənişləri tamamlamağınıza, kuponlar istifadə etməyinizə, və təqdimat tədbirlərində iştirak etməyinizə imkan verir.</string>
+    <string name="get_imei_information">IMEI-ə daxil olun</string>
+    <string name="get_imei_information_settings">Access device unique identifier (IMEI)</string>
+    <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">Klassik</string>
-    <string name="home_settings_poco_launcher">Tətbiq siyirməsi</string>
-    <string name="home_settings_title">İlkin başladıcını seç</string>
+    <string name="home_settings_poco_launcher">Tətbiq çəkməcəsi</string>
+    <string name="home_settings_title">Varsayılan başladıcı seçin</string>
     <string name="ime_privacy_policy">Seçilmiş klaviatura üçün Gizlilik Siyasəti</string>
-    <string name="ime_privacy_policy_no_network">Şəbəkə bağlantısı yoxdur. Bu klaviatura üçün Gizlilik Siyasətinə baxın: %s.</string>
-    <string name="ims_introduction">IMS xidməti, təməl rabitə imkanlarını təmin edir və yüksək dəqiqlikli səsli və görüntülü zənglər üçün istifadə olunur.</string>
-    <string name="input_method_category">Mesajları, qeydləri və demək olar ki, hər şeyi yazmaq üçün istifadə edəcəyiniz ilkin klaviaturanı seçin. Unutmayın ki, üçüncü tərəf klaviaturaları daha sonra quraşdıra bilərsiniz.</string>
-    <string name="input_method_setting">Klaviaturanı seçin</string>
+    <string name="ime_privacy_policy_no_network">Şəbəkə əlaqəsi yoxdur. Bu klaviaturanın Gizlilik Siyasətinə %s ünvanında baxın.</string>
+    <string name="ims_introduction">IMS xidməti əsas rabitə imkanlarını təmin edir və yüksək dəqiqlikli səs və video zənglər üçün istifadə olunur.</string>
+    <string name="input_method_category">Mesajlar, qeydlər və başqa hər şey haqqında yazmaq üçün istifadə edəcəyiniz ilkin təyin olunan klaviaturanı seçin. Daha sonra digər üçüncü tərəf klaviaturaları quraşdıra bilərsiniz.</string>
+    <string name="input_method_setting">Klaviatura seçin</string>
     <string name="install_preinstall_app">Tətbiqlər yüklənir…</string>
-    <string name="intent_filter_verification_service">Niyyət Filtr Doğrulama Xidməti</string>
-    <string name="interconnection_communication_introduction">Xiaomi İnternet Rabitə Xidmətləri, digər cihazları kəşf etməyinizə, onlara bağlanmağınıza və onlarla ünsiyyət qurmağınıza imkan verir.</string>
-    <string name="interconnection_service_global_item_title">Xiaomi Ara bağlantı</string>
-    <string name="interconnection_service_global_label">&lt;Data>Xiaomi Ara bağlantısı, cihazların bir-biri ilə naqilsiz əlaqə qurmasına imkan verir. Bunu açaraq \"Xiaomi Ara bağlantısı\"nın &lt;a href=%1$s>Gizlilik Siyasəti&lt;/a > ilə razılaşırsınız.&lt;/Data></string>
-    <string name="interconnection_service_summary_china">Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz ünsiyyət qurmasına imkan verir. %1$s Mövcud ara bağlantı xidmətləri sistem versiyanıza və cihaz modelinizə görə fərqlənə bilər. Ətraflı məlumatı %2$s ünvanında tapın.</string>
-    <string name="interconnection_service_summary_china_fragment1">Bu xidmətlərə Mi Smart Play, yayım, tətbiq köçürmə, Əsas ekran+, paylaşılan lövhə, naqilsiz internet paylaşımı (şəbəkə sinxronlaşdırma daxil olmaqla) cihazlar arasında kontrollar, cihazlar arasında kamera və Mi Smart Hub daxildir. Normal işləyə bilməsi üçün \"Xiaomi Ara bağlantı Xidmətləri\"nin internetə bağlanması və aşağıdakı xidmətləri tələb etməsi lazımdır:</string>
-    <string name="interconnection_service_summary_china_fragment10">Yaxınlıqdakı cihazların məlumatlarına müraciət etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment11">Daxili cihaz səsinin yazılması</string>
-    <string name="interconnection_service_summary_china_fragment12">Yayım və əks etdirmə zamanı cihazlar arasında səs transferi və oxutma üçün</string>
-    <string name="interconnection_service_summary_china_fragment13">Cihazda saxlanılan foto, video və səslərə müraciət</string>
-    <string name="interconnection_service_summary_china_fragment14">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment15">Cihazın MAC ünvanına müraciət</string>
-    <string name="interconnection_service_summary_china_fragment16">Bağlantılı cihazları tanımaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment17">Ekran məzmununa müraciət</string>
-    <string name="interconnection_service_summary_china_fragment18">Ekran yazılması və ya yayımı zamanı səs, parollar, ödəniş parolları, fotolar, mesajlar və s. kimi həssas məlumatlar daxil olmaqla ekran məzmununa müraciət etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment19">Tətbiq köçürmə və Əsas ekran+:</string>
-    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play və yayım:</string>
-    <string name="interconnection_service_summary_china_fragment20">Bluetooth-u açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment21">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment22">Wi-Fi-ı açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment23">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment24">Cihazın MAC ünvanına müraciət</string>
-    <string name="interconnection_service_summary_china_fragment25">Bağlantılı cihazları tanımaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment26">Cihazda saxlanılan foto, video və səslərə müraciət</string>
-    <string name="interconnection_service_summary_china_fragment27">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment28">Elementlərin digər cihazlara köçürülməsi</string>
-    <string name="interconnection_service_summary_china_fragment29">Cihazlar arasında Bluetooth bağlantısını qurmaq və elementləri köçürmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment3">Bluetooth-u açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment30">Daxili cihaz səsinin yazılması</string>
-    <string name="interconnection_service_summary_china_fragment31">Yayım və əks etdirmə zamanı cihazlar arasında səs transferi və oxutma üçün</string>
-    <string name="interconnection_service_summary_china_fragment32">Ekran məzmununa müraciət</string>
-    <string name="interconnection_service_summary_china_fragment33">Ekran yazılması və ya yayımı zamanı səs, parollar, ödəniş parolları, fotolar, mesajlar və s. kimi həssas məlumatlar daxil olmaqla ekran məzmununa müraciət etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment34">Paylaşılan lövhə:</string>
-    <string name="interconnection_service_summary_china_fragment35">Bluetooth-u açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment36">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment37">Wi-Fi-ı açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment38">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment39">Cihazda saxlanılan foto, video və səslərə müraciət</string>
-    <string name="interconnection_service_summary_china_fragment4">>Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment40">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment41">Lövhəyə müraciət</string>
-    <string name="interconnection_service_summary_china_fragment42">Tətbiqlərin kopyalanmış məzmuna müraciətinə icazə vermək üçün</string>
-    <string name="interconnection_service_summary_china_fragment43">Naqilsiz internet paylaşımı (şəbəkə sinxronlaşdırma daxil olmaqla), cihazlar arası kontrollar və cihazlar arası kamera:</string>
-    <string name="interconnection_service_summary_china_fragment44">Bluetooth-u açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment45">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment46">Wi-Fi-ı açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment47">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment48">Cihazda saxlanılan foto, video və səslərə müraciət</string>
-    <string name="interconnection_service_summary_china_fragment49">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment5">Wi-Fi-ı açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment50">Kameraya müraciət</string>
-    <string name="interconnection_service_summary_china_fragment51">Foto çəkmək və video yazmaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment53">Bluetooth-u açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment54">Bluetooth vasitəsilə bağlantı qurulacaq yaxınlıqdakı cihazları kəşf etmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment55">Wi-Fi-ı açır və ya bağlayır</string>
-    <string name="interconnection_service_summary_china_fragment56">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment57">Daxili cihaz səsinin yazılması</string>
-    <string name="interconnection_service_summary_china_fragment58">Yayım və əks etdirmə zamanı cihazlar arasında səs transferi və oxutma üçün</string>
-    <string name="interconnection_service_summary_china_fragment59">Cihazda saxlanılan foto, video və səslərə müraciət</string>
-    <string name="interconnection_service_summary_china_fragment6">Yaxınlıqdakı cihazları kəşf etmək və elementləri Wi-Fi ilə köçürmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment60">Köçürülmüş məzmunu göndərmək və almaq üçün</string>
-    <string name="interconnection_service_summary_china_fragment61">Bu icazələrin verilməsi ilə razılaşmasanız, bu xidmətləri istifadə edə bilməyəcəksiniz.</string>
-    <string name="interconnection_service_summary_china_fragment7">Elementlərin digər cihazlara köçürülməsi</string>
-    <string name="interconnection_service_summary_china_fragment8">Cihazlar arasında Bluetooth bağlantısını qurmaq və elementləri köçürmək üçün</string>
-    <string name="interconnection_service_summary_china_fragment9">Yerləşmə məlumatlarına müraciət</string>
-    <string name="interconnection_service_summary_global">Xiaomi Ara bağlantısı özəllikləri cihaz modelinə və sistem versiyasına görə dəyişə bilər. Daha ətraflı məlumat üçün sistemin rəsmi veb saytını ziyarət edin.</string>
-    <string name="interconnection_service_title">Xiaomi Ara bağlantı Xidmətləri</string>
-    <string name="item_contents_wwarning">Cihazınız itsə, ekran kilidi təyin etmədiyiniz etmədiyiniz halda başqalarının cihazı istifadə etməsini və datanıza müraciət etməsini önləyə bilməyəcəksiniz. Yenə də ötürülsün?</string>
-    <string name="item_facerecognition">Üz tanıma</string>
+    <string name="interconnection_communication_introduction">Xiaomi İnternet Rabitə Xidmətləri sizə digər Xiaomi cihazlarını kəşf etməyə, qoşulmağa və onlarla əlaqə saxlamağa imkan verir.</string>
+    <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
+\u0009\u0009互传：
+\u0009\u0009读写设备上的照片及文件
+\u0009\u0009用于发送和接收传输的文件
+\u0009\u0009获取位置信息
+\u0009\u0009用于实现蓝牙/WLAN状态下的文件传输功能
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描附近可互传文件的设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描周围设备并传输文件
+\u0009\u0009连接附近的设备
+\u0009\u0009发现并连接到附近的设备
+\u0009\u0009影音互联（小米妙播、投屏）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009获取设备的位置信息
+\u0009\u0009用于获取附近可投屏的设备信息
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009应用生态融合（应用接力、妙享桌面）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009文件系统（跨设备剪贴板、笔记跨设备拍照）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取剪切板
+\u0009\u0009允许应用读取复制的内容
+\u0009\u0009硬件协同（网络协同、键鼠协同、相机协同）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009相机
+\u0009\u0009调用相机拍摄照片和录制视频
+\u0009\u0009设备中心：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
+因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
+    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
+    <string name="item_contents_wwarning">Cihazınız itdikdə, ekran kilidi təyin etmədiyiniz təqdirdə başqalarının istifadəsini və məlumatlarınıza daxil olmasını qarşısını ala bilməyəcəksiniz. Hər halda buraxılsın?</string>
+    <string name="item_facerecognition">Üzlə kilid açma</string>
     <string name="item_fingerprint">Barmaq izi</string>
     <string name="item_lock_screen_password">Yalnız ekran kilidi</string>
     <string name="item_lock_screen_password_only">Ekran kilidi</string>
-    <string name="item_return">Ayarla</string>
-    <string name="item_skip">Ötür</string>
-    <string name="ktposition_header">Fövqəladə hal xilasetmə qurumları ilə yerləşmə məlumatlarının paylaşılması</string>
+    <string name="item_return">Təyin et</string>
+    <string name="item_skip">Burax</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
+    <string name="ktposition_header">Təcili xilasetmə qurumları ilə məkan məlumatlarını paylaşmaq</string>
     <string name="language_picker_other_languages_title">Daha çox dil</string>
     <string name="language_settings">Dil seçin</string>
     <string name="locale_picker_other_locale_title">Daha çox bölgə</string>
     <string name="locale_picker_title">Bölgənizi seçin</string>
-    <string name="location_content">Qanunvericiliyə uyğun olaraq, mobil operatorlar güvənlik və fövqəladə hal xilasetmə məqsədlərini həyata keçirən hal xilasetmə qurumlarının (yanğınsöndürmə və polis) tələblərinə uyğun olaraq mobil cihazların yerləşmə məlumatlarını əldə edə bilərlər.</string>
-    <string name="location_introduction">Yerləşmə xidmətləri, yerləşmə məlumatlarınıza əsaslanan müxtəlif yer əsaslı xidmətlər təqdim edir.</string>
-    <string name="location_introduction_qcom">Yerləşmə xidmətləri, yerləşməyə xas xidmətləri təqdim etmək üçün yerləşdirməni istifadə edir. Cihazınız yerləşmə xidmətlərini istifadə etdikdə, QCC modulu yerləşdirmə prosesini sürətləndirmək üçün şəbəkəyə bağlanacaq.</string>
-    <string name="location_location">Fövqəladə hal xilasetmə qurumları tələb əsasında olduğunuz yeri əldə edə bilər</string>
-    <string name="lockscreen_introduction">Divar kağızı Karuseli, hər gün ən yeni şəkillərin Kilid ekranınıza çatdırılmasını təmin edir.</string>
-    <string name="media_storage_devices">Media anbar cihazları</string>
-    <string name="media_storage_introduction">Bu xidmət, tətbiqlərin foto, video, səs və fayllara müraciət etməsinə və bunları saxlamasına imkan verir.</string>
-    <string name="message_introduction">SMS göndərmək və almaq üçün bu tətbiqi istifadə edə bilərsiniz.</string>
-    <string name="mi_account_introduction">Xiaomi Hesabı sistem hesablarını qeydiyyatdan keçirməyə, daxil olmağa və idarə etməyə imkan verir.</string>
+    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">Qanuna uyğun olaraq, mobil operatorlar təhlükəsizlik və fövqəladə hal məqsədlərini həyata keçirən təcili xilasetmə qurumlarının (yanğın bölmələri və polis) tələblərinə uyğun olmaq üçün mobil cihazların məkan məlumatlarını əldə edə bilərlər.</string>
+    <string name="location_introduction">Məkan xidmətləri, məkan məlumatınıza əsaslanan müxtəlif məkana əsaslanan xidmətlər təqdim edir.</string>
+    <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
+    <string name="location_location">Fövqəladə hal qurumları tələbinizlə mövcud məkanınızı əldə edə bilərlər</string>
+    <string name="lockscreen_introduction">Divar kağızı karuseli, günlük olaraq ən yeni şəkillərin Kilid ekranınıza çatdırılmasını təmin edir.</string>
+    <string name="media_storage_devices">Media saxlama cihazları</string>
+    <string name="media_storage_introduction">Bu xidmət tətbiqlərə şəkil, video, audio və fayllara daxil olmaq və saxlamaq imkanı verir.</string>
+    <string name="message_introduction">Siz SMS göndərmək və qəbul etmək üçün bu tətbiqdən istifadə edə bilərsiniz.</string>
+    <string name="mi_account_introduction">Mi Hesabı sistem hesablarını qeydiyyatdan keçirməyə, daxil olmağa və idarə etməyə imkan verir.</string>
     <string name="midnight">Gecə</string>
-    <string name="mint_keyboard_oobe_checkbox">Mint Keyboard Gizlilik Siyasətini oxudum və razılaşıram</string>
+    <string name="mint_keyboard_oobe_checkbox">Mint Keyboard Gizlilik Siyasətini oxudum və qəbul edirəm</string>
     <string name="mint_keyboard_oobe_terms">Mint Klaviatura Gizlilik Siyasəti</string>
-    <string name="miui14_start_up_slogan">Hazır. Sabit. Canlı.</string>
-    <string name="miui_privacy_policy_no_network">İnternet bağlantınız yoxdur. Gizlilik Siyasətinə baxın: %s.</string>
-    <string name="miui_provision">İlkin quraşdırma</string>
-    <string name="miui_settings">Ayarlar</string>
-    <string name="miui_terms_no_network">İnternet bağlantınız yoxdur. İstifadəçi Razılaşmasına baxın: %s.</string>
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
+    <string name="miui_privacy_policy_no_network">İnternet əlaqəniz yoxdur. Gizlilik Siyasətinə %s ünvanından baxın.</string>
+    <string name="miui_provision">Initial setup</string>
+    <string name="miui_settings">Settings</string>
+    <string name="miui_terms_no_network">İnternet əlaqəniz yoxdur. İstifadəçi Sazişinə %s -də baxın.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Bütün seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
-    <string name="miuix_appcompat_cancel_description">İmtina</string>
+    <string name="miuix_appcompat_cancel_description">Ləğv et</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
-    <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
-    <string name="miuix_appcompat_edit">Düzəliş et</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
+    <string name="miuix_appcompat_deselect_all">Bütün seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all_description">Bütün seçimi ləğv et</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Ləğv et</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
-    <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Təzələmək üçün burax</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yeniləmək üşün aşağıya çəkin</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla yeniləndi</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenilənir…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yeniləmək üçün buraxın</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">İndilik bu qədər</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">İndilik bu qədər</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elementlər yüklənilə bilmədi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Eementlər yüklənə bilmədi</string>
     <string name="mobile_network">Mobil internet istifadəsi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
     <string name="month_april">Aprel</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Avqust</string>
     <string name="month_august_short">Avq</string>
     <string name="month_august_shortest">Avq</string>
@@ -315,6 +346,11 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="month_june_short">İyun</string>
     <string name="month_june_shortest">İyun</string>
     <string name="month_march">Mart</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
+    <string name="month_may">May</string>
+    <string name="month_may_short">May</string>
+    <string name="month_may_shortest">May</string>
     <string name="month_november">Noyabr</string>
     <string name="month_november_short">Noy</string>
     <string name="month_november_shortest">Noy</string>
@@ -326,16 +362,16 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
-    <string name="move_data_dialog_box_le">Bu, istifadəçinin tələbi əsasında mobil internet və GPS bağlantısını istifadə etməyə icazə verir. Hesabların və digər elementlərin sinxronlaşdırılması, ağıllı telefonun xüsusiyyətlərindən asılı olaraq mobil internet tələb edə bilər.</string>
-    <string name="move_data_dialog_box_title">Limitsiz internet olan bir planınız olmadıqda, mobil internet istifadəsi əlavə operator xərcləri yarada bilər. Yenə də mobil internet istifadə edilsin?</string>
-    <string name="move_data_dialog_cancel">İmtina</string>
-    <string name="move_data_dialog_title">Mobil internet bağlantısını daha sonra Ayarlarda məhdudlaşdıra bilərsiniz</string>
+    <string name="move_data_dialog_box_le">Bu istifadəçi istəyi əsasında mobil trafik və GPS bağlantısından istifadə etməyə imkan verir. Hesabların və digər elementlərin sinxronlaşdırılması, smartfonun xüsusiyyətlərindən asılı olaraq mobil trafik istifadəsini tələb edə bilər.</string>
+    <string name="move_data_dialog_box_title">Limitsiz trafik olan bir planınız olmadıqda, mobil trafikdən istifadə əlavə operator xərcləri yarada bilər. Hər halda mobil trafikdən istifadə edilsin?</string>
+    <string name="move_data_dialog_cancel">Ləğv et</string>
+    <string name="move_data_dialog_title">Daha sonra Tənzimləmələrdəki mobil trafik əlaqəsini məhdudlaşdıra bilərsiniz</string>
     <string name="move_data_dialog_use">İstifadə et</string>
-    <string name="msim_setting_default_data">İnternet SIM</string>
-    <string name="msim_setting_default_voice">Zənglər üçün ilkin SIM</string>
-    <string name="multisim_settings_category">SIM kart ayarları</string>
-    <string name="multisim_settings_sb_title">%d SIM kart aşkarlandı</string>
-    <string name="multisim_settings_title">%d SIM kart aşkarlandı</string>
+    <string name="msim_setting_default_data">Trafik SIM</string>
+    <string name="msim_setting_default_voice">Zənglər üçün standart SIM</string>
+    <string name="multisim_settings_category">SIM kart tənzimləmələri</string>
+    <string name="multisim_settings_sb_title">%d SIM kart təyin edildi</string>
+    <string name="multisim_settings_title">2 SIM kart müəyyən edildi</string>
     <string name="navigation_picker_gesture_guide">Jest bələdçisi</string>
     <string name="navigation_picker_radio_text_full_screen">Tam ekran jestləri</string>
     <string name="navigation_picker_radio_text_virtual_key">Düymələr</string>
@@ -343,233 +379,218 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="next_fingerprint">Növbəti</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Ayarlanmadı</string>
-    <string name="note_introduction">Bu tətbiq notları yaratmağınıza, onlara baxmağınıza və düzəliş etməyinizə imkan verir.</string>
-    <string name="other_settings">Təməl ayarlar</string>
-    <string name="other_settings_ad_dialog_agree">İşə sal</string>
-    <string name="other_settings_ad_dialog_content">Fərdiləşdirilmiş reklam tövsiyələri bağlı olduqda, özəllik açıq olduğu vaxtlardakı qədər reklam görməyə davam edəcəksiniz. Ancaq reklamlar, şəxsi tərcihlərinizə əsaslanmadığından artıq əlaqəli olmayacaq.</string>
-    <string name="other_settings_ad_dialog_content_for_global">Fərdiləşdirilmiş reklam tövsiyələri bağlı olduqda, sistem tətbiqlərində özəllik açıq olduğu vaxtlardakı qədər reklam görməyə davam edəcəksiniz. Ancaq Xiaomi və üçüncü tərəf platformalarının reklamları, şəxsi tərcihlərinizə əsaslanmadığından artıq əlaqəli olmayacaq.</string>
+    <string name="note_introduction">Bu tətbiq qeydlər yaratmağınıza, baxmağınıza, və düzəliş etməyinizə icazə verir.</string>
+    <string name="official_website_real">hyperos.mi.com</string>
+    <string name="other_settings">Əsas tənzimləmələr</string>
+    <string name="other_settings_ad_dialog_agree">Aç</string>
+    <string name="other_settings_ad_dialog_content">Şəxsiləşdirilmiş reklam tövsiyələri söndürüldükdə, xüsusiyyət açıq olduqda, eyni miqdarda reklam görəcəksiniz. Lakin, reklamlar şəxsi seçimlərinizə əsaslanmayacağından artıq aktual olmayacaqdır.</string>
+    <string name="other_settings_ad_dialog_content_for_global">Şəxsiləşdirilmiş reklam tövsiyələri söndürüldükdə, siz hələ də sistem tətbiqlərində funksiya açıq olduqda olduğu kimi eyni sayda reklamı görəcəksiniz. Xiaomi və üçüncü tərəf platformalarının reklamları şəxsi seçimlərinizə əsaslanmadığından daha uyğun olmayacaq.</string>
     <string name="other_settings_ad_dialog_disagree">Söndür</string>
-    <string name="other_settings_ad_disable_summary">Reklamları fərdiləşdirmək üçün işə sal</string>
-    <string name="other_settings_ad_enable">Reklamları fərdiləşdir</string>
-    <string name="other_settings_ad_enable_summary">Reklamları maraqlarınıza görə fərdiləşdirin</string>
-    <string name="other_settings_alarm_assistance">Fövqəladə hal yerləşməsi</string>
-    <string name="other_settings_alarm_assistance_privacy">Gizlilik Siyasəti</string>
-    <string name="other_settings_alarm_assistance_summary">110, 120, 119 və ya 122 nömrələrinə zəng edərkən SMS və ya mobil internet istifadə edərək yerləşmə məlumatlarınızı avtomatik olaraq polisə göndərə bilərsiniz. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=\"%1$s\">İstifadəçi Razılaşmamızı&lt;/a> və &lt;a href=\"%2$s\">Gizlilik Siyasətimizi&lt;/a> oxuyun və razılaşın.</string>
-    <string name="other_settings_alarm_assistance_user">İstifadəçi Razılaşması</string>
-    <string name="other_settings_auto_update">Avtomatik sistem güncəlləmələri</string>
-    <string name="other_settings_auto_update_summary">Sistem, güncəlləmələri endirmək və quraşdırmaq üçün ən yaxşı vaxtı seçəcək. Dəyişikliklərin tətbiq edilməsi üçün cihazınız avtomatik olaraq yenidən başladılacaq.</string>
-    <string name="other_settings_auto_update_summary_v1">Sistemin güncəlləmələri endirməsi və quraşdırması üçün ən yaxşı vaxtı seçməsinə icazə verin. Dəyişikliklərin tətbiq edilməsi üçün cihazınız avtomatik olaraq yenidən başladılacaq.</string>
-    <string name="other_settings_enhanced_lockscreen">Divar kağızı Karuseli</string>
+    <string name="other_settings_ad_disable_summary">Şəxsiləşdirilmiş reklamları aç</string>
+    <string name="other_settings_ad_enable">Reklamları fərdiləşdirin</string>
+    <string name="other_settings_ad_enable_summary">Reklamlarınızı maraqlarınıza əsasən şəxsiləşdirin</string>
+    <string name="other_settings_alarm_assistance">Emergency location</string>
+    <string name="other_settings_alarm_assistance_privacy">Privacy Policy</string>
+    <string name="other_settings_alarm_assistance_summary">"You can send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, or 122. Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature."</string>
+    <string name="other_settings_alarm_assistance_user">User Agreement</string>
+    <string name="other_settings_auto_update">Avtomatik sistem yeniləmələri</string>
+    <string name="other_settings_auto_update_summary">Sistem, yeniləmələri endirmək və quraşdırmaq üçün ən yaxşı vaxtı seçəcək. Dəyişiklikləri tətbiq etmək üçün cihazınız avtomatik olaraq yenidən başladılacaq.</string>
+    <string name="other_settings_auto_update_summary_v1">Sistemə yeniləmələri endirmək və quraşdırmaq üçün ən yaxşı vaxtı seçməyə icazə verin. Dəyişiklikləri tətbiq etmək üçün cihazınız avtomatik yenidən işə salınacaq.</string>
+    <string name="other_settings_enhanced_lockscreen">Divar kağızı karuseli</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Mi üçün Glance</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik Siyasəti</string>
-    <string name="other_settings_enhanced_lockscreen_summary">Gündəlik olaraq Kilid ekranınıza çatdırılan şəkillər və hekayələri əldə edin. %1$s və %2$s</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">Son İstifadəçi Lisenziya Razılaşması</string>
-    <string name="other_settings_get_apps">Tətbiqləri avtomatik güncəllə</string>
-    <string name="other_settings_get_apps_summary">"Ən son özəllikləri istifadə edə bilmək üçün sistem və üçüncü tərəf tərəfdaş tətbiqləri GetApps vasitəsilə güncəlləyin.
-Avto-güncəlləmələri GetApps > Ayarlar > \"Avto-güncəlləmələr\"də söndürə bilərsiniz."</string>
-    <string name="other_settings_location">Yerləşmə</string>
-    <string name="other_settings_location_summary">Yerləşmə əsaslı xidmətləri təmin etmək üçün tətbiqlərin və veb saytların yerləşmənizə müraciət etməsinə icazə verin</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Gündəlik olaraq Kilid ekranınıza çatdırılıan seçilmiş şəkillər və hekayələr alın. %1$s və %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Son İstifadəçi Lisenziya Müqaviləsi</string>
+    <string name="other_settings_get_apps">Tətbiqləri avtomatik yeniləyin</string>
+    <string name="other_settings_get_apps_summary">"Ən son funksiyalarından istifadə etmək üçün GetApps vasitəsilə sistem və üçüncü tərəf tərəfdaşı tətbiqlərini güncəlləyin.
+GetApps > Tənzimləmələr > Avtomatik yeniləmələr-də avtomatik yeniləmələri söndürə bilərsiniz"</string>
+    <string name="other_settings_location">Məkan</string>
+    <string name="other_settings_location_summary">Tətbiqlərin və veb saytların məkana əsaslanan xidmətləri təmin etmək üçün məkan məlumatlarınıza daxil olmasına icazə verin</string>
     <string name="other_settings_quality_service">Sistem Daemon icazələri</string>
-    <string name="other_settings_quality_service_summary">Sistem Daemon, sistem sabitliyini və performansını yaxşılaşdırmaq üçün istifadə olunur. Normal işləyə bilməsi üçün, bu xidmətin cihazın anbarına müraciət etməsi və elementləri saxlaması məqsədilə icazələrə ehtiyacı var.</string>
-    <string name="other_settings_upload_debug_log_detail">"Diaqnostika, cihaz və tətbiq istifadə məlumatlarını Xiaomi-yə avtomatik göndərərək cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, sistemi və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.
-Göndərəcəyiniz məlumatlar cihazınızla və onu necə istifadə etdiyinizlə bağlı ümumi məlumatlar ehtiva edəcək (məs. batareya səviyyəsi, sistem və tətbiq fəaliyyəti və xətalar). Datalar, Xiaomi cihazlarını təkmilləşdirmək üçün istifadə olunacaq.
-Bu özəlliyin söndürülməsi, cihazınızın sistem güncəlləmələri və güvənlik kimi təməl xidmətlər üçün lazım olan məlumatları göndərmə qabiliyyətinə təsir etmir.
-Bu özəlliyi Ayarlar > Barmaq izləri, üz data və ekran kilidi > Gizlilik > \"İstifadə və diaqnostika\"da idarə edə bilərsiniz."</string>
-    <string name="other_settings_upload_debug_log_summary">Diaqnostika, cihaz və tətbiq istifadə datalarını avtomatik olaraq Xiaomi-yə göndərərək cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, sistem və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.</string>
-    <string name="other_settings_upload_debug_log_title">İstifadə və diaqnostika datalarını göndər</string>
+    <string name="other_settings_quality_service_summary">Sistem Daemon sistemin sabitliyini və performansını yaxşılaşdırmaq üçün istifadə olunur. Normal işləmək üçün bu xidmətə elementləri cihaz yaddaşına daxil etmək və saxlamaq icazəsi lazımdır.</string>
+    <string name="other_settings_upload_debug_log_detail">"Avtomatik olaraq Xiaomi-yə diaqnostik, cihaz və tətbiq istifadəsi məlumatlarını göndərərək təcrübənizi yaxşılaşdırmağa kömək edin. Bu, batareyanın ömrünü, MIUI sistemini və tətbiqin dayanıqlığını və daha çoxunu yaxşılaşdırmağa kömək edəcəkdir.
+Göndərəcəyiniz məlumatlar cihazınız və istifadə qaydalarınız haqqında ümumi məlumatları ehtiva edəcəkdir (məs., Batareya səviyyəsi, sistem və tətbiqetmə fəaliyyəti və səhvlər). Məlumatlar Xiaomi cihazlarını yaxşılaşdırmaq üçün istifadə ediləcək.
+Bu xüsusiyyəti söndürmək cihazınızın sistem yeniləmələri və təhlükəsizlik kimi vacib xidmətlər üçün lazım olan məlumatları göndərmə qabiliyyətinə təsir göstərmir.
+Bu xüsusiyyəti Tənzimləmələr > Şifrələr &amp; təhlükəsizlik > Gizlilik > İstifadə və diaqnostika menyusundan idarə edə bilərsiniz."</string>
+    <string name="other_settings_upload_debug_log_summary">Avtomatik olaraq Xiaomi-yə diaqnostika, cihaz və tətbiq istifadəsi məlumatlarını göndərərək təcrübənizi yaxşılaşdırmağa kömək edin. Bu, batareyanın ömrünü, sistemini və tətbiq sabitliyini və daha çoxunu yaxşılaşdırmağa kömək edəcəkdir.</string>
+    <string name="other_settings_upload_debug_log_title">İstifadə və diaqnostik məlumatları göndərin</string>
     <string name="other_settings_user_experience">İstifadəçi Təcrübə Proqramı</string>
-    <string name="other_settings_user_experience_summary">"İstifadə statistikalarını və təhlilləri bizimlə paylaşaraq, məhsul və xidmətlərimizi yaxşılaşdırmağa kömək edin. "</string>
+    <string name="other_settings_user_experience_summary">İstifadə statistikanızı və analizlərinizi bizimlə bölüşərək məhsul və xidmətlərimizi inkişaf etdirməyimizə kömək edin.</string>
     <string name="other_settings_user_experience_summary_index">Detallara bax</string>
-    <string name="permission_MIUIDaemon_introduction">Sistem Daemon, ekran zədələndikdə cihazınızdan data köçürməyə imkan verir.</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">Təqvimə müraciət</string>
-    <string name="permission_access_calendar_fast_application_summary">Cəld tətbiqlərin təqvimə müraciətinə icazə vermək üçün;</string>
+    <string name="permission_access_calendar_fast_application_summary">Cəld tətbiqlərin təqvimə daxil olmasına icazə vermək üçün;</string>
     <string name="permission_account">Cihazınızdakı hesablara müraciət</string>
-    <string name="permission_account_introduction">Xiaomi Hesabı ilə daxil olmaq üçün</string>
-    <string name="permission_application_package_introduction">Quraşdırma paketlərini təhlil etmək və skan etmək məqsədilə anbara müraciət etmək üçün</string>
-    <string name="permission_application_scope_description">Bu icazələri yalnız güvənlik doğrulamalarını həyata keçirərkən istifadə edirik, başqa heç bir məqsəd üçün istifadə etməyəcəyik.</string>
-    <string name="permission_authority_describe">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
-    <string name="permission_authority_describe_applist_summary">Tətbiq icazələrini idarə etmək üçün</string>
-    <string name="permission_backup">Anbara müraciət</string>
-    <string name="permission_backup_introduction">Cihazınızdakı nüsxələrə müraciət etmək və onları saxlamaq</string>
-    <string name="permission_call_records">Zəng tarixçəsinə müraciət</string>
-    <string name="permission_call_records_describe_bluetooth_summary">Bu cihaza bağladığınız digər uyumlu cihazlarınızın, zəng tarixçəsinə müraciət etməsinə icazə vermək üçün. Bu, yalnız zəng tarixçəsini başqa cihaz vasitəsilə proaktiv olaraq istifadə etməyi tələb etdikdə baş verəcək. Sistemin Bluetooth vasitəsilə paylaşdığı zəng tarixçəsi və kontaktlar, yalnız cihazlarınızda yerli olaraq keşlənəcək və icazənizlə onlarla paylaşılacaq.</string>
-    <string name="permission_call_records_introduction">Əngəllənmiş elementləri göstərmək məqsədilə zəng tarixçəsinə müraciət etmək üçün</string>
-    <string name="permission_call_state_introduction">Telefon statusuna müraciət etmək, zəngləri yazmaq və gələn zəng zamanı səs yazmağa fasilə vermək üçün</string>
-    <string name="permission_clock_info_introduction">Zəngli saat datalarını saxlamaq üçün</string>
+    <string name="permission_account_introduction">Mi Hesabı ilə daxil olmaq</string>
+    <string name="permission_application_package_introduction">Quraşdırma paketlərini təhlil etmək və analiz etmək üçün yaddaşa müraciət etmək</string>
+    <string name="permission_authority_describe">读取应用列表</string>
+    <string name="permission_authority_describe_applist_summary">用于管理应用权限。</string>
+    <string name="permission_backup">Yaddaşa müraciət edilir</string>
+    <string name="permission_backup_introduction">Cihazınızdakı yedəkləmələrə müraciət etmək və yaddaşda saxlamaq üçün</string>
+    <string name="permission_call_records">Zəng tarixçəsinə müraciət et</string>
+    <string name="permission_call_records_describe_bluetooth_summary">Bu cihaza qoşulduğunuz digər uyğun cihazların zəng tarixçəsinə daxil olmasına icazə verdiyiniz üçün. Bu, yalnız başqa cihaz vasitəsilə zəng tarixçəsindən fəal şəkildə istifadə etməyi tələb etdiyiniz zaman baş verəcək. Sistem tərəfindən Bluetooth vasitəsilə paylaşılan zəng tarixçəsi və kontaktlar yalnız sizin cihazlarınızda yerli olaraq keşlənəcək və icazənizlə onlarla paylaşılacaq.</string>
+    <string name="permission_call_records_introduction">Əngəllənmiş elementləri göstərmək üçün zəng tarixçəsinə müraciət etmək</string>
+    <string name="permission_call_state_introduction">Telefon vəziyyətinə müraciət etmək, zəngləri qeyd etmək və gələn zənglər zamanı qeyd etməni dayandırmaq üçün</string>
+    <string name="permission_clock_info_introduction">Zəngli saat məlumatlarını yaddaşda saxlmaq üçün</string>
     <string name="permission_contact">Kontaktlara müraciət</string>
     <string name="permission_contact_describe">Kontaktlara müraciət</string>
-    <string name="permission_contact_describe_MIUIDaemon_summary">Kimliyinizi doğrulamaq üçün</string>
-    <string name="permission_contact_describe_bluetooth_summary">Bu cihaza bağladığınız digər uyumlu cihazlarınızın, kontaktlara müraciət etməsinə icazə vermək üçün. Bu, yalnız Bluetooth açıq olduqda və ya Bluetooth açıq ikən kontaktlarınıza düzəliş etdikdə baş verəcək.</string>
-    <string name="permission_contact_describe_desktop_summary">Lite rejimində Əsas ekran fövqəladə hal əlaqə özəlliyini istifadə etmək və danışıq bildirişlərini göstərmək üçün;</string>
+    <string name="permission_contact_describe_MIUIDaemon_summary">Şəxsiyyətinizi təsdiqləmək üçün.</string>
+    <string name="permission_contact_describe_bluetooth_summary">Bu cihaza qoşulduğunuz digər uyğun cihazların kontaktlara daxil olmasına icazə verdiyiniz üçün. Bu, yalnız Bluetooth açıq olduqda Bluetooth-u yandırdığınız zaman və ya kontaktlarınızı redaktə etdiyiniz zaman baş verəcək.</string>
+    <string name="permission_contact_describe_desktop_summary">Əsas ekranın fövqəladə kontakt funksiyasından Lite rejimində istifadə etmək və söhbət bildirişlərini göstərmək üçün;</string>
     <string name="permission_contact_describe_message_summary">SMS və MMS-in müvafiq kontakt məlumatlarını göstərmək üçün.</string>
-    <string name="permission_contact_introduction">Əngəlli siyahısı funksionallığını təmin etmək və fövqəladə hal əlaqələrinə zəng etmək üçün</string>
+    <string name="permission_contact_introduction">Əngəlli siyahısı xüsusiyyətinin işləməsini təmin etmək və fövqəladə hal kontaktlarına zəng etmək üçün</string>
     <string name="permission_device">Cihaz məlumatlarına müraciət</string>
-    <string name="permission_device_desktop_summary">Cihaz məlumatlarına müraciət etmək üçün (məs. operator adı);</string>
-    <string name="permission_device_fast_pairing_summary">Cihazın statusuna müraciət etmək və geyilə bilən cihazlarla ünsiyyət qurmaq üçün;</string>
-    <string name="permission_device_message_summary">SMS və MMS göndərmək üçün;</string>
-    <string name="permission_device_mi_account_summary">Giriş mühitinin güvənliyini təmin etmək üçün.</string>
-    <string name="permission_different_device_introduction">Fərqli cihazlarla əlaqələndirilmiş xidmətləri müəyyənləşdirmək üçün</string>
+    <string name="permission_device_desktop_summary">Cihaz məlumatlarına müraciət etmək üçün (məsələn, operator adı);</string>
+    <string name="permission_device_fast_pairing_summary">Cihazın vəziyyətinə daxil olmaq və onu geyilə bilən cihazlara çatdırmaq üçün;</string>
+    <string name="permission_device_message_summary">SMS və MMS göndərmək və qəbul etmək üçün;</string>
+    <string name="permission_device_mi_account_summary">Giriş mühitinin təhlükəsizliyini təmin etmək üçün.</string>
+    <string name="permission_different_device_introduction">Fərqli cihazlarla əlaqəli xidmətləri müəyyənləşdirmək üçün</string>
     <string name="permission_different_info_introduction">Fərqli cihazları müəyyənləşdirmək üçün</string>
     <string name="permission_direct_call">Zəng et</string>
     <string name="permission_direct_call_introduction">Elementləri Əngəlli siyahısına əlavə etmək üçün</string>
     <string name="permission_download_introduction">Endirilən elementləri keşləmək və cihazınızda saxlamaq üçün</string>
-    <string name="permission_enable_disable_bluetooth_summary">Bağlantı qurmaq və data ötürmək məqsədilə yaxınlıqdakı cihazları tapmaq üçün</string>
-    <string name="permission_fast_pairing">Yaxınlıqdakı cihazları tapa bilmək üçün, Mi Link, internetə bağlanmalı və aşağıdakı icazələrə sahib olmalıdır:</string>
+    <string name="permission_enable_disable_bluetooth_summary">For finding devices nearby in order to connect and transfer data</string>
+    <string name="permission_fast_pairing">Yaxınlıqdakı cihazları tapmaq üçün Mi Link internetə qoşulmalıdır və aşağıdakı icazələri tələb edir:</string>
     <string name="permission_get_imei_information_summary">Cihazın aktivləşmə vaxtını müəyyən etmək üçün</string>
-    <string name="permission_get_imei_information_summary_settings">Cihaz məlumatlarını və xüsusiyyətlərini göstərmək üçün</string>
-    <string name="permission_imei_service">Cihazınızla əlaqələndirilmiş xidmətləri təqdim etmək üzrə IMEI-yə müraciət etmək üçün</string>
-    <string name="permission_interaction_introduction">Foto və videoları cihazda saxlamaq üçün</string>
-    <string name="permission_location">Yerləşmə məlumatlarına müraciət:</string>
-    <string name="permission_location_describe">Yerləşməyə müraciət</string>
-    <string name="permission_location_describe_desktop_summary">Wi-Fi şəbəkə adlarına müraciət etmək üçün;</string>
-    <string name="permission_location_describe_fast_application_summary">Cəld tətbiqlərin yerləşmənizə müraciət etməsinə icazə vermək üçün;</string>
-    <string name="permission_location_describe_fast_pairing_summary">Mövcud zəif enerji sərf edən Bluetooth cihazlarını göstərmək üçün;</string>
-    <string name="permission_location_describe_interconnection_communication_summary">Bluetooth və ya Wi-Fi istifadə edərək kəşf və bağlantı xidmətlərini göstərmək məqsədilə yerləşmənizə müraciət etmək üçün;</string>
-    <string name="permission_location_describe_location_summary">Müxtəlif yer əsaslı xidmətləri göstərmək məqsədilə dəqiq yerləşmənizə müraciət etmək üçün.</string>
-    <string name="permission_location_introduction">Yer əsaslı xidmətləri təqdim etmək üçün</string>
-    <string name="permission_log_introduction">Jurnalları saxlamaq üçün</string>
-    <string name="permission_login_introduction">Sistem hesablarına daxil olmaq və onları idarə etmək üçün</string>
+    <string name="permission_get_imei_information_summary_settings">For displaying device info and specs</string>
+    <string name="permission_imei_service">Cihazınızla əlaqəli xidmətləri təmin etmək üçün IMEI nömrəsinə müraciət etmək</string>
+    <string name="permission_interaction_introduction">Şəkil və videoları cihazda saxlamaq üçün</string>
+    <string name="permission_location">Məkan məlumatlarına müraciət et:</string>
+    <string name="permission_location_describe">Məkan müraciəti</string>
+    <string name="permission_location_describe_desktop_summary">Wi-Fi şəbəkə adlarına daxil olmaq üçün;</string>
+    <string name="permission_location_describe_fast_application_summary">Cəld tətbiqlərin məkanınıza daxil olmasına icazə vermək üçün;</string>
+    <string name="permission_location_describe_fast_pairing_summary">Aşağı enerji istehlak edən Bluetooth cihazlarını göstərmək üçün;</string>
+    <string name="permission_location_describe_interconnection_communication_summary">Bluetooth və ya Wi-Fi istifadə edərək kəşf və əlaqə xidmətləri təmin etmək üçün yerləşdiyiniz məkana müraciət etmək üçün;</string>
+    <string name="permission_location_describe_location_summary">Müxtəlif məkana əsaslanan xidmətlər təqdim etmək üçün dəqiq məkanınıza daxil olmaq üçün.</string>
+    <string name="permission_location_introduction">Məkan əsaslı xidmətlər təmin etmək üçün</string>
+    <string name="permission_log_introduction">Qeydləri yaddaşda saxlmaq üçün</string>
+    <string name="permission_login_introduction">Sistem hesablarına daxil olmaq və idarə etmək üçün</string>
     <string name="permission_make_a_call">Zəng et</string>
-    <string name="permission_make_a_call_fast_application_summary">Cəld tətbiqlərin zəng etməsinə icazə vermək üçün;</string>
-    <string name="permission_media_storage_summary">Tətbiqlərin fayllara müraciət edərkən gizliliklə əlaqəli icazələri necə istifadə etdiyini yoxlamaq üçün</string>
+    <string name="permission_make_a_call_fast_application_summary">Cəld tətbiqlərə zəng etməyə icazə vermək üçün;</string>
+    <string name="permission_media_storage_summary">Fayllara daxil olarkən tətbiqlərin gizlilikdə bağlı icazələrdən necə istifadə etdiyini yoxlamaq üçün</string>
     <string name="permission_message_introduction">Əngəllənmiş kontaktlara mesaj göndərmək üçün</string>
-    <string name="permission_not_agree_service_not_working">Yuxarıdakı göstərilən lazımi icəzələrlə razılaşmırsınızsa, bu xidməti istifadə edə bilməyəcəksiniz.</string>
-    <string name="permission_number">Telefon nömrəsinə müraciət</string>
-    <string name="permission_number_introduction">Avtomobil sistemləri və Bluetooth qulaqlıqlarla Bluetooth bağlantısı qurmaq üçün</string>
-    <string name="permission_phone_imei_device">Cihazları müəyyənləşdirmək üzrə IMEI-yə müraciət etmək üçün</string>
-    <string name="permission_phone_network">Endirilə bilən elementləri optimallaşdırmaq və ayarlamaq üzrə şəbəkə növünə müraciət etmək üçün</string>
-    <string name="permission_phone_service">Telefon nömrəsi, IMEI və IMSI-yə müraciət</string>
-    <string name="permission_photo_introduction">Təsvirləri Qalereyada saxlamaq və statusları dərc etmək üçün</string>
-    <string name="permission_photo_video">Foto çək və video yaz:</string>
-    <string name="permission_photo_video_introduction">Foto çəkmək, video yazmaq və fləşi istifadə etmək üçün</string>
-    <string name="permission_picture_introduction">Foto və videoları saxlamaq, sinxronlaşdırmaq və onlara düzəliş etmək üçün</string>
-    <string name="permission_qualcomm_describe_summary">Sistem resurslarının müxtəlif tətbiqlərə dinamik şəkildə ayrılması və onların iş proseslərinin təşkili üçün</string>
-    <string name="permission_quality_describe_summary">Tətbiq çökmələri haqqında məlumat yığmaq üçün</string>
-    <string name="permission_read_app_list">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
-    <string name="permission_read_application_list_summary">Endirilmiş tətbiqləri güncəlləmək və paket quraşdırıcının istifadə etdiyi tətbiq məlumatlarını təsdiqləmək üçün;</string>
-    <string name="permission_read_call_records">Zəng tarixçəsinə düzəliş et</string>
-    <string name="permission_read_call_records_introduction">Zəng tarixçəsinə element əlavə etmək və əngəllənmiş zəngləri silmək üçün</string>
+    <string name="permission_number">读取本机号码</string>
+    <string name="permission_number_introduction">用于支持连接系统蓝牙并实现车载或蓝牙耳机通话；</string>
+    <string name="permission_phone_imei_device">Cihazları müəyyənləşdirmək üçün IMEI nömrəsinə müraciət</string>
+    <string name="permission_phone_network">Endirilə bilən elementləri optimallaşdırmaq və tənzimləmək üçün şəbəkə növünə müraciət etmək</string>
+    <string name="permission_phone_service">Telefon nömrəsinə, IMEI və IMSI-yə daxil olun</string>
+    <string name="permission_photo_introduction">Şəkilləri Qalereyada saxlamaq və yayımlama vəziyyətləri üçün</string>
+    <string name="permission_photo_video">Şəkil çək və video qeyd et:</string>
+    <string name="permission_photo_video_introduction">Şəkil çəkmək, video qeyd etmək və flaş istifadə etmək üçün</string>
+    <string name="permission_picture_introduction">Şəkil və videoları yaddaşda saxlamaq, redaktə etmək və sinxronizasiya etmək üçün</string>
+    <string name="permission_qualcomm_describe_summary">用于针对不同类型应用动态调整系统参数，完成系统组件及应用的进程调度。</string>
+    <string name="permission_quality_describe_summary">用于收集应用崩溃信息。</string>
+    <string name="permission_read_app_list">Bu cihazda quraşdırılmış tətbiqlərin siyahısına daxil olun</string>
+    <string name="permission_read_application_list_summary">Endirilən tətbiqləri yeniləmək və paket quraşdırıcı tərəfindən istifadə edilən proqram məlumatını təsdiqləmək üçün;</string>
+    <string name="permission_read_call_records">Zəng tarixçəsini redaktə edin</string>
+    <string name="permission_read_call_records_introduction">Zəng tarixçəsinə elementlər əlavə etmək və əngəllənmiş zəngləri silmək üçün</string>
     <string name="permission_read_contacts">Kontaktlara müraciət edilir</string>
-    <string name="permission_read_contacts_introduction">Kimliyinizi doğrulamaq üçün</string>
-    <string name="permission_read_device_store">Cihaz anbarına müraciət</string>
-    <string name="permission_read_device_store_summary">Endirilmiş mənbə fayllarına və mənbə konfiqurasiya fayllarına müraciət etmək üçün;</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
+    <string name="permission_read_device_store">Cihaz yaddaş sahəsinə müraciət</string>
+    <string name="permission_read_device_store_summary">Endirilən mənbə fayllarına və mənbə konfiqurasiya fayllarına müraciət etmək üçün;</string>
     <string name="permission_read_message">Mətn mesajlarına müraciət</string>
-    <string name="permission_read_message_introduction">Cihazınızın sahibliyini doğrulamaq üçün</string>
-    <string name="permission_read_note_introduction">Notlara və qoşmalara müraciət etmək üçün</string>
-    <string name="permission_read_send_message">SMS göndər və al</string>
-    <string name="permission_read_send_message_fast_application_summary">Cəld tətbiqlərin SMS göndərməsinə və almasına imkan vermək üçün;</string>
-    <string name="permission_read_send_message_sim_activation_summary">Aktivləşdirmə SMS-i göndərmək və almaq üçün;</string>
-    <string name="permission_read_send_message_summary">SMS almaq, görmək və göndərmək üçün;</string>
-    <string name="permission_read_send_multimedia_message">MMS göndər və al</string>
-    <string name="permission_read_send_multimedia_message_summary">MMS almaq, görmək və göndərmək üçün;</string>
-    <string name="permission_read_write_call_log">Zəng tarixçəsinə müraciət və düzəliş</string>
-    <string name="permission_read_write_call_log_summary">Zəng tarixçəsinə baxmaq və düzəliş etmək üçün.</string>
-    <string name="permission_read_write_contacts">Kontaktlara müraciət və düzəliş</string>
-    <string name="permission_read_write_contacts_fast_application_summary">Cəld tətbiqlərin kontaktlara müraciət və düzəliş etməsi üçün;</string>
-    <string name="permission_read_write_contacts_summary">Kontaktları görmək və idarə etmək üçün;</string>
-    <string name="permission_read_write_device_store">Elementlərə müraciət etmə və onları anbarda saxlama</string>
-    <string name="permission_read_write_device_store_album_summary">Foto və videolarınızı saxlamaq, göstərmək, düzəliş etmək, sinxronlaşdırmaq və endirmək üçün.</string>
-    <string name="permission_read_write_device_store_application_package_summary">Quraşdırma paketlərini təhlil və skan etmək üçün.</string>
-    <string name="permission_read_write_device_store_camera_summary">Foto və ya video çəkdikdən sonra faylları cihazınızda saxlamaq üçün.</string>
-    <string name="permission_read_write_device_store_download_summary">Endirilən məzmunu keşləmək, idarə etmək və ona müraciət etmək üçün.</string>
-    <string name="permission_read_write_device_store_fast_application_summary">Cəld tətbiqlərin fayllara müraciət və düzəliş etməsinə və onları keşləməsinə icazə vermək üçün;</string>
-    <string name="permission_read_write_file">Cihazınızdakı foto, video, səs və fayllara müraciət və onları saxlama</string>
-    <string name="permission_read_write_file_introduction">Cihazınızdakı elementlərə müraciət etmək, onları saxlamaq və keşləmək üçün</string>
-    <string name="permission_read_write_phone_store">Elementlərə müraciət etmək və onları cihazın anbarında saxlamaq üçün;</string>
-    <string name="permission_read_write_phone_store_summary">Əsas ekran elementlərinə müraciət etmək və onları saxlamaq üçün;</string>
-    <string name="permission_recorder_file_introduction">Səs yazılarına müraciət etmək və onları saxlamaq üçün</string>
-    <string name="permission_recording">Zəngləri və səsləri yazma:</string>
-    <string name="permission_recording_introduction">Video yazarkən səsləri yazmaq üçün</string>
-    <string name="permission_screen_shoot_introduction">Ekran yazılarına müraciət etmək və onları saxlamaq üçün</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
+    <string name="permission_read_note_introduction">Qeydlərə və əlavələrə müraciət etmək üçün</string>
+    <string name="permission_read_send_message">SMS göndərin və alın</string>
+    <string name="permission_read_send_message_fast_application_summary">Cəld tətbiqlərə SMS göndərmək və qəbul etmək imkanı vermək üçün;</string>
+    <string name="permission_read_send_message_sim_activation_summary">Aktivləşdirmə SMS-lərinin göndərilməsi və qəbulu üçün;</string>
+    <string name="permission_read_send_message_summary">SMS almaq, baxmaq və göndərmək üçün;</string>
+    <string name="permission_read_send_multimedia_message">MMS göndərin və qəbul edin</string>
+    <string name="permission_read_send_multimedia_message_summary">MMS qəbul etmək, baxmaq və göndərmək üçün;</string>
+    <string name="permission_read_write_call_log">Zəng tarixçəsinə daxil olun və redaktə edin</string>
+    <string name="permission_read_write_call_log_summary">Zəng tarixçəsini göstərmək və redaktə etmək üçün.</string>
+    <string name="permission_read_write_contacts">Kontaktlara daxil olun və onları redaktə edin</string>
+    <string name="permission_read_write_contacts_fast_application_summary">Cəld tətbiqlərə kontaktlara müraciət etmək və redaktə etmək icazəsi vermək üçün;</string>
+    <string name="permission_read_write_contacts_summary">Kontaktlara baxmaq və idarə etmək üçün;</string>
+    <string name="permission_read_write_device_store">Elementlərə daxil olun və yaddaşda saxlayın</string>
+    <string name="permission_read_write_device_store_album_summary">Şəkil və videolarınızı saxlamaq, göstərmək, düzəltmək, sinxronlaşdırmaq, və endirmək üçün.</string>
+    <string name="permission_read_write_device_store_application_package_summary">Quraşdırma paketlərini təhlil etmək və analiz etmək üçün.</string>
+    <string name="permission_read_write_device_store_camera_summary">Şəkil və ya video çəkdikdən sonra faylları cihazınıza saxlamaq üçün.</string>
+    <string name="permission_read_write_device_store_download_summary">Endirilən məzmunu keşləmə, daxil olmaq və idarə etmək üçün.</string>
+    <string name="permission_read_write_device_store_fast_application_summary">Cəld tətbiq fayllara daxil olmaq, keşləmək və redaktə etmək imkanı vermək üçün;</string>
+    <string name="permission_read_write_file">Cihazınızdakı fayllara və şəkillərə müraciət etmək və yaddaşda saxlamaq</string>
+    <string name="permission_read_write_file_introduction">Cihazınızda saxlanmış və keşlənmiş elementlərə müraciət etmək üçün</string>
+    <string name="permission_read_write_phone_store">Elementlərə daxil olmaq və cihazın yaddaşına saxlamaq üçün;</string>
+    <string name="permission_read_write_phone_store_summary">Əsas ekran elementlərinə daxil olmaq və saxlamaq üçün;</string>
+    <string name="permission_recorder_file_introduction">Səs qeydlərinə müraciət etmək və yaddaşda saxlamaq üçün</string>
+    <string name="permission_recording">Zəngləri və səsləri qeyd et:</string>
+    <string name="permission_recording_introduction">Video qeyd edərkən səs yazmaq</string>
+    <string name="permission_screen_shoot_introduction">Ekran qeydlərinə müraciət etmək və yaddaşda saxlamaq üçün</string>
     <string name="permission_send_message">SMS göndər</string>
-    <string name="permission_sms_verification_code_login">Cəld daxil olmaq məqsədilə SMS doğrulamasını təmin etmək üçün</string>
-    <string name="permission_uniquely_identifiable_information">Bu cihaz unikal identifikatorlarına müraciət</string>
-    <string name="permission_uniquely_identifiable_information_summary">Digər cihazları kəşf etmək, onlarla bağlantı və rabitə qurmaq üçün MAC ünvanına və cihaz OAID-ə müraciət edin</string>
-    <string name="permission_use_bluetooth">Bluetooth istifadə et</string>
-    <string name="permission_use_bluetooth_summary">Yaxınlıqdakı cihazları kəşf etmək, onlarla bağlantı və rabitə qurmaq üçün</string>
-    <string name="permission_use_camera">Kameraya müraciət</string>
-    <string name="permission_use_camera_camera_summary">Foto çəkmək, video yazmaq və fləşi istifadə etmək üçün;</string>
-    <string name="permission_use_camera_desktop_summary">Fənər özəlliyinin dəstəklənməsini müəyyən etmək üçün;</string>
-    <string name="permission_use_camera_fast_application_summary">Cəld tətbiqlərin kameraya müraciətinə icazə vermək üçün;</string>
-    <string name="permission_use_camera_ims_summary">Görüntülü zənglər etmək üçün.</string>
+    <string name="permission_use_camera">Kameraya müraciət et</string>
+    <string name="permission_use_camera_camera_summary">Şəkil çəkmək, video qeyd etmək və flaş istifadə etmək üçün;</string>
+    <string name="permission_use_camera_desktop_summary">Fənər funksiyasını dəstəkləyib-dəstəkləməyinizi müəyyən etmək üçün;</string>
+    <string name="permission_use_camera_fast_application_summary">Cəld tətbiqlərin kameraya daxil olmasına icazə vermək üçün;</string>
+    <string name="permission_use_camera_ims_summary">Video zəng etmək üçün.</string>
     <string name="permission_use_microphone">Mikrofona müraciət</string>
-    <string name="permission_use_microphone_camera_summary">Video yazarkən səsləri yazmaq üçün;</string>
-    <string name="permission_use_microphone_desktop_summary">Yazı statusunu göstərmək üçün.</string>
-    <string name="permission_use_microphone_fast_application_summary">Cəld tətbiqlərin mikrofona müraciətinə icazə vermək üçün;</string>
-    <string name="permission_use_wlan">Wi-Fi istifadə et</string>
-    <string name="permission_use_wlan_summary">Yaxınlıqdakı cihazları kəşf etmək, onlarla bağlantı və rabitə qurmaq üçün</string>
-    <string name="permission_user_record_introduction">Səs yazmaq üçün</string>
-    <string name="permission_virusscan_introduction">Virus skanını icra etmə və cihazınızı optimallaşdırmaq üçün</string>
-    <string name="permission_write_device_store">Elementləri cihazın anbarında saxla</string>
-    <string name="permission_write_device_store_summary">Endirilən mənbə konfiqurasiya fayllarını keşləmək üçün.</string>
-    <string name="permission_xunlei_introduction">Xunlei xidmətlərini təmin etmək məqsədilə sistem hesablarına daxil olmaq və onları idarə etmək üçün</string>
-    <string name="phone_introduction">Bu tətbiqi cihazınızdakı virusları tapmaq və zərərsizləşdirmək, zəngləri və mesajları əngəlləmək, oyunlar üçün performansı optimallaşdırmaq, batareyaya qənaət etmək, həmçinin tətbiqləri, icazələri, internet istifadəsini və daha çoxunu idarə etmək üçün istifadə edə bilərsiniz.</string>
-    <string name="phone_name_security">Güvənlik</string>
-    <string name="phone_service_introduction">Telefoniya, cihazınızın zəng etməsinə, mesaj göndərməsinə və almasına və şəbəkəyə bağlanmasına imkan verən təməl bir xidmətdir.</string>
-    <string name="poco_agree_terms_other">(POCO Launcher Gizlilik Siyasəti və İstifadəçi Razılaşması daxil olmaqla)</string>
-    <string name="poco_launcher_privacy_policy">POCO Launcher Gizlilik Siyasəti</string>
-    <string name="poco_launcher_user_agreement">POCO Başladıcısı İstifadəçi Razılaşması</string>
-    <string name="position_header">Yerləşmə məlumatlarının paylaşılması</string>
-    <string name="position_subheading">Yerləşmə məlumatı</string>
-    <string name="pref_title_data_slot">Tərcih edilən internet SIM kartı</string>
-    <string name="pref_title_voice_slot">Tərcih edilən danışıq SIM kartı</string>
-    <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="privacy_content_one">Divar kağızı Karuseli tövsiyələri, güvənli üçüncü tərəf məzmun provayderimiz olan Taboola tərəfindən təmin edilir. Bu məzmunu təmin etmək üçün, Taboola-nın sistem diliniz və brauzerinizin növü daxil olmaqla cihazınızdakı şəxsi olmayan məlumatlara müraciət etməli və onları saxlamalıdır. Taboola-nın yığdığı dataları necə istifadə etdiyini Taboola-nın &lt;a href =%1$s>Gizlilik Siyasəti&lt;/a> və &lt;a href =%2$s>İstifadəçi Razılaşmasında&lt;/a> öyrənə bilərsiniz. Davam etməzdən əvvəl bu sənədlərdə göstərilən şərtləri və qaydaları oxuyun və onlarla razılaşın. Razılaşmasanız, Divar kağızı Karuseli üzrə xidmətlər deaktiv ediləcək.</string>
+    <string name="permission_use_microphone_camera_summary">Video qeyd edərkən səs yazmaq;</string>
+    <string name="permission_use_microphone_desktop_summary">Qeyd statusunu göstərmək üçün.</string>
+    <string name="permission_use_microphone_fast_application_summary">Cəld tətbiqlərin mikrofona daxil olmasına icazə vermək üçün;</string>
+    <string name="permission_user_record_introduction">Səs qeyd etmək üçün</string>
+    <string name="permission_virusscan_introduction">Virus analizi etmək və cihazınızı optimallaşdırmaq üçün</string>
+    <string name="permission_write_device_store">Elementləri cihazın yaddaşında saxlayın</string>
+    <string name="permission_write_device_store_summary">Endirilən mənbə konfiqurasiya fayllarının keşləşdirilməsi üçün.</string>
+    <string name="permission_xunlei_introduction">Xunlei xidmətlərini təmin etmək üçün sistem hesablarına müraciət etmək və idarə etmək üçün</string>
+    <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
+    <string name="pm">GS</string>
+    <string name="poco_agree_terms_other">(POCO Başladıcısı Gizlilik Siyasəti və İstifadəçi Sazişi daxil)</string>
+    <string name="poco_launcher_privacy_policy">POCO Başladıcısı Gizlilik Siyasəti</string>
+    <string name="poco_launcher_user_agreement">POCO Başladıcısı İstifadəçi Sazişi</string>
+    <string name="position_header">Məkan məlumatı paylaşılır</string>
+    <string name="position_subheading">Məkan məlumatı</string>
+    <string name="pref_title_data_slot">Tərcih edilən məlumat SIM kartı</string>
+    <string name="pref_title_voice_slot">Tərcih edilən səs SIM kartı</string>
+    <string name="privacy_content_one">"Divar kağızı Karuseli tövsiyələri, etibar etdiyimiz üçüncü tərəf məzmun təminatçısı Taboola tərəfindən dəstəklənir. Bu məzmunu təmin etmək üçün Taboola, cihaz dilinizdən sistem diliniz və brauzerinizin növü də daxil olmaqla şəxsi olmayan məlumatlara daxil olmalı və saxlamalıdır. Taboola'nın toplanan məlumatlardan necə istifadə etdiyini &lt;a href =%1$s>Gizlilik Siyasəti&lt;/a> və &lt;a href =%2$s>İstifadəçi Sazişi&lt;/a> sazşilərindən öyrənə bilərsiniz."</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_provision_more">Gizlilik qoruması haqqında daha ətraflı</string>
-    <string name="privacy_provision_summary">Gizlilik qoruması, məhsullarımızın dizaynının arxasında duran öhdəlikdir</string>
-    <string name="privacy_provision_text">Gizliliyinizə hörmət etməkdə və onu qorumaqda qərarlıyıq. İnformasiya güvənliyi sahəsində tədqiqat və inkişafa üstünlük verən Xiaomi, daim datanızı qoruyan üsulları, təcrübələri və texniki həlləri təkmilləşdirmək üzərində işləyir. Həmçinin, gizliliyinizi təmin etmək üçün ən son nailiyyətlərimizi tərəfdaşlarımızla paylaşırıq.</string>
+    <string name="privacy_provision_more">Gizlilik qoruması haqqında daha çox məlumat əldə edin</string>
+    <string name="privacy_provision_summary">Gizlilik qoruması məhsullarımızın dizaynındakı öhdəlikdir</string>
+    <string name="privacy_provision_text">Gizliliyinizə hörmət etməyə və qorumağa qərarlıyıq.İnformasiya təhlükəsizliyi sahəsində tədqiqat və inkişaf prioritetləşdirilir, Xiaomi daim məlumatlarınızı qoruyan üsulların, təcrübələrin və texniki həllərin təkmilləşdirilməsi üzərində işləyir. Lövhə üzərində gizliliyinizi təmin etmək üçün son nailiyyətlərimizi tərəfdaşlarımızla paylaşırıq.</string>
     <string name="privacy_provision_title">Gizlilik</string>
-    <string name="privacy_refuse">Razı deyiləm</string>
-    <string name="privacy_title">Şərtlər və Gizlilik Siyasəti</string>
-    <string name="protect_persoanl_info_statement">Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq.</string>
-    <string name="provide_date_management_service">Bu xidmət, tarixi yoxlamağınıza və tədbirləri idarə etməyinizə imkan verir.</string>
+    <string name="privacy_refuse">Rədd et</string>
+    <string name="privacy_title">Şərtlər &amp; Gizlilik Siyasəti</string>
+    <string name="protect_persoanl_info_statement">Şəxsi məlumatlarınızı müvafiq qanunlar, qaydalar və gizlilik siyasətinə uyğun olaraq qoruyacağıq.</string>
     <string name="provision_back">Geri</string>
-    <string name="provision_inputmethod_policy_description"><Data> Seçdiyiniz klaviaturanın &lt;a href=%1$s>Gizlilik Siyasətinə&lt;/a > bax.</Data></string>
+    <string name="provision_inputmethod_policy_description">&lt;Data>Bax&lt;a href=%1$s>Gizlilik Siyasəti&lt;/a > seçdiyiniz klaviaturanın.&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">Gizlilik Siyasəti</string>
     <string name="provision_next">Növbəti</string>
-    <string name="provision_skip_underline">Ötür</string>
-    <string name="read_application_info">Tətbiq məlumatına müraciət</string>
-    <string name="read_sms_and_mms">SMS və MMS-ə müraciət</string>
+    <string name="provision_skip_underline">Burax</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Tövsiyə edilən</string>
-    <string name="recorder_introduction">Bu tətbiqi səs yazmaq və səsyazmaları buluda nüsxələmək üçün istifadə edə bilərsiniz.</string>
-    <string name="refuse_cookie">Çərəzləri rədd et</string>
-    <string name="require_authority_list_statement">Normal işləyə bilməsi üçün, bu xidmət aşağıdakı icazələri tələb edir:</string>
-    <string name="require_authority_statement">Sizi təməl xidmətlərlə təmin etməyimizə imkan vermək üçün, şəxsi məlumatlarınızın yığılması üzrə aşağıdakı icazələri verməyiniz lazımdır:</string>
-    <string name="require_base_authority_statement">"Təməl xidmətləri təmin etmək üçün aşağıdakı icazələr tələb olunur:
-\u0009\u0009\u0009IMEI və IMSI-ə müraciət"</string>
-    <string name="require_basic_applist_and_authority_statement">Təməl xidmətləri təmin etmək üçün aşağıdakı icazələr tələb olunur:</string>
-    <string name="require_device_information_statement">Təməl xidmətləri tmin edə bilmək üçün aşağıdakı icazələr tələb olunur:</string>
-    <string name="require_miuidaemon_authority_statement">Sizi bu xidmətlə təmin etməyimizə imkan vermək üçün, şəxsi məlumatlarınızın yığılması üzrə aşağıdakı icazələri verməyiniz lazımdır:</string>
-    <string name="require_network_and_authority_statement">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
-    <string name="require_network_authority_statement">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
-    <string name="require_network_authority_statement_dual">Normal işləyə bilməsi üçün, bu xidmətin internetə bağlanması və aşağıdakı icazələrə sahib olması lazımdır:</string>
-    <string name="require_statement">Təməl xidmətləri təmin etmək üçün aşağıdakı icazələrə ehtiyacımız var:</string>
-    <string name="safe_open_service">Güvənli açıq xidmətlər</string>
-    <string name="safe_open_service_introduction">Güvənli açıq xidmətlər, tərtibatçılara kömək edir. İstifadəçiləri və onların gizliliyini qorumaq üçün sistem səviyyəsində güvənlik imkanları təqdim edir.</string>
+    <string name="recorder_introduction">Bu tətbiqi səs qeyd etmək və qeydləri cloud sahəsinə yedəkləmək üçün istifadə edə bilərsiniz.</string>
+    <string name="refuse_cookie">Kukiləri rədd edin</string>
+    <string name="require_authority_list_statement">Normal işləmək üçün bu xidmət aşağıdakı icazələri tələb edir:</string>
+    <string name="require_authority_statement">Əsas xidmətlərlə təmin etməyimizə icazə vermək üçün şəxsi məlumatlarınızı toplamağımız üçün aşağıdakı icazələri verməyiniz lazımdır:</string>
+    <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
+\u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
+    <string name="require_device_information_statement">To be able to provide basic services, the following permissions are required:</string>
+    <string name="require_miuidaemon_authority_statement">Sizə bu xidməti göstərməyimizə icazə vermək üçün şəxsi məlumatlarınızı toplamaq üçün aşağıdakı icazələri verməlisiniz:</string>
+    <string name="require_network_and_authority_statement">Normal işləmək üçün bu xidmət internetə qoşulmalıdır və aşağıdakı icazələri tələb edir:</string>
+    <string name="require_network_authority_statement">Normal işləmək üçün bu xidmət internetə qoşulmalıdır və aşağıdakı icazələri tələb edir:</string>
+    <string name="require_network_authority_statement_dual">Normal işləmək üçün bu xidmət internetə qoşulmalıdır və aşağıdakı icazələri tələb edir:</string>
     <string name="saturday">Şənbə</string>
-    <string name="saturday_short">Şәn</string>
-    <string name="saturday_shortest">Şәn</string>
-    <string name="screen_recording_introduction">Bu tətbiq, ekranınızda baş verənləri yazmağa imkan verir.</string>
-    <string name="search_menu_title">Axtar</string>
-    <string name="security_introduction">Bu tətbiqi cihazınızdakı tullantını təmizləmək, virusları tapmaq və zərərsizləşdirmək, oyunlar üçün performansı optimallaşdırmaq, batareyaya qənaət etmək, tətbiqləri və icazələri idarə etmək və daha çoxu üçün istifadə edə bilərsiniz.</string>
+    <string name="saturday_short">Ş.</string>
+    <string name="saturday_shortest">Ş.</string>
+    <string name="screen_recording_introduction">Bu tətbiq, ekranınızadakı fəaliyyətləri qeyd etməyinizə icazə verir.</string>
+    <string name="security_introduction">Bu tətbiqdən cihazınızdakı zibili təmizləmək, virusları tapmaq və zərərsizləşdirmək, oyun üçün performansını optimallaşdırmaq, batareya qənaəti etmək, tətbiqləri, icazələri və s. idarə etmək üçün istifadə edə bilərsiniz.</string>
     <string name="security_mobile_account_introduction">Sistem hesablarına daxil olmaq və idarə etmək üçün</string>
-    <string name="select_font_modele_tips">\"Temalar\"da həmişə yeni bir şrift seçə bilərsiniz</string>
+    <string name="select_font_modele_tips">Siz həmişə Temalarda yeni şrift seçə bilərsiniz</string>
     <string name="send">Göndər</string>
-    <string name="service_agreement">Şərtlər və qaydaları oxudum və razılaşıram.</string>
-    <string name="service_company_adjust_content">Xunlei Şəbəkə Xidmətləri İstifadəçi Razılaşması</string>
-    <string name="service_fast_pairing_policy"><Data>Davam etməzdən əvvəl &lt;a href=%1$s>Mi Link Gizlilik Siyasətini&lt;/a > oxuyun və razılaşın.</Data></string>
+    <string name="service_agreement">Şərtlər və qaydaları oxudum və qəbul edirəm.</string>
+    <string name="service_company_adjust_content">Xunlei Network Services İstifadəçi Sazişi</string>
+    <string name="service_fast_pairing_policy">&lt;Data>Davam etməzdən əvvəl &lt;a href=%1$s>Mi Link Gizlilik Siyasəti&lt;/a > sazişini oxuyun və qəbul edin.&lt;/Data></string>
     <string name="service_interconnection_communication">Xiaomi İnternet Rabitə Xidmətləri</string>
-    <string name="service_location_share_policy"><Data>Davam etməzdən əvvəl &lt;a href=%1$s>Yerləşmə Xidmətləri Gizlilik Bəyannaməsini&lt;/a > oxuyun və razılaşın.</Data></string>
-    <string name="service_mi_account">Xiaomi Hesabı</string>
-    <string name="service_name_MIUIDaemon">Sistem Daemon</string>
+    <string name="service_location_share_policy">&lt;Data>Davam etməzdən əvvəl &lt;a href=%1$s>Məkan Xidmətləri Gizlilik Siyasəti&lt;/a > sazişini oxuyun və qəbul edin.&lt;/Data></string>
+    <string name="service_mi_account">Mi Hesabı</string>
+    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">Kontaktlar və Telefon</string>
     <string name="service_name_album">Qalereya</string>
     <string name="service_name_application_package">Paket quraşdırıcı</string>
-    <string name="service_name_authority">İcazə meneceri</string>
-    <string name="service_name_backup">Nüsxələr</string>
-    <string name="service_name_calculator">Kalkulyator</string>
+    <string name="service_name_authority">权限管理服务</string>
+    <string name="service_name_backup">Yedəkləmələr</string>
+    <string name="service_name_bluetooth">Bluetooth</string>
+    <string name="service_name_calculator">Hesablayıcı</string>
     <string name="service_name_camera">Kamera</string>
     <string name="service_name_carrier">Operator xidmətləri haqqında bəyanat</string>
     <string name="service_name_clock">Saat</string>
@@ -577,185 +598,193 @@ Bu özəlliyi Ayarlar > Barmaq izləri, üz data və ekran kilidi > Gizlilik > \
     <string name="service_name_content_center">Məzmun Mərkəzi</string>
     <string name="service_name_download">Endirilənlər</string>
     <string name="service_name_fast_application">Cəld tətbiqlər çərçivəsi</string>
-    <string name="service_name_game">Oyunlar qoşması</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
+    <string name="service_name_game">Oyunlar əlavəsi</string>
     <string name="service_name_google_service">Google xidmətləri haqqında bəyanat</string>
     <string name="service_name_ims">IMS xidməti</string>
-    <string name="service_name_location">Yerləşmə xidmətləri</string>
-    <string name="service_name_lockscreen">Divar kağızı Karuseli</string>
+    <string name="service_name_location">Məkan xidmətləri</string>
+    <string name="service_name_lockscreen">Divar kağızı karuseli</string>
     <string name="service_name_message">Mesajlaşma</string>
-    <string name="service_name_phone_service">Telefoniya</string>
-    <string name="service_name_recorder">Səsyazan</string>
-    <string name="service_name_screen_recording">Ekran Yazıcı</string>
-    <string name="service_name_security">Güvənlik</string>
-    <string name="service_name_service_framework">Xiaomi xidmət çərçivəsi</string>
-    <string name="service_name_systemdesktop">Əsas ekran xidmət qoşması</string>
-    <string name="service_policy"><Data>&lt;a href=%1$s>Gizlilik Siyasətimizi&lt;/a > oxuyun və razılaşın.</Data></string>
+    <string name="service_name_note">Qeydlər</string>
+    <string name="service_name_phone_service">电话服务</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
+    <string name="service_name_recorder">Qeydedici</string>
+    <string name="service_name_screen_recording">Ekran Qeydedici</string>
+    <string name="service_name_security">Təhlükəsizlik</string>
+    <string name="service_name_service_framework">Mi Xidmət Çərçivəsi</string>
+    <string name="service_name_systemdesktop">Əsas ekran xidməti əlavəsi</string>
+    <string name="service_policy">&lt;Data> &lt;a href=%1$s>Gizlilik Siyasəti&lt;/a > sazişimizi oxuyun və qəbul edin.&lt;/Data></string>
     <string name="service_policy_adjust_content">Xunlei Gizlilik Siyasəti</string>
-    <string name="service_policy_download"><Data>Davam etməzdən əvvəl &lt;a href=%1$s>Xunlei Gizlilik Siyasətini&lt;/a > və &lt;a href=%1$s>Xunlei Şəbəkə Xidmətləri İstifadəçi Razılaşmasını&lt;/a > oxuyun və razılaşın.</Data></string>
+    <string name="service_policy_download">&lt;Data>Davam etməzdən əvvəl &lt;a href=%1$s>Xunlei Gizlilik Siyasəti&lt;/a > və &lt;a href=%1$s>Xunlei Şəbəkə Xidmətləri İstifadəçi Sazişi&lt;/a > sazişlərini oxuyun və qəbul edin.&lt;/Data></string>
     <string name="service_privacy_index">Gizlilik Siyasəti</string>
-    <string name="service_security_over_r"><Data>&lt;a href=%1$s>Gizlilik Siyasətimizi&lt;/a > oxuyun və razılaşın</Data></string>
-    <string name="service_sim_activation">SIM kartın aktivləşdirilməsi</string>
-    <string name="servicestate_title">Təməl xidmətlər haqqında bəyanat</string>
-    <string name="setting_locale">Bölgə ayarlanır…</string>
+    <string name="service_security_over_r">&lt;Data>&lt;a href=%1$s>Gizlilik siyasəti&lt;/a> sazişimizi oxuyun və qəbul edin.&lt;br/>&lt;br/>Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> standartlarına uyğun olaraq, birdəfəlik icazə müvafiq tətbiqin fəaliyyətini dayandırdıqdan sonra müəyyən edilmiş müddət (təxminən &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>) ərzində geri götürüləcək. Bu qısa müddət ərzində tətbiqi açsanız, razılıq o zaman geri götürüləcək.&lt;/Data></string>
+    <string name="service_sim_activation">SIM kart aktivləşdirməsi</string>
+    <string name="servicestate_title">Əsas xidmətlər haqqında bəyanat</string>
+    <string name="setting_locale">Bölgə tənzimlənir…</string>
     <string name="shut_down">Söndür</string>
-    <string name="sim_activation_introduction">SIM kart aktivləşdirmə xidməti, sistem xidmətlərinin normal işləyə bildiyinə əmin olmaq üçün hazırda daxil edilmiş SIM kartın məlumatlarını doğrulayır. Bu xidmətlərə \"Cihazı tap\", Mi Mesaj, telefon nömrələrini istifadə edərək Xiaomi Hesablarını yaratma və mesaj və zəng tarixçəsinin sinxronlaşdırılması daxildir.</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">SIM kart yoxlanılır…</string>
-    <string name="sim_card_detecting_check">SIM kart tapıla bilmədi. SIM kartın düzgün quraşdırıldığına və balansınızda yetərli vəsait olduğuna əmin olun.</string>
-    <string name="sim_card_detecting_confirm_turn_on_network">Mobil internet şəbəkələrinə bağlanmağa icazə verilsin? Bunu etsəniz, taxdığınız SIM kart mobil internet şəbəkələrinə bağlanmaq üçün istifadə ediləcək.</string>
+    <string name="sim_card_detecting_check">SIM kart tapıla bilmədi. SIM kartın düzgün quraşdırıldığından və balansınızda kifayət qədər vəsait olduğundan əmin olun.</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Mobil internet şəbəkələrinə qoşulmağa icazə verilsin? Əgər bunu etsəniz, daxil etdiyiniz SIM kart mobil internet şəbəkələrinə qoşulmaq üçün istifadə ediləcək.</string>
     <string name="sim_card_detecting_title">SIM kart yoxlanılır…</string>
     <string name="sim_card_detection">SIM kartı daxil edin</string>
-    <string name="sim_card_detection_info">SIM kartınızı daxil etmək üçün, cihazınızla birgə gələn təlimatları oxuyun.</string>
-    <string name="sim_card_detection_info_sb">"Davam etməzdən əvvəl bir SIM kart daxil edin. SIM kartı olmayan bir hesab yaratsanız, \"Cihazı tap\" və sinx. əlaqəli funksionallıq sizin üçün tam işlək olmayacaq. Bu cihaz eSIM-i dəstəkləyir. "</string>
-    <string name="sim_card_detection_info_sb_esim">eSIM-i aktivləşdirmək üçün toxunun.</string>
-    <string name="sim_card_detection_mobile_not_available">SIM kart şəbəkəyə bağlana bilmədi</string>
+    <string name="sim_card_detection_info">SIM kartınızı daxil etmək üçün, cihazınız ilə gələn təlimatları oxuyun.</string>
+    <string name="sim_card_detection_info_sb">"Davam etməzdən əvvəl SIM kartı daxil edin. Cihazı tap və sinxronizasiya ilə əlaqəli bir funksiya, SIM kart olmadan bir hesab yaratsanız tam olaraq mövcud olmayacaq. Bu cihaz eSIM -i dəstəkləyir. "</string>
+    <string name="sim_card_detection_info_sb_esim">eSIM aktivləşdirmək üçün toxunun.</string>
+    <string name="sim_card_detection_mobile_not_available">SIM kart şəbəkəyə qoşula bilmədi</string>
     <string name="sim_card_detection_sb_esim">eSIM-i aktivləşdir</string>
-    <string name="sim_card_detection_sb_nonactivated">Aktivləşdirilməyib</string>
-    <string name="sim_card_dial_card">Zənglər üçün SIM %d</string>
-    <string name="sim_card_do_not_select_dial_card">Yığarkən SIM kartı seçin</string>
-    <string name="sim_card_network_card">İnternet SIM %d</string>
-    <string name="sim_dectection_next">Davam</string>
+    <string name="sim_card_detection_sb_nonactivated">Aktiv edilmədi</string>
+    <string name="sim_card_do_not_select_dial_card">Select SIM card when dialing</string>
+    <string name="sim_dectection_next">Davam et</string>
     <string name="sim_redetection">Yenidən yoxla</string>
-    <string name="sim_scard_detecting_check_mobile_not_available">SIM kartınız yararlı bir operator şəbəkəsinə bağlana bilmədi. Balansınızda yetərli vəsait olduğuna əmin olub yenidən bağlantı qurmağa çalışın.</string>
-    <string name="skip_gesture_guide_dialog_message">Bunu seçməzdən əvvəl tam ekran jestlərinin necə istifadə edildiyini bildiyinizə əmin olun.</string>
-    <string name="skip_gesture_guide_dialog_negative_btn">İmtina</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">SIM kartınız etibarlı bir operator şəbəkəsinə qoşula bilmədi. Balansınızda kifayət qədər vəsait olduğundan əmin olun və yenidən qoşulmaq üçün cəhd edin.</string>
+    <string name="skip_gesture_guide_dialog_message">Bu seçimi seçməzdən əvvəl tam ekran jestlərini necə istifadə edildiyini bildiyinizdən əmin olun.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Ləğv et</string>
     <string name="skip_gesture_guide_dialog_positive_btn">Oldu</string>
     <string name="skip_gesture_guide_dialog_title">Tam ekran jestləri</string>
-    <string name="skip_underline">Bu addımı ötür</string>
-    <string name="start_up_slogan">Hər şeyin birləşdiyi yer</string>
-    <string name="summary_not_set">Ayarlanmadı</string>
+    <string name="skip_underline">Bu addımı burax</string>
+    <string name="start_up_slogan">Yalnız sizin</string>
+    <string name="summary_not_set">Təyin edilməyib</string>
     <string name="sunday">Bazar</string>
-    <string name="sunday_short">Baz</string>
-    <string name="sunday_shortest">Baz</string>
-    <string name="switch_network">Şəbəkə dəyişdirilir</string>
-    <string name="system_navigation_mode">Sistem naviqasiya rejimi</string>
-    <string name="system_update_statement">Sistem güncəlləməsini həyata keçirə bilmək üçün aşağıdakı məlumatları yığmağımız lazımdır: cihaz IMEI-si, cihaz IMSI, cihaz identifikatorları (OAID və şifrələnmiş Android ID), Xiaomi Hesabı, cihaz istehsalçısı, cihaz modeli, şəbəkə operatoru, cihaz yaddaşı (RAM), əməliyyat sistemi versiyası, bölgə, dil, bağlantı, şəbəkə növü və IP ünvanı.</string>
-    <string name="system_update_title">Sistem güncəlləmələri</string>
-    <string name="systemdesktop_introduction">Əsas ekran xidməti qoşması, Əsas ekran, sistem interfeysi və ekran şəkilləri kimi təməl özəllikləri təmin edir.</string>
-    <string name="term_condition_detail">Kilid ekranınıza hər gün heyrətamiz şəkillər və maraqlı hekayələr daxil edin. Bu özəllik, razılığınız olmadan datanızı fərdiləşdirmə məqsədilə istifadə etməyəcək. Bu özəlliyi istifadə etməzdən əvvəl üçüncü tərəf provayderin &lt;a href =%1$s>Gizlilik Siyasətini&lt;/a> və &lt;a href =%2$s>İstifadəçi Razılaşmasını&lt;/a> oxuyun və razılaşın.</string>
+    <string name="sunday_short">B.</string>
+    <string name="sunday_shortest">B.</string>
+    <string name="system_navigation_mode">Sistem naviqasiyası rejimi</string>
+    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
+    <string name="system_update_title">System updates</string>
+    <string name="systemdesktop_introduction">Əsas ekran xidməti əlavəsi sizə Əsas ekran, sistem UI və ekran görüntüləri kimi əsas funksiyaları təqdim edir.</string>
+    <string name="term_condition_detail">Hər gün kilid ekranınıza təsirli şəkillər və maraqlı hekayələr alın. Bu xüsusiyyət sizin razılığınız olmadan məlumatlarınızı fərdiləşdirmə üçün istifadə etməyəcək. Üçüncü tərəf məzmun təminatçısının &lt;a href =%1$s>Gizlilik Siyasəti&lt;/a> və &lt;a href =%2$s>İstifadəçi Sazişi&lt;/a> sazişlərini oxuyun və qəbul edin.</string>
+    <string name="terms_of_label_period">". "</string>
+    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Şərtlər və qaydalar</string>
+    <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">Mi Mağaza</string>
     <string name="terms_of_use_label_RMS">İcazə meneceri</string>
-    <string name="terms_of_use_label_ai_assistant">AI Köməkçi</string>
-    <string name="terms_of_use_label_back">Nüsxələmə xidməti</string>
-    <string name="terms_of_use_label_ble">Birləşdirilmiş yerləşmə provayderi</string>
+    <string name="terms_of_use_label_ai_assistant">AI Köməkçisi</string>
+    <string name="terms_of_use_label_app_vault">Tətbiq kassası</string>
+    <string name="terms_of_use_label_back">Yedəkləmə xidməti</string>
+    <string name="terms_of_use_label_ble">Qarışıq məkan təminatçısı</string>
+    <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
     <string name="terms_of_use_label_communication_service">Xiaomi İnternet Rabitə Xidmətləri</string>
+    <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
     <string name="terms_of_use_label_finddevice">Cihazı tap</string>
     <string name="terms_of_use_label_game">Oyunlar</string>
     <string name="terms_of_use_label_home">Əsas ekran</string>
     <string name="terms_of_use_label_htmlViewer">HTML nümayişetdirici</string>
     <string name="terms_of_use_label_htmlviewer">HTML nümayişetdirici</string>
-    <string name="terms_of_use_label_info_assistant">Tətbiq kassası</string>
+    <string name="terms_of_use_label_info_assistant">Mi Link</string>
+    <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">Mənzərə görünüşü</string>
-    <string name="terms_of_use_label_mi_account">Xiaomi Hesabı komponentləri</string>
-    <string name="terms_of_use_label_miuiDaemon">Sistem Daemon</string>
-    <string name="terms_of_use_label_miuisdk">Sistem SDK-sı</string>
-    <string name="terms_of_use_label_os">OS AI Ayarı</string>
+    <string name="terms_of_use_label_mab">MAB</string>
+    <string name="terms_of_use_label_mi_account">Mi Hesabı</string>
+    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
+    <string name="terms_of_use_label_miuisdk">System SDK</string>
+    <string name="terms_of_use_label_os">OS AI Tənzimləməsi</string>
     <string name="terms_of_use_label_package">Paket quraşdırıcı</string>
     <string name="terms_of_use_label_parallel_windows">Paralel pəncərələr</string>
-    <string name="terms_of_use_label_phrase">Çox işlədilən ifadələr</string>
-    <string name="terms_of_use_label_power_detection">Enerji detektoru</string>
+    <string name="terms_of_use_label_phrase">Tez-tez istifadə edilən ifadələr</string>
+    <string name="terms_of_use_label_power_detection">Güc detektoru</string>
     <string name="terms_of_use_label_power_performance">Batareya və performans</string>
     <string name="terms_of_use_label_quickapp">Cəld tətbiqlər</string>
-    <string name="terms_of_use_label_secure">Güvənli Element Tətbiqi</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
+    <string name="terms_of_use_label_secure">Təhlükəsiz Element Tətbiqi</string>
     <string name="terms_of_use_label_simcard">SIM aktivləşdirmə xidməti</string>
     <string name="terms_of_use_label_smart_service">Ağıllı xidmətlər</string>
-    <string name="terms_of_use_label_statistics">Statistikalar</string>
-    <string name="terms_of_use_label_system_quality_monitoring">Sistem keyfiyyətini izləmə</string>
+    <string name="terms_of_use_label_statistics">Statistika</string>
+    <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">Öz-özünə qeydiyyat xidməti</string>
     <string name="terms_of_use_label_translation">Tərcümə xidməti</string>
-    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Güvənli Element (Xiaomi versiyası)</string>
-    <string name="terms_of_use_label_updater">Sistem Güncəlləmə Xidməti (onlayn güncəlləmələri yoxlayır və yeni versiyaları bildirir)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Sistemi istifadə etməzdən əvvəl, İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxumalı və razılaşmalısınız. Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə bağlanacaq və yerləşmənizə müraciət edəcək:</string>
-    <string name="terms_of_use_label_use_network_china">Sistemi istifadə etməzdən əvvəl, İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxumalı və razılaşmalısınız. Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə bağlanacaq:</string>
+    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
+    <string name="terms_of_use_label_updater">Sistem Yeniləmə Xidməti (onlayn yeniləmələri yoxlayır və yeni versiyalar haqqında məlumat verir)</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Sistem istifadə etməzdən əvvəl İstifadəçi Sazişimizi və Gizlilik Siyasətimizi oxumalı və onunla razılaşmalısınız. Biz sizin şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə qoşulacaq və məkanınıza daxil olacaq:</string>
+    <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Divar kağızı</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-Bu özəlliyi istifadə etməzdən əvvəl Facemoji Gizlilik Siyasəti ilə razılaşmalısınız."</string>
+Bu xüsusiyyəti istifadə etməzdən əvvəl Facemoji Gizlilik Siyasəti-ni qəbul etməlisiniz."</string>
     <string name="terms_of_use_lable_default_input_method_kika">"
 
-Bu özəlliyi istifadə etməzdən əvvəl Kika Gizlilik Siyasəti ilə razılaşmalısınız."</string>
+Bu xüsusiyyəti istifadə etməzdən əvvəl Kika Gizlilik Siyasəti-ni qəbul etməlisiniz."</string>
     <string name="terms_of_use_lable_default_input_method_mint">"
 
-Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə razılaşmalısınız."</string>
+Bu xüsusiyyəti istifadə etməzdən əvvəl Min Klaviatura Gizlilik Siyasəti-ni qəbul etməlisiniz."</string>
     <string name="terms_of_use_lable_gms">Google Play xidmətləri</string>
     <string name="terms_of_use_lable_smart_cards">Ağıllı kartlar</string>
+    <string name="terms_of_use_lable_vsimcore">MConnService</string>
     <string name="terms_of_use_lable_xmsf">Xiaomi xidmət çərçivəsi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Siyasəti</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Siyasəti</string>
+    <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İl dönümü</string>
+    <string name="the_anti_aggression_day">Aqressiyaya qarşı mübarizə Günü</string>
+    <string name="the_arbor_day">Arbor günü</string>
+    <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
+    <string name="the_armys_day">PLA Günü</string>
     <string name="the_childrens_day">Uşaqlar Günü</string>
-    <string name="the_christmas_day">Milad</string>
+    <string name="the_chinese_youth_day">Gənclər Günü</string>
+    <string name="the_christmas_day">Milad bayramı</string>
+    <string name="the_double_ninth_festival">Cüt Doqquzuncu Festival</string>
+    <string name="the_dragon_boat_festival">Əjdaha Qayıq Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
-    <string name="the_fools_day">Ümumdünya Gülüş Günü</string>
+    <string name="the_eve_of_the_spring_festival">Çin Yeni ilinin axşamı</string>
+    <string name="the_fifth_day">Çin Yeni ilinin beşinci günü</string>
+    <string name="the_fools_day">Ümumdünya gülüş günü</string>
+    <string name="the_forth_day">Çin Yeni ilinin dördüncü günü</string>
+    <string name="the_hksar_establishment_day">Hong Kong SAR Quruluş Günü</string>
     <string name="the_international_womens_day">Qadınlar Günü</string>
+    <string name="the_laba_festival">Laba Festivalı</string>
+    <string name="the_labour_day">Əmək Günü</string>
+    <string name="the_lantern_festival">Fənər Festivalı</string>
+    <string name="the_mid_autumn_festival">Ay Festivalı</string>
+    <string name="the_national_day">Milli gün</string>
+    <string name="the_national_father_day">Sun Yat-sen-in Ad günü</string>
     <string name="the_new_years_day">Yeni İl</string>
-    <string name="the_spring_festival">Çin Yeni İli</string>
+    <string name="the_night_of_sevens">Qixi Festivalı</string>
+    <string name="the_partys_day">CPC Günü</string>
+    <string name="the_peace_day">Anma Günü</string>
+    <string name="the_retrocession_day">Geriləmə Günü</string>
+    <string name="the_second_day">Çin Yeni ilinin ikinci günü</string>
+    <string name="the_seventh_day">Çin Yeni ilinin yeddinci günü</string>
+    <string name="the_sixth_day">Çin Yeni ilinin altıncı günü</string>
+    <string name="the_spirit_festival">Ruh Festivalı</string>
+    <string name="the_spring_festival">Çin Yeni ili</string>
     <string name="the_teachers_day">Müəllimlər Günü</string>
+    <string name="the_third_day">Çin Yeni ilinin üçüncü günü</string>
     <string name="the_tw_childrens_day">Uşaqlar Günü</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
+    <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">Sevgililər Günü</string>
+    <string name="the_water_lantern_festival">Su Fənər Festivalı</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
-    <string name="title_fingerprint">Ekran kilidini ayarla</string>
+    <string name="time_picker_dialog_title">Vaxt təyin et</string>
+    <string name="time_picker_label_hour">S</string>
+    <string name="time_picker_label_minute">D</string>
+    <string name="title_fingerprint">Ekran kilidini təyin et</string>
     <string name="title_set_fingerprint">Ekran kilidi</string>
-    <string name="today">Bu gün</string>
+    <string name="today">Bugün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="used_date_viewing">Tarixi yoxlamaq üçün</string>
-    <string name="user_agreement">İstifadəçi Razılaşması</string>
-    <string name="v7_preference_off">BAĞLI</string>
-    <string name="v7_preference_on">AÇIQ</string>
-    <string name="verify_application_security">Tətbiq güvənliyini doğrulamaq üçün</string>
-    <string name="verify_device_security">Cihaz güvənliyini doğrulamaq üçün</string>
-    <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI səsinizi tanıyacaq və cihazınızı idarə edə biləcək.</string>
-    <string name="voice_assist_title">Səslə oyandır</string>
-    <string name="wc_dialog_agree">Razıyam</string>
-    <string name="wc_dialog_reject">Razı deyiləm</string>
-    <string name="wc_dialog_summary">Divar kağızı Karuseli, gündəlik olaraq Kilid ekranınıza heyrətamiz şəkillər və həyəcanlı hekayələr göndərir.</string>
-    <string name="wc_dialog_title">Yenidən qurulmuş Kilid ekranı</string>
-    <string name="wc_double_check_agree">Sına</string>
+    <string name="user_agreement">İstifadəçi Sazişi</string>
+    <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyə səslənin. Mi AI səsinizi tanıyacaq və cihazınızı idarə edəcək.</string>
+    <string name="voice_assist_title">Səs ilə oyandır</string>
+    <string name="wc_dialog_agree">Qəbul et</string>
+    <string name="wc_dialog_reject">Rədd et</string>
+    <string name="wc_dialog_summary">Divar kağızı Karuseli gündəlik kilid ekranınıza təəccüblü şəkillər və həyəcanlı hekayələr təqdim edir.</string>
+    <string name="wc_dialog_title">Kilid ekranı yenidən təsəvvür edildi</string>
+    <string name="wc_double_check_agree">Cəhd et</string>
     <string name="wc_double_check_reject">Xeyr, təşəkkürlər</string>
-    <string name="wc_double_check_summary">Sizin üçün işə yaradığını yoxlamaq üçün Divar kağızı Karuselini işə sala bilərsiniz. Unutmayın ki, Ayarlar > \"Kilid ekranı\"nda Divar kağızı Karuselini istənilən vaxt işə sala və ya söndürə bilərsiniz.</string>
-    <string name="wc_double_check_title">Divar kağızı Karuselini sına</string>
-    <string name="wc_notice_link_announcement_summary">Bu özəlliyi istifadə etməzdən əvvəl, üçüncü tərəf məzmun provayderimizin &lt;a href=\"%1$s\">Gizlilik Siyasətini&lt;/a> və &lt;a href=\"%2$s\">İstifadəçi Razılaşmasını&lt;/a> oxuyun və razılaşın.</string>
+    <string name="wc_double_check_summary">Divar kağızı Karuselinin sizin üçün işədiyini öyrənmək üçün aça bilərsiniz. Tənzimləmələr > Kilid ekranı menyusundan həmişə Divar kağızı Karuselini açıb söndürə biləcəyinizi unutmayın.</string>
+    <string name="wc_double_check_title">Divar kağızı Karuselini yoxla</string>
+    <string name="wc_notice_link_announcement_summary">Bu xüsusiyyəti istifadə etməzdən əvvəl üçüncü tərəf məzmun provayderinin &lt;a href=\"%1$s\">Gizlilik Siyasəti&lt;/a> və &lt;a href=\"%2$s\">İstifadəçi Sazişi&lt;/a> sazişlərini oxuyun və qəbul edin.</string>
     <string name="wednesday">Çərşənbə</string>
-    <string name="wednesday_short">Çər</string>
-    <string name="wednesday_shortest">Çər</string>
+    <string name="wednesday_short">Ç.</string>
+    <string name="wednesday_shortest">Ç.</string>
     <string name="welcome">Xoş gəlmisiniz</string>
     <string name="withdraw_consent">Razılığı geri götürsəniz, Divar kağızı Karuseli xidmətləri deaktiv ediləcək.</string>
+    <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
+    <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">Dünən</string>
-    <string name="zone_picker_title">Vaxt zonasını seçin</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="service_name_note">Notlar</string>
-    <string name="am">GƏ</string>
-    <string name="pm">GS</string>
-    <string name="solar_term_autumn_begins">Payız başlayır</string>
-    <string name="solar_term_autumn_equinox">Payız gündönümü</string>
-    <string name="solar_term_clear_and_bright">Təmiz və parlaq</string>
-    <string name="solar_term_cold_dews">Soyuq şehlər</string>
-    <string name="solar_term_grain_buds">Az dolğunluq</string>
-    <string name="solar_term_grain_in_ear">Taxılın yetişməsi</string>
-    <string name="solar_term_grain_rain">Taxıl üçün yağış</string>
-    <string name="solar_term_great_cold">Şiddətli soyuq</string>
-    <string name="solar_term_great_heat">Möhtəşəm isti</string>
-    <string name="solar_term_heavy_snow">Şiddətli qar</string>
-    <string name="solar_term_hoar_frost_falls">Şaxta</string>
-    <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
-    <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Mülayim soyuq</string>
-    <string name="solar_term_slight_heat">Mülayim isti</string>
-    <string name="solar_term_spring_begins">Bahar başlayır</string>
-    <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
-    <string name="solar_term_summer_begins">Yay başlayır</string>
-    <string name="solar_term_summer_solstice">Yay gündönümü</string>
-    <string name="solar_term_the_rains">Bahar leysanları</string>
-    <string name="solar_term_vernal_equinox">İlkbahar gündönümü</string>
-    <string name="solar_term_white_dews">Şeh</string>
-    <string name="solar_term_winter_begins">Qış başlayır</string>
-    <string name="solar_term_winter_solstice">Qış gündönümü</string>
-    <string name="terms_of_use_label_remote_provisioner">Remote Provisioner</string>
-    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="zone_picker_title">Saat qurşağını seçin</string>
 </resources>

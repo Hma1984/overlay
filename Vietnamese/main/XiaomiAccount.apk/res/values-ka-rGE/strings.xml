@@ -508,7 +508,7 @@
     <string name="passport_privacy_policy">კონფიდენციალურობის პოლიტიკა</string>
     <string name="passport_privacy_policy_required">კონფიდენციალურობის პოლიტიკა (სავალდებულო)</string>
     <string name="passport_provision_input_email_register_prompt">თქვენი პირადი მონაცემები ინახება თქვენს მიერ არჩეული რეგიონის კანონებისა და რეგულაციების შესაბამისად.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d ასოების სულ მცირე %3$d შემდეგი ტიპები: ასოები, ციფრები, სპეციალური სიმბოლოები</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> ასოების სულ მცირე <xliff id="min_pwd_type" refersto="2">%3$d</xliff> შემდეგი ტიპები: ასოები, ციფრები, სპეციალური სიმბოლოები</string>
     <string name="passport_qq_login_btn_content_description">ავტორიზაცია QQ-თი</string>
     <string name="passport_querying_phone_info">ანგარიშის ინფორმაციის მოთხოვნა…</string>
     <string name="passport_quick_login">შესვლა</string>

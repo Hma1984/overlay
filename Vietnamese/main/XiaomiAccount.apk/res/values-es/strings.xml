@@ -574,7 +574,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="passport_privacy_policy">Política de privacidad</string>
     <string name="passport_privacy_policy_required">Política de Privacidad (obligatorio)</string>
     <string name="passport_provision_input_email_register_prompt">Tus datos personales se almacenarán de acuerdo con las leyes y regulaciones de la región que selecciones.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d caracteres de al menos %3$d de los siguientes tipos: letras, dígitos, símbolos especiales</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caracteres de al menos <xliff id="min_pwd_type" refersto="2">%3$d</xliff> de los siguientes tipos: letras, dígitos, símbolos especiales</string>
     <string name="passport_qq_login_btn_content_description">Inicio de sesión con QQ</string>
     <string name="passport_querying_phone_info">Solicitando info de cuenta…</string>
     <string name="passport_quick_login">Iniciar sesión</string>

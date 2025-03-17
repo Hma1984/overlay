@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_slice_permission_text_1">– It can read information from %1$s</string>
+    <string name="abc_slice_permission_text_2">– It can take actions inside %1$s</string>
+    <string name="accessibility_airplane_mode">Aeroplane mode.</string>
+    <string name="accessibility_authenticate_hint">Authenticate</string>
+    <string name="accessibility_battery_level">Battery %d per cent.</string>
+    <string name="accessibility_battery_level_with_estimate">Battery %1$s percentage, about %2$s left based on your usage</string>
+    <string name="accessibility_control_change_favorite">favourite</string>
+    <string name="accessibility_control_change_unfavorite">unfavourite</string>
+    <string name="accessibility_control_favorite">Favourited</string>
+    <string name="accessibility_control_favorite_position">Favourited, position %d</string>
+    <string name="accessibility_control_not_favorite">Unfavourited</string>
+    <string name="accessibility_floating_button_migration_tooltip">"Accessibility button replaced the accessibility gesture
+
+"</string>
+    <string name="accessibility_key">Customised navigation button</string>
+    <string name="accessibility_no_wifi">Wi-Fi disconnected.</string>
+    <string name="accessibility_unlock_button">Unlock</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi one bar.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi signal full.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi three bars.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi two bars.</string>
+    <string name="airplane_mode">Aeroplane mode</string>
+    <string name="anniversary_status_content_description">"It's %1$s's anniversary"</string>
+    <string name="battery_low_title">Battery may run out soon</string>
+    <string name="battery_saver_start_action">Turn on Battery Saver</string>
+    <string name="birthday_status_content_description">"It's %1$s's birthday"</string>
+    <string name="bluetooth_talkback_phone">Telephone</string>
+    <string name="bubbles_user_education_got_it">OK</string>
+    <string name="bubbles_user_education_manage_title">Control bubbles at any time</string>
+    <string name="carrier_network_change_mode">Operator network changing</string>
+    <string name="controls_error_removed_message">Couldn’t access %1$s. Check the %2$s app to make sure that the control is still available and that the app settings haven’t changed.</string>
+    <string name="controls_favorite_rearrange">Hold and drag to rearrange controls</string>
+    <string name="controls_favorite_subtitle">Choose controls to access from Quick Settings</string>
+    <string name="controls_media_close_session">Hide this media session?</string>
+    <string name="controls_media_dismiss_button">Dismiss</string>
+    <string name="data_connection_no_internet">No Internet</string>
+    <string name="data_usage_disabled_dialog">"The data limit that you set has been reached. You are no longer using mobile data.
+
+If you resume, charges may apply for data usage."</string>
+    <string name="do_disclosure_generic">This device belongs to your organisation</string>
+    <string name="dock_forced_resizable">App may not work with split-screen.</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen.</string>
+    <string name="exposed_dropdown_menu_content_description">Show drop-down menu</string>
+    <string name="face_unlock_check_failed">"Couldn't recognise you"</string>
+    <string name="face_unlock_not_found">"Couldn't recognise you"</string>
+    <string name="feedback_alerted">This notification was automatically &lt;b>promoted to default&lt;/b> by the system.</string>
+    <string name="feedback_demoted">This notification was automatically &lt;b>ranked lower&lt;/b> in your shade.</string>
+    <string name="feedback_promoted">This notification was automatically &lt;b>ranked higher&lt;/b> in your shade.</string>
+    <string name="feedback_silenced">This notification was automatically &lt;b>demoted to silent&lt;/b> by the system.</string>
+    <string name="fingerprint_not_identified_msg">Too many unsuccessful attempts. Enter password now or try using your fingerprint in a few seconds.</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fs_gesture_final_summary">You can switch back to using buttons in Settings > Full screen display</string>
+    <string name="guest_wipe_session_wipe">Start again</string>
+    <string name="high_temp_alarm_notify_message">There’s an issue charging this device. Unplug the power adaptor, and take care as the cable may be warm.</string>
+    <string name="high_temp_alarm_title">Unplug charger</string>
+    <string name="high_temp_dialog_message">"Your phone will automatically try to cool down. You can still use your phone, but it may run more slowly.
+
+Once your phone has cooled down, it will run normally."</string>
+    <string name="high_temp_notif_message">"Some features are limited while phone cools down.
+Tap for more info"</string>
+    <string name="ime_security_warning">This input method may be able to collect all the text that you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+    <string name="instant_apps_message_with_help">App opened without being installed. Tap to find out more.</string>
+    <string name="keyboard_key_dpad_center">Centre</string>
+    <string name="keyboard_key_media_fast_forward">Fast-Forward</string>
+    <string name="keyboard_shortcut_group_applications_browser">Browser</string>
+    <string name="keyboard_shortcut_group_applications_email">Email</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">Keyboard shortcuts</string>
+    <string name="keyguard_indication_trust_unlocked">Kept unlocked by trust agent</string>
+    <string name="keyguard_left_mi_wallet">Xiaomi Wallet</string>
+    <string name="keyguard_left_smarthome">Xiaomi Home</string>
+    <string name="keyguard_missing_sim_message_short">No SIM card</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+    <string name="keyguard_sim_error_message_short">Invalid card.</string>
+    <string name="keyguard_sim_locked_message">SIM card is locked.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="kg_face_not_recognized">Not recognised</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN codes do not match</string>
+    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code; you must now contact your operator to unlock your device.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your operator.</string>
+    <string name="kg_prompt_reason_restart_password">Password required after device restarts</string>
+    <string name="kg_prompt_reason_restart_pin">PIN required after device restarts</string>
+    <string name="kg_prompt_reason_timeout_password">Password required for additional security</string>
+    <string name="kg_prompt_reason_timeout_pattern">Pattern required for additional security</string>
+    <string name="kg_prompt_reason_timeout_pin">PIN required for additional security</string>
+    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact operator for details.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact operator for details.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="lock_screen_carrier_airplane_mode_on">Aeroplane mode</string>
+    <string name="magnification_window_title">Magnification window</string>
+    <string name="material_clock_toggle_content_description">Select a.m. or p.m.</string>
+    <string name="media_output_dialog_connect_failed">"Couldn't connect. Try again."</string>
+    <string name="media_output_dialog_pairing_new">Pair new device</string>
+    <string name="media_transfer_this_device_name">Phone speaker</string>
+    <string name="media_transfer_wired_usb_device_name">Wired headphones</string>
+    <string name="mic_and_camera_recording_announcement">Camera and microphone are recording</string>
+    <string name="mic_camera_stopped_recording_announcement">Camera and microphone stopped recording</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+    <string name="miui_snooze_user_set_fail">Go to Settings > Notifications &amp; Control center for more options</string>
+    <string name="miui_snooze_user_set_success">Applied successfully. Go to Settings > Notifications &amp; Control center for more options.</string>
+    <string name="miui_unimportant_notifications">Unimportant notifications</string>
+    <string name="mobile_data_disable_message">"You won't have access to data or the Internet through %s. Internet will only be available via Wi-Fi."</string>
+    <string name="mobile_data_disable_message_default_carrier">your operator</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">Your organisation installed a certificate authority in your work profile. Your secure network traffic may be monitored or modified.</string>
+    <string name="monitoring_description_managed_profile_named_vpn">Your work profile is connected to %1$s, which can monitor your network activity, including emails, apps and websites.</string>
+    <string name="monitoring_description_management">"This device belongs to your organisation.
+
+Your IT admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
+
+For more information, contact your IT admin."</string>
+    <string name="monitoring_description_management_ca_certificate">Your organisation installed a certificate authority on this device. Your secure network traffic may be monitored or modified.</string>
+    <string name="monitoring_description_named_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps and websites."</string>
+    <string name="monitoring_description_parental_controls">This device is managed by your parent. Your parent can see and manage information such as the apps that you use, your location and your screen time.</string>
+    <string name="monitoring_description_personal_profile_named_vpn">Your personal profile is connected to %1$s, which can monitor your network activity, including emails, apps and websites.</string>
+    <string name="monitoring_description_two_named_vpns">"You're connected to %1$s and %2$s, which can monitor your network activity, including emails, apps and websites."</string>
+    <string name="monitoring_financed_description_named_management">"%1$s may be able to access data associated with this device, manage apps and change this device's settings.
+
+If you have questions, contact %2$s."</string>
+    <string name="no_auto_saver_action">No, thanks</string>
+    <string name="notification_app_settings">Customise</string>
+    <string name="notification_channel_summary_automatic_alerted">&lt;b>Status:&lt;/b> promoted to default</string>
+    <string name="notification_channel_summary_automatic_demoted">&lt;b>Status:&lt;/b> ranked lower</string>
+    <string name="notification_channel_summary_automatic_promoted">&lt;b>Status:&lt;/b> ranked higher</string>
+    <string name="notification_channel_summary_automatic_silenced">&lt;b>Status:&lt;/b> demoted to silent</string>
+    <string name="notification_channel_summary_default">May ring or vibrate based on phone settings</string>
+    <string name="notification_channel_summary_default_with_bubbles">May ring or vibrate based on phone settings. Conversations from %1$s bubble by default.</string>
+    <string name="notification_channel_tv_pip">Picture-in-picture</string>
+    <string name="over_one_week_timestamp">More than 1 week ago</string>
+    <string name="over_two_weeks_timestamp">More than 2 weeks ago</string>
+    <string name="people_tile_description">See recent messages, missed calls and status updates</string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data>You have to &lt;font color=#a5220e>erase all data &lt;/font>on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>Power off your device, then press and hold the &lt;font color=#e6e6e6>[Power]&lt;/font> and &lt;font color=#e6e6e6>[Volume +]&lt;/font> buttons until you see &lt;img src=\"\">.&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Select &lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font> and wait until the device reboots.&lt;/Data></string>
+    <string name="pip_close">Close PIP</string>
+    <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app's notifications. 
+
+"</string>
+    <string name="preference_copied">"'%1$s' copied to clipboard."</string>
+    <string name="profile_connect_timeout_subtext">Problem connecting. Turn device off and back on</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobile data (WCDMA/LTE) will be turned off. Unless you use Wi-Fi, you will no longer be able to use apps that require data connection. Sending or receiving multimedia messages will be restricted.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobile data will be turned on. Connecting to mobile networks may result in additional charges depending on your payment plan.</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">Your organisation may monitor network traffic in your work profile</string>
+    <string name="quick_settings_disclosure_managed_profile_named_vpn">Your work profile is connected to %1$s</string>
+    <string name="quick_settings_disclosure_management">This device belongs to your organisation</string>
+    <string name="quick_settings_disclosure_management_monitoring">Your organisation owns this device and may monitor network traffic</string>
+    <string name="quick_settings_disclosure_management_named_vpn">This device belongs to your organisation and is connected to %1$s</string>
+    <string name="quick_settings_disclosure_management_vpns">This device belongs to your organisation and is connected to VPNs</string>
+    <string name="quick_settings_disclosure_named_management_named_vpn">This device belongs to %1$s and is connected to %2$s</string>
+    <string name="quick_settings_disclosure_named_management_vpns">This device belongs to %1$s and is connected to VPNs</string>
+    <string name="quick_settings_disclosure_named_vpn">This device is connected to %1$s</string>
+    <string name="quick_settings_disclosure_personal_profile_named_vpn">Your personal profile is connected to %1$s</string>
+    <string name="quick_settings_disclosure_vpns">This device is connected to VPNs</string>
+    <string name="quick_settings_flashlight_label">Torch</string>
+    <string name="quick_settings_inversion_label">Invert colours</string>
+    <string name="quick_settings_more_user_settings">User settings</string>
+    <string name="quick_settings_vowifi_label">WiFi Calling</string>
+    <string name="quick_settings_vowifi_sim1_label">WiFi Calling SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">WiFi Calling SIM2</string>
+    <string name="remove_from_settings">Remove from settings</string>
+    <string name="restart_button_description">Tap to restart this app and go full screen.</string>
+    <string name="screen_pinning_toast_recents_invisible">To unpin this app, touch and hold Back and Home buttons</string>
+    <string name="screenrecord_device_audio_description">Sound from your device, like music, calls and ringtones</string>
+    <string name="screenshot_bottom_boundary_pct">Bottom boundary %1$d per cent</string>
+    <string name="screenshot_failed_to_capture_text">"Taking screenshots isn't allowed by the app or your organisation"</string>
+    <string name="screenshot_left_boundary_pct">Left boundary %1$d per cent</string>
+    <string name="screenshot_right_boundary_pct">Right boundary %1$d per cent</string>
+    <string name="screenshot_top_boundary_pct">Top boundary %1$d per cent</string>
+    <string name="select_conversation_text">Tap a conversation to add it to your home screen</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>Press and hold the &lt;font color=#e6e6e6>[Power]&lt;/font> and &lt;font color=#e6e6e6>[Volume +]&lt;/font> buttons until you see &lt;img src=\"\">.&lt;/Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data>Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font> and tap &lt;font color=#e6e6e6>[Reboot]&lt;/font> after that.&lt;/Data></string>
+    <string name="slice_permission_text_1">– It can read information from %1$s</string>
+    <string name="slice_permission_text_2">– It can take actions inside %1$s</string>
+    <string name="speed_label_very_fast">Very fast</string>
+    <string name="status_bar_airplane">Aeroplane mode</string>
+    <string name="status_bar_clock_date_format">E, d MMM</string>
+    <string name="status_bar_clock_date_format_12">E, d MMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
+    <string name="stream_dtmf">Dual multi-tone frequency</string>
+    <string name="thermal_shutdown_dialog_message">"Your phone was too hot, so it turned off to cool down. Your phone is now running normally.
+
+Your phone may get too hot if you:
+\u0009• Use resource-intensive apps (such as gaming, video or navigation apps)
+\u0009• Download or upload large files
+\u0009• Use your phone in high temperatures"</string>
+    <string name="torch_high_temperature_warning">"Your device is overheated. Can't use torch now."</string>
+    <string name="tuner_persistent_warning">These experimental features may change, break or disappear in future releases. Proceed with caution.</string>
+    <string name="tuner_warning">System UI Tuner gives you extra ways to tweak and customise the Android user interface. These experimental features may change, break or disappear in future releases. Proceed with caution.</string>
+    <string name="tv_notification_panel_no_notifications">No notifications</string>
+    <string name="upcoming_birthday_status_content_description">"It's %1$s's birthday soon"</string>
+    <string name="usb_contaminant_message">"To protect your device from liquid or debris, the USB port is disabled and won’t detect any accessories.
+
+You’ll be notified when it’s OK to use the USB port again."</string>
+    <string name="usb_debugging_secondary_user_message">"The user currently signed in to this device can't turn on USB debugging. To use this feature, switch to the primary user."</string>
+    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customise with apps, wallpaper and so on. Users can also adjust device settings such as Wi‑Fi that affect everyone.
+
+When you add a new user, that person needs to set up their space.
+
+Any user can update apps for all other users. Accessibility settings and services may not transfer to the new user."</string>
+    <string name="volume_odi_captions_tip">Automatically subtitle media</string>
+    <string name="wallet_error_generic">There was a problem getting your cards. Please try again later.</string>
+    <string name="wallet_secondary_label_no_card">Add a card</string>
+    <string name="wifi_debugging_secondary_user_message">The user currently signed in to this device can’t turn on wireless debugging. To use this feature, switch to the primary user.</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Connected to device. Can't provide Internet."</string>
+    <string name="wifitrackerlib_wifi_no_internet">No Internet access</string>
+    <string name="wireless_charge_dialog_title">Place your device on the centre of the charging base</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="keyboard_shortcut_group_system_recents">Recent</string>
+    <string name="mobile_data_text_format">%1$s – %2$s</string>
+    <string name="notification_group_overflow_indicator">+%s</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="accessibility_quick_settings_bluetooth">Bluetooth</string>
+    <string name="keyguard_left_remotecentral">Xiaomi Remote</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Xiaomi AI</string>
+</resources>

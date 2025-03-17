@@ -143,7 +143,7 @@
     <string name="feedback_custom_hint">Descrieți aici problemele pe care le-ați întâmpinat. Dacă lăsați sugestii, ne-am dori să ne oferiți mai multe detalii!</string>
     <string name="find_device">Localizare dispozitiv</string>
     <string name="find_device_dspt_provision">Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#0097FF>%s&lt;/font> pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări.</string>
-    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu <u><a href="app://com.miui.cloudservice.gdpr.license">Politica noastră de Confidențialitate</a></u>. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
+    <string name="find_device_gdpr_prompt">Activând Localizarea dispozitivului, sunteți de acord cu <a href="app://com.miui.cloudservice.gdpr.license"><u>Politica noastră de Confidențialitate</u></a>. Dacă aveți nevoie să revocați autorizarea, vă rugăm să dezactivați această caracteristică.</string>
     <string name="find_device_operation_failure_rpc">Nu s-a putut realiza operațiunea datorită unei erori RPC.</string>
     <string name="find_device_permissions_footer">Atingeți „Permiteți” pentru a acorda permisiunile pe care le-ați selectat.</string>
     <string name="find_device_permissions_header">Bun venit la Găsirea dispozitivului! Puteți folosi această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când îl pierdeți. Găsirea dispozitivului necesită următoarele permisiuni:</string>
@@ -661,7 +661,7 @@ Este posibil ca informațiile despre locație să nu fie raportate atunci când 
     <string name="share_sdk_pref_category_search_local_title">Contacte</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Scanați codul QR</string>
     <string name="share_sdk_pref_family_detail_title">Vedeți detaliile grupului familial</string>
-    <string name="share_sdk_privacy_link_description">Citiți și acceptați <u><a href="https://account.xiaomi.com/about/protocol/privacy">Politica de Confidențialitate a contului Xiaomi</a></u> înainte de a utiliza acest serviciu.</string>
+    <string name="share_sdk_privacy_link_description">Citiți și acceptați <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Politica de Confidențialitate a contului Xiaomi</u></a> înainte de a utiliza acest serviciu.</string>
     <string name="share_sdk_qr_code_description">Invitația lui %1$s</string>
     <string name="share_sdk_qr_code_expire_time">Perioada de valabilitate a codului QR: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Prea multe invitații în curs de trimitere. Încercați din nou în 24 de ore.</string>

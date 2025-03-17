@@ -509,7 +509,7 @@
     <string name="passport_privacy_policy">গোপনীয়তাৰ নীতি</string>
     <string name="passport_privacy_policy_required">গোপনীয়তাৰ নীতি (বাধ্যতামূলক)</string>
     <string name="passport_provision_input_email_register_prompt">"আপোনাৰ ব্যক্তিগত ডাটা আপুনি চয়ন কৰা অঞ্চলটোৰ আইন আৰু বিধিনিয়মসমূহ অনুসৰি সঞ্চয় কৰা হ'ব।"</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d টা বৰ্ণ, কমেও %3$d টা নিম্নলিখিত প্ৰকাৰৰ: আখৰ, অংক, বিশেষ চিহ্নসমূহ</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> টা বৰ্ণ, কমেও <xliff id="min_pwd_type" refersto="2">%3$d</xliff> টা নিম্নলিখিত প্ৰকাৰৰ: আখৰ, অংক, বিশেষ চিহ্নসমূহ</string>
     <string name="passport_qq_login_btn_content_description">QQৰে ছাইন ইন কৰক</string>
     <string name="passport_querying_phone_info">একাউণ্টৰ তথ্য অনুৰোধ কৰি আছে…</string>
     <string name="passport_quick_login">ছাইন ইন</string>

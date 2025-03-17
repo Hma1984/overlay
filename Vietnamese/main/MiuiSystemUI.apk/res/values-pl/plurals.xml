@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d dni temu</item>
+        <item quantity="one">%d dzień temu</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">%d min temu</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d lat temu</item>
+        <item quantity="one">%d rok temu</item>
+        <item quantity="few">%d lata temu</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Ciśnienie: %s hektopaskali</item>
+        <item quantity="one">Ciśnienie: %s hektopaskal</item>
+        <item quantity="few">Ciśnienie: %s hektopaskale</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Spalono %1$s kalorii</item>
+        <item quantity="one">Spalono %1$s kalorię</item>
+        <item quantity="few">Spalono %1$s kalorie</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Cel: %1$s kalorii</item>
+        <item quantity="one">Cel: %1$s kaloria</item>
+        <item quantity="few">Cel: %1$s kalorie</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Czas aktywności: %1$s min</item>
+        <item quantity="one">Czas aktywności: %1$s min</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Cel dot. aktywności: %1$s min</item>
+        <item quantity="one">Cel dot. aktywności: %1$s min</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Stano w ciągu %1$s godz.</item>
+        <item quantity="one">Stałeś w ciągu %1$s godz.</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Cel dot. stania: %1$s godz.</item>
+        <item quantity="one">Cel dot. stania: %1$s godz.</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s godz.</item>
+        <item quantity="one">%1$s/%2$s godz.</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Przebyto do teraz: %1$s kroków</item>
+        <item quantity="one">Przebyto do teraz: %1$s krok</item>
+        <item quantity="few">Przebyto do teraz: %1$s kroki</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Cel: %1$s kroków</item>
+        <item quantity="one">Cel: %1$s krok</item>
+        <item quantity="few">Cel: %1$s kroki</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s kroków</item>
+        <item quantity="one">%1$s/%2$s krok</item>
+        <item quantity="few">%1$s/%2$s kroki</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Narysuj wzór co najmniej raz w ciągu %d godzin, aby go zapamiętać</item>
+        <item quantity="one">Narysuj wzór co najmniej raz w ciągu %d godziny, aby go zapamiętać</item>
+        <item quantity="few">Narysuj wzór co najmniej raz w ciągu %d godzin, aby go zapamiętać</item>
+        <item quantity="many">Narysuj wzór co najmniej raz w ciągu %d godzin, aby go zapamiętać</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Spróbuj ponownie za %d min</item>
+        <item quantity="one">Spróbuj ponownie za %d min</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Spróbuj ponownie za %d s</item>
+        <item quantity="one">Spróbuj ponownie za %d s</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s stopni, %2$s</item>
+        <item quantity="one">Temperatura: %1$s stopień, %2$s</item>
+        <item quantity="few">Temperatura: %1$s stopnie, %2$s</item>
+    </plurals>
+</resources>

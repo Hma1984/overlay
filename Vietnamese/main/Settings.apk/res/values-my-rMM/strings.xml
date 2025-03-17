@@ -1538,8 +1538,8 @@ aptX Adaptive- ကုဒ်ဖွဲ့မုဒ်"</string>
     <string name="fold_rule_default">အကြံပြုပါသည်</string>
     <string name="fold_rule_unimportant">အရေးမကြီးပါ</string>
     <string name="fold_screen_application_adaptation_title">ခေါက်ချိုးစက်များအတွက် စိတ်ကြိုက်အပြင်အဆင်များ</string>
-    <string name="fold_screen_settings_title">ခေါက်ချိုးစက်များအတွက် အင်္ဂါရပ်များ</string>
-    <string name="fold_screen_special_function_title">ခေါက်ချိုးစက်များအတွက် အင်္ဂါရပ်များ</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">အုပ်စုဖွဲ့အသိပေးချက်များအတွက် စည်းမျဉ်းများ</string>
     <string name="font_cta_alert_btn_negative">မလုပ်တော့ရန်</string>
     <string name="font_cta_alert_btn_positive">သဘောတူပါသည်</string>

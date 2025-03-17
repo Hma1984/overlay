@@ -506,7 +506,7 @@
     <string name="passport_privacy_policy">ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒ</string>
     <string name="passport_privacy_policy_required">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ (မဖြစ်မနေ)</string>
     <string name="passport_provision_input_email_register_prompt">သင့်ကိုယ်ရေးကိုယ်တာဒေတာများကို သင်ရွေးထားသော နယ်မြေ၏ ဥပဒေ၊ စည်းမျဉ်းစည်းကမ်းများနှင့်အညီ သိမ်းဆည်းပါမည်။</string>
-    <string name="passport_provision_password_req_notice">အနည်းဆုံး အက္ခရာ %1$d-%2$d လုံးနှင့် အောက်ပါ အမျိုးအစား၊ စာလုံး၊ ကိန်းဂဏန်း၊ အထူးသင်္ကေတများမှ %3$d လုံး</string>
+    <string name="passport_provision_password_req_notice">အနည်းဆုံး အက္ခရာ <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> လုံးနှင့် အောက်ပါ အမျိုးအစား၊ စာလုံး၊ ကိန်းဂဏန်း၊ အထူးသင်္ကေတများမှ <xliff id="min_pwd_type" refersto="2">%3$d</xliff> လုံး</string>
     <string name="passport_qq_login_btn_content_description">QQ နှင့် အကောင့်ဝင်ရန်</string>
     <string name="passport_querying_phone_info">အကောင့်အချက်အလက် တောင်းဆိုနေသည်…</string>
     <string name="passport_quick_login">ဆိုင်းအင်ဝင်ပါ။</string>

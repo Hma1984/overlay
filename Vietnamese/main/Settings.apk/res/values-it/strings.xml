@@ -105,7 +105,7 @@
     <string name="accessibility_dialog_button_deny">Nega</string>
     <string name="accessibility_dialog_button_stop">Interrompi</string>
     <string name="accessibility_disable_animations">Rimuovi animazioni</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle"><li><br><br>Regola come i colori vengono visualiz<li>zati sul tuo dispositivo. Questo può</li></br></br></li> essere utile quando vuoi:<ol> Vedere i colori in modo più accurato Rimuovere i colori per concentrarti</ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle"><br><br><li>Regola come i colori vengono visualiz<li>zati sul tuo dispositivo. Questo può</li></li></br></br> essere utile quando vuoi:<ol> Vedere i colori in modo più accurato Rimuovere i colori per concentrarti</ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Sperimentale) Potrebbe influire sulle prestazioni</string>
     <string name="accessibility_display_inversion_preference_title">Inversione colore</string>
@@ -168,7 +168,7 @@
     <string name="accessibility_screen_magnification_gestures_title">Ingrandisci con un triplo tap</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">Il tasto di Accessibilità è impostato su %1$s. Per ingrandire, tieni premuto il tasto di Accessibilità, quindi seleziona la lente di ingrandimento.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Tocca un tasto per zoomare</string>
-    <string name="accessibility_screen_magnification_navbar_summary"><li><li>"Quando l'ingrandimento è attivato,"</li> </li>è <li>p<li>ossibile ingrandire lo schermo <b>Per zoomare</b>, avvia Ingrandimento e tocca dove vuoi ingrandire. <ul>Trascina 2 o più dita per scorrere Pizzica le dita per regolare lo zoom</ul> <b>Per ingrandire temporaneamente</b>, avvia Ingrandimento, tenere premuto dove vuoi ingrandire. <ul>"Trascina per muoverti sullo schermo Solleva il dito per ridurre l'ingrandimento"</ul> Non è possibile ingrandire la tastiera o la barra di navigazione.</li></li></string>
+    <string name="accessibility_screen_magnification_navbar_summary"><li><li>"Quando l'ingrandimento è attivato, "</li></li>è <li>p<li>ossibile ingrandire lo schermo <b>Per zoomare</b>, avvia Ingrandimento e tocca dove vuoi ingrandire. <ul>Trascina 2 o più dita per scorrere Pizzica le dita per regolare lo zoom</ul> <b>Per ingrandire temporaneamente</b>, avvia Ingrandimento, tenere premuto dove vuoi ingrandire. <ul>"Trascina per muoverti sullo schermo Solleva il dito per ridurre l'ingrandimento"</ul> Non è possibile ingrandire la tastiera o la barra di navigazione.</li></li></string>
     <string name="accessibility_screen_magnification_navbar_title">Ingrandisci con il tasto</string>
     <string name="accessibility_screen_magnification_short_summary">Tocca 3 volte per lo zoom</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Ingrandisci con il tasto e triplo tap</string>
@@ -2978,8 +2978,8 @@
     <string name="fold_rule_default">Consigliato</string>
     <string name="fold_rule_unimportant">Non importante</string>
     <string name="fold_screen_application_adaptation_title">Layout personalizzati per dispositivi pieghevoli</string>
-    <string name="fold_screen_settings_title">Caratteristiche per dispositivi pieghevoli</string>
-    <string name="fold_screen_special_function_title">Caratteristiche per dispositivi pieghevoli</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Regole per le notifiche raggruppate</string>
     <string name="font_cta_alert_btn_negative">Annulla</string>
     <string name="font_cta_alert_btn_positive">Accetto</string>

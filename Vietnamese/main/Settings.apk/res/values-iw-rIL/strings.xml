@@ -1543,8 +1543,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="fold_rule_default">מומלץ</string>
     <string name="fold_rule_unimportant">לא חשוב</string>
     <string name="fold_screen_application_adaptation_title">פריסות מותאמות למכשירים מתקפלים</string>
-    <string name="fold_screen_settings_title">מאפיינים עבור מכשירים מתקפלים</string>
-    <string name="fold_screen_special_function_title">מאפיינים למכשירים מתקפלים</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">כללים להתראות מקובצות</string>
     <string name="font_cta_alert_btn_negative">ביטול</string>
     <string name="font_cta_alert_btn_positive">מסכים</string>

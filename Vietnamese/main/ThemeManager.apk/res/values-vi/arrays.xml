@@ -4,9 +4,12 @@
         <item>Tắt tên gói</item>
     </string-array>
     <string-array name="theme_server_entries">
+        <item>Mặc định</item>
         <item>Trung Quốc</item>
         <item>Ấn Độ</item>
-        <item>Toàn cầu</item>
+        <item>Indonesia</item>
         <item>Nga</item>
+        <item>Thổ Nhĩ Kì</item>
+        <item>Đức</item>
     </string-array>
 </resources>

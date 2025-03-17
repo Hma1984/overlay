@@ -224,12 +224,12 @@ Ak im chcete predísť, môžete skratku zväčšenia zmeniť z trojitého klep
     <string name="accessibility_screen_magnification_navbar_summary">"Keď je priblíženie zapnuté, môžete si zväčšiť obsah obrazovky.
 
 "<b>Urobíte to tak</b>", že spustíte priblíženie a klepnete kamkoľvek na obrazovku.
-"<ul><li>Zobrazenie posuniete presunutím dvoch alebo viacerých prstov.</li>"
-"<li>Priblíženie upravíte stiahnutím dvoch alebo viacerých prstov.</li></ul>"
+"<li><ul>"Zobrazenie posuniete presunutím dvoch alebo viacerých prstov.
+"<li>Priblíženie upravíte stiahnutím dvoch alebo viacerých prstov.</li></ul></li>"
 
 "<b>Ak chcete obsah priblížiť krátkodobo</b>", spustite priblíženie a pridržte ľubovoľné miesto na obrazovke.
-"<ul><li>Po obrazovke prechádzate presunutím.</li>"
-"<li>Oddialite zdvihnutím prsta.</li></ul>"
+"<li><ul>"Po obrazovke prechádzate presunutím.
+"<li>Oddialite zdvihnutím prsta.</li></ul></li>"
 
 Nemôžete priblížiť klávesnicu ani navigačný panel."</string>
     <string name="accessibility_screen_magnification_navbar_title">Priblíženie skratkou</string>

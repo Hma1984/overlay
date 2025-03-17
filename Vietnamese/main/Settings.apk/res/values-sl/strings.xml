@@ -145,7 +145,7 @@ Nekatere aplikacije ne podpirajo tega."</string>
     <string name="accessibility_dialog_button_stop">Ustavi</string>
     <string name="accessibility_disable_animations">Odstranjevanje animacij</string>
     <string name="accessibility_disable_animations_summary">Zmanjšanje gibanja na zaslonu</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikaza barv na vaši napravi. To je lahko koristno, če želite:<ol><li> Natančneje videti barve</li><li> Odstraniti barve, da se lažje osredotočite</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikaza barv na vaši napravi. To je lahko koristno, če želite:<li><ol> Natančneje videti barve<li> Odstraniti barve, da se lažje osredotočite</li></ol></li></string>
     <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
     <string name="accessibility_display_inversion_preference_intro_text">Pri inverziji barv se svetli zasloni spremenijo v temne. Poleg tega se temni zasloni spremenijo v svetle.</string>
     <string name="accessibility_display_inversion_preference_subtitle">Lahko vpliva na učinkovitost delovanja</string>
@@ -265,12 +265,12 @@ Vključite to storitev in tapnite gumb dostopnost na dnu zaslona da boste odprli
     <string name="accessibility_screen_magnification_navbar_summary">"Ko je povečava vklopljena, za hitro povečevanje uporabite gumb Dostopnost na dnu zaslona.
 
 "<b>Če želite povečati</b>", se dotaknite gumba »Dostopnost«, nato pa se dotaknite poljubnega mesta na zaslonu.
-"<ul><li>•Povlecite z dvema ali več prsti po zaslonu, če se želite pomikati.</li>"
-"<li>•Povlecite dva ali več prstov skupaj, če želite prilagoditi povečavo.</li></ul>"
+"<li><ul>"•Povlecite z dvema ali več prsti po zaslonu, če se želite pomikati.
+"<li>•Povlecite dva ali več prstov skupaj, če želite prilagoditi povečavo.</li></ul></li>"
 
 "<b>Če želite začasno povečati</b>", se dotaknite gumba »Dostopnost«, nato pa se dotaknite poljubnega mesta na zaslonu in ga pridržite.
-"<ul><li>•Povlecite, če se želite premikati po zaslonu.</li>"
-"<li>•Dvignite prst, če želite zmanjšati povečavo.</li></ul>"
+"<li><ul>"•Povlecite, če se želite premikati po zaslonu.
+"<li>•Dvignite prst, če želite zmanjšati povečavo.</li></ul></li>"
 
 Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="accessibility_screen_magnification_navbar_title">Povečevanje z gumbom</string>
@@ -3690,8 +3690,8 @@ Za več informacij se obrnite na ponudnika obročnega odplačila."</string>
     <string name="fold_rule_default">Priporočeno</string>
     <string name="fold_rule_unimportant">Ni važno</string>
     <string name="fold_screen_application_adaptation_title">Postavitve po meri za zložljive naprave</string>
-    <string name="fold_screen_settings_title">Funkcije za zložljive naprave</string>
-    <string name="fold_screen_special_function_title">Funkcije za zložljive naprave</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Pravila za združena obvestila</string>
     <string name="font_cta_alert_btn_negative">Prekliči</string>
     <string name="font_cta_alert_btn_positive">Strinjam se</string>

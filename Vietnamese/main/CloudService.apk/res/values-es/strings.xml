@@ -145,7 +145,7 @@
     <string name="feedback_custom_hint">Describe aquí los problemas que has encontrado. Si estás dando sugerencias, te agradeceríamos más detalles.</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en &lt;font color=#0097FF>%s&lt;/font> para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
-    <string name="find_device_gdpr_prompt">\"Al activar Buscar dispositivo, aceptas nuestra \"<u><a href="app://com.miui.cloudservice.gdpr.license">Política de privacidad</a></u>. Desactiva esta función si deseas retirar tu consentimiento.</string>
+    <string name="find_device_gdpr_prompt">\"Al activar Buscar dispositivo, aceptas nuestra \"<a href="app://com.miui.cloudservice.gdpr.license"><u>Política de privacidad</u></a>. Desactiva esta función si deseas retirar tu consentimiento.</string>
     <string name="find_device_operation_failure_rpc">No se pudo realizar la acción debido a un error de RPC.</string>
     <string name="find_device_permissions_footer">Pulsa \"Otorgar\" para conceder los permisos seleccionados.</string>
     <string name="find_device_permissions_header">¡Te damos la bienvenida a Encontrar dispositivo! Puedes usar esta aplicación para localizar, rastrear y bloquear tu dispositivo cuando estés ausente. Se necesitan los siguientes permisos:</string>
@@ -676,7 +676,7 @@ Puede que esta información no se envíe con una conexión de red deficiente."</
     <string name="share_sdk_pref_category_search_local_title">Contactos</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Escanear código QR</string>
     <string name="share_sdk_pref_family_detail_title">Ver detalles del grupo familiar</string>
-    <string name="share_sdk_privacy_link_description">Lee y acepta la <u><a href="https://account.xiaomi.com/about/protocol/privacy">Política de Privacidad de la cuenta Xiaomi</a></u> antes de usar este servicio.</string>
+    <string name="share_sdk_privacy_link_description">Lee y acepta la <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Política de Privacidad de la cuenta Xiaomi</u></a> antes de usar este servicio.</string>
     <string name="share_sdk_qr_code_description">Invitación de %1$s</string>
     <string name="share_sdk_qr_code_expire_time">Período de validez del código QR: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Demasiadas invitaciones. Inténtalo otra vez dentro de 24 horas.</string>

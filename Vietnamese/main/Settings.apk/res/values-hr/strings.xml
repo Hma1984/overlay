@@ -3641,8 +3641,8 @@ Da biste saznali više, obratite se vjerovniku."</string>
     <string name="fold_rule_default">Preporučeno</string>
     <string name="fold_rule_unimportant">Nevažno</string>
     <string name="fold_screen_application_adaptation_title">Prilagođeni izgledi za sklopive uređaje</string>
-    <string name="fold_screen_settings_title">Značajke sklopivih uređaja</string>
-    <string name="fold_screen_special_function_title">Značajke sklopivih uređaja</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Pravila za grupirane obavijesti</string>
     <string name="font_cta_alert_btn_negative">Odustani</string>
     <string name="font_cta_alert_btn_positive">Prihvaćam</string>

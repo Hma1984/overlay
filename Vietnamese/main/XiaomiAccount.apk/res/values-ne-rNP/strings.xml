@@ -510,7 +510,7 @@
     <string name="passport_privacy_policy">गोपनीयता नीति</string>
     <string name="passport_privacy_policy_required">गोपनीयता नीति (अनिवार्य)</string>
     <string name="passport_provision_input_email_register_prompt">तपाईंको व्यक्तिगत डाटा तपाईंले छनौट गरेको क्षेत्रको कानून र अधिनियमहरूको आधारमा स्टोरेज गरिनेछ।</string>
-    <string name="passport_provision_password_req_notice">निम्नलिखित प्रकारको कम्ति भन्दा कम्तिको पनि %3$d को %1$d-%2$d वर्ण: अक्षर, अंक, विशेष चिन्हहरू</string>
+    <string name="passport_provision_password_req_notice">निम्नलिखित प्रकारको कम्ति भन्दा कम्तिको पनि <xliff id="min_pwd_type" refersto="2">%3$d</xliff> को <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> वर्ण: अक्षर, अंक, विशेष चिन्हहरू</string>
     <string name="passport_qq_login_btn_content_description">QQ बाट साइन इन गर्नुहोस्</string>
     <string name="passport_querying_phone_info">खाता जानकारी अनुरोध गर्दै…</string>
     <string name="passport_quick_login">साइन-इन गर्नुहोस्</string>

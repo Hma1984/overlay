@@ -122,7 +122,7 @@
     <string name="back">Назад</string>
     <string name="backup_fail">Не може да се направи резервна копија на стартувачот</string>
     <string name="branch_feature_description">Освен апл., Брзиот пронаоѓач наоѓа содржина од апл. и ставките онлајн.</string>
-    <string name="branch_guide_attention">Користењето на функц. за подобрено пребарување значи споделување на Вашите инфо за локација, пребарувања и ID на Google Ads со Branch Metrics Inc. Прочитајте и согласете се со нашите <font color="#B3000000"><a href="http://url1">Discovery Услови и одредби</a></font> и <font color="#B3000000"><a href="http://url2">Discovery Политиката за Приватност</a></font> на Branch пред користење на оваа услуга.</string>
+    <string name="branch_guide_attention">Користењето на функц. за подобрено пребарување значи споделување на Вашите инфо за локација, пребарувања и ID на Google Ads со Branch Metrics Inc. Прочитајте и согласете се со нашите <a href="http://url1"><font color="#B3000000">Discovery Услови и одредби</font></a> и <a href="http://url2"><font color="#B3000000">Discovery Политиката за Приватност</font></a> на Branch пред користење на оваа услуга.</string>
     <string name="branch_guide_description_one">Ќе ги сместиме сите ваши апл. во Фиока за апл. Вашиот Почетен екран ќе биде среден и организиран.</string>
     <string name="branch_guide_description_three">Со вградена функ. за пребарување, ќе можете да најдете што ви треба за секунда!</string>
     <string name="branch_guide_description_two">Фиоката за апл. ги категоризира апл. автоматски.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">Нова функција</string>
     <string name="branch_privacy_policy">Политика за приватност</string>
     <string name="branch_search_guide_description">Нашите резултати од пребарувањето се сега посеопфатни</string>
-    <string name="branch_search_guide_privacy">Оваа услуга е овозможена од Branch Metrics Inc. Вашите инфо за локација, пребарувања и ID на Google Ads ќе биде споделени со Branch. Прочитајте и согласете се со <font color="#B3000000"><a href="http://url1">Условите и одредбите</a></font> и <font color="#B3000000"><a href="http://url2">Политиката за Приватност</a></font> на Branch пред користење на оваа услуга.</string>
+    <string name="branch_search_guide_privacy">Оваа услуга е овозможена од Branch Metrics Inc. Вашите инфо за локација, пребарувања и ID на Google Ads ќе биде споделени со Branch. Прочитајте и согласете се со <a href="http://url1"><font color="#B3000000">Условите и одредбите</font></a> и <a href="http://url2"><font color="#B3000000">Политиката за Приватност</font></a> на Branch пред користење на оваа услуга.</string>
     <string name="branch_search_guide_title">Пронајдете го она што ви треба во вашите Омилени апликации</string>
     <string name="branch_terms_condition">Правила и услови</string>
     <string name="branch_tip_title">"Со Брзиот Пронаоѓач, можете да најдете се' што ви е потребно за секунда."</string>
@@ -547,7 +547,7 @@
     <string name="select_all">Селектирајте ги сите</string>
     <string name="send">Испрати</string>
     <string name="server_error">Настана грешка во серверот. Почекајте минута или две и обидете се пак.</string>
-    <string name="service_double_attention">Функц. за подобрено пребарување е овозможено од Branch Metrics Inc. За да функ. оваа функција, Вашите инфо за локација, пребарувања и ID на Google Ads ќе бидат споделени со Branch. Прочитајте и согласете се со нашите <font color="#B3000000"><a href="http://url1">Discovery Услови и одредби</a></font> и <font color="#B3000000"><a href="http://url2">Discovery Политиката за Приватност</a></font> на Branch пред користење на оваа услуга.</string>
+    <string name="service_double_attention">Функц. за подобрено пребарување е овозможено од Branch Metrics Inc. За да функ. оваа функција, Вашите инфо за локација, пребарувања и ID на Google Ads ќе бидат споделени со Branch. Прочитајте и согласете се со нашите <a href="http://url1"><font color="#B3000000">Discovery Услови и одредби</font></a> и <a href="http://url2"><font color="#B3000000">Discovery Политиката за Приватност</font></a> на Branch пред користење на оваа услуга.</string>
     <string name="setting_close">Искл</string>
     <string name="setting_no_word">Било каде</string>
     <string name="setting_only_widget_no_word">На додатоци</string>
@@ -590,9 +590,9 @@
     <string name="system_text">Автоматски</string>
     <string name="task_access_locked_app_msg">Вклучи Заклучување апликации</string>
     <string name="term_of_service">Правила и Услови</string>
-    <string name="terms_of_services_one">Добредојдовте во App drawer и Брз Пронаоѓач. Брзиот Пронаоѓач ви овозможува побрзо да најдете апл, содржина во апл. и ставки онлајн. Прочитајте и согласете се со Политиката за Приватност на<font color="#B3000000"><a href="http://url1">Xiaomi</a></font> пред да ги користите овие функции.</string>
+    <string name="terms_of_services_one">Добредојдовте во App drawer и Брз Пронаоѓач. Брзиот Пронаоѓач ви овозможува побрзо да најдете апл, содржина во апл. и ставки онлајн. Прочитајте и согласете се со Политиката за Приватност на<a href="http://url1"><font color="#B3000000">Xiaomi</font></a> пред да ги користите овие функции.</string>
     <string name="terms_of_services_three">Можете да ја исклучите оваа функција во Нагодувања.</string>
-    <string name="terms_of_services_two">За користење на функц. подобрено пребарување, потребно е споделување лични информации со Branch Metrics Inc., вклучувајќи пребарувачки инфо, ID за Google Advertising, IP адреса. Branch Metrics Inc. ќе ги процесира вашите лични информации во согласност со <font color="#B3000000"><a href="http://url1">Политиката за Приватност на Branch Discovery</a></font>. Прочитајте и согласете се со<font color="#B3000000"><a href="http://url2">Discovery Услови и правила </a></font> и <font color="#B3000000"><a href="http://url3"> Политика за Приватност на Branch Discovery</a></font> пред користење на оваа функција.</string>
+    <string name="terms_of_services_two">За користење на функц. подобрено пребарување, потребно е споделување лични информации со Branch Metrics Inc., вклучувајќи пребарувачки инфо, ID за Google Advertising, IP адреса. Branch Metrics Inc. ќе ги процесира вашите лични информации во согласност со <a href="http://url1"><font color="#B3000000">Политиката за Приватност на Branch Discovery</font></a>. Прочитајте и согласете се со<a href="http://url2"><font color="#B3000000">Discovery Услови и правила </font></a> и <a href="http://url3"><font color="#B3000000"> Политика за Приватност на Branch Discovery</font></a> пред користење на оваа функција.</string>
     <string name="thursday">Четврток</string>
     <string name="thursday_short">Чет</string>
     <string name="thursday_shortest">Чет</string>

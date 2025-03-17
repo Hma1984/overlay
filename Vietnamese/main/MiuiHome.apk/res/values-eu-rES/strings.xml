@@ -122,7 +122,7 @@
     <string name="back">Atzera</string>
     <string name="backup_fail">Ezin izan da abiarazlearen babeskopia egin</string>
     <string name="branch_feature_description">Aplikazioez gain, Quick Finder-ek lineako aplikazioaren edukia eta elementuak aurki ditzake.</string>
-    <string name="branch_guide_attention">Bilaketa hobetua erabiltzen baduzu, bilaketa eskaerak, Google Ads-en IDa eta IP helbidea Branch Metrics Inc.-ekin partekatuko dira. Irakurri eta onartu <font color="#B3000000"><a href="http://url1">Azken erabiltzailearen aurkikuntza terminoak eta baldintzak</a></font> eta <font color="#B3000000"><a href="http://url2">Branch Discovery-ren Pribatutasun politika</a></font>, ezaugarri hori erabili baino lehen.</string>
+    <string name="branch_guide_attention">Bilaketa hobetua erabiltzen baduzu, bilaketa eskaerak, Google Ads-en IDa eta IP helbidea Branch Metrics Inc.-ekin partekatuko dira. Irakurri eta onartu <a href="http://url1"><font color="#B3000000">Azken erabiltzailearen aurkikuntza terminoak eta baldintzak</font></a> eta <a href="http://url2"><font color="#B3000000">Branch Discovery-ren Pribatutasun politika</font></a>, ezaugarri hori erabili baino lehen.</string>
     <string name="branch_guide_description_one">Zure aplikazio guztiak Aplikazioen kaxan jarriko ditugu. Hasierako pantailak itxura garbia eta txukuna izango du.</string>
     <string name="branch_guide_description_three">Barne bilaketaren bidez, behar duzuna berehala aurkitu ahal izango duzu!</string>
     <string name="branch_guide_description_two">Aplikazioen kaxak aplikazioak automatikoki sailkatzen ditu.</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">Ezaugarri berria</string>
     <string name="branch_privacy_policy">Pribatutasun politika</string>
     <string name="branch_search_guide_description">Gure bilaketa emaitzak askoz erabatekoagoak dira orain</string>
-    <string name="branch_search_guide_privacy">Branch Metrics Inc-ek zerbitzu hau ematen du. Zure kokapenaren informazioa, bilaketa kontsultak eta Google Ads-en IDa Branch-ekin partekatuko dira. Irakurri eta onartu Branch-en <font color="#B3000000"><a href="http://url1">Terminoak eta baldintzak</a></font> eta <font color="#B3000000"><a href="http://url2">Pribatutasun politika</a></font> zerbitzu hau erabili baino lehen.</string>
+    <string name="branch_search_guide_privacy">Branch Metrics Inc-ek zerbitzu hau ematen du. Zure kokapenaren informazioa, bilaketa kontsultak eta Google Ads-en IDa Branch-ekin partekatuko dira. Irakurri eta onartu Branch-en <a href="http://url1"><font color="#B3000000">Terminoak eta baldintzak</font></a> eta <a href="http://url2"><font color="#B3000000">Pribatutasun politika</font></a> zerbitzu hau erabili baino lehen.</string>
     <string name="branch_search_guide_title">Aurkitu bilatzen ari zarena zure aplikazio gogokoenetan</string>
     <string name="branch_terms_condition">Terminoak eta baldintzak</string>
     <string name="branch_tip_title">Quick Finder-en bidez, behar duzun guztia berehala aurki dezakezu.</string>
@@ -550,7 +550,7 @@ Segurtasun hobetua."</string>
     <string name="select_all">Denak aukeratu</string>
     <string name="send">Bidali</string>
     <string name="server_error">Zerbitzariaren errore bat gertatu da. Minutu bat edo bi itxaron eta berriro saiatu.</string>
-    <string name="service_double_attention">Branch Metrics Inc.-ek bilaketa hobetuaren funtzionaltasuna ematen du. Ezaugarri horrek funtziona dezan, bilaketa eskaerak, Google Ads-en IDa eta IP helbidea Branch Metrics Inc.-ekin partekatu behar ditugu. Irakurri eta onartu <font color="#B3000000"><a href="http://url1">Azken erabiltzailearen aurkikuntza terminoak eta baldintzak</a></font> eta <font color="#B3000000"><a href="http://url2">Branch Discovery-ren Pribatutasun politika</a></font>, ezaugarri hori erabili baino lehen.</string>
+    <string name="service_double_attention">Branch Metrics Inc.-ek bilaketa hobetuaren funtzionaltasuna ematen du. Ezaugarri horrek funtziona dezan, bilaketa eskaerak, Google Ads-en IDa eta IP helbidea Branch Metrics Inc.-ekin partekatu behar ditugu. Irakurri eta onartu <a href="http://url1"><font color="#B3000000">Azken erabiltzailearen aurkikuntza terminoak eta baldintzak</font></a> eta <a href="http://url2"><font color="#B3000000">Branch Discovery-ren Pribatutasun politika</font></a>, ezaugarri hori erabili baino lehen.</string>
     <string name="setting_close">Desaktibatuta</string>
     <string name="setting_no_word">Edonon</string>
     <string name="setting_only_widget_no_word">Aktibatuta dauden erremintak</string>
@@ -593,9 +593,9 @@ Segurtasun hobetua."</string>
     <string name="system_shortcuts_remove">Kendu</string>
     <string name="task_access_locked_app_msg">Aplikazio blokeoa aktibatuta</string>
     <string name="term_of_service">Termino eta baldintzak</string>
-    <string name="terms_of_services_one">Ongi etorri Aplikazio kaxa eta Quick Finder aplikazioetara. Quick Finder-ek lineako aplikazioak, aplikazioaren edukia eta elementuak azkarrago aurkitzeko aukera ematen dizu. Irakurri eta onartu Xiaomi-ren <font color="#B3000000"><a href="http://url1">Pribatutasun politika</a></font>, ezaugarri horiek erabili baino lehen.</string>
+    <string name="terms_of_services_one">Ongi etorri Aplikazio kaxa eta Quick Finder aplikazioetara. Quick Finder-ek lineako aplikazioak, aplikazioaren edukia eta elementuak azkarrago aurkitzeko aukera ematen dizu. Irakurri eta onartu Xiaomi-ren <a href="http://url1"><font color="#B3000000">Pribatutasun politika</font></a>, ezaugarri horiek erabili baino lehen.</string>
     <string name="terms_of_services_three">Ezarpenetan ezaugarri hau desaktibatu dezakezu.</string>
-    <string name="terms_of_services_two">Bilaketa hobetua erabiltzen baduzu, beharrezkoa den informazio pertsonala Branch Metrics Inc.-ekin partekatu behar da, bilaketa eskaerak, Google Ads-en IDa eta IP helbidea barne. Branch-ek zure informazio pertsonala prozesatuko du honen arabera: <font color="#B3000000"><a href="http://url1">Branch Discovery-ren Pribatutasun politika</a></font>. Irakurri eta onartu <font color="#B3000000"><a href="http://url2">Discovery-ren Azken erabiltzailearen terminoak eta baldintzak</a></font> eta <font color="#B3000000"><a href="http://url3">Branch Discovery-ren Pribatutasun politika</a></font>, ezaugarri hori erabili baino lehen.</string>
+    <string name="terms_of_services_two">Bilaketa hobetua erabiltzen baduzu, beharrezkoa den informazio pertsonala Branch Metrics Inc.-ekin partekatu behar da, bilaketa eskaerak, Google Ads-en IDa eta IP helbidea barne. Branch-ek zure informazio pertsonala prozesatuko du honen arabera: <a href="http://url1"><font color="#B3000000">Branch Discovery-ren Pribatutasun politika</font></a>. Irakurri eta onartu <a href="http://url2"><font color="#B3000000">Discovery-ren Azken erabiltzailearen terminoak eta baldintzak</font></a> eta <a href="http://url3"><font color="#B3000000">Branch Discovery-ren Pribatutasun politika</font></a>, ezaugarri hori erabili baino lehen.</string>
     <string name="thursday">Osteguna</string>
     <string name="thursday_short">Og.</string>
     <string name="thursday_shortest">Og.</string>

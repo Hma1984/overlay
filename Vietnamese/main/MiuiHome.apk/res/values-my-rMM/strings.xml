@@ -122,7 +122,7 @@
     <string name="back">ယခင်သို့</string>
     <string name="backup_fail">အစပျိုးစက်အား အရန်သိမ်း၍ မရပါ</string>
     <string name="branch_feature_description">အမြန်ရှာဖွေစနစ်သည် အက်(ပ်)များကို ရှာနိုင်သည့်အပြင် မူလပါအက်(ပ်)အတွင်းအကြောင်းအရာများနှင့် အွန်လိုင်းမှအရာများကိုပါ ရှာပေးနိုင်သည်။</string>
-    <string name="branch_guide_attention">အထူးရှာဖွေရေးစနစ်ကို သုံးပါက သင့်ရှာဖွေမှုများ၊ Google ကြော်ငြာ ID နှင့် IP လိပ်စာ တို့ကို Branch Metrics Inc သို့ မျှဝေရန် လိုအပ်သည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ <font color="#B3000000"><a href="http://url1">တစ်ဦးချင်းအသုံးပြုသူ Discovery စည်းမျည်းစည်းကမ်းများ</a></font> နှင့် <font color="#B3000000"><a href="http://url2">Branch Discovery ပုဂ္ဂိုလ်ရေးလုံခြုမှု မူဝါဒ</a></font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="branch_guide_attention">အထူးရှာဖွေရေးစနစ်ကို သုံးပါက သင့်ရှာဖွေမှုများ၊ Google ကြော်ငြာ ID နှင့် IP လိပ်စာ တို့ကို Branch Metrics Inc သို့ မျှဝေရန် လိုအပ်သည်။ ဤအင်္ဂါရပ်ကို မသုံးမီ <a href="http://url1"><font color="#B3000000">တစ်ဦးချင်းအသုံးပြုသူ Discovery စည်းမျည်းစည်းကမ်းများ</font></a> နှင့် <a href="http://url2"><font color="#B3000000">Branch Discovery ပုဂ္ဂိုလ်ရေးလုံခြုမှု မူဝါဒ</font></a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
     <string name="branch_guide_description_one">သင်၏ အက်ပ်များအားလုံးအား အပ်(ပ်)အံဆွဲတွင် ထည့်ထားပါမည်။ သင်၏ပင်မမျက်နှာပြင်မှာ သေသေသပ်သပ် အစီအစဉ်တကျ ရှိနေပါမည်။</string>
     <string name="branch_guide_description_three">စက်အတွင်းပါဝင်သော ရှာဖွေမှုကိုသုံး၍ သင်လိုသမျှအရာတိုင်းအား တစ်ခဏအတွင်း ရှာဖွေနိုင်ပါမည်။</string>
     <string name="branch_guide_description_two">အပ်(ပ်)အံဆွဲသည် အက်များအား အလိုအလျောက် အမျိုးအစားခွဲပေးသည်။</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">အင်္ဂါရပ်အသစ်</string>
     <string name="branch_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="branch_search_guide_description">ယခုအခါ ကျွန်ုပ်တို့၏ ရှာဖွေမှုရလဒ်များသည် ယခင်ထက် များစွာ စုံလာပါပြီ</string>
-    <string name="branch_search_guide_privacy">ဤဝန်ဆောင်မှုအား Branch Metrics Inc က ပံ့ပိုးပေးထားခြင်း ဖြစ်ပါသည်။ သင်၏ တည်နေရာ အချက်အလက်၊ ရှာဖွေမှုများနှင့် Google Ads ID တို့အား Branch သို့ မျှဝေပေးသွားပါမည်။ ဤဝန်ဆောင်မှုကို မသုံးမီ Branch ၏ <font color="#B3000000"><a href="http://url1">စည်းကမ်းသတ်မှတ်ချက်များ</a></font> နှင့် <font color="#B3000000"><a href="http://url2">ကိုယ်ရေးအချက်အလက် မူဝါဒ</a></font>တို့ကို ဖတ်ရှုသဘောတူပေးပါ။</string>
+    <string name="branch_search_guide_privacy">ဤဝန်ဆောင်မှုအား Branch Metrics Inc က ပံ့ပိုးပေးထားခြင်း ဖြစ်ပါသည်။ သင်၏ တည်နေရာ အချက်အလက်၊ ရှာဖွေမှုများနှင့် Google Ads ID တို့အား Branch သို့ မျှဝေပေးသွားပါမည်။ ဤဝန်ဆောင်မှုကို မသုံးမီ Branch ၏ <a href="http://url1"><font color="#B3000000">စည်းကမ်းသတ်မှတ်ချက်များ</font></a> နှင့် <a href="http://url2"><font color="#B3000000">ကိုယ်ရေးအချက်အလက် မူဝါဒ</font></a>တို့ကို ဖတ်ရှုသဘောတူပေးပါ။</string>
     <string name="branch_search_guide_title">သင့်အကြိုက်ဆုံးအက်(ပ်)များတွင် လိုချင်သော အရာကို ရှာပါ</string>
     <string name="branch_terms_condition">စည်းမျဥ်းစည်းကမ်းများ</string>
     <string name="branch_tip_title">အမြန်ရှာဖွေစနစ်က သင်လိုသည်ကို တစ်ခဏအတွင်း ရှာပေးနိုင်သည်။</string>
@@ -547,7 +547,7 @@
     <string name="select_all">အားလုံး ရွေးပါ</string>
     <string name="send">ပို့ပါ</string>
     <string name="server_error">ဆာဗာအမှား တစ်ခု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="service_double_attention">ဤဝန်ဆောင်မှုကို Branch Metrics Inc က ပံ့ပိုးသည်။ ဤအင်္ဂါရပ်အလုပ်လုပ်နိုင်ရန်အတွက် သင်၏ တည်နေရာ အချက်အလက်၊ ရှာဖွေမှုများနှင့် Google ကြော်ငြာ ID တို့ကို Branch Metrics Inc သို့ မျှဝေရန်လိုအပ်သည်။ ဤဝန်ဆောင်မှုကို မသုံးမီ <font color="#B3000000"><a href="http://url1">တစ်ဦးချင်းအသုံးပြုသူ Discovery စည်းမျည်းစည်းကမ်းများ</a></font> နှင့် <font color="#B3000000"><a href="http://url2">Branch Discovery ပုဂ္ဂိုလ်ရေးလုံခြုမှု မူဝါဒ</a></font> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
+    <string name="service_double_attention">ဤဝန်ဆောင်မှုကို Branch Metrics Inc က ပံ့ပိုးသည်။ ဤအင်္ဂါရပ်အလုပ်လုပ်နိုင်ရန်အတွက် သင်၏ တည်နေရာ အချက်အလက်၊ ရှာဖွေမှုများနှင့် Google ကြော်ငြာ ID တို့ကို Branch Metrics Inc သို့ မျှဝေရန်လိုအပ်သည်။ ဤဝန်ဆောင်မှုကို မသုံးမီ <a href="http://url1"><font color="#B3000000">တစ်ဦးချင်းအသုံးပြုသူ Discovery စည်းမျည်းစည်းကမ်းများ</font></a> နှင့် <a href="http://url2"><font color="#B3000000">Branch Discovery ပုဂ္ဂိုလ်ရေးလုံခြုမှု မူဝါဒ</font></a> တို့ကို ဖတ်ရှုပြီး သဘောတူရပါမည်။</string>
     <string name="setting_close">ပိတ်ရန်</string>
     <string name="setting_no_word">နေရာမရွေး</string>
     <string name="setting_only_widget_no_word">ဝိဂျက်များတွင်</string>
@@ -591,9 +591,9 @@
     <string name="system_text">အလိုအလျောက်</string>
     <string name="task_access_locked_app_msg">အက်(ပ်)သော့ကို ဖွင့်ထားသည်</string>
     <string name="term_of_service">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
-    <string name="terms_of_services_one">အက်ပ်အံခွက်နှင့် အမြန်ရှာစနစ်မှ ကြိုဆိုပါသည်။ အမြန်ရှာစနစ်သည် အက်ပ်များ၊ အက်ပ်အတွင်းပါသော အကြောင်းအရာများနှင့် အိုင်တမ်များအား အွန်လိုင်းပေါ်တွင် ပိုမိုမြန်ဆန်စွာ ရှာဖွေနိုင်စေပါသည်။ ဤအင်္ဂါရပ်များကို မသုံးမီ Xiaomi ၏ <font color="#B3000000"><a href="http://url1">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</a></font> ကို ဖတ်ရှုသဘောတူပေးပါ။</string>
+    <string name="terms_of_services_one">အက်ပ်အံခွက်နှင့် အမြန်ရှာစနစ်မှ ကြိုဆိုပါသည်။ အမြန်ရှာစနစ်သည် အက်ပ်များ၊ အက်ပ်အတွင်းပါသော အကြောင်းအရာများနှင့် အိုင်တမ်များအား အွန်လိုင်းပေါ်တွင် ပိုမိုမြန်ဆန်စွာ ရှာဖွေနိုင်စေပါသည်။ ဤအင်္ဂါရပ်များကို မသုံးမီ Xiaomi ၏ <a href="http://url1"><font color="#B3000000">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</font></a> ကို ဖတ်ရှုသဘောတူပေးပါ။</string>
     <string name="terms_of_services_three">ဤအင်္ဂါရပ်အား ဆက်တင်များတွင် ပိတ်နိုင်သည်။</string>
-    <string name="terms_of_services_two">တိုးမြှင့်ရှာဖွေမှုကို အသုံးပြုရန်အတွက် သင်၏ ရှာဖွေမေးမြန်းမှုများ၊ Google ကြော်ငြာ ID နှင့် IP လိပ်စာတို့အပါအဝင် အရေးပါသော ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား Branch Metrics Inc. နှင့် မျှဝေရန် လိုအပ်ပါသည်။ Branch သည် သင်၏ ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား <font color="#B3000000"><a href="http://url1">Branch Discovery ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</a></font> နှင့်အညီ စီမံပါမည်။ <font color="#B3000000"><a href="http://url2">Discovery ထုတ်ကုန်ဝန်ဆောင်မှုအသုံးပြုသူဆိုင်ရာ စည်းကမ်းချက်များနှင့် &amp; သတ်မှတ်ချက်များ</a></font>၊ <font color="#B3000000"><a href="http://url3">Branch Discovery ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</a></font> တို့အား ဤအင်္ဂါရပ်ကို မသုံးမီ ဖတ်ရှုသဘောတူပေးပါ။</string>
+    <string name="terms_of_services_two">တိုးမြှင့်ရှာဖွေမှုကို အသုံးပြုရန်အတွက် သင်၏ ရှာဖွေမေးမြန်းမှုများ၊ Google ကြော်ငြာ ID နှင့် IP လိပ်စာတို့အပါအဝင် အရေးပါသော ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား Branch Metrics Inc. နှင့် မျှဝေရန် လိုအပ်ပါသည်။ Branch သည် သင်၏ ပုဂ္ဂိုလ်ရေး အချက်အလက်များအား <a href="http://url1"><font color="#B3000000">Branch Discovery ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</font></a> နှင့်အညီ စီမံပါမည်။ <a href="http://url2"><font color="#B3000000">Discovery ထုတ်ကုန်ဝန်ဆောင်မှုအသုံးပြုသူဆိုင်ရာ စည်းကမ်းချက်များနှင့် &amp; သတ်မှတ်ချက်များ</font></a>၊ <a href="http://url3"><font color="#B3000000">Branch Discovery ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</font></a> တို့အား ဤအင်္ဂါရပ်ကို မသုံးမီ ဖတ်ရှုသဘောတူပေးပါ။</string>
     <string name="thursday">ကြာသပတေး</string>
     <string name="thursday_short">ကြာသပတေး</string>
     <string name="thursday_shortest">ကြာသပတေး</string>

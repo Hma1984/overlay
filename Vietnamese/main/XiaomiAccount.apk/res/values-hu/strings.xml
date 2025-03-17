@@ -571,7 +571,7 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="passport_privacy_policy">Adatvédelmi irányelvek</string>
     <string name="passport_privacy_policy_required">Adatvédelmi Irányelvek (kötelező)</string>
     <string name="passport_provision_input_email_register_prompt">Személyes adatait a kiválasztott régió jogszabályainak megfelelően tároljuk.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d karakternek a következők közül legalább %3$d típust kell tartalmaznia: betűk, számjegyek, különleges karakterek</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> karakternek a következők közül legalább <xliff id="min_pwd_type" refersto="2">%3$d</xliff> típust kell tartalmaznia: betűk, számjegyek, különleges karakterek</string>
     <string name="passport_qq_login_btn_content_description">Bejelentkezés QQ-val</string>
     <string name="passport_querying_phone_info">Fiókadatok lekérése…</string>
     <string name="passport_quick_login">Belépés</string>

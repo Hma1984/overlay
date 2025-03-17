@@ -508,7 +508,7 @@
     <string name="passport_privacy_policy">গোপনীয়তার নীতি</string>
     <string name="passport_privacy_policy_required">গোপনীয়তা নীতি (বাধ্যতামূলক)</string>
     <string name="passport_provision_input_email_register_prompt">আপনি যে অঞ্চল সেট করবেন সেই অঞ্চলের নিয়ম ও আইন অনুযায়ী আপনার ব্যক্তিগত ডেটা স্টোর করা হবে।</string>
-    <string name="passport_provision_password_req_notice">নিম্নলিখিত ধরণের অনতত %3$d এর %1$d-%2$d বর্ণ: অক্ষর, সংখ্যা, বিশেষ চিহ্ন</string>
+    <string name="passport_provision_password_req_notice">নিম্নলিখিত ধরণের অনতত <xliff id="min_pwd_type" refersto="2">%3$d</xliff> এর <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> বর্ণ: অক্ষর, সংখ্যা, বিশেষ চিহ্ন</string>
     <string name="passport_qq_login_btn_content_description">QQ দিয়ে সাইন ইন করুন</string>
     <string name="passport_querying_phone_info">অ্যাকাউন্টের তথ্যের জন্য অনুরোধ করা হচ্ছে…</string>
     <string name="passport_quick_login">সাইন ইন করুন</string>

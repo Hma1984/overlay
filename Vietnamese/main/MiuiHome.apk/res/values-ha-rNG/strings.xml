@@ -122,7 +122,7 @@
     <string name="back">Na baya</string>
     <string name="backup_fail">"Ba'a iya maido da bayanan mai kaddamarwa"</string>
     <string name="branch_feature_description">Bayan manhaja, Quick Finder na iya samun abubuwan cikin-app da abubuwa akan layi.</string>
-    <string name="branch_guide_attention">Amfani da ingantaccen bincike yana buƙatar raba buƙatun bincikenku, ID ɗin Talla na Google, da adireshin IP tare da Branch Metrics Inc. Karanta kuma ka yarda da <font color="#B3000000"><a href="http://url1">Sharuɗɗan Binciken Mai amfani&amp;Yanayi</a></font> da <font color="#B3000000"><a href="http://url2">Sharuddan Bayanai na Branch Discovery</a></font> kafin amfani da wannan siffar.</string>
+    <string name="branch_guide_attention">Amfani da ingantaccen bincike yana buƙatar raba buƙatun bincikenku, ID ɗin Talla na Google, da adireshin IP tare da Branch Metrics Inc. Karanta kuma ka yarda da <a href="http://url1"><font color="#B3000000">Sharuɗɗan Binciken Mai amfani&amp;Yanayi</font></a> da <a href="http://url2"><font color="#B3000000">Sharuddan Bayanai na Branch Discovery</font></a> kafin amfani da wannan siffar.</string>
     <string name="branch_guide_description_one">"Za mu sanya duk ayyukanka a cikin Ma'ajin manhaja. Allon farko zata zama mai tsari da tsabta."</string>
     <string name="branch_guide_description_three">Tare da binciken-ginannen, zaku iya samun duk abin da kuke buƙata a cikin sauri!</string>
     <string name="branch_guide_description_two">"Ma'ajin manhaja na shirya manhaja da kansa"</string>
@@ -137,7 +137,7 @@
     <string name="branch_new_feature">Sabon siffa</string>
     <string name="branch_privacy_policy">Sharuddan Bayanai</string>
     <string name="branch_search_guide_description">Ana fahimtar sakamakon binciken mu a yanzu</string>
-    <string name="branch_search_guide_privacy">"Branch Metrics Inc ke bada wannan sabis. Bayanan gano wuri, binciken tambayoyi da ID tallacen tallacen za'a rabar tare da Branch. Karanta kuma ka amince da "<font color="#B3000000"><a href="http://url1">Sharuddan Yanayi</a></font> da <font color="#B3000000"><a href="http://url2">Sharuddan bayanai</a></font> kafin amfani da wannan sabis.</string>
+    <string name="branch_search_guide_privacy">"Branch Metrics Inc ke bada wannan sabis. Bayanan gano wuri, binciken tambayoyi da ID tallacen tallacen za'a rabar tare da Branch. Karanta kuma ka amince da "<a href="http://url1"><font color="#B3000000">Sharuddan Yanayi</font></a> da <a href="http://url2"><font color="#B3000000">Sharuddan bayanai</font></a> kafin amfani da wannan sabis.</string>
     <string name="branch_search_guide_title">Samu abun da kake nema a cikin manhajar daka fiso</string>
     <string name="branch_terms_condition">Sharudda da Yanayi</string>
     <string name="branch_tip_title">Tare da Quick Finder, zaka iya samun duk abin da kake buƙata a cikin sauri.</string>
@@ -552,7 +552,7 @@ Habaka tsaro."</string>
     <string name="select_all">Zabi duka</string>
     <string name="send">Aika</string>
     <string name="server_error">Kuskure na saba ya auku. Dakata minti daya ko biyu sai ka gwada kuma.</string>
-    <string name="service_double_attention">An samar da ingantaccen aikin bincike ta Branch Metrics Inc. Don yin wannan fasalin yayi aiki, muna buƙatar raba buƙatun bincikenku, ID ɗin talla na Google, da adireshin IP tare da Branch Metrics Inc. Karanta kuma ka yarda da <font color="#B3000000"><a href="http://url1">Sharuɗɗan Binciken Mai amfani&amp;Yanayi</a></font> da <font color="#B3000000"><a href="http://url2">Sharuddan Bayanai na Branch Discovery</a></font> kafin amfani da wannan siffar.</string>
+    <string name="service_double_attention">An samar da ingantaccen aikin bincike ta Branch Metrics Inc. Don yin wannan fasalin yayi aiki, muna buƙatar raba buƙatun bincikenku, ID ɗin talla na Google, da adireshin IP tare da Branch Metrics Inc. Karanta kuma ka yarda da <a href="http://url1"><font color="#B3000000">Sharuɗɗan Binciken Mai amfani&amp;Yanayi</font></a> da <a href="http://url2"><font color="#B3000000">Sharuddan Bayanai na Branch Discovery</font></a> kafin amfani da wannan siffar.</string>
     <string name="setting_close">Kashe</string>
     <string name="setting_no_word">"Ko'ina"</string>
     <string name="setting_only_widget_no_word">Kunna wijet</string>
@@ -596,9 +596,9 @@ Habaka tsaro."</string>
     <string name="system_text">Oto</string>
     <string name="task_access_locked_app_msg">An kunna kullewar manhajar</string>
     <string name="term_of_service">Sharudda da yanayi</string>
-    <string name="terms_of_services_one">"Barka da zuwa Ma'ajin manhaja da Quick Finder. Quick Finder yana ba ka damar nemo manhaja, abubuwan manhajar, da abubuwa kan layi da sauri. Karanta kuma ka yarda da "<font color="#B3000000"><a href="http://url1">Sharuddan Bayanai</a></font> na Xiaomi kafin amfani da wadannan siffofin.</string>
+    <string name="terms_of_services_one">"Barka da zuwa Ma'ajin manhaja da Quick Finder. Quick Finder yana ba ka damar nemo manhaja, abubuwan manhajar, da abubuwa kan layi da sauri. Karanta kuma ka yarda da "<a href="http://url1"><font color="#B3000000">Sharuddan Bayanai</font></a> na Xiaomi kafin amfani da wadannan siffofin.</string>
     <string name="terms_of_services_three">Ka na iya kunna wannan fasalin a cikin saittuna.</string>
-    <string name="terms_of_services_two">Amfani da ingantaccen bincike yana buƙatar raba bayanan sirri, tare da tambayoyin bincikenku, ID ɗin Talla na Google, da adireshin IP, tare da Branch Metrics Inc. Branch zai aiwatar da keɓaɓɓun bayananku daidai bisa ga <font color="#B3000000"><a href="http://url1">Sharuddan Bayanan Branch Discovery</a></font>. Karanta kuma ka yarda da <font color="#B3000000"><a href="http://url2">Sharuɗɗan Binciken Mai amfani&amp; Yanayi</a></font> da <font color="#B3000000"><a href="http://url3">Sharuddan Bayanan Branch Discovery</a></font> kafin amfaani wannan siffar.</string>
+    <string name="terms_of_services_two">Amfani da ingantaccen bincike yana buƙatar raba bayanan sirri, tare da tambayoyin bincikenku, ID ɗin Talla na Google, da adireshin IP, tare da Branch Metrics Inc. Branch zai aiwatar da keɓaɓɓun bayananku daidai bisa ga <a href="http://url1"><font color="#B3000000">Sharuddan Bayanan Branch Discovery</font></a>. Karanta kuma ka yarda da <a href="http://url2"><font color="#B3000000">Sharuɗɗan Binciken Mai amfani&amp; Yanayi</font></a> da <a href="http://url3"><font color="#B3000000">Sharuddan Bayanan Branch Discovery</font></a> kafin amfaani wannan siffar.</string>
     <string name="thursday">Alhamis</string>
     <string name="thursday_short">Alhamis</string>
     <string name="thursday_shortest">Alhamis</string>

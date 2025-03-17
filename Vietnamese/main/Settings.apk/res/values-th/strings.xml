@@ -265,12 +265,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"คุณจะซูมหน้าจอเข้าได้เมื่อเปิดการขยาย
 
 "<b>วิธีซูมคือ</b>" เริ่มการขยาย จากนั้นแตะบริเวณที่ต้องการซูมในหน้าจอ
-"<ul><li>ลากนิ้วอย่างน้อย 2 นิ้วเพื่อเลื่อน</li>"
-"<li>บีบนิ้วอย่างน้อย 2 นิ้วเพื่อปรับการซูม</li></ul>"
+"<li><ul>"ลากนิ้วอย่างน้อย 2 นิ้วเพื่อเลื่อน
+"<li>บีบนิ้วอย่างน้อย 2 นิ้วเพื่อปรับการซูม</li></ul></li>"
 
 "<b>วิธีซูมชั่วคราวคือ</b>" เริ่มการขยาย จากนั้นแตะบริเวณที่ต้องการซูมในหน้าจอค้างไว้
-"<ul><li>ลากเพื่อไปยังส่วนต่างๆ ในหน้าจอ</li>"
-"<li>ยกนิ้วขึ้นเพื่อซูมออก</li></ul>"
+"<li><ul>"ลากเพื่อไปยังส่วนต่างๆ ในหน้าจอ
+"<li>ยกนิ้วขึ้นเพื่อซูมออก</li></ul></li>"
 
 คุณซูมเข้าโดยใช้แป้นพิมพ์หรือแถบนำทางไม่ได้"</string>
     <string name="accessibility_screen_magnification_navbar_title">ขยายโดยใช้ทางลัด</string>
@@ -3562,8 +3562,8 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="fold_rule_default">แนะนำ</string>
     <string name="fold_rule_unimportant">ไม่สำคัญ</string>
     <string name="fold_screen_application_adaptation_title">เค้าโครงที่กำหนดเองสำหรับอุปกรณ์พับได้</string>
-    <string name="fold_screen_settings_title">คุณสมบัติสำหรับอุปกรณ์พับได้</string>
-    <string name="fold_screen_special_function_title">คุณสมบัติสำหรับอุปกรณ์พับได้</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">กฎการแจ้งเตือนของกลุ่ม</string>
     <string name="font_cta_alert_btn_negative">ยกเลิก</string>
     <string name="font_cta_alert_btn_positive">ยอมรับ</string>

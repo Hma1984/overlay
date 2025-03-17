@@ -557,7 +557,7 @@
     <string name="passport_privacy_policy">Правила за поверителност</string>
     <string name="passport_privacy_policy_required">Правила за поверителност (задължително)</string>
     <string name="passport_provision_input_email_register_prompt">Вашите лични данни ще бъдат съхранявани в съответствие с законите и регулациите на избрания от Вас регион.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d символа от поне %3$d от следните видове: букви, цифри, специални символи</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> символа от поне <xliff id="min_pwd_type" refersto="2">%3$d</xliff> от следните видове: букви, цифри, специални символи</string>
     <string name="passport_qq_login_btn_content_description">Вписване с QQ</string>
     <string name="passport_querying_phone_info">Заявка на инф. за профил…</string>
     <string name="passport_quick_login">Вписване</string>

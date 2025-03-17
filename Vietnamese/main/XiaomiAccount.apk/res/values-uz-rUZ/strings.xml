@@ -499,7 +499,7 @@ Xiaomi Hisobingizga %s orqali kirsangiz bo‘ladi."</string>
     <string name="passport_privacy_policy">Maxfiylik Siyosati</string>
     <string name="passport_privacy_policy_required">Maxfiylik Siyosati (majburiy)</string>
     <string name="passport_provision_input_email_register_prompt">Shaxsiy ma’lumotlaringiz siz tanlagan mintaqaning qonunlari va qoidalariga muvofiq saqlanadi.</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d ta belgi kamida quyidagi %3$d turdan iboratof: harflar, raqamlar, maxsus belgilar</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> ta belgi kamida quyidagi <xliff id="min_pwd_type" refersto="2">%3$d</xliff> turdan iboratof: harflar, raqamlar, maxsus belgilar</string>
     <string name="passport_qq_login_btn_content_description">QQ orqali kirish</string>
     <string name="passport_querying_phone_info">Hisob ma’lumoti so‘ralmoqda…</string>
     <string name="passport_quick_login">Kirish</string>

@@ -265,12 +265,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"عند تفعيل ميزة \"التكبير\"، يمكنك تكبير حجم المحتوى على الشاشة.
 
 "<b>للتكبير</b>"، يمكنك تفعيل ميزة \"التكبير\" والنقر بعد ذلك على أي مكان في الشاشة.
-"<ul><li>يمكنك سحب إصبعين أو أكثر للتمرير.</li>"
-"<li>يمكنك ضمّ إصبعين أو أكثر لتعديل حجم المحتوى.</li></ul>"
+"<li><ul>"يمكنك سحب إصبعين أو أكثر للتمرير.
+"<li>يمكنك ضمّ إصبعين أو أكثر لتعديل حجم المحتوى.</li></ul></li>"
 
 "<b>للتكبير مؤقتًا</b>"، يمكنك تفعيل ميزة التكبير والنقر مع الاستمرار على أي مكان في الشاشة.
-"<ul><li>يمكنك السحب للتنقّل داخل الشاشة.</li>"
-"<li>يمكنك رفع إصبعك للتصغير.</li></ul>"
+"<li><ul>"يمكنك السحب للتنقّل داخل الشاشة.
+"<li>يمكنك رفع إصبعك للتصغير.</li></ul></li>"
 
 لن يكون بإمكانك التكبير على لوحة المفاتيح أو شريط التنقل."</string>
     <string name="accessibility_screen_magnification_navbar_title">التكبير باستخدام الاختصار</string>
@@ -3558,8 +3558,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="fold_rule_default">موصى به</string>
     <string name="fold_rule_unimportant">غير هام</string>
     <string name="fold_screen_application_adaptation_title">تخصيص تنسيقات للأجهزة القابلة للطي</string>
-    <string name="fold_screen_settings_title">ميزات للأجهزة القابلة للطي</string>
-    <string name="fold_screen_special_function_title">ميزات للأجهزة القابلة للطي</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">قواعد الإشعارات الجماعية</string>
     <string name="font_cta_alert_btn_negative">إلغاء</string>
     <string name="font_cta_alert_btn_positive">أوافق</string>

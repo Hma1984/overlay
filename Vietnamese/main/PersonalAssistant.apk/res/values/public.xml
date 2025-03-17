@@ -3586,26 +3586,30 @@
     <public type="string" name="server_global" id="0x7f040d8e" />
     <public type="string" name="eu_server_vault" id="0x7f040d8f" />
     <public type="string" name="eu_server_vault_sum" id="0x7f040d90" />
-    <public type="string" name="fmt_date_short_month" id="0x7f040d91" />
-    <public type="string" name="pa_stock_szzs" id="0x7f040d92" />
-    <public type="string" name="mtrl_picker_cancel" id="0x7f040d93" />
-    <public type="string" name="pa_stock_nsdk" id="0x7f040d94" />
-    <public type="string" name="pa_travel_content_description_assistant_all_travel" id="0x7f040d95" />
-    <public type="string" name="pa_travel_content_description_assistant_cp_bind" id="0x7f040d96" />
-    <public type="string" name="pa_travel_content_description_assistant_reminder_close" id="0x7f040d97" />
-    <public type="string" name="pa_travel_content_description_assistant_reminder_open" id="0x7f040d98" />
-    <public type="string" name="pa_travel_content_description_cp_bind_querying" id="0x7f040d99" />
-    <public type="string" name="pa_travel_content_description_list_card_flag_flight" id="0x7f040d9a" />
-    <public type="string" name="pa_travel_content_description_list_card_flag_train" id="0x7f040d9b" />
-    <public type="string" name="pa_travel_content_description_list_card_select_arrival_station" id="0x7f040d9c" />
-    <public type="string" name="pa_travel_content_description_list_card_station_selected" id="0x7f040d9d" />
-    <public type="string" name="pa_travel_content_description_list_card_unchecked" id="0x7f040d9e" />
-    <public type="string" name="pa_travel_content_description_list_delete_dialog_button_cancel" id="0x7f040d9f" />
-    <public type="string" name="pa_travel_content_description_list_delete_dialog_button_confirm" id="0x7f040da0" />
-    <public type="string" name="pa_travel_flight_status_itinerary_statistics" id="0x7f040da1" />
-    <public type="string" name="pa_travel_preference_summary_all_travel" id="0x7f040da2" />
-    <public type="string" name="pa_travel_preference_title_all_travel" id="0x7f040da3" />
-    <public type="string" name="pa_travel_preference_title_cpbind" id="0x7f040da4" />
-    <public type="string" name="pa_travel_time_unit_hour" id="0x7f040da5" />
-    <public type="string" name="pa_travel_time_unit_minute" id="0x7f040da6" />
+    <public type="string" name="scroll_anim" id="0x7f040d91" />
+    <public type="string" name="scroll_anim_sum" id="0x7f040d92" />
+    <public type="string" name="restart_app_vault" id="0x7f040d93" />
+    <public type="string" name="modifications_tn" id="0x7f040d94" />
+    <public type="string" name="fmt_date_short_month" id="0x7f040d95" />
+    <public type="string" name="pa_stock_szzs" id="0x7f040d96" />
+    <public type="string" name="mtrl_picker_cancel" id="0x7f040d97" />
+    <public type="string" name="pa_stock_nsdk" id="0x7f040d98" />
+    <public type="string" name="pa_travel_content_description_assistant_all_travel" id="0x7f040d99" />
+    <public type="string" name="pa_travel_content_description_assistant_cp_bind" id="0x7f040d9a" />
+    <public type="string" name="pa_travel_content_description_assistant_reminder_close" id="0x7f040d9b" />
+    <public type="string" name="pa_travel_content_description_assistant_reminder_open" id="0x7f040d9c" />
+    <public type="string" name="pa_travel_content_description_cp_bind_querying" id="0x7f040d9d" />
+    <public type="string" name="pa_travel_content_description_list_card_flag_flight" id="0x7f040d9e" />
+    <public type="string" name="pa_travel_content_description_list_card_flag_train" id="0x7f040d9f" />
+    <public type="string" name="pa_travel_content_description_list_card_select_arrival_station" id="0x7f040da0" />
+    <public type="string" name="pa_travel_content_description_list_card_station_selected" id="0x7f040da1" />
+    <public type="string" name="pa_travel_content_description_list_card_unchecked" id="0x7f040da2" />
+    <public type="string" name="pa_travel_content_description_list_delete_dialog_button_cancel" id="0x7f040da3" />
+    <public type="string" name="pa_travel_content_description_list_delete_dialog_button_confirm" id="0x7f040da4" />
+    <public type="string" name="pa_travel_flight_status_itinerary_statistics" id="0x7f040da5" />
+    <public type="string" name="pa_travel_preference_summary_all_travel" id="0x7f040da6" />
+    <public type="string" name="pa_travel_preference_title_all_travel" id="0x7f040da7" />
+    <public type="string" name="pa_travel_preference_title_cpbind" id="0x7f040da8" />
+    <public type="string" name="pa_travel_time_unit_hour" id="0x7f040da9" />
+    <public type="string" name="pa_travel_time_unit_minute" id="0x7f040daa" />
 </resources>

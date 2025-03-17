@@ -138,7 +138,7 @@
     <string name="feedback_custom_hint">Опишите проблеме са којима сте се овде сусрели. Ако дајете предлоге, више детаља би нам било од користи!</string>
     <string name="find_device">Пронађи уређај</string>
     <string name="find_device_dspt_provision">Ако изгубите уређај, идите на &lt;font color=#0097FF>%s&lt;/font> да бисте га лоцирали, закључали или ресетовали. Ову функцију увек можете укључивати и искључивати у Подешавањима.</string>
-    <string name="find_device_gdpr_prompt">Укључивањем функције Пронађи уређај, прихватате наша <u><a href="app://com.miui.cloudservice.gdpr.license">Правила о приватности</a></u>. Искључите ову функцију ако желите да повучете сагласност.</string>
+    <string name="find_device_gdpr_prompt">Укључивањем функције Пронађи уређај, прихватате наша <a href="app://com.miui.cloudservice.gdpr.license"><u>Правила о приватности</u></a>. Искључите ову функцију ако желите да повучете сагласност.</string>
     <string name="find_device_operation_failure_rpc">Није могуће извршити радњу због RPC грешке.</string>
     <string name="find_device_permissions_footer">Додирните „Одобри“ да бисте доделили дозволе које сте изабрали.</string>
     <string name="find_device_permissions_header">Добродошли у Пронађи уређај! Ову апликацију можете да користите за лоцирање, праћење и закључавање вашег уређаја када је изгубљен. Проналажење уређаја захтева следеће дозволе:</string>
@@ -679,7 +679,7 @@
     <string name="share_sdk_pref_category_search_local_title">Контакти</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Скенирај QR код</string>
     <string name="share_sdk_pref_family_detail_title">Прикажи детаље породичне групе</string>
-    <string name="share_sdk_privacy_link_description">Прочитајте и прихватите <u><a href="https://account.xiaomi.com/about/protocol/privacy">Правила о приватности Xiaomi Налога</a></u> пре коришћења ове услуге.</string>
+    <string name="share_sdk_privacy_link_description">Прочитајте и прихватите <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Правила о приватности Xiaomi Налога</u></a> пре коришћења ове услуге.</string>
     <string name="share_sdk_qr_code_description">Позив од стране %1$s</string>
     <string name="share_sdk_qr_code_expire_time">Период важења QR кода: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Превише упућених позива. Покушајте опет за 24 часа.</string>

@@ -510,7 +510,7 @@
     <string name="passport_privacy_policy">സ്വകാര്യതാ നയം</string>
     <string name="passport_privacy_policy_required">സ്വകാര്യത നയം (നിർബന്ധമാണ്)</string>
     <string name="passport_provision_input_email_register_prompt">നിങ്ങൾ തിരഞ്ഞെടുത്ത പ്രദേശത്തിന്റെ നിയമങ്ങൾക്കും ചട്ടങ്ങൾക്കും അനുസൃതമായി നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റ സംഭരിക്കും.</string>
-    <string name="passport_provision_password_req_notice">%3$d-ൻ്റെ ഇനിപ്പറയുന്ന തരത്തിലുള്ള കുറഞ്ഞത് %1$d-%2$d അക്ഷരങ്ങൾ: അക്ഷരങ്ങൾ, അക്കങ്ങൾ, പ്രത്യേക അടയാളങ്ങൾ</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_type" refersto="2">%3$d</xliff>-ൻ്റെ ഇനിപ്പറയുന്ന തരത്തിലുള്ള കുറഞ്ഞത് <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> അക്ഷരങ്ങൾ: അക്ഷരങ്ങൾ, അക്കങ്ങൾ, പ്രത്യേക അടയാളങ്ങൾ</string>
     <string name="passport_qq_login_btn_content_description">QQ വഴി സൈനിൻ ചെയ്യുക</string>
     <string name="passport_querying_phone_info">അക്കൗണ്ട് വിവരം അഭ്യർത്ഥിക്കുന്നു…</string>
     <string name="passport_quick_login">സൈനിൻ ചെയ്യുക</string>

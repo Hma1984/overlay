@@ -263,12 +263,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"Када је увећање укључено, можете да увећате екран.
 
 "<b>Да бисте зумирали</b>", покрените увећање, па додирните било који део екрана.
-"<ul><li>Превлачите помоћу 2 или више прстију да бисте померали приказ</li>"
-"<li>Скупите 2 или више прстију да бисте прилагодили зумирање</li></ul>"
+"<li><ul>"Превлачите помоћу 2 или више прстију да бисте померали приказ
+"<li>Скупите 2 или више прстију да бисте прилагодили зумирање</li></ul></li>"
 
 "<b>За привремено зумирање</b>" покрените увећање, па додирните и задржите било који део екрана.
-"<ul><li>Превлачите да бисте се кретали по екрану</li>"
-"<li>Подигните прст да бисте умањили приказ</li></ul>"
+"<li><ul>"Превлачите да бисте се кретали по екрану
+"<li>Подигните прст да бисте умањили приказ</li></ul></li>"
 
 Не можете да увећавате тастатуру или траку за навигацију."</string>
     <string name="accessibility_screen_magnification_navbar_title">Увећавајте помоћу пречице</string>
@@ -3548,8 +3548,8 @@ aptX-Adaptive: Кодек режим"</string>
     <string name="fold_rule_default">Препоручено</string>
     <string name="fold_rule_unimportant">Неважно</string>
     <string name="fold_screen_application_adaptation_title">Прилагођени прикази за склопиве уређаје</string>
-    <string name="fold_screen_settings_title">Функције за склопиве уређаје</string>
-    <string name="fold_screen_special_function_title">Функције за склопиве уређаје</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Правила за груписана обавештења</string>
     <string name="font_cta_alert_btn_negative">Откажи</string>
     <string name="font_cta_alert_btn_positive">Прихватам</string>

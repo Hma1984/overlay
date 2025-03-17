@@ -266,12 +266,12 @@ Activați această funcție și atingeți butonul Accesibilitate din partea de j
     <string name="accessibility_screen_magnification_navbar_summary">"Când magnificarea este activată, utilizați butonul de Accesibilitate din partea inferioară a ecranului pentru a mări rapid.
 
 "<b>Pentru a mări</b>", atingeți butonul Accesibilitate, apoi atingeți oriunde pe ecran.
-"<ul><li>Trageți cu 2 sau mai multe degete pentru a derula</li>"
-"<li>Ciupiți cu 2 sau mai multe degete pentru a seta gradul de magnificare</li></ul>"
+"<li><ul>"Trageți cu 2 sau mai multe degete pentru a derula
+"<li>Ciupiți cu 2 sau mai multe degete pentru a seta gradul de magnificare</li></ul></li>"
 
 "<b>Pentru a mări temporar</b>", atingeți butonul de Accesibilitate, apoi atingeți și mențineți apăsat oriunde pe ecran.
-"<ul><li>Trageți pentru a muta pe suprafața ecranului</li>"
-"<li>Ridicați degetul pentru a micșora</li></ul>"
+"<li><ul>"Trageți pentru a muta pe suprafața ecranului
+"<li>Ridicați degetul pentru a micșora</li></ul></li>"
 
 Nu puteți mări zona tastaturii sau a barei de navigare."</string>
     <string name="accessibility_screen_magnification_navbar_title">Magnificare cu ajutorul butoanelor</string>
@@ -3644,8 +3644,8 @@ Pentru a afla mai multe, contactați furnizorul dvs. de credit."</string>
     <string name="fold_rule_default">Recomandate</string>
     <string name="fold_rule_unimportant">Neimportante</string>
     <string name="fold_screen_application_adaptation_title">Aspecte personalizate pentru dispozitive pliabile</string>
-    <string name="fold_screen_settings_title">Caracteristici pentru dispozitive pliabile</string>
-    <string name="fold_screen_special_function_title">Caracteristici pentru dispozitive pliabile</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Reguli pentru notificările grupate</string>
     <string name="font_cta_alert_btn_negative">Renunțați</string>
     <string name="font_cta_alert_btn_positive">Accept</string>

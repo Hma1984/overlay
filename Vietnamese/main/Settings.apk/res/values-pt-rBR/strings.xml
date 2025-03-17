@@ -264,12 +264,12 @@ Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela
     <string name="accessibility_screen_magnification_navbar_summary">"Quando a ampliação está ativada, você pode aumentar o zoom na tela.
 
 "<b>Para aplicar zoom</b>", inicie a ampliação e toque em qualquer ponto da tela.
-"<ul><li>Arraste dois dedos ou mais para rolar a tela.</li>"
-"<li>Faça um gesto de pinça com dois ou mais dedos para ajustar o zoom.</li></ul>"
+"<li><ul>"Arraste dois dedos ou mais para rolar a tela.
+"<li>Faça um gesto de pinça com dois ou mais dedos para ajustar o zoom.</li></ul></li>"
 
 "<b>Para aplicar zoom temporariamente</b>", inicie a ampliação e depois toque em qualquer ponto na tela e mantenha-o pressionado.
-"<ul><li>Arraste para mover a tela.</li>"
-"<li>Levante o dedo para diminuir o zoom.</li></ul>"
+"<li><ul>"Arraste para mover a tela.
+"<li>Levante o dedo para diminuir o zoom.</li></ul></li>"
 
 Não é possível aumentar o zoom no teclado e na barra de navegação."</string>
     <string name="accessibility_screen_magnification_navbar_title">Ampliar com atalho</string>
@@ -3670,8 +3670,8 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fold_rule_default">Recomendado</string>
     <string name="fold_rule_unimportant">Não importante</string>
     <string name="fold_screen_application_adaptation_title">Layouts personalizados para dispositivos dobráveis</string>
-    <string name="fold_screen_settings_title">Recursos para dispositivos dobráveis</string>
-    <string name="fold_screen_special_function_title">Recursos para dispositivos dobráveis</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Regras para notificações agrupadas</string>
     <string name="font_cta_alert_btn_negative">Cancelar</string>
     <string name="font_cta_alert_btn_positive">Aceitar</string>
@@ -4089,7 +4089,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="help_feedback_label">Ajuda e feedback</string>
     <string name="help_label">Ajuda e feedback</string>
     <string name="hidden_ssid_label">Ocultar SSID:</string>
-    <string name="high_brightness_hint_summary" />
+    <string name="high_brightness_hint_summary">Um pequeno ícone de sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for forte</string>
     <string name="high_label">Alta</string>
     <string name="high_performance_notif_summary">O dispositivo pode aquecer com o uso intenso.</string>
     <string name="high_performance_notif_title">Modo desempenho ativado</string>

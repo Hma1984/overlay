@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d дзён таму</item>
+        <item quantity="one">%d дзень таму</item>
+        <item quantity="few">%d дні таму</item>
+        <item quantity="many">%d дзён таму</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d гадоў таму</item>
+        <item quantity="one">%d год таму</item>
+        <item quantity="few">%d гады таму</item>
+        <item quantity="many">%d гадоў таму</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Ціск: %s мм.рт.сл.</item>
+        <item quantity="one">Ціск: %s мм.рт.сл.</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Спалена калорый: %1$s</item>
+        <item quantity="one">Спалена калорый: %1$s</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Мэта калорый: %1$s</item>
+        <item quantity="one">Мэта па калорыях: %1$s</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Час актыўнасці: %1$s хв.</item>
+        <item quantity="one">Час актыўнасці: %1$s хв.</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Мэта актыўнасці: %1$s хв.</item>
+        <item quantity="one">Мэта актыўнасці: %1$s хв.</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s хв.</item>
+        <item quantity="one">%1$s/%2$s хв.</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Уставалі на працягу %1$s гадзін</item>
+        <item quantity="one">Уставалі на працягу %1$s гадзіны</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Бягучая мэта: %1$s гадзін</item>
+        <item quantity="one">Бягучая мэта: %1$s гадзіна</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s г.</item>
+        <item quantity="one">%1$s/%2$s г.</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Бягучая колькасць крокаў: %1$s</item>
+        <item quantity="one">Бягучая колькасць крокаў: %1$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Мэта па кроках: %1$s</item>
+        <item quantity="one">Мэта па кроках: %1$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s крокаў</item>
+        <item quantity="one">%1$s/%2$s крок</item>
+        <item quantity="few">%1$s/%2$s крока</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Увядзіце свой пароль хоць бы раз у %d гадзін для яго запамінання</item>
+        <item quantity="one">Увядзіце свой пароль хоць бы раз у %d гадзіну для яго запамінання</item>
+        <item quantity="few">Увядзіце свой пароль хоць бы раз у %d гадзіны для яго запамінання</item>
+        <item quantity="many">Увядзіце свой пароль хоць бы раз у %d гадзін для яго запамінання</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новых апавяшчэння</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Паўтарыце праз %d хвіліны</item>
+        <item quantity="one">Паўтарыце праз %d хвіліну</item>
+        <item quantity="few">Паўтарыце праз %d хвіліны</item>
+        <item quantity="many">Паўтарыце праз %d хвіліны</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Паўтарыце праз %d секунды</item>
+        <item quantity="one">Паўтарыце праз %d секунду</item>
+        <item quantity="few">Паўтарыце праз %d секунды</item>
+        <item quantity="many">Паўтарыце праз %d секунды</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Тэмпература: %1$s градусаў, %2$s</item>
+        <item quantity="one">Тэмпература: %1$s градус, %2$s</item>
+        <item quantity="few">Тэмпература: %1$s градуса, %2$s</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s ккал</item>
+        <item quantity="one">%1$s/%2$s ккал</item>
+    </plurals>
+</resources>

@@ -263,12 +263,12 @@
     <string name="accessibility_screen_magnification_navbar_summary">"Коли функцію збільшення ввімкнено, ви можете наближувати вміст на екрані.
 
 "<b>Щоб наблизити вміст</b>", увімкніть збільшення, а потім торкніться будь-якого місця на екрані.
-"<ul><li>Щоб прокрутити вміст, проведіть по екрану принаймні двома пальцями</li>"
-"<li>Щоб змінити масштаб, стисніть або розведіть принаймні два пальці</li></ul>"
+"<li><ul>"Щоб прокрутити вміст, проведіть по екрану принаймні двома пальцями
+"<li>Щоб змінити масштаб, стисніть або розведіть принаймні два пальці</li></ul></li>"
 
 "<b>Щоб тимчасово збільшити вміст</b>", увімкніть збільшення, а потім натисніть і утримуйте будь-яке місце на екрані.
-"<ul><li>Пересувайте палець, щоб переміщатись екраном</li>"
-"<li>Підніміть палець, щоб знову зменшити елемент</li></ul>"
+"<li><ul>"Пересувайте палець, щоб переміщатись екраном
+"<li>Підніміть палець, щоб знову зменшити елемент</li></ul></li>"
 
 Масштабування не підтримується на клавіатурі та панелі навігації."</string>
     <string name="accessibility_screen_magnification_navbar_title">Збільшувати кнопкою/жестом</string>
@@ -3544,8 +3544,8 @@
     <string name="fold_rule_default">Рекомендовані</string>
     <string name="fold_rule_unimportant">Неважливе</string>
     <string name="fold_screen_application_adaptation_title">Власне компонування для складних пристроїв</string>
-    <string name="fold_screen_settings_title">Функції для складних пристроїв</string>
-    <string name="fold_screen_special_function_title">Функції для складних пристроїв</string>
+    <string name="fold_screen_settings_title">Nothings Settings</string>
+    <string name="fold_screen_special_function_title">Nothings Settings</string>
     <string name="fold_title">Правила групування</string>
     <string name="font_cta_alert_btn_negative">Скасувати</string>
     <string name="font_cta_alert_btn_positive">Погодитися</string>

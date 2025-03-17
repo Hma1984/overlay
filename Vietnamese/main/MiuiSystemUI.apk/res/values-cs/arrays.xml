@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_options">
+        <item>Vždy zobrazovat procenta</item>
+        <item>Zobrazit procenta při nabíjení</item>
+        <item>Nezobrazovat tuto ikonu</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Zobrazit hodiny, minuty a sekundy</item>
+        <item>Zobrazit hodiny a minuty</item>
+        <item>Nezobrazovat tuto ikonu</item>
+    </string-array>
+</resources>

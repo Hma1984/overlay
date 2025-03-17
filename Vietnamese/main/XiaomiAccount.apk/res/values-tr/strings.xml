@@ -580,7 +580,7 @@ Xiaomi Hesabınızda şu andan itibaren %s kullanarak oturum açabilirsiniz."</s
     <string name="passport_privacy_policy">Gizlilik Politikası</string>
     <string name="passport_privacy_policy_required">Gizlilik Politikası (zorunlu)</string>
     <string name="passport_provision_input_email_register_prompt">Seçtiğiniz bölgedeki yasa ve düzenlemelere göre kişisel verileriniz saklanacaktır.</string>
-    <string name="passport_provision_password_req_notice">Aşağıdakilerden en az %3$d tanesi ile %1$d-%2$d karakter: harfler, rakamlar, özel semboller</string>
+    <string name="passport_provision_password_req_notice">Aşağıdakilerden en az <xliff id="min_pwd_type" refersto="2">%3$d</xliff> tanesi ile <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> karakter: harfler, rakamlar, özel semboller</string>
     <string name="passport_qq_login_btn_content_description">QQ ile oturum açın</string>
     <string name="passport_querying_phone_info">Hesap bilgileri isteniyor…</string>
     <string name="passport_quick_login">Oturum aç</string>

@@ -105,7 +105,7 @@
     <string name="feedback_custom_hint">Descreva os erros que encontrou. Se for uma sugestão agradecemos mais detalhes</string>
     <string name="find_device">Localizar Dispositivo</string>
     <string name="find_device_dspt_provision">Se perder o seu dispositivo, pode ir a &lt;font color=#0097FF>%s&lt;/font> para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições</string>
-    <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
+    <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidade</u></a>. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
     <string name="find_device_operation_failure_rpc">Não foi possível realizar a operação devido ao um erro de RPC</string>
     <string name="find_device_permissions_footer">Tocar em \"Conceder\" para conceder as permissões seleccionadas</string>
     <string name="find_device_permissions_header">Bem-vindo a Localizar Dispositivo! Pode utilizar esta aplicação para localizar, rastrear e bloquear o seu dispositivo quando estiver perdido. Localizar Dispositivo necessita das seguintes permissões:</string>
@@ -322,7 +322,7 @@
     <string name="micloud_privacy_cloud_off">Sincronização desligada</string>
     <string name="micloud_privacy_cloud_sync">Ligar a Xiaomi Cloud</string>
     <string name="micloud_privacy_explanation">Conceder autorização para ligar a Xiaomi Cloud</string>
-    <string name="micloud_privacy_licence_agreed">Concordar com a <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u> da Xiaomi Cloud</string>
+    <string name="micloud_privacy_licence_agreed">Concordar com a <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidade</u></a> da Xiaomi Cloud</string>
     <string name="micloud_privacy_progress_content">A conceder autorização…</string>
     <string name="micloud_privacy_warning_button">Voltar</string>
     <string name="micloud_privacy_warning_content">Não é possível ligar a Xiaomi Cloud. Tente novamente mais tarde</string>
@@ -486,7 +486,7 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="share_sdk_pref_category_search_local_title">Contactos</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Digitalizar código QR</string>
     <string name="share_sdk_pref_family_detail_title">Ver detalhes do grupo de família</string>
-    <string name="share_sdk_privacy_link_description">Ler e concordar com <u><a href="https://account.xiaomi.com/about/protocol/privacy">Política de Privacidade da Conta Xiaomi</a></u> antes de utilizar este serviço</string>
+    <string name="share_sdk_privacy_link_description">Ler e concordar com <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Política de Privacidade da Conta Xiaomi</u></a> antes de utilizar este serviço</string>
     <string name="share_sdk_search_hint">Phone number/Mi Account ID</string>
     <string name="share_sdk_user_info_no_account_id">"This person doesn't have a Mi Account"</string>
     <string name="share_sdk_user_info_no_bind_phone_number">"This Mi Account isn't associated with a phone number"</string>

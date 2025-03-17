@@ -7531,4 +7531,6 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
     <string name="force_max_fps">FPS tối đa trong tất cả các ứng dụng</string>
     <string name="force_max_fps_sum">Có thể làm tăng mức tiêu thụ pin</string>
     <string name="force_temp_fps">Hạn chế tụt FPS khi thiết bị nóng lên</string>
+    <string name="update_pif">Cập nhập PIF</string>
+    <string name="update_pif_sum">Tải xuống, cài đặt và khởi động lại để Fix Integrity nếu nó lỗi</string>
 </resources>

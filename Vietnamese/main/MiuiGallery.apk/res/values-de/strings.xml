@@ -604,10 +604,10 @@ Ladegerät anschließen und Bildschirm ausschalten, damit die Erinnerungen ersch
     <string name="confirm_merge_face_albums">" "<Data> Dieses Album mit %s zusammenführen? </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> Diese Alben mit %s zusammenführen? </Data>" "</string>
     <string name="confirm_not_face">Kein Treffer</string>
-    <string name="confirm_recommandation_face_is">" "<Data> Sind Sie sicher, dass das <font color="#323232"><b>%1$s</b></font> ist? Diese Person wird ins Album \"%2$s\" verschoben. </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> Sind Sie sicher, dass das nicht <font color="#323232"><b>%1$s</b></font> ist? </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sind Sie sicher, dass diese <font color="#323232"><b>%1$s</b></font> sind? Diese Personen werden ins Album \"%2$s\" verschoben. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Sind Sie sicher, dass diese nicht <font color="#323232"><b>%1$s</b></font> sind? </Data>" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Sind Sie sicher, dass das <b><font color="#323232">%1$s</font></b> ist? Diese Person wird ins Album \"%2$s\" verschoben. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Sind Sie sicher, dass das nicht <b><font color="#323232">%1$s</font></b> ist? </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sind Sie sicher, dass diese <b><font color="#323232">%1$s</font></b> sind? Diese Personen werden ins Album \"%2$s\" verschoben. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Sind Sie sicher, dass diese nicht <b><font color="#323232">%1$s</font></b> sind? </Data>" "</string>
     <string name="contact_tip">Kontakt</string>
     <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
     <string name="context_menu_copy">Kopieren</string>

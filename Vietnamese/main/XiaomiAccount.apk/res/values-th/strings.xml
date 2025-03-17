@@ -585,7 +585,7 @@
     <string name="passport_privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="passport_privacy_policy_required">นโยบายความเป็นส่วนตัว (จำเป็น)</string>
     <string name="passport_provision_input_email_register_prompt">ข้อมูลส่วนบุคคลของคุณจะถูกจัดเก็บตามกฎหมายและข้อบังคับของภูมิภาคที่คุณเลือก</string>
-    <string name="passport_provision_password_req_notice">%1$d-%2$d อักขระอย่างน้อย %3$d ประเภทต่อไปนี้: ตัวอักษรตัวเลขสัญลักษณ์พิเศษ</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> อักขระอย่างน้อย <xliff id="min_pwd_type" refersto="2">%3$d</xliff> ประเภทต่อไปนี้: ตัวอักษรตัวเลขสัญลักษณ์พิเศษ</string>
     <string name="passport_qq_login_btn_content_description">ลงชื่อเข้าใช้ด้วย QQ</string>
     <string name="passport_querying_phone_info">กำลังขอข้อมูลบัญชี…</string>
     <string name="passport_quick_login">ลงชื่อเข้าใช้</string>
