@@ -1,0 +1,2 @@
+- Multilanguage For MIUI 14 - HyperOS 2
+- If You Use This Please Credit To @hoangmaianh_2025
